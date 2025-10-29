@@ -1,0 +1,3278 @@
+ID FORM AECC:ANNOTATOR AECC:METAPHOR AECC:BM AECC:BM_RAE AECC:CM AECC:CM_RAE AECC:TGT_DOMAIN AECC:META_NOTE AECC:MWE AECC:MWE_NOTE
+# sent_id = 1
+# text = Tema: ESPERANZA\n
+1	Tema	lpitarch	O	_	_	_	_	_	_	O	_
+2	:	lpitarch	O	_	_	_	_	_	_	O	_
+3	ESPERANZA	lpitarch	O	_	_	_	_	_	_	O	_
+4	\n	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 2
+# text = Autor 18: \n
+1	Autor	lpitarch	O	_	_	_	_	_	_	O	_
+2	18	lpitarch	O	_	_	_	_	_	_	O	_
+3	:	lpitarch	O	_	_	_	_	_	_	O	_
+4	\n	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 3
+# text = Hola a todos me llamo xxxxxxx, hace ocho años pasé por un cancer de riñón, me operaron, no necesité quimio, yfuí pasando los controles de revision hasta este verano.
+1	Hola	lpitarch	O	_	_	_	_	_	_	O	_
+2	a	lpitarch	O	_	_	_	_	_	_	O	_
+3	todos	lpitarch	O	_	_	_	_	_	_	O	_
+4	me	lpitarch	O	_	_	_	_	_	_	O	_
+5	llamo	lpitarch	O	_	_	_	_	_	_	O	_
+6	xxxxxxx	lpitarch	O	_	_	_	_	_	_	B	_
+7	,	lpitarch	O	_	_	_	_	_	_	O	_
+8	hace	lpitarch	O	_	_	_	_	_	_	O	_
+9	ocho	lpitarch	O	_	_	_	_	_	_	O	_
+10	años	lpitarch	O	_	_	_	_	_	_	O	_
+11	pasé	lpitarch	O	_	_	_	_	_	_	O	_
+12	por	lpitarch	O	_	_	_	_	_	_	O	_
+13	un	lpitarch	O	_	_	_	_	_	_	O	_
+14	cancer	lpitarch	O	_	_	_	_	_	_	O	_
+15	de	lpitarch	O	_	_	_	_	_	_	O	_
+16	riñón	lpitarch	O	_	_	_	_	_	_	O	_
+17	,	lpitarch	O	_	_	_	_	_	_	O	_
+18	me	lpitarch	O	_	_	_	_	_	_	O	_
+19	operaron	lpitarch	O	_	_	_	_	_	_	O	_
+20	,	lpitarch	O	_	_	_	_	_	_	O	_
+21	no	lpitarch	O	_	_	_	_	_	_	O	_
+22	necesité	lpitarch	O	_	_	_	_	_	_	O	_
+23	quimio	lpitarch	O	_	_	_	_	_	_	O	_
+24	,	lpitarch	O	_	_	_	_	_	_	O	_
+25	yfuí	lpitarch	O	_	_	_	_	_	_	O	_
+26	pasando	lpitarch	O	_	_	_	_	_	_	O	_
+27	los	lpitarch	O	_	_	_	_	_	_	O	_
+28	controles	lpitarch	O	_	_	_	_	_	_	O	_
+29	de	lpitarch	O	_	_	_	_	_	_	O	_
+30	revision	lpitarch	O	_	_	_	_	_	_	O	_
+31	hasta	lpitarch	O	_	_	_	_	_	_	O	_
+32	este	lpitarch	O	_	_	_	_	_	_	O	_
+33	verano	lpitarch	O	_	_	_	_	_	_	O	_
+34	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 4
+# text = Me detectaron un quiste en el ovario y me dijeron que no preocupara por que era benigno, pero la verdad es que después de extirparlo se dieron cuenta de que era una metastasis del riñón, después del gran susto , me repitieron las pruebas y me dicen que vuelvo a estar limpia, pero que igualmente me aconsejaban hacer una quimio preventiva de seis meses.
+1	Me	lpitarch	O	_	_	_	_	_	_	O	_
+2	detectaron	lpitarch	O	_	_	_	_	_	_	O	_
+3	un	lpitarch	O	_	_	_	_	_	_	O	_
+4	quiste	lpitarch	O	_	_	_	_	_	_	O	_
+5	en	lpitarch	O	_	_	_	_	_	_	O	_
+6	el	lpitarch	O	_	_	_	_	_	_	O	_
+7	ovario	lpitarch	O	_	_	_	_	_	_	O	_
+8	y	lpitarch	O	_	_	_	_	_	_	O	_
+9	me	lpitarch	O	_	_	_	_	_	_	O	_
+10	dijeron	lpitarch	O	_	_	_	_	_	_	O	_
+11	que	lpitarch	O	_	_	_	_	_	_	O	_
+12	no	lpitarch	O	_	_	_	_	_	_	O	_
+13	preocupara	lpitarch	O	_	_	_	_	_	_	O	_
+14	por	lpitarch	O	_	_	_	_	_	_	O	_
+15	que	lpitarch	O	_	_	_	_	_	_	O	_
+16	era	lpitarch	O	_	_	_	_	_	_	O	_
+17	benigno	lpitarch	B	_	afable, benévolo, piadoso.	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/benigno-02594565-a	_	Cancer » Tecnicismo cáncer	_	O	_
+18	,	lpitarch	O	_	_	_	_	_	_	O	_
+19	pero	lpitarch	O	_	_	_	_	_	_	O	_
+20	la	lpitarch	O	_	_	_	_	_	_	O	_
+21	verdad	lpitarch	O	_	_	_	_	_	_	O	_
+22	es	lpitarch	O	_	_	_	_	_	_	O	_
+23	que	lpitarch	O	_	_	_	_	_	_	O	_
+24	después	lpitarch	O	_	_	_	_	_	_	O	_
+25	de	lpitarch	O	_	_	_	_	_	_	O	_
+26	extirparlo	lpitarch	B	_	en una operación quirúrgica, quitar un órgano o una formación patológica|arrancar de cuajo o de raíz.	_	_	Tratamiento » Cirugía	CMT	O	_
+27	se	lpitarch	O	_	_	_	_	_	_	O	_
+28	dieron	lpitarch	O	_	_	_	_	_	_	O	_
+29	cuenta	lpitarch	O	_	_	_	_	_	_	O	_
+30	de	lpitarch	O	_	_	_	_	_	_	O	_
+31	que	lpitarch	O	_	_	_	_	_	_	O	_
+32	era	lpitarch	O	_	_	_	_	_	_	O	_
+33	una	lpitarch	O	_	_	_	_	_	_	O	_
+34	metastasis	lpitarch	O	_	_	_	_	_	_	O	_
+35	del	lpitarch	O	_	_	_	_	_	_	O	_
+36	riñón	lpitarch	O	_	_	_	_	_	_	O	_
+37	,	lpitarch	O	_	_	_	_	_	_	O	_
+38	después	lpitarch	O	_	_	_	_	_	_	O	_
+39	del	lpitarch	O	_	_	_	_	_	_	O	_
+40	gran	lpitarch	O	_	_	_	_	_	_	O	_
+41	susto	lpitarch	O	_	_	_	_	_	_	O	_
+42	,	lpitarch	O	_	_	_	_	_	_	O	_
+43	me	lpitarch	O	_	_	_	_	_	_	O	_
+44	repitieron	lpitarch	O	_	_	_	_	_	_	O	_
+45	las	lpitarch	O	_	_	_	_	_	_	O	_
+46	pruebas	lpitarch	O	_	_	_	_	_	_	O	_
+47	y	lpitarch	O	_	_	_	_	_	_	O	_
+48	me	lpitarch	O	_	_	_	_	_	_	O	_
+49	dicen	lpitarch	O	_	_	_	_	_	_	O	_
+50	que	lpitarch	O	_	_	_	_	_	_	O	_
+51	vuelvo	lpitarch	O	_	_	_	_	_	_	O	_
+52	a	lpitarch	O	_	_	_	_	_	_	O	_
+53	estar	lpitarch	O	_	_	_	_	_	_	O	_
+54	limpia	lpitarch	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/limpio-01907711-a	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/curado-02541012-a	_	Estar enfermo con cáncer » Curarse y recuperarse	_	O	_
+55	,	lpitarch	O	_	_	_	_	_	_	O	_
+56	pero	lpitarch	O	_	_	_	_	_	_	O	_
+57	que	lpitarch	O	_	_	_	_	_	_	O	_
+58	igualmente	lpitarch	O	_	_	_	_	_	_	O	_
+59	me	lpitarch	O	_	_	_	_	_	_	O	_
+60	aconsejaban	lpitarch	O	_	_	_	_	_	_	O	_
+61	hacer	lpitarch	O	_	_	_	_	_	_	O	_
+62	una	lpitarch	O	_	_	_	_	_	_	O	_
+63	quimio	lpitarch	O	_	_	_	_	_	_	O	_
+64	preventiva	lpitarch	O	_	_	_	_	_	_	O	_
+65	de	lpitarch	O	_	_	_	_	_	_	O	_
+66	seis	lpitarch	O	_	_	_	_	_	_	O	_
+67	meses	lpitarch	O	_	_	_	_	_	_	O	_
+68	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 5
+# text = Como ya estaba muy asustada y deprimida y no confiaba en nadiepedí una segunda opinión, en la xxxx x'xxxxxn que fue el hospital que elejí me dijeron que no me serviria de nada ya que la quimio para el cancer de riñon no sirve, así que me propusieron hacer controles cada tres meses.\n\n
+1	Como	lpitarch	O	_	_	_	_	_	_	O	_
+2	ya	lpitarch	O	_	_	_	_	_	_	O	_
+3	estaba	lpitarch	O	_	_	_	_	_	_	O	_
+4	muy	lpitarch	O	_	_	_	_	_	_	O	_
+5	asustada	lpitarch	O	_	_	_	_	_	_	O	_
+6	y	lpitarch	O	_	_	_	_	_	_	O	_
+7	deprimida	lpitarch	O	_	_	_	_	_	_	O	_
+8	y	lpitarch	O	_	_	_	_	_	_	O	_
+9	no	lpitarch	O	_	_	_	_	_	_	O	_
+10	confiaba	lpitarch	O	_	_	_	_	_	_	O	_
+11	en	lpitarch	O	_	_	_	_	_	_	O	_
+12	nadiepedí	lpitarch	O	_	_	_	_	_	_	O	_
+13	una	lpitarch	O	_	_	_	_	_	_	O	_
+14	segunda	lpitarch	O	_	_	_	_	_	_	O	_
+15	opinión	lpitarch	O	_	_	_	_	_	_	O	_
+16	,	lpitarch	O	_	_	_	_	_	_	O	_
+17	en	lpitarch	O	_	_	_	_	_	_	O	_
+18	la	lpitarch	O	_	_	_	_	_	_	O	_
+19	xxxx	lpitarch	O	_	_	_	_	_	_	B	_
+20	x'xxxxxn	lpitarch	O	_	_	_	_	_	_	O	_
+21	que	lpitarch	O	_	_	_	_	_	_	O	_
+22	fue	lpitarch	O	_	_	_	_	_	_	O	_
+23	el	lpitarch	O	_	_	_	_	_	_	O	_
+24	hospital	lpitarch	O	_	_	_	_	_	_	O	_
+25	que	lpitarch	O	_	_	_	_	_	_	O	_
+26	elejí	lpitarch	O	_	_	_	_	_	_	O	_
+27	me	lpitarch	O	_	_	_	_	_	_	O	_
+28	dijeron	lpitarch	O	_	_	_	_	_	_	O	_
+29	que	lpitarch	O	_	_	_	_	_	_	O	_
+30	no	lpitarch	O	_	_	_	_	_	_	O	_
+31	me	lpitarch	O	_	_	_	_	_	_	O	_
+32	serviria	lpitarch	O	_	_	_	_	_	_	O	_
+33	de	lpitarch	O	_	_	_	_	_	_	O	_
+34	nada	lpitarch	O	_	_	_	_	_	_	O	_
+35	ya	lpitarch	O	_	_	_	_	_	_	O	_
+36	que	lpitarch	O	_	_	_	_	_	_	O	_
+37	la	lpitarch	O	_	_	_	_	_	_	O	_
+38	quimio	lpitarch	O	_	_	_	_	_	_	O	_
+39	para	lpitarch	O	_	_	_	_	_	_	O	_
+40	el	lpitarch	O	_	_	_	_	_	_	O	_
+41	cancer	lpitarch	O	_	_	_	_	_	_	O	_
+42	de	lpitarch	O	_	_	_	_	_	_	O	_
+43	riñon	lpitarch	O	_	_	_	_	_	_	O	_
+44	no	lpitarch	O	_	_	_	_	_	_	O	_
+45	sirve	lpitarch	O	_	_	_	_	_	_	O	_
+46	,	lpitarch	O	_	_	_	_	_	_	O	_
+47	así	lpitarch	O	_	_	_	_	_	_	O	_
+48	que	lpitarch	O	_	_	_	_	_	_	O	_
+49	me	lpitarch	O	_	_	_	_	_	_	O	_
+50	propusieron	lpitarch	O	_	_	_	_	_	_	O	_
+51	hacer	lpitarch	O	_	_	_	_	_	_	O	_
+52	controles	lpitarch	O	_	_	_	_	_	_	O	_
+53	cada	lpitarch	O	_	_	_	_	_	_	O	_
+54	tres	lpitarch	O	_	_	_	_	_	_	O	_
+55	meses	lpitarch	O	_	_	_	_	_	_	O	_
+56	.	lpitarch	O	_	_	_	_	_	_	O	_
+57	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 6
+# text = El primer control era para el xx xx xxxxxxx, fuí muy esperanzada por que me encontraba muy bien, pero me dijeron que tenia dos implantes en el peritoneo de 8 y 12 mm, que me repetirían las pruebas, pero que me hiciera a la idea de que esto no tiene cura, no se puede operar y no hay quimio para esto, solo tratamientos experimentales que según dicen no pueden curarme, ya no me atrevo a preguntar si no me van a curar para que son?tengo xx xxxx, bueno muy prontito xx y tengo un hijo de xx, alguien me puede explicar como te preparas para algo que no tiene cura, estos días están siendo una tortura.\n\n
+1	El	lpitarch	O	_	_	_	_	_	_	O	_
+2	primer	lpitarch	O	_	_	_	_	_	_	O	_
+3	control	lpitarch	O	_	_	_	_	_	_	O	_
+4	era	lpitarch	O	_	_	_	_	_	_	O	_
+5	para	lpitarch	O	_	_	_	_	_	_	O	_
+6	el	lpitarch	O	_	_	_	_	_	_	O	_
+7	xx	lpitarch	O	_	_	_	_	_	_	O	_
+8	xx	lpitarch	O	_	_	_	_	_	_	I	_
+9	xxxxxxx	lpitarch	O	_	_	_	_	_	_	I	_
+10	,	lpitarch	O	_	_	_	_	_	_	O	_
+11	fuí	lpitarch	O	_	_	_	_	_	_	O	_
+12	muy	lpitarch	O	_	_	_	_	_	_	O	_
+13	esperanzada	lpitarch	O	_	_	_	_	_	_	O	_
+14	por	lpitarch	O	_	_	_	_	_	_	O	_
+15	que	lpitarch	O	_	_	_	_	_	_	O	_
+16	me	lpitarch	O	_	_	_	_	_	_	O	_
+17	encontraba	lpitarch	O	_	_	_	_	_	_	O	_
+18	muy	lpitarch	O	_	_	_	_	_	_	O	_
+19	bien	lpitarch	O	_	_	_	_	_	_	O	_
+20	,	lpitarch	O	_	_	_	_	_	_	O	_
+21	pero	lpitarch	O	_	_	_	_	_	_	O	_
+22	me	lpitarch	O	_	_	_	_	_	_	O	_
+23	dijeron	lpitarch	O	_	_	_	_	_	_	O	_
+24	que	lpitarch	O	_	_	_	_	_	_	O	_
+25	tenia	lpitarch	O	_	_	_	_	_	_	O	_
+26	dos	lpitarch	O	_	_	_	_	_	_	O	_
+27	implantes	lpitarch	B	_	med. prótesis, tejido o sustancia que se coloca en el cuerpo para mejorar alguna de sus funciones, o con fines estéticos.|plantar, encajar, injertar.	_	_	Cancer » Tecnicismo cáncer	CMT	O	_
+28	en	lpitarch	O	_	_	_	_	_	_	O	_
+29	el	lpitarch	O	_	_	_	_	_	_	O	_
+30	peritoneo	lpitarch	O	_	_	_	_	_	_	O	_
+31	de	lpitarch	O	_	_	_	_	_	_	O	_
+32	8	lpitarch	O	_	_	_	_	_	_	O	_
+33	y	lpitarch	O	_	_	_	_	_	_	O	_
+34	12	lpitarch	O	_	_	_	_	_	_	O	_
+35	mm	lpitarch	O	_	_	_	_	_	_	O	_
+36	,	lpitarch	O	_	_	_	_	_	_	O	_
+37	que	lpitarch	O	_	_	_	_	_	_	O	_
+38	me	lpitarch	O	_	_	_	_	_	_	O	_
+39	repetirían	lpitarch	O	_	_	_	_	_	_	O	_
+40	las	lpitarch	O	_	_	_	_	_	_	O	_
+41	pruebas	lpitarch	O	_	_	_	_	_	_	O	_
+42	,	lpitarch	O	_	_	_	_	_	_	O	_
+43	pero	lpitarch	O	_	_	_	_	_	_	O	_
+44	que	lpitarch	O	_	_	_	_	_	_	O	_
+45	me	lpitarch	O	_	_	_	_	_	_	O	_
+46	hiciera	lpitarch	O	_	_	_	_	_	_	O	_
+47	a	lpitarch	O	_	_	_	_	_	_	O	_
+48	la	lpitarch	O	_	_	_	_	_	_	O	_
+49	idea	lpitarch	O	_	_	_	_	_	_	O	_
+50	de	lpitarch	O	_	_	_	_	_	_	O	_
+51	que	lpitarch	O	_	_	_	_	_	_	O	_
+52	esto	lpitarch	O	_	_	_	_	_	_	O	_
+53	no	lpitarch	O	_	_	_	_	_	_	O	_
+54	tiene	lpitarch	O	_	_	_	_	_	_	O	_
+55	cura	lpitarch	O	_	_	_	_	_	_	O	_
+56	,	lpitarch	O	_	_	_	_	_	_	O	_
+57	no	lpitarch	O	_	_	_	_	_	_	O	_
+58	se	lpitarch	O	_	_	_	_	_	_	O	_
+59	puede	lpitarch	O	_	_	_	_	_	_	O	_
+60	operar	lpitarch	O	_	_	_	_	_	_	O	_
+61	y	lpitarch	O	_	_	_	_	_	_	O	_
+62	no	lpitarch	O	_	_	_	_	_	_	O	_
+63	hay	lpitarch	O	_	_	_	_	_	_	O	_
+64	quimio	lpitarch	O	_	_	_	_	_	_	O	_
+65	para	lpitarch	O	_	_	_	_	_	_	O	_
+66	esto	lpitarch	O	_	_	_	_	_	_	O	_
+67	,	lpitarch	O	_	_	_	_	_	_	O	_
+68	solo	lpitarch	O	_	_	_	_	_	_	O	_
+69	tratamientos	lpitarch	O	_	_	_	_	_	_	O	_
+70	experimentales	lpitarch	O	_	_	_	_	_	_	O	_
+71	que	lpitarch	O	_	_	_	_	_	_	O	_
+72	según	lpitarch	O	_	_	_	_	_	_	O	_
+73	dicen	lpitarch	O	_	_	_	_	_	_	O	_
+74	no	lpitarch	O	_	_	_	_	_	_	O	_
+75	pueden	lpitarch	O	_	_	_	_	_	_	O	_
+76	curarme	lpitarch	O	_	_	_	_	_	_	O	_
+77	,	lpitarch	O	_	_	_	_	_	_	O	_
+78	ya	lpitarch	O	_	_	_	_	_	_	O	_
+79	no	lpitarch	O	_	_	_	_	_	_	O	_
+80	me	lpitarch	O	_	_	_	_	_	_	O	_
+81	atrevo	lpitarch	O	_	_	_	_	_	_	O	_
+82	a	lpitarch	O	_	_	_	_	_	_	O	_
+83	preguntar	lpitarch	O	_	_	_	_	_	_	O	_
+84	si	lpitarch	O	_	_	_	_	_	_	O	_
+85	no	lpitarch	O	_	_	_	_	_	_	O	_
+86	me	lpitarch	O	_	_	_	_	_	_	O	_
+87	van	lpitarch	O	_	_	_	_	_	_	O	_
+88	a	lpitarch	O	_	_	_	_	_	_	O	_
+89	curar	lpitarch	O	_	_	_	_	_	_	O	_
+90	para	lpitarch	O	_	_	_	_	_	_	O	_
+91	que	lpitarch	O	_	_	_	_	_	_	O	_
+92	son?tengo	lpitarch	O	_	_	_	_	_	_	O	_
+93	xx	lpitarch	O	_	_	_	_	_	_	B	_
+94	xxxx	lpitarch	O	_	_	_	_	_	_	I	_
+95	,	lpitarch	O	_	_	_	_	_	_	O	_
+96	bueno	lpitarch	O	_	_	_	_	_	_	O	_
+97	muy	lpitarch	O	_	_	_	_	_	_	O	_
+98	prontito	lpitarch	O	_	_	_	_	_	_	O	_
+99	xx	lpitarch	O	_	_	_	_	_	_	B	_
+100	y	lpitarch	O	_	_	_	_	_	_	O	_
+101	tengo	lpitarch	O	_	_	_	_	_	_	O	_
+102	un	lpitarch	O	_	_	_	_	_	_	O	_
+103	hijo	lpitarch	O	_	_	_	_	_	_	O	_
+104	de	lpitarch	O	_	_	_	_	_	_	O	_
+105	xx	lpitarch	O	_	_	_	_	_	_	B	_
+106	,	lpitarch	O	_	_	_	_	_	_	O	_
+107	alguien	lpitarch	O	_	_	_	_	_	_	O	_
+108	me	lpitarch	O	_	_	_	_	_	_	O	_
+109	puede	lpitarch	O	_	_	_	_	_	_	O	_
+110	explicar	lpitarch	O	_	_	_	_	_	_	O	_
+111	como	lpitarch	O	_	_	_	_	_	_	O	_
+112	te	lpitarch	O	_	_	_	_	_	_	O	_
+113	preparas	lpitarch	O	_	_	_	_	_	_	O	_
+114	para	lpitarch	O	_	_	_	_	_	_	O	_
+115	algo	lpitarch	O	_	_	_	_	_	_	O	_
+116	que	lpitarch	O	_	_	_	_	_	_	O	_
+117	no	lpitarch	O	_	_	_	_	_	_	O	_
+118	tiene	lpitarch	O	_	_	_	_	_	_	O	_
+119	cura	lpitarch	O	_	_	_	_	_	_	O	_
+120	,	lpitarch	O	_	_	_	_	_	_	O	_
+121	estos	lpitarch	O	_	_	_	_	_	_	O	_
+122	días	lpitarch	O	_	_	_	_	_	_	O	_
+123	están	lpitarch	O	_	_	_	_	_	_	O	_
+124	siendo	lpitarch	O	_	_	_	_	_	_	O	_
+125	una	lpitarch	O	_	_	_	_	_	_	O	_
+126	tortura	lpitarch	B	_	grave daño o dolor infligido a una persona o a un animal.	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/tortura-07496755-n	_	Emociones » Molestia (física o mental)	_	O	_
+127	.	lpitarch	O	_	_	_	_	_	_	O	_
+128	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 7
+# text = El próximo xxx xx me dan los resultados, y estoy aterrada, busco igual que todos algún testimonio que me de esperanza.\n\n
+1	El	lpitarch	O	_	_	_	_	_	_	O	_
+2	próximo	lpitarch	O	_	_	_	_	_	_	O	_
+3	xxx	lpitarch	O	_	_	_	_	_	_	B	_
+4	xx	lpitarch	O	_	_	_	_	_	_	I	_
+5	me	lpitarch	O	_	_	_	_	_	_	O	_
+6	dan	lpitarch	O	_	_	_	_	_	_	O	_
+7	los	lpitarch	O	_	_	_	_	_	_	O	_
+8	resultados	lpitarch	O	_	_	_	_	_	_	O	_
+9	,	lpitarch	O	_	_	_	_	_	_	O	_
+10	y	lpitarch	O	_	_	_	_	_	_	O	_
+11	estoy	lpitarch	O	_	_	_	_	_	_	O	_
+12	aterrada	lpitarch	O	_	_	_	_	_	_	O	_
+13	,	lpitarch	O	_	_	_	_	_	_	O	_
+14	busco	lpitarch	O	_	_	_	_	_	_	O	_
+15	igual	lpitarch	O	_	_	_	_	_	_	O	_
+16	que	lpitarch	O	_	_	_	_	_	_	O	_
+17	todos	lpitarch	O	_	_	_	_	_	_	O	_
+18	algún	lpitarch	O	_	_	_	_	_	_	O	_
+19	testimonio	lpitarch	O	_	_	_	_	_	_	O	_
+20	que	lpitarch	O	_	_	_	_	_	_	O	_
+21	me	lpitarch	O	_	_	_	_	_	_	O	_
+22	de	lpitarch	O	_	_	_	_	_	_	O	_
+23	esperanza	lpitarch	O	_	_	_	_	_	_	O	_
+24	.	lpitarch	O	_	_	_	_	_	_	O	_
+25	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 8
+# text = Comentarios:\n\n[Autor 26]: Hola xxxx, además del apoyo de todos los miembros de esta comunidad, te podemos ofrecer ayuda psicológica totalmente gratuita, llámanos al xxx xxx xxx, ya verás cómo te vas a sentir mejor.
+1	Comentarios	lpitarch	O	_	_	_	_	_	_	O	_
+2	:	lpitarch	O	_	_	_	_	_	_	O	_
+3	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+4	[	lpitarch	O	_	_	_	_	_	_	O	_
+5	Autor	lpitarch	O	_	_	_	_	_	_	O	_
+6	26	lpitarch	O	_	_	_	_	_	_	O	_
+7	]	lpitarch	O	_	_	_	_	_	_	O	_
+8	:	lpitarch	O	_	_	_	_	_	_	O	_
+9	Hola	lpitarch	O	_	_	_	_	_	_	O	_
+10	xxxx	lpitarch	O	_	_	_	_	_	_	O	_
+11	,	lpitarch	O	_	_	_	_	_	_	O	_
+12	además	lpitarch	O	_	_	_	_	_	_	O	_
+13	del	lpitarch	O	_	_	_	_	_	_	O	_
+14	apoyo	lpitarch	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/apoyo-04359589-n|https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/apoyo-04360501-n	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/apoyo-07251984-n	_	personas >> apo|Personas » Paciente	_	O	_
+15	de	lpitarch	O	_	_	_	_	_	_	O	_
+16	todos	lpitarch	O	_	_	_	_	_	_	O	_
+17	los	lpitarch	O	_	_	_	_	_	_	O	_
+18	miembros	lpitarch	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/miembro-05559908-n|https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/miembro-05560244-n	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/miembro-10307234-n	_	Personas » Otros	_	O	_
+19	de	lpitarch	O	_	_	_	_	_	_	O	_
+20	esta	lpitarch	O	_	_	_	_	_	_	O	_
+21	comunidad	lpitarch	O	_	_	_	_	_	_	O	_
+22	,	lpitarch	O	_	_	_	_	_	_	O	_
+23	te	lpitarch	O	_	_	_	_	_	_	O	_
+24	podemos	lpitarch	O	_	_	_	_	_	_	O	_
+25	ofrecer	lpitarch	O	_	_	_	_	_	_	O	_
+26	ayuda	lpitarch	O	_	_	_	_	_	_	O	_
+27	psicológica	lpitarch	O	_	_	_	_	_	_	O	_
+28	totalmente	lpitarch	O	_	_	_	_	_	_	O	_
+29	gratuita	lpitarch	O	_	_	_	_	_	_	O	_
+30	,	lpitarch	O	_	_	_	_	_	_	O	_
+31	llámanos	lpitarch	O	_	_	_	_	_	_	O	_
+32	al	lpitarch	O	_	_	_	_	_	_	O	_
+33	xxx	lpitarch	O	_	_	_	_	_	_	B	_
+34	xxx	lpitarch	O	_	_	_	_	_	_	I	_
+35	xxx	lpitarch	O	_	_	_	_	_	_	I	_
+36	,	lpitarch	O	_	_	_	_	_	_	O	_
+37	ya	lpitarch	O	_	_	_	_	_	_	O	_
+38	verás	lpitarch	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/ver-02150948-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/ver-00920336-v	_	_	_	O	_
+39	cómo	lpitarch	O	_	_	_	_	_	_	O	_
+40	te	lpitarch	O	_	_	_	_	_	_	O	_
+41	vas	lpitarch	O	_	_	_	_	_	_	O	_
+42	a	lpitarch	O	_	_	_	_	_	_	O	_
+43	sentir	lpitarch	O	_	_	_	_	_	_	O	_
+44	mejor	lpitarch	O	_	_	_	_	_	_	O	_
+45	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 9
+# text = Un abrazo\n\n[Autor 25]: Hola xxxxxx\n\nTienes que estar súper agobiada .de
+1	Un	lpitarch	O	_	_	_	_	_	_	O	_
+2	abrazo	lpitarch	O	_	_	_	_	_	_	O	_
+3	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+4	[	lpitarch	O	_	_	_	_	_	_	O	_
+5	Autor	lpitarch	O	_	_	_	_	_	_	O	_
+6	25	lpitarch	O	_	_	_	_	_	_	O	_
+7	]	lpitarch	O	_	_	_	_	_	_	O	_
+8	:	lpitarch	O	_	_	_	_	_	_	O	_
+9	Hola	lpitarch	O	_	_	_	_	_	_	O	_
+10	xxxxxx	lpitarch	O	_	_	_	_	_	_	O	_
+11	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+12	Tienes	lpitarch	O	_	_	_	_	_	_	O	_
+13	que	lpitarch	O	_	_	_	_	_	_	O	_
+14	estar	lpitarch	O	_	_	_	_	_	_	O	_
+15	súper	lpitarch	O	_	_	_	_	_	_	O	_
+16	agobiada	lpitarch	O	_	_	_	_	_	_	O	_
+17	.de	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 10
+# text = el tema no se mucho la verdad .pero
+1	el	lpitarch	O	_	_	_	_	_	_	O	_
+2	tema	lpitarch	O	_	_	_	_	_	_	O	_
+3	no	lpitarch	O	_	_	_	_	_	_	O	_
+4	se	lpitarch	O	_	_	_	_	_	_	O	_
+5	mucho	lpitarch	O	_	_	_	_	_	_	O	_
+6	la	lpitarch	O	_	_	_	_	_	_	O	_
+7	verdad	lpitarch	O	_	_	_	_	_	_	O	_
+8	.pero	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 11
+# text = si mi testimonio te puede ayudar .te cuento\n\nA nuestro hijo hace 5 años le diagnosticaron una enfermedad degenerativa sin cura\n\nCuando escuchamos eso casi nos morimos tanto mi marido como yo .le mandaron un tratamiento .que lo que hace es que eso se cronifique .y mira ya han pasado 5 años y esta como si nada .tu tratamiento seguro que es para hacer que se quede dormido y ya está\n\nTe deseo lo.mejor\n\n
+1	si	lpitarch	O	_	_	_	_	_	_	O	_
+2	mi	lpitarch	O	_	_	_	_	_	_	O	_
+3	testimonio	lpitarch	O	_	_	_	_	_	_	O	_
+4	te	lpitarch	O	_	_	_	_	_	_	O	_
+5	puede	lpitarch	O	_	_	_	_	_	_	O	_
+6	ayudar	lpitarch	O	_	_	_	_	_	_	O	_
+7	.te	lpitarch	O	_	_	_	_	_	_	O	_
+8	cuento	lpitarch	O	_	_	_	_	_	_	O	_
+9	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+10	A	lpitarch	O	_	_	_	_	_	_	O	_
+11	nuestro	lpitarch	O	_	_	_	_	_	_	O	_
+12	hijo	lpitarch	O	_	_	_	_	_	_	O	_
+13	hace	lpitarch	O	_	_	_	_	_	_	O	_
+14	5	lpitarch	O	_	_	_	_	_	_	O	_
+15	años	lpitarch	O	_	_	_	_	_	_	O	_
+16	le	lpitarch	O	_	_	_	_	_	_	O	_
+17	diagnosticaron	lpitarch	O	_	_	_	_	_	_	O	_
+18	una	lpitarch	O	_	_	_	_	_	_	O	_
+19	enfermedad	lpitarch	O	_	_	_	_	_	_	O	_
+20	degenerativa	lpitarch	O	_	_	_	_	_	_	O	_
+21	sin	lpitarch	O	_	_	_	_	_	_	O	_
+22	cura	lpitarch	O	_	_	_	_	_	_	O	_
+23	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+24	Cuando	lpitarch	O	_	_	_	_	_	_	O	_
+25	escuchamos	lpitarch	O	_	_	_	_	_	_	O	_
+26	eso	lpitarch	O	_	_	_	_	_	_	O	_
+27	casi	lpitarch	O	_	_	_	_	_	_	O	_
+28	nos	lpitarch	O	_	_	_	_	_	_	O	_
+29	morimos	lpitarch	O	_	_	_	_	_	_	O	_
+30	tanto	lpitarch	O	_	_	_	_	_	_	O	_
+31	mi	lpitarch	O	_	_	_	_	_	_	O	_
+32	marido	lpitarch	O	_	_	_	_	_	_	O	_
+33	como	lpitarch	O	_	_	_	_	_	_	O	_
+34	yo	lpitarch	O	_	_	_	_	_	_	O	_
+35	.le	lpitarch	O	_	_	_	_	_	_	O	_
+36	mandaron	lpitarch	O	_	_	_	_	_	_	O	_
+37	un	lpitarch	O	_	_	_	_	_	_	O	_
+38	tratamiento	lpitarch	O	_	_	_	_	_	_	O	_
+39	.que	lpitarch	O	_	_	_	_	_	_	O	_
+40	lo	lpitarch	O	_	_	_	_	_	_	O	_
+41	que	lpitarch	O	_	_	_	_	_	_	O	_
+42	hace	lpitarch	O	_	_	_	_	_	_	O	_
+43	es	lpitarch	O	_	_	_	_	_	_	O	_
+44	que	lpitarch	O	_	_	_	_	_	_	O	_
+45	eso	lpitarch	O	_	_	_	_	_	_	O	_
+46	se	lpitarch	O	_	_	_	_	_	_	O	_
+47	cronifique	lpitarch	O	_	_	_	_	_	_	O	_
+48	.y	lpitarch	O	_	_	_	_	_	_	O	_
+49	mira	lpitarch	O	_	_	_	_	_	_	O	_
+50	ya	lpitarch	O	_	_	_	_	_	_	O	_
+51	han	lpitarch	O	_	_	_	_	_	_	O	_
+52	pasado	lpitarch	O	_	_	_	_	_	_	O	_
+53	5	lpitarch	O	_	_	_	_	_	_	O	_
+54	años	lpitarch	O	_	_	_	_	_	_	O	_
+55	y	lpitarch	O	_	_	_	_	_	_	O	_
+56	esta	lpitarch	O	_	_	_	_	_	_	O	_
+57	como	lpitarch	O	_	_	_	_	_	_	O	_
+58	si	lpitarch	O	_	_	_	_	_	_	O	_
+59	nada	lpitarch	O	_	_	_	_	_	_	O	_
+60	.tu	lpitarch	O	_	_	_	_	_	_	O	_
+61	tratamiento	lpitarch	O	_	_	_	_	_	_	O	_
+62	seguro	lpitarch	O	_	_	_	_	_	_	O	_
+63	que	lpitarch	O	_	_	_	_	_	_	O	_
+64	es	lpitarch	O	_	_	_	_	_	_	O	_
+65	para	lpitarch	O	_	_	_	_	_	_	O	_
+66	hacer	lpitarch	O	_	_	_	_	_	_	O	_
+67	que	lpitarch	O	_	_	_	_	_	_	O	_
+68	se	lpitarch	O	_	_	_	_	_	_	O	_
+69	quede	lpitarch	O	_	_	_	_	_	_	O	_
+70	dormido	lpitarch	O	_	_	_	_	_	_	O	_
+71	y	lpitarch	O	_	_	_	_	_	_	O	_
+72	ya	lpitarch	O	_	_	_	_	_	_	O	_
+73	está	lpitarch	O	_	_	_	_	_	_	O	_
+74	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+75	Te	lpitarch	O	_	_	_	_	_	_	O	_
+76	deseo	lpitarch	O	_	_	_	_	_	_	O	_
+77	lo.mejor	lpitarch	O	_	_	_	_	_	_	O	_
+78	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 12
+# text = [Autor 18]: Hola! Agobiada es poco, muchas gracias por los ánimos, espero que tú hijo siga así de bien por siempre.
+1	[	lpitarch	O	_	_	_	_	_	_	O	_
+2	Autor	lpitarch	O	_	_	_	_	_	_	O	_
+3	18	lpitarch	O	_	_	_	_	_	_	O	_
+4	]	lpitarch	O	_	_	_	_	_	_	O	_
+5	:	lpitarch	O	_	_	_	_	_	_	O	_
+6	Hola	lpitarch	O	_	_	_	_	_	_	O	_
+7	!	lpitarch	O	_	_	_	_	_	_	O	_
+8	Agobiada	lpitarch	O	_	_	_	_	_	_	O	_
+9	es	lpitarch	O	_	_	_	_	_	_	O	_
+10	poco	lpitarch	O	_	_	_	_	_	_	O	_
+11	,	lpitarch	O	_	_	_	_	_	_	O	_
+12	muchas	lpitarch	O	_	_	_	_	_	_	O	_
+13	gracias	lpitarch	O	_	_	_	_	_	_	O	_
+14	por	lpitarch	O	_	_	_	_	_	_	O	_
+15	los	lpitarch	O	_	_	_	_	_	_	O	_
+16	ánimos	lpitarch	O	_	_	_	_	_	_	O	_
+17	,	lpitarch	O	_	_	_	_	_	_	O	_
+18	espero	lpitarch	O	_	_	_	_	_	_	O	_
+19	que	lpitarch	O	_	_	_	_	_	_	O	_
+20	tú	lpitarch	O	_	_	_	_	_	_	O	_
+21	hijo	lpitarch	O	_	_	_	_	_	_	O	_
+22	siga	lpitarch	O	_	_	_	_	_	_	O	_
+23	así	lpitarch	O	_	_	_	_	_	_	O	_
+24	de	lpitarch	O	_	_	_	_	_	_	O	_
+25	bien	lpitarch	O	_	_	_	_	_	_	O	_
+26	por	lpitarch	O	_	_	_	_	_	_	O	_
+27	siempre	lpitarch	O	_	_	_	_	_	_	O	_
+28	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 13
+# text = Besos\n\n[Autor 18]: Hola a todos! Me han repetido las pruebas y los nodulosno han crecido ni un mm en un mes y diez dias , según me dicen ahora ya no estan tan seguros de que sea lo que pensaban (me dijeron que no tenía cura) y me dan una nueva revision para dentro de tres meses, lo que me parece a mi que es muy buena señal!!
+1	Besos	lpitarch	O	_	_	_	_	_	_	O	_
+2	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+3	[	lpitarch	O	_	_	_	_	_	_	O	_
+4	Autor	lpitarch	O	_	_	_	_	_	_	O	_
+5	18	lpitarch	O	_	_	_	_	_	_	O	_
+6	]	lpitarch	O	_	_	_	_	_	_	O	_
+7	:	lpitarch	O	_	_	_	_	_	_	O	_
+8	Hola	lpitarch	O	_	_	_	_	_	_	O	_
+9	a	lpitarch	O	_	_	_	_	_	_	O	_
+10	todos	lpitarch	O	_	_	_	_	_	_	O	_
+11	!	lpitarch	O	_	_	_	_	_	_	O	_
+12	Me	lpitarch	O	_	_	_	_	_	_	O	_
+13	han	lpitarch	O	_	_	_	_	_	_	O	_
+14	repetido	lpitarch	O	_	_	_	_	_	_	O	_
+15	las	lpitarch	O	_	_	_	_	_	_	O	_
+16	pruebas	lpitarch	O	_	_	_	_	_	_	O	_
+17	y	lpitarch	O	_	_	_	_	_	_	O	_
+18	los	lpitarch	O	_	_	_	_	_	_	O	_
+19	nodulosno	lpitarch	O	_	_	_	_	_	_	O	_
+20	han	lpitarch	O	_	_	_	_	_	_	O	_
+21	crecido	lpitarch	O	_	_	_	_	_	_	O	_
+22	ni	lpitarch	O	_	_	_	_	_	_	O	_
+23	un	lpitarch	O	_	_	_	_	_	_	O	_
+24	mm	lpitarch	O	_	_	_	_	_	_	O	_
+25	en	lpitarch	O	_	_	_	_	_	_	O	_
+26	un	lpitarch	O	_	_	_	_	_	_	O	_
+27	mes	lpitarch	O	_	_	_	_	_	_	O	_
+28	y	lpitarch	O	_	_	_	_	_	_	O	_
+29	diez	lpitarch	O	_	_	_	_	_	_	O	_
+30	dias	lpitarch	O	_	_	_	_	_	_	O	_
+31	,	lpitarch	O	_	_	_	_	_	_	O	_
+32	según	lpitarch	O	_	_	_	_	_	_	O	_
+33	me	lpitarch	O	_	_	_	_	_	_	O	_
+34	dicen	lpitarch	O	_	_	_	_	_	_	O	_
+35	ahora	lpitarch	O	_	_	_	_	_	_	O	_
+36	ya	lpitarch	O	_	_	_	_	_	_	O	_
+37	no	lpitarch	O	_	_	_	_	_	_	O	_
+38	estan	lpitarch	O	_	_	_	_	_	_	O	_
+39	tan	lpitarch	O	_	_	_	_	_	_	O	_
+40	seguros	lpitarch	O	_	_	_	_	_	_	O	_
+41	de	lpitarch	O	_	_	_	_	_	_	O	_
+42	que	lpitarch	O	_	_	_	_	_	_	O	_
+43	sea	lpitarch	O	_	_	_	_	_	_	O	_
+44	lo	lpitarch	O	_	_	_	_	_	_	O	_
+45	que	lpitarch	O	_	_	_	_	_	_	O	_
+46	pensaban	lpitarch	O	_	_	_	_	_	_	O	_
+47	(	lpitarch	O	_	_	_	_	_	_	O	_
+48	me	lpitarch	O	_	_	_	_	_	_	O	_
+49	dijeron	lpitarch	O	_	_	_	_	_	_	O	_
+50	que	lpitarch	O	_	_	_	_	_	_	O	_
+51	no	lpitarch	O	_	_	_	_	_	_	O	_
+52	tenía	lpitarch	O	_	_	_	_	_	_	O	_
+53	cura	lpitarch	O	_	_	_	_	_	_	O	_
+54	)	lpitarch	O	_	_	_	_	_	_	O	_
+55	y	lpitarch	O	_	_	_	_	_	_	O	_
+56	me	lpitarch	O	_	_	_	_	_	_	O	_
+57	dan	lpitarch	O	_	_	_	_	_	_	O	_
+58	una	lpitarch	O	_	_	_	_	_	_	O	_
+59	nueva	lpitarch	O	_	_	_	_	_	_	O	_
+60	revision	lpitarch	O	_	_	_	_	_	_	O	_
+61	para	lpitarch	O	_	_	_	_	_	_	O	_
+62	dentro	lpitarch	O	_	_	_	_	_	_	O	_
+63	de	lpitarch	O	_	_	_	_	_	_	O	_
+64	tres	lpitarch	O	_	_	_	_	_	_	O	_
+65	meses	lpitarch	O	_	_	_	_	_	_	O	_
+66	,	lpitarch	O	_	_	_	_	_	_	O	_
+67	lo	lpitarch	O	_	_	_	_	_	_	O	_
+68	que	lpitarch	O	_	_	_	_	_	_	O	_
+69	me	lpitarch	O	_	_	_	_	_	_	O	_
+70	parece	lpitarch	O	_	_	_	_	_	_	O	_
+71	a	lpitarch	O	_	_	_	_	_	_	O	_
+72	mi	lpitarch	O	_	_	_	_	_	_	O	_
+73	que	lpitarch	O	_	_	_	_	_	_	O	_
+74	es	lpitarch	O	_	_	_	_	_	_	O	_
+75	muy	lpitarch	O	_	_	_	_	_	_	O	_
+76	buena	lpitarch	O	_	_	_	_	_	_	O	_
+77	señal	lpitarch	O	_	_	_	_	_	_	O	_
+78	!	lpitarch	O	_	_	_	_	_	_	O	_
+79	!	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 14
+# text = !
+1	!	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 15
+# text = Lo comparto para que si alguien está en la situación en la que yo estaba hace un mes, que no pierda la confianza y los ánimos!!!\n\n
+1	Lo	lpitarch	O	_	_	_	_	_	_	O	_
+2	comparto	lpitarch	O	_	_	_	_	_	_	O	_
+3	para	lpitarch	O	_	_	_	_	_	_	O	_
+4	que	lpitarch	O	_	_	_	_	_	_	O	_
+5	si	lpitarch	O	_	_	_	_	_	_	O	_
+6	alguien	lpitarch	O	_	_	_	_	_	_	O	_
+7	está	lpitarch	O	_	_	_	_	_	_	O	_
+8	en	lpitarch	O	_	_	_	_	_	_	O	_
+9	la	lpitarch	O	_	_	_	_	_	_	O	_
+10	situación	lpitarch	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/situaci%C3%B3n-05074774-n	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/situaci%C3%B3n-13927383-n	_	Estar enfermo con cáncer|Diagnóstico » Prognosis	_	O	_
+11	en	lpitarch	O	_	_	_	_	_	_	O	_
+12	la	lpitarch	O	_	_	_	_	_	_	O	_
+13	que	lpitarch	O	_	_	_	_	_	_	O	_
+14	yo	lpitarch	O	_	_	_	_	_	_	O	_
+15	estaba	lpitarch	O	_	_	_	_	_	_	O	_
+16	hace	lpitarch	O	_	_	_	_	_	_	O	_
+17	un	lpitarch	O	_	_	_	_	_	_	O	_
+18	mes	lpitarch	O	_	_	_	_	_	_	O	_
+19	,	lpitarch	O	_	_	_	_	_	_	O	_
+20	que	lpitarch	O	_	_	_	_	_	_	O	_
+21	no	lpitarch	O	_	_	_	_	_	_	O	_
+22	pierda	lpitarch	O	_	_	_	_	_	_	O	_
+23	la	lpitarch	O	_	_	_	_	_	_	O	_
+24	confianza	lpitarch	O	_	_	_	_	_	_	O	_
+25	y	lpitarch	O	_	_	_	_	_	_	O	_
+26	los	lpitarch	O	_	_	_	_	_	_	O	_
+27	ánimos	lpitarch	O	_	_	_	_	_	_	O	_
+28	!	lpitarch	O	_	_	_	_	_	_	O	_
+29	!	lpitarch	O	_	_	_	_	_	_	O	_
+30	!	lpitarch	O	_	_	_	_	_	_	O	_
+31	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 16
+# text = [Autor 18]: Hola a todos, ya contacté con una psicooncologa, gracias.
+1	[	lpitarch	O	_	_	_	_	_	_	O	_
+2	Autor	lpitarch	O	_	_	_	_	_	_	O	_
+3	18	lpitarch	O	_	_	_	_	_	_	O	_
+4	]	lpitarch	O	_	_	_	_	_	_	O	_
+5	:	lpitarch	O	_	_	_	_	_	_	O	_
+6	Hola	lpitarch	O	_	_	_	_	_	_	O	_
+7	a	lpitarch	O	_	_	_	_	_	_	O	_
+8	todos	lpitarch	O	_	_	_	_	_	_	O	_
+9	,	lpitarch	O	_	_	_	_	_	_	O	_
+10	ya	lpitarch	O	_	_	_	_	_	_	O	_
+11	contacté	lpitarch	O	_	_	_	_	_	_	O	_
+12	con	lpitarch	O	_	_	_	_	_	_	O	_
+13	una	lpitarch	O	_	_	_	_	_	_	O	_
+14	psicooncologa	lpitarch	O	_	_	_	_	_	_	O	_
+15	,	lpitarch	O	_	_	_	_	_	_	O	_
+16	gracias	lpitarch	O	_	_	_	_	_	_	O	_
+17	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 17
+# text = Ahora las cosas se han complicado y además de los nódulos en el peritoneo tengo una metastasis tambien en el pancreas.
+1	Ahora	lpitarch	O	_	_	_	_	_	_	O	_
+2	las	lpitarch	O	_	_	_	_	_	_	O	_
+3	cosas	lpitarch	O	_	_	_	_	_	_	O	_
+4	se	lpitarch	O	_	_	_	_	_	_	O	_
+5	han	lpitarch	O	_	_	_	_	_	_	O	_
+6	complicado	lpitarch	O	_	_	_	_	_	_	O	_
+7	y	lpitarch	O	_	_	_	_	_	_	O	_
+8	además	lpitarch	O	_	_	_	_	_	_	O	_
+9	de	lpitarch	O	_	_	_	_	_	_	O	_
+10	los	lpitarch	O	_	_	_	_	_	_	O	_
+11	nódulos	lpitarch	O	_	_	_	_	_	_	O	_
+12	en	lpitarch	O	_	_	_	_	_	_	O	_
+13	el	lpitarch	O	_	_	_	_	_	_	O	_
+14	peritoneo	lpitarch	O	_	_	_	_	_	_	O	_
+15	tengo	lpitarch	O	_	_	_	_	_	_	O	_
+16	una	lpitarch	O	_	_	_	_	_	_	O	_
+17	metastasis	lpitarch	O	_	_	_	_	_	_	O	_
+18	tambien	lpitarch	O	_	_	_	_	_	_	O	_
+19	en	lpitarch	O	_	_	_	_	_	_	O	_
+20	el	lpitarch	O	_	_	_	_	_	_	O	_
+21	pancreas	lpitarch	O	_	_	_	_	_	_	O	_
+22	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 18
+# text = Aunque de momento no me ponen en tratamiento, porque se ve que evoluciona muy lento.
+1	Aunque	lpitarch	O	_	_	_	_	_	_	O	_
+2	de	lpitarch	O	_	_	_	_	_	_	O	_
+3	momento	lpitarch	O	_	_	_	_	_	_	O	_
+4	no	lpitarch	O	_	_	_	_	_	_	O	_
+5	me	lpitarch	O	_	_	_	_	_	_	O	_
+6	ponen	lpitarch	O	_	_	_	_	_	_	O	_
+7	en	lpitarch	O	_	_	_	_	_	_	O	_
+8	tratamiento	lpitarch	O	_	_	_	_	_	_	O	_
+9	,	lpitarch	O	_	_	_	_	_	_	O	_
+10	porque	lpitarch	O	_	_	_	_	_	_	O	_
+11	se	lpitarch	O	_	_	_	_	_	_	O	_
+12	ve	lpitarch	O	_	_	_	_	_	_	O	_
+13	que	lpitarch	O	_	_	_	_	_	_	O	_
+14	evoluciona	lpitarch	O	_	_	_	_	_	_	O	_
+15	muy	lpitarch	O	_	_	_	_	_	_	O	_
+16	lento	lpitarch	O	_	_	_	_	_	_	O	_
+17	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 19
+# text = Sigo buscando a alguien que esté en mi misma situación o parecida.
+1	Sigo	lpitarch	O	_	_	_	_	_	_	O	_
+2	buscando	lpitarch	O	_	_	_	_	_	_	O	_
+3	a	lpitarch	O	_	_	_	_	_	_	O	_
+4	alguien	lpitarch	O	_	_	_	_	_	_	O	_
+5	que	lpitarch	O	_	_	_	_	_	_	O	_
+6	esté	lpitarch	O	_	_	_	_	_	_	O	_
+7	en	lpitarch	O	_	_	_	_	_	_	O	_
+8	mi	lpitarch	O	_	_	_	_	_	_	O	_
+9	misma	lpitarch	O	_	_	_	_	_	_	O	_
+10	situación	lpitarch	O	_	_	_	_	_	_	O	_
+11	o	lpitarch	O	_	_	_	_	_	_	O	_
+12	parecida	lpitarch	O	_	_	_	_	_	_	O	_
+13	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 20
+# text = Gracias a todos y mucha salud.\n\n
+1	Gracias	lpitarch	O	_	_	_	_	_	_	O	_
+2	a	lpitarch	O	_	_	_	_	_	_	O	_
+3	todos	lpitarch	O	_	_	_	_	_	_	O	_
+4	y	lpitarch	O	_	_	_	_	_	_	O	_
+5	mucha	lpitarch	O	_	_	_	_	_	_	O	_
+6	salud	lpitarch	O	_	_	_	_	_	_	O	_
+7	.	lpitarch	O	_	_	_	_	_	_	O	_
+8	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 21
+# text = [Autor 24]: xxxx, qué tal estás?
+1	[	lpitarch	O	_	_	_	_	_	_	O	_
+2	Autor	lpitarch	O	_	_	_	_	_	_	O	_
+3	24	lpitarch	O	_	_	_	_	_	_	O	_
+4	]	lpitarch	O	_	_	_	_	_	_	O	_
+5	:	lpitarch	O	_	_	_	_	_	_	O	_
+6	xxxx	lpitarch	O	_	_	_	_	_	_	B	_
+7	,	lpitarch	O	_	_	_	_	_	_	O	_
+8	qué	lpitarch	O	_	_	_	_	_	_	O	_
+9	tal	lpitarch	O	_	_	_	_	_	_	O	_
+10	estás	lpitarch	O	_	_	_	_	_	_	O	_
+11	?	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 22
+# text = Te sigo, y siento que lo estás haciendo muy bien.
+1	Te	lpitarch	O	_	_	_	_	_	_	O	_
+2	sigo	lpitarch	O	_	_	_	_	_	_	O	_
+3	,	lpitarch	O	_	_	_	_	_	_	O	_
+4	y	lpitarch	O	_	_	_	_	_	_	O	_
+5	siento	lpitarch	O	_	_	_	_	_	_	O	_
+6	que	lpitarch	O	_	_	_	_	_	_	O	_
+7	lo	lpitarch	O	_	_	_	_	_	_	O	_
+8	estás	lpitarch	O	_	_	_	_	_	_	O	_
+9	haciendo	lpitarch	O	_	_	_	_	_	_	O	_
+10	muy	lpitarch	O	_	_	_	_	_	_	O	_
+11	bien	lpitarch	O	_	_	_	_	_	_	O	_
+12	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 23
+# text = Siempre das palabras de ánimo a la gente que lo necesita y buscas desahogarte de alguna manera u otra.
+1	Siempre	lpitarch	O	_	_	_	_	_	_	O	_
+2	das	lpitarch	O	_	_	_	_	_	_	O	_
+3	palabras	lpitarch	O	_	_	_	_	_	_	O	_
+4	de	lpitarch	O	_	_	_	_	_	_	O	_
+5	ánimo	lpitarch	O	_	_	_	_	_	_	O	_
+6	a	lpitarch	O	_	_	_	_	_	_	O	_
+7	la	lpitarch	O	_	_	_	_	_	_	O	_
+8	gente	lpitarch	O	_	_	_	_	_	_	O	_
+9	que	lpitarch	O	_	_	_	_	_	_	O	_
+10	lo	lpitarch	O	_	_	_	_	_	_	O	_
+11	necesita	lpitarch	O	_	_	_	_	_	_	O	_
+12	y	lpitarch	O	_	_	_	_	_	_	O	_
+13	buscas	lpitarch	O	_	_	_	_	_	_	O	_
+14	desahogarte	lpitarch	O	_	_	_	_	_	_	O	_
+15	de	lpitarch	O	_	_	_	_	_	_	O	_
+16	alguna	lpitarch	O	_	_	_	_	_	_	O	_
+17	manera	lpitarch	O	_	_	_	_	_	_	O	_
+18	u	lpitarch	O	_	_	_	_	_	_	O	_
+19	otra	lpitarch	O	_	_	_	_	_	_	O	_
+20	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 24
+# text = Ese es el camino, dar amor, y buscar ayuda.
+1	Ese	lpitarch	O	_	_	_	_	_	_	O	_
+2	es	lpitarch	O	_	_	_	_	_	_	O	_
+3	el	lpitarch	O	_	_	_	_	_	_	O	_
+4	camino	lpitarch	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/camino-04564698-n	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/camino-00172710-n	_	Estar enfermo con cáncer|Personas involucradas	_	O	_
+5	,	lpitarch	O	_	_	_	_	_	_	O	_
+6	dar	lpitarch	O	_	_	_	_	_	_	O	_
+7	amor	lpitarch	O	_	_	_	_	_	_	O	_
+8	,	lpitarch	O	_	_	_	_	_	_	O	_
+9	y	lpitarch	O	_	_	_	_	_	_	O	_
+10	buscar	lpitarch	O	_	_	_	_	_	_	O	_
+11	ayuda	lpitarch	O	_	_	_	_	_	_	O	_
+12	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 25
+# text = Así que aquí me tienes, o en mi web%%URL%%\n\nUn Abrazo, xxxx, y todas mis fuerzas para que disfrutes de cada día\n\n[Autor 18]: Hola guapa, espero que estes mejor, se que has tenido que pasar por un proceso muy duro, y me alegra ver que lo has enfocado en ayudar a los demás.
+1	Así	lpitarch	O	_	_	_	_	_	_	O	_
+2	que	lpitarch	O	_	_	_	_	_	_	O	_
+3	aquí	lpitarch	O	_	_	_	_	_	_	O	_
+4	me	lpitarch	O	_	_	_	_	_	_	O	_
+5	tienes	lpitarch	O	_	_	_	_	_	_	O	_
+6	,	lpitarch	O	_	_	_	_	_	_	O	_
+7	o	lpitarch	O	_	_	_	_	_	_	O	_
+8	en	lpitarch	O	_	_	_	_	_	_	O	_
+9	mi	lpitarch	O	_	_	_	_	_	_	O	_
+10	web%%URL%%	lpitarch	O	_	_	_	_	_	_	O	_
+11	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+12	Un	lpitarch	O	_	_	_	_	_	_	O	_
+13	Abrazo	lpitarch	O	_	_	_	_	_	_	O	_
+14	,	lpitarch	O	_	_	_	_	_	_	O	_
+15	xxxx	lpitarch	O	_	_	_	_	_	_	O	_
+16	,	lpitarch	O	_	_	_	_	_	_	O	_
+17	y	lpitarch	O	_	_	_	_	_	_	O	_
+18	todas	lpitarch	O	_	_	_	_	_	_	O	_
+19	mis	lpitarch	O	_	_	_	_	_	_	O	_
+20	fuerzas	lpitarch	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/fuerza-00103834-n	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/fuerza-01211019-n	_	personas>>apoyo|Personas involucradas	_	O	_
+21	para	lpitarch	O	_	_	_	_	_	_	O	_
+22	que	lpitarch	O	_	_	_	_	_	_	O	_
+23	disfrutes	lpitarch	O	_	_	_	_	_	_	O	_
+24	de	lpitarch	O	_	_	_	_	_	_	O	_
+25	cada	lpitarch	O	_	_	_	_	_	_	O	_
+26	día	lpitarch	O	_	_	_	_	_	_	O	_
+27	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+28	[	lpitarch	O	_	_	_	_	_	_	O	_
+29	Autor	lpitarch	O	_	_	_	_	_	_	O	_
+30	18	lpitarch	O	_	_	_	_	_	_	O	_
+31	]	lpitarch	O	_	_	_	_	_	_	O	_
+32	:	lpitarch	O	_	_	_	_	_	_	O	_
+33	Hola	lpitarch	O	_	_	_	_	_	_	O	_
+34	guapa	lpitarch	O	_	_	_	_	_	_	O	_
+35	,	lpitarch	O	_	_	_	_	_	_	O	_
+36	espero	lpitarch	O	_	_	_	_	_	_	O	_
+37	que	lpitarch	O	_	_	_	_	_	_	O	_
+38	estes	lpitarch	O	_	_	_	_	_	_	O	_
+39	mejor	lpitarch	O	_	_	_	_	_	_	O	_
+40	,	lpitarch	O	_	_	_	_	_	_	O	_
+41	se	lpitarch	O	_	_	_	_	_	_	O	_
+42	que	lpitarch	O	_	_	_	_	_	_	O	_
+43	has	lpitarch	O	_	_	_	_	_	_	O	_
+44	tenido	lpitarch	O	_	_	_	_	_	_	O	_
+45	que	lpitarch	O	_	_	_	_	_	_	O	_
+46	pasar	lpitarch	O	_	_	_	_	_	_	O	_
+47	por	lpitarch	O	_	_	_	_	_	_	O	_
+48	un	lpitarch	O	_	_	_	_	_	_	O	_
+49	proceso	lpitarch	O	_	_	_	_	_	_	O	_
+50	muy	lpitarch	O	_	_	_	_	_	_	O	_
+51	duro	lpitarch	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/duro-01152620-a|https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/duro-02445636-a	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/duro-00744916-a|https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/duro-00746047-a|https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/duro-00836544-a	_	Estar enfermo con cáncer	_	O	_
+52	,	lpitarch	O	_	_	_	_	_	_	O	_
+53	y	lpitarch	O	_	_	_	_	_	_	O	_
+54	me	lpitarch	O	_	_	_	_	_	_	O	_
+55	alegra	lpitarch	O	_	_	_	_	_	_	O	_
+56	ver	lpitarch	O	_	_	_	_	_	_	O	_
+57	que	lpitarch	O	_	_	_	_	_	_	O	_
+58	lo	lpitarch	O	_	_	_	_	_	_	O	_
+59	has	lpitarch	O	_	_	_	_	_	_	O	_
+60	enfocado	lpitarch	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/enfocar-00292368-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/enfocar-00722232-v	_	Estar enfermo con cáncer|Emociones » Esperanza y control de expectativas|Personas » Otros	_	O	_
+61	en	lpitarch	O	_	_	_	_	_	_	O	_
+62	ayudar	lpitarch	O	_	_	_	_	_	_	O	_
+63	a	lpitarch	O	_	_	_	_	_	_	O	_
+64	los	lpitarch	O	_	_	_	_	_	_	O	_
+65	demás	lpitarch	O	_	_	_	_	_	_	O	_
+66	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 26
+# text = Yo la última vez que escribí, ya expliqué que tenia metastasis de peritoneo y de pancreas, de este último hace ya un año.
+1	Yo	lpitarch	O	_	_	_	_	_	_	O	_
+2	la	lpitarch	O	_	_	_	_	_	_	O	_
+3	última	lpitarch	O	_	_	_	_	_	_	O	_
+4	vez	lpitarch	O	_	_	_	_	_	_	O	_
+5	que	lpitarch	O	_	_	_	_	_	_	O	_
+6	escribí	lpitarch	O	_	_	_	_	_	_	O	_
+7	,	lpitarch	O	_	_	_	_	_	_	O	_
+8	ya	lpitarch	O	_	_	_	_	_	_	O	_
+9	expliqué	lpitarch	O	_	_	_	_	_	_	O	_
+10	que	lpitarch	O	_	_	_	_	_	_	O	_
+11	tenia	lpitarch	O	_	_	_	_	_	_	O	_
+12	metastasis	lpitarch	O	_	_	_	_	_	_	O	_
+13	de	lpitarch	O	_	_	_	_	_	_	O	_
+14	peritoneo	lpitarch	O	_	_	_	_	_	_	O	_
+15	y	lpitarch	O	_	_	_	_	_	_	O	_
+16	de	lpitarch	O	_	_	_	_	_	_	O	_
+17	pancreas	lpitarch	O	_	_	_	_	_	_	O	_
+18	,	lpitarch	O	_	_	_	_	_	_	O	_
+19	de	lpitarch	O	_	_	_	_	_	_	O	_
+20	este	lpitarch	O	_	_	_	_	_	_	O	_
+21	último	lpitarch	O	_	_	_	_	_	_	O	_
+22	hace	lpitarch	O	_	_	_	_	_	_	O	_
+23	ya	lpitarch	O	_	_	_	_	_	_	O	_
+24	un	lpitarch	O	_	_	_	_	_	_	O	_
+25	año	lpitarch	O	_	_	_	_	_	_	O	_
+26	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 27
+# text = No han crecido mucho, pero se decidieron a ponerme en tratamiento, algo parecido a una quimio en pastillas, se llama sunitinib, y estoy por el tercer mes.
+1	No	lpitarch	O	_	_	_	_	_	_	O	_
+2	han	lpitarch	O	_	_	_	_	_	_	O	_
+3	crecido	lpitarch	O	_	_	_	_	_	_	O	_
+4	mucho	lpitarch	O	_	_	_	_	_	_	O	_
+5	,	lpitarch	O	_	_	_	_	_	_	O	_
+6	pero	lpitarch	O	_	_	_	_	_	_	O	_
+7	se	lpitarch	O	_	_	_	_	_	_	O	_
+8	decidieron	lpitarch	O	_	_	_	_	_	_	O	_
+9	a	lpitarch	O	_	_	_	_	_	_	O	_
+10	ponerme	lpitarch	O	_	_	_	_	_	_	O	_
+11	en	lpitarch	O	_	_	_	_	_	_	O	_
+12	tratamiento	lpitarch	O	_	_	_	_	_	_	O	_
+13	,	lpitarch	O	_	_	_	_	_	_	O	_
+14	algo	lpitarch	O	_	_	_	_	_	_	O	_
+15	parecido	lpitarch	O	_	_	_	_	_	_	O	_
+16	a	lpitarch	O	_	_	_	_	_	_	O	_
+17	una	lpitarch	O	_	_	_	_	_	_	O	_
+18	quimio	lpitarch	O	_	_	_	_	_	_	O	_
+19	en	lpitarch	O	_	_	_	_	_	_	O	_
+20	pastillas	lpitarch	O	_	_	_	_	_	_	O	_
+21	,	lpitarch	O	_	_	_	_	_	_	O	_
+22	se	lpitarch	O	_	_	_	_	_	_	O	_
+23	llama	lpitarch	O	_	_	_	_	_	_	O	_
+24	sunitinib	lpitarch	O	_	_	_	_	_	_	O	_
+25	,	lpitarch	O	_	_	_	_	_	_	O	_
+26	y	lpitarch	O	_	_	_	_	_	_	O	_
+27	estoy	lpitarch	O	_	_	_	_	_	_	O	_
+28	por	lpitarch	O	_	_	_	_	_	_	O	_
+29	el	lpitarch	O	_	_	_	_	_	_	O	_
+30	tercer	lpitarch	O	_	_	_	_	_	_	O	_
+31	mes	lpitarch	O	_	_	_	_	_	_	O	_
+32	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 28
+# text = Estoy con muchos efectos secundarios, y a veces no todo lo animada que quisiera.
+1	Estoy	lpitarch	O	_	_	_	_	_	_	O	_
+2	con	lpitarch	O	_	_	_	_	_	_	O	_
+3	muchos	lpitarch	O	_	_	_	_	_	_	O	_
+4	efectos	lpitarch	O	_	_	_	_	_	_	O	_
+5	secundarios	lpitarch	O	_	_	_	_	_	_	O	_
+6	,	lpitarch	O	_	_	_	_	_	_	O	_
+7	y	lpitarch	O	_	_	_	_	_	_	O	_
+8	a	lpitarch	O	_	_	_	_	_	_	O	_
+9	veces	lpitarch	O	_	_	_	_	_	_	O	_
+10	no	lpitarch	O	_	_	_	_	_	_	O	_
+11	todo	lpitarch	O	_	_	_	_	_	_	O	_
+12	lo	lpitarch	O	_	_	_	_	_	_	O	_
+13	animada	lpitarch	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/animado-00118066-a	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/animado-00362467-a	_	Emociones	_	O	_
+14	que	lpitarch	O	_	_	_	_	_	_	O	_
+15	quisiera	lpitarch	O	_	_	_	_	_	_	O	_
+16	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 29
+# text = El mes que viene me hacen el Tac, para ver si esta funcionando.
+1	El	lpitarch	O	_	_	_	_	_	_	O	_
+2	mes	lpitarch	O	_	_	_	_	_	_	O	_
+3	que	lpitarch	O	_	_	_	_	_	_	O	_
+4	viene	lpitarch	O	_	_	_	_	_	_	O	_
+5	me	lpitarch	O	_	_	_	_	_	_	O	_
+6	hacen	lpitarch	O	_	_	_	_	_	_	O	_
+7	el	lpitarch	O	_	_	_	_	_	_	O	_
+8	Tac	lpitarch	O	_	_	_	_	_	_	O	_
+9	,	lpitarch	O	_	_	_	_	_	_	O	_
+10	para	lpitarch	O	_	_	_	_	_	_	O	_
+11	ver	lpitarch	O	_	_	_	_	_	_	O	_
+12	si	lpitarch	O	_	_	_	_	_	_	O	_
+13	esta	lpitarch	O	_	_	_	_	_	_	O	_
+14	funcionando	lpitarch	O	_	_	_	_	_	_	O	_
+15	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 30
+# text = Espero que sea así.
+1	Espero	lpitarch	O	_	_	_	_	_	_	O	_
+2	que	lpitarch	O	_	_	_	_	_	_	O	_
+3	sea	lpitarch	O	_	_	_	_	_	_	O	_
+4	así	lpitarch	O	_	_	_	_	_	_	O	_
+5	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 31
+# text = Gracias por preguntar y darme la oportunidad de explicar.
+1	Gracias	lpitarch	O	_	_	_	_	_	_	O	_
+2	por	lpitarch	O	_	_	_	_	_	_	O	_
+3	preguntar	lpitarch	O	_	_	_	_	_	_	O	_
+4	y	lpitarch	O	_	_	_	_	_	_	O	_
+5	darme	lpitarch	O	_	_	_	_	_	_	O	_
+6	la	lpitarch	O	_	_	_	_	_	_	O	_
+7	oportunidad	lpitarch	O	_	_	_	_	_	_	O	_
+8	de	lpitarch	O	_	_	_	_	_	_	O	_
+9	explicar	lpitarch	O	_	_	_	_	_	_	O	_
+10	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 32
+# text = Un abrazo.\n\n
+1	Un	lpitarch	O	_	_	_	_	_	_	O	_
+2	abrazo	lpitarch	O	_	_	_	_	_	_	O	_
+3	.	lpitarch	O	_	_	_	_	_	_	O	_
+4	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 33
+# text = [Autor 18]: Hola guapa, espero que estes mejor, se que has tenido que pasar por un proceso muy duro, y me alegra ver que lo has enfocado en ayudar a los demás.
+1	[	lpitarch	O	_	_	_	_	_	_	O	_
+2	Autor	lpitarch	O	_	_	_	_	_	_	O	_
+3	18	lpitarch	O	_	_	_	_	_	_	O	_
+4	]	lpitarch	O	_	_	_	_	_	_	O	_
+5	:	lpitarch	O	_	_	_	_	_	_	O	_
+6	Hola	lpitarch	O	_	_	_	_	_	_	O	_
+7	guapa	lpitarch	O	_	_	_	_	_	_	O	_
+8	,	lpitarch	O	_	_	_	_	_	_	O	_
+9	espero	lpitarch	O	_	_	_	_	_	_	O	_
+10	que	lpitarch	O	_	_	_	_	_	_	O	_
+11	estes	lpitarch	O	_	_	_	_	_	_	O	_
+12	mejor	lpitarch	O	_	_	_	_	_	_	O	_
+13	,	lpitarch	O	_	_	_	_	_	_	O	_
+14	se	lpitarch	O	_	_	_	_	_	_	O	_
+15	que	lpitarch	O	_	_	_	_	_	_	O	_
+16	has	lpitarch	O	_	_	_	_	_	_	O	_
+17	tenido	lpitarch	O	_	_	_	_	_	_	O	_
+18	que	lpitarch	O	_	_	_	_	_	_	O	_
+19	pasar	lpitarch	O	_	_	_	_	_	_	O	_
+20	por	lpitarch	O	_	_	_	_	_	_	O	_
+21	un	lpitarch	O	_	_	_	_	_	_	O	_
+22	proceso	lpitarch	O	_	_	_	_	_	_	O	_
+23	muy	lpitarch	O	_	_	_	_	_	_	O	_
+24	duro	lpitarch	O	_	_	_	_	_	_	O	_
+25	,	lpitarch	O	_	_	_	_	_	_	O	_
+26	y	lpitarch	O	_	_	_	_	_	_	O	_
+27	me	lpitarch	O	_	_	_	_	_	_	O	_
+28	alegra	lpitarch	O	_	_	_	_	_	_	O	_
+29	ver	lpitarch	O	_	_	_	_	_	_	O	_
+30	que	lpitarch	O	_	_	_	_	_	_	O	_
+31	lo	lpitarch	O	_	_	_	_	_	_	O	_
+32	has	lpitarch	O	_	_	_	_	_	_	O	_
+33	enfocado	lpitarch	O	_	_	_	_	_	_	O	_
+34	en	lpitarch	O	_	_	_	_	_	_	O	_
+35	ayudar	lpitarch	O	_	_	_	_	_	_	O	_
+36	a	lpitarch	O	_	_	_	_	_	_	O	_
+37	los	lpitarch	O	_	_	_	_	_	_	O	_
+38	demás	lpitarch	O	_	_	_	_	_	_	O	_
+39	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 34
+# text = Yo la última vez que escribí, ya expliqué que tenia metastasis de peritoneo y de pancreas, de este último hace ya un año.
+1	Yo	lpitarch	O	_	_	_	_	_	_	O	_
+2	la	lpitarch	O	_	_	_	_	_	_	O	_
+3	última	lpitarch	O	_	_	_	_	_	_	O	_
+4	vez	lpitarch	O	_	_	_	_	_	_	O	_
+5	que	lpitarch	O	_	_	_	_	_	_	O	_
+6	escribí	lpitarch	O	_	_	_	_	_	_	O	_
+7	,	lpitarch	O	_	_	_	_	_	_	O	_
+8	ya	lpitarch	O	_	_	_	_	_	_	O	_
+9	expliqué	lpitarch	O	_	_	_	_	_	_	O	_
+10	que	lpitarch	O	_	_	_	_	_	_	O	_
+11	tenia	lpitarch	O	_	_	_	_	_	_	O	_
+12	metastasis	lpitarch	O	_	_	_	_	_	_	O	_
+13	de	lpitarch	O	_	_	_	_	_	_	O	_
+14	peritoneo	lpitarch	O	_	_	_	_	_	_	O	_
+15	y	lpitarch	O	_	_	_	_	_	_	O	_
+16	de	lpitarch	O	_	_	_	_	_	_	O	_
+17	pancreas	lpitarch	O	_	_	_	_	_	_	O	_
+18	,	lpitarch	O	_	_	_	_	_	_	O	_
+19	de	lpitarch	O	_	_	_	_	_	_	O	_
+20	este	lpitarch	O	_	_	_	_	_	_	O	_
+21	último	lpitarch	O	_	_	_	_	_	_	O	_
+22	hace	lpitarch	O	_	_	_	_	_	_	O	_
+23	ya	lpitarch	O	_	_	_	_	_	_	O	_
+24	un	lpitarch	O	_	_	_	_	_	_	O	_
+25	año	lpitarch	O	_	_	_	_	_	_	O	_
+26	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 35
+# text = No han crecido mucho, pero se decidieron a ponerme en tratamiento, algo parecido a una quimio en pastillas, se llama sunitinib, y estoy por el tercer mes.
+1	No	lpitarch	O	_	_	_	_	_	_	O	_
+2	han	lpitarch	O	_	_	_	_	_	_	O	_
+3	crecido	lpitarch	O	_	_	_	_	_	_	O	_
+4	mucho	lpitarch	O	_	_	_	_	_	_	O	_
+5	,	lpitarch	O	_	_	_	_	_	_	O	_
+6	pero	lpitarch	O	_	_	_	_	_	_	O	_
+7	se	lpitarch	O	_	_	_	_	_	_	O	_
+8	decidieron	lpitarch	O	_	_	_	_	_	_	O	_
+9	a	lpitarch	O	_	_	_	_	_	_	O	_
+10	ponerme	lpitarch	O	_	_	_	_	_	_	O	_
+11	en	lpitarch	O	_	_	_	_	_	_	O	_
+12	tratamiento	lpitarch	O	_	_	_	_	_	_	O	_
+13	,	lpitarch	O	_	_	_	_	_	_	O	_
+14	algo	lpitarch	O	_	_	_	_	_	_	O	_
+15	parecido	lpitarch	O	_	_	_	_	_	_	O	_
+16	a	lpitarch	O	_	_	_	_	_	_	O	_
+17	una	lpitarch	O	_	_	_	_	_	_	O	_
+18	quimio	lpitarch	O	_	_	_	_	_	_	O	_
+19	en	lpitarch	O	_	_	_	_	_	_	O	_
+20	pastillas	lpitarch	O	_	_	_	_	_	_	O	_
+21	,	lpitarch	O	_	_	_	_	_	_	O	_
+22	se	lpitarch	O	_	_	_	_	_	_	O	_
+23	llama	lpitarch	O	_	_	_	_	_	_	O	_
+24	sunitinib	lpitarch	O	_	_	_	_	_	_	O	_
+25	,	lpitarch	O	_	_	_	_	_	_	O	_
+26	y	lpitarch	O	_	_	_	_	_	_	O	_
+27	estoy	lpitarch	O	_	_	_	_	_	_	O	_
+28	por	lpitarch	O	_	_	_	_	_	_	O	_
+29	el	lpitarch	O	_	_	_	_	_	_	O	_
+30	tercer	lpitarch	O	_	_	_	_	_	_	O	_
+31	mes	lpitarch	O	_	_	_	_	_	_	O	_
+32	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 36
+# text = Estoy con muchos efectos secundarios, y a veces no todo lo animada que quisiera.
+1	Estoy	lpitarch	O	_	_	_	_	_	_	O	_
+2	con	lpitarch	O	_	_	_	_	_	_	O	_
+3	muchos	lpitarch	O	_	_	_	_	_	_	O	_
+4	efectos	lpitarch	O	_	_	_	_	_	_	O	_
+5	secundarios	lpitarch	O	_	_	_	_	_	_	O	_
+6	,	lpitarch	O	_	_	_	_	_	_	O	_
+7	y	lpitarch	O	_	_	_	_	_	_	O	_
+8	a	lpitarch	O	_	_	_	_	_	_	O	_
+9	veces	lpitarch	O	_	_	_	_	_	_	O	_
+10	no	lpitarch	O	_	_	_	_	_	_	O	_
+11	todo	lpitarch	O	_	_	_	_	_	_	O	_
+12	lo	lpitarch	O	_	_	_	_	_	_	O	_
+13	animada	lpitarch	O	_	_	_	_	_	_	O	_
+14	que	lpitarch	O	_	_	_	_	_	_	O	_
+15	quisiera	lpitarch	O	_	_	_	_	_	_	O	_
+16	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 37
+# text = El mes que viene me hacen el Tac, para ver si esta funcionando.
+1	El	lpitarch	O	_	_	_	_	_	_	O	_
+2	mes	lpitarch	O	_	_	_	_	_	_	O	_
+3	que	lpitarch	O	_	_	_	_	_	_	O	_
+4	viene	lpitarch	O	_	_	_	_	_	_	O	_
+5	me	lpitarch	O	_	_	_	_	_	_	O	_
+6	hacen	lpitarch	O	_	_	_	_	_	_	O	_
+7	el	lpitarch	O	_	_	_	_	_	_	O	_
+8	Tac	lpitarch	O	_	_	_	_	_	_	O	_
+9	,	lpitarch	O	_	_	_	_	_	_	O	_
+10	para	lpitarch	O	_	_	_	_	_	_	O	_
+11	ver	lpitarch	O	_	_	_	_	_	_	O	_
+12	si	lpitarch	O	_	_	_	_	_	_	O	_
+13	esta	lpitarch	O	_	_	_	_	_	_	O	_
+14	funcionando	lpitarch	O	_	_	_	_	_	_	O	_
+15	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 38
+# text = Espero que sea así.
+1	Espero	lpitarch	O	_	_	_	_	_	_	O	_
+2	que	lpitarch	O	_	_	_	_	_	_	O	_
+3	sea	lpitarch	O	_	_	_	_	_	_	O	_
+4	así	lpitarch	O	_	_	_	_	_	_	O	_
+5	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 39
+# text = Gracias por preguntar y darme la oportunidad de explicar.
+1	Gracias	lpitarch	O	_	_	_	_	_	_	O	_
+2	por	lpitarch	O	_	_	_	_	_	_	O	_
+3	preguntar	lpitarch	O	_	_	_	_	_	_	O	_
+4	y	lpitarch	O	_	_	_	_	_	_	O	_
+5	darme	lpitarch	O	_	_	_	_	_	_	O	_
+6	la	lpitarch	O	_	_	_	_	_	_	O	_
+7	oportunidad	lpitarch	O	_	_	_	_	_	_	O	_
+8	de	lpitarch	O	_	_	_	_	_	_	O	_
+9	explicar	lpitarch	O	_	_	_	_	_	_	O	_
+10	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 40
+# text = Un abrazo.\n\n
+1	Un	lpitarch	O	_	_	_	_	_	_	O	_
+2	abrazo	lpitarch	O	_	_	_	_	_	_	O	_
+3	.	lpitarch	O	_	_	_	_	_	_	O	_
+4	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 41
+# text = [Autor 24]: Hola, xxxx, me admira tu entereza.
+1	[	lpitarch	O	_	_	_	_	_	_	O	_
+2	Autor	lpitarch	O	_	_	_	_	_	_	O	_
+3	24	lpitarch	O	_	_	_	_	_	_	O	_
+4	]	lpitarch	O	_	_	_	_	_	_	O	_
+5	:	lpitarch	O	_	_	_	_	_	_	O	_
+6	Hola	lpitarch	O	_	_	_	_	_	_	O	_
+7	,	lpitarch	O	_	_	_	_	_	_	O	_
+8	xxxx	lpitarch	O	_	_	_	_	_	_	B	_
+9	,	lpitarch	O	_	_	_	_	_	_	O	_
+10	me	lpitarch	O	_	_	_	_	_	_	O	_
+11	admira	lpitarch	O	_	_	_	_	_	_	O	_
+12	tu	lpitarch	O	_	_	_	_	_	_	O	_
+13	entereza	lpitarch	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/entereza-14461231-n	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/entereza-05032193-n	_	Emociones	_	O	_
+14	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 42
+# text = Tu proceso es muy duro y ahí estás..
+1	Tu	lpitarch	O	_	_	_	_	_	_	O	_
+2	proceso	lpitarch	O	_	_	_	_	_	_	O	_
+3	es	lpitarch	O	_	_	_	_	_	_	O	_
+4	muy	lpitarch	O	_	_	_	_	_	_	O	_
+5	duro	lpitarch	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/duro-01152620-a|https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/duro-02445636-a	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/duro-00744916-a	_	Estar enfermo con cáncer|Estar enfermo con cáncer » Cambios vitales derivados del cáncer|Diagnóstico » Prognosis	_	O	_
+6	y	lpitarch	O	_	_	_	_	_	_	O	_
+7	ahí	lpitarch	O	_	_	_	_	_	_	O	_
+8	estás	lpitarch	O	_	_	_	_	_	_	O	_
+9	..	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 43
+# text = dando palabras de ánimo a los demás.
+1	dando	lpitarch	O	_	_	_	_	_	_	O	_
+2	palabras	lpitarch	O	_	_	_	_	_	_	O	_
+3	de	lpitarch	O	_	_	_	_	_	_	O	_
+4	ánimo	lpitarch	O	_	_	_	_	_	_	O	_
+5	a	lpitarch	O	_	_	_	_	_	_	O	_
+6	los	lpitarch	O	_	_	_	_	_	_	O	_
+7	demás	lpitarch	O	_	_	_	_	_	_	O	_
+8	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 44
+# text = Debes de ser una chica muy maja :-) Normal que no estés todo lo animada que quisieras en muchas ocasiones, cuando uno no se encuentra bien físicamente y tiene una situación de incertidumbre, tener malos momentos es natural, somo humanos...
+1	Debes	lpitarch	O	_	_	_	_	_	_	O	_
+2	de	lpitarch	O	_	_	_	_	_	_	O	_
+3	ser	lpitarch	O	_	_	_	_	_	_	O	_
+4	una	lpitarch	O	_	_	_	_	_	_	O	_
+5	chica	lpitarch	O	_	_	_	_	_	_	O	_
+6	muy	lpitarch	O	_	_	_	_	_	_	O	_
+7	maja	lpitarch	O	_	_	_	_	_	_	O	_
+8	:-)	lpitarch	O	_	_	_	_	_	_	O	_
+9	Normal	lpitarch	O	_	_	_	_	_	_	O	_
+10	que	lpitarch	O	_	_	_	_	_	_	O	_
+11	no	lpitarch	O	_	_	_	_	_	_	O	_
+12	estés	lpitarch	O	_	_	_	_	_	_	O	_
+13	todo	lpitarch	O	_	_	_	_	_	_	O	_
+14	lo	lpitarch	O	_	_	_	_	_	_	O	_
+15	animada	lpitarch	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/animado-00118066-a	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/animado-00362467-a	_	Emociones	_	O	_
+16	que	lpitarch	O	_	_	_	_	_	_	O	_
+17	quisieras	lpitarch	O	_	_	_	_	_	_	O	_
+18	en	lpitarch	O	_	_	_	_	_	_	O	_
+19	muchas	lpitarch	O	_	_	_	_	_	_	O	_
+20	ocasiones	lpitarch	O	_	_	_	_	_	_	O	_
+21	,	lpitarch	O	_	_	_	_	_	_	O	_
+22	cuando	lpitarch	O	_	_	_	_	_	_	O	_
+23	uno	lpitarch	O	_	_	_	_	_	_	O	_
+24	no	lpitarch	O	_	_	_	_	_	_	O	_
+25	se	lpitarch	O	_	_	_	_	_	_	O	_
+26	encuentra	lpitarch	O	_	_	_	_	_	_	O	_
+27	bien	lpitarch	O	_	_	_	_	_	_	O	_
+28	físicamente	lpitarch	O	_	_	_	_	_	_	O	_
+29	y	lpitarch	O	_	_	_	_	_	_	O	_
+30	tiene	lpitarch	O	_	_	_	_	_	_	O	_
+31	una	lpitarch	O	_	_	_	_	_	_	O	_
+32	situación	lpitarch	O	_	_	_	_	_	_	O	_
+33	de	lpitarch	O	_	_	_	_	_	_	O	_
+34	incertidumbre	lpitarch	O	_	_	_	_	_	_	O	_
+35	,	lpitarch	O	_	_	_	_	_	_	O	_
+36	tener	lpitarch	O	_	_	_	_	_	_	O	_
+37	malos	lpitarch	O	_	_	_	_	_	_	O	_
+38	momentos	lpitarch	O	_	_	_	_	_	_	O	_
+39	es	lpitarch	O	_	_	_	_	_	_	O	_
+40	natural	lpitarch	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/natural-01570892-a	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/natural-01595050-a	_	emociones >> aceptación	_	O	_
+41	,	lpitarch	O	_	_	_	_	_	_	O	_
+42	somo	lpitarch	O	_	_	_	_	_	_	O	_
+43	humanos	lpitarch	O	_	_	_	_	_	_	O	_
+44	...	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 45
+# text = No te sientas mal, al revés, y expúlsalo.
+1	No	lpitarch	O	_	_	_	_	_	_	O	_
+2	te	lpitarch	O	_	_	_	_	_	_	O	_
+3	sientas	lpitarch	O	_	_	_	_	_	_	O	_
+4	mal	lpitarch	O	_	_	_	_	_	_	O	_
+5	,	lpitarch	O	_	_	_	_	_	_	O	_
+6	al	lpitarch	O	_	_	_	_	_	_	O	_
+7	revés	lpitarch	O	_	_	_	_	_	_	O	_
+8	,	lpitarch	O	_	_	_	_	_	_	O	_
+9	y	lpitarch	O	_	_	_	_	_	_	O	_
+10	expúlsalo	lpitarch	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/expulsar-00077071-v|https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/expulsar-02076999-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/desahogado-00479330-a	_	emociones >> desahogarse	_	O	_
+11	.	lpitarch	I	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/expulsar-00077071-v|https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/expulsar-02076999-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/desahogado-00479330-a	_	emociones >> desahogarse	_	O	_
+
+# sent_id = 46
+# text = Cuando estés de bajón, si te apetece hablar, escríbeme por mi web (es que no quiero hacer público mi mail) Estaría encantada de charlar contigo.\n\n
+1	Cuando	lpitarch	I	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/expulsar-00077071-v|https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/expulsar-02076999-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/desahogado-00479330-a	_	emociones >> desahogarse	_	O	_
+2	estés	lpitarch	O	_	_	_	_	_	_	O	_
+3	de	lpitarch	O	_	_	_	_	_	_	O	_
+4	bajón	lpitarch	O	_	_	_	_	_	_	O	_
+5	,	lpitarch	O	_	_	_	_	_	_	O	_
+6	si	lpitarch	O	_	_	_	_	_	_	O	_
+7	te	lpitarch	O	_	_	_	_	_	_	O	_
+8	apetece	lpitarch	O	_	_	_	_	_	_	O	_
+9	hablar	lpitarch	O	_	_	_	_	_	_	O	_
+10	,	lpitarch	O	_	_	_	_	_	_	O	_
+11	escríbeme	lpitarch	O	_	_	_	_	_	_	O	_
+12	por	lpitarch	O	_	_	_	_	_	_	O	_
+13	mi	lpitarch	O	_	_	_	_	_	_	O	_
+14	web	lpitarch	O	_	_	_	_	_	_	O	_
+15	(	lpitarch	O	_	_	_	_	_	_	O	_
+16	es	lpitarch	O	_	_	_	_	_	_	O	_
+17	que	lpitarch	O	_	_	_	_	_	_	O	_
+18	no	lpitarch	O	_	_	_	_	_	_	O	_
+19	quiero	lpitarch	O	_	_	_	_	_	_	O	_
+20	hacer	lpitarch	O	_	_	_	_	_	_	O	_
+21	público	lpitarch	O	_	_	_	_	_	_	O	_
+22	mi	lpitarch	O	_	_	_	_	_	_	O	_
+23	mail	lpitarch	O	_	_	_	_	_	_	O	_
+24	)	lpitarch	O	_	_	_	_	_	_	O	_
+25	Estaría	lpitarch	O	_	_	_	_	_	_	O	_
+26	encantada	lpitarch	O	_	_	_	_	_	_	O	_
+27	de	lpitarch	O	_	_	_	_	_	_	O	_
+28	charlar	lpitarch	O	_	_	_	_	_	_	O	_
+29	contigo	lpitarch	O	_	_	_	_	_	_	O	_
+30	.	lpitarch	O	_	_	_	_	_	_	O	_
+31	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 47
+# text = Un abrazo\n\n[Autor 18]: Hola, no había visto tu mensaje, es lo que tiene este foro...
+1	Un	lpitarch	O	_	_	_	_	_	_	O	_
+2	abrazo	lpitarch	O	_	_	_	_	_	_	O	_
+3	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+4	[	lpitarch	O	_	_	_	_	_	_	O	_
+5	Autor	lpitarch	O	_	_	_	_	_	_	O	_
+6	18	lpitarch	O	_	_	_	_	_	_	O	_
+7	]	lpitarch	O	_	_	_	_	_	_	O	_
+8	:	lpitarch	O	_	_	_	_	_	_	O	_
+9	Hola	lpitarch	O	_	_	_	_	_	_	O	_
+10	,	lpitarch	O	_	_	_	_	_	_	O	_
+11	no	lpitarch	O	_	_	_	_	_	_	O	_
+12	había	lpitarch	O	_	_	_	_	_	_	O	_
+13	visto	lpitarch	O	_	_	_	_	_	_	O	_
+14	tu	lpitarch	O	_	_	_	_	_	_	O	_
+15	mensaje	lpitarch	O	_	_	_	_	_	_	O	_
+16	,	lpitarch	O	_	_	_	_	_	_	O	_
+17	es	lpitarch	O	_	_	_	_	_	_	O	_
+18	lo	lpitarch	O	_	_	_	_	_	_	O	_
+19	que	lpitarch	O	_	_	_	_	_	_	O	_
+20	tiene	lpitarch	O	_	_	_	_	_	_	O	_
+21	este	lpitarch	O	_	_	_	_	_	_	O	_
+22	foro	lpitarch	O	_	_	_	_	_	_	O	_
+23	...	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 48
+# text = De acuerdo seguimos charlando por la web.
+1	De	lpitarch	O	_	_	_	_	_	_	O	_
+2	acuerdo	lpitarch	O	_	_	_	_	_	_	O	_
+3	seguimos	lpitarch	O	_	_	_	_	_	_	O	_
+4	charlando	lpitarch	O	_	_	_	_	_	_	O	_
+5	por	lpitarch	O	_	_	_	_	_	_	O	_
+6	la	lpitarch	O	_	_	_	_	_	_	O	_
+7	web	lpitarch	O	_	_	_	_	_	_	O	_
+8	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 49
+# text = Un abrazo.\n\n
+1	Un	lpitarch	O	_	_	_	_	_	_	O	_
+2	abrazo	lpitarch	O	_	_	_	_	_	_	O	_
+3	.	lpitarch	O	_	_	_	_	_	_	O	_
+4	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 50
+# text = [Autor 18]: Hola, no había visto tu mensaje, es lo que tiene este foro...
+1	[	lpitarch	O	_	_	_	_	_	_	O	_
+2	Autor	lpitarch	O	_	_	_	_	_	_	O	_
+3	18	lpitarch	O	_	_	_	_	_	_	O	_
+4	]	lpitarch	O	_	_	_	_	_	_	O	_
+5	:	lpitarch	O	_	_	_	_	_	_	O	_
+6	Hola	lpitarch	O	_	_	_	_	_	_	O	_
+7	,	lpitarch	O	_	_	_	_	_	_	O	_
+8	no	lpitarch	O	_	_	_	_	_	_	O	_
+9	había	lpitarch	O	_	_	_	_	_	_	O	_
+10	visto	lpitarch	O	_	_	_	_	_	_	O	_
+11	tu	lpitarch	O	_	_	_	_	_	_	O	_
+12	mensaje	lpitarch	O	_	_	_	_	_	_	O	_
+13	,	lpitarch	O	_	_	_	_	_	_	O	_
+14	es	lpitarch	O	_	_	_	_	_	_	O	_
+15	lo	lpitarch	O	_	_	_	_	_	_	O	_
+16	que	lpitarch	O	_	_	_	_	_	_	O	_
+17	tiene	lpitarch	O	_	_	_	_	_	_	O	_
+18	este	lpitarch	O	_	_	_	_	_	_	O	_
+19	foro	lpitarch	O	_	_	_	_	_	_	O	_
+20	...	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 51
+# text = De acuerdo seguimos charlando por la web.
+1	De	lpitarch	O	_	_	_	_	_	_	O	_
+2	acuerdo	lpitarch	O	_	_	_	_	_	_	O	_
+3	seguimos	lpitarch	O	_	_	_	_	_	_	O	_
+4	charlando	lpitarch	O	_	_	_	_	_	_	O	_
+5	por	lpitarch	O	_	_	_	_	_	_	O	_
+6	la	lpitarch	O	_	_	_	_	_	_	O	_
+7	web	lpitarch	O	_	_	_	_	_	_	O	_
+8	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 52
+# text = Un abrazo.\n\n
+1	Un	lpitarch	O	_	_	_	_	_	_	O	_
+2	abrazo	lpitarch	O	_	_	_	_	_	_	O	_
+3	.	lpitarch	O	_	_	_	_	_	_	O	_
+4	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 53
+# text = [Autor 18]: Hola! Que tal sigue tu niño?
+1	[	lpitarch	O	_	_	_	_	_	_	O	_
+2	Autor	lpitarch	O	_	_	_	_	_	_	O	_
+3	18	lpitarch	O	_	_	_	_	_	_	O	_
+4	]	lpitarch	O	_	_	_	_	_	_	O	_
+5	:	lpitarch	O	_	_	_	_	_	_	O	_
+6	Hola	lpitarch	O	_	_	_	_	_	_	O	_
+7	!	lpitarch	O	_	_	_	_	_	_	O	_
+8	Que	lpitarch	O	_	_	_	_	_	_	O	_
+9	tal	lpitarch	O	_	_	_	_	_	_	O	_
+10	sigue	lpitarch	O	_	_	_	_	_	_	O	_
+11	tu	lpitarch	O	_	_	_	_	_	_	O	_
+12	niño	lpitarch	O	_	_	_	_	_	_	O	_
+13	?	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 54
+# text = Espero que esté muy bien un abrazo.\n\n
+1	Espero	lpitarch	O	_	_	_	_	_	_	O	_
+2	que	lpitarch	O	_	_	_	_	_	_	O	_
+3	esté	lpitarch	O	_	_	_	_	_	_	O	_
+4	muy	lpitarch	O	_	_	_	_	_	_	O	_
+5	bien	lpitarch	O	_	_	_	_	_	_	O	_
+6	un	lpitarch	O	_	_	_	_	_	_	O	_
+7	abrazo	lpitarch	O	_	_	_	_	_	_	O	_
+8	.	lpitarch	O	_	_	_	_	_	_	O	_
+9	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 55
+# text = [Autor 18]: Hola a todos! Añado actualización a mi historia por si a alguien le sirve.
+1	[	lpitarch	O	_	_	_	_	_	_	O	_
+2	Autor	lpitarch	O	_	_	_	_	_	_	O	_
+3	18	lpitarch	O	_	_	_	_	_	_	O	_
+4	]	lpitarch	O	_	_	_	_	_	_	O	_
+5	:	lpitarch	O	_	_	_	_	_	_	O	_
+6	Hola	lpitarch	O	_	_	_	_	_	_	O	_
+7	a	lpitarch	O	_	_	_	_	_	_	O	_
+8	todos	lpitarch	O	_	_	_	_	_	_	O	_
+9	!	lpitarch	O	_	_	_	_	_	_	O	_
+10	Añado	lpitarch	O	_	_	_	_	_	_	O	_
+11	actualización	lpitarch	O	_	_	_	_	_	_	O	_
+12	a	lpitarch	O	_	_	_	_	_	_	O	_
+13	mi	lpitarch	O	_	_	_	_	_	_	O	_
+14	historia	lpitarch	O	_	_	_	_	_	_	O	_
+15	por	lpitarch	O	_	_	_	_	_	_	O	_
+16	si	lpitarch	O	_	_	_	_	_	_	O	_
+17	a	lpitarch	O	_	_	_	_	_	_	O	_
+18	alguien	lpitarch	O	_	_	_	_	_	_	O	_
+19	le	lpitarch	O	_	_	_	_	_	_	O	_
+20	sirve	lpitarch	O	_	_	_	_	_	_	O	_
+21	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 56
+# text = Ya tengo varias metástasis peritoneo y pancreas.
+1	Ya	lpitarch	O	_	_	_	_	_	_	O	_
+2	tengo	lpitarch	O	_	_	_	_	_	_	O	_
+3	varias	lpitarch	O	_	_	_	_	_	_	O	_
+4	metástasis	lpitarch	O	_	_	_	_	_	_	O	_
+5	peritoneo	lpitarch	O	_	_	_	_	_	_	O	_
+6	y	lpitarch	O	_	_	_	_	_	_	O	_
+7	pancreas	lpitarch	O	_	_	_	_	_	_	O	_
+8	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 57
+# text = Finalmente se decidieron a ponerme en tratamiento, sunitinib, en mi caso, llevo con él diez meses, hasta la fecha ha sido muy duro pero ha ido menguando de tamaño y no ha habido ninguna nueva aparición, cosa que es muy importante.
+1	Finalmente	lpitarch	O	_	_	_	_	_	_	O	_
+2	se	lpitarch	O	_	_	_	_	_	_	O	_
+3	decidieron	lpitarch	O	_	_	_	_	_	_	O	_
+4	a	lpitarch	O	_	_	_	_	_	_	O	_
+5	ponerme	lpitarch	O	_	_	_	_	_	_	O	_
+6	en	lpitarch	O	_	_	_	_	_	_	O	_
+7	tratamiento	lpitarch	O	_	_	_	_	_	_	O	_
+8	,	lpitarch	O	_	_	_	_	_	_	O	_
+9	sunitinib	lpitarch	O	_	_	_	_	_	_	O	_
+10	,	lpitarch	O	_	_	_	_	_	_	O	_
+11	en	lpitarch	O	_	_	_	_	_	_	O	_
+12	mi	lpitarch	O	_	_	_	_	_	_	O	_
+13	caso	lpitarch	O	_	_	_	_	_	_	O	_
+14	,	lpitarch	O	_	_	_	_	_	_	O	_
+15	llevo	lpitarch	O	_	_	_	_	_	_	O	_
+16	con	lpitarch	O	_	_	_	_	_	_	O	_
+17	él	lpitarch	O	_	_	_	_	_	_	O	_
+18	diez	lpitarch	O	_	_	_	_	_	_	O	_
+19	meses	lpitarch	O	_	_	_	_	_	_	O	_
+20	,	lpitarch	O	_	_	_	_	_	_	O	_
+21	hasta	lpitarch	O	_	_	_	_	_	_	O	_
+22	la	lpitarch	O	_	_	_	_	_	_	O	_
+23	fecha	lpitarch	O	_	_	_	_	_	_	O	_
+24	ha	lpitarch	O	_	_	_	_	_	_	O	_
+25	sido	lpitarch	O	_	_	_	_	_	_	O	_
+26	muy	lpitarch	O	_	_	_	_	_	_	O	_
+27	duro	lpitarch	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/duro-01152620-a|https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/duro-02445636-a	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/duro-00744916-a	_	Estar enfermo con cáncer » Efectos secundarios	_	O	_
+28	pero	lpitarch	O	_	_	_	_	_	_	O	_
+29	ha	lpitarch	O	_	_	_	_	_	_	O	_
+30	ido	lpitarch	O	_	_	_	_	_	_	O	_
+31	menguando	lpitarch	O	_	_	_	_	_	_	O	_
+32	de	lpitarch	O	_	_	_	_	_	_	O	_
+33	tamaño	lpitarch	O	_	_	_	_	_	_	O	_
+34	y	lpitarch	O	_	_	_	_	_	_	O	_
+35	no	lpitarch	O	_	_	_	_	_	_	O	_
+36	ha	lpitarch	O	_	_	_	_	_	_	O	_
+37	habido	lpitarch	O	_	_	_	_	_	_	O	_
+38	ninguna	lpitarch	O	_	_	_	_	_	_	O	_
+39	nueva	lpitarch	O	_	_	_	_	_	_	O	_
+40	aparición	lpitarch	B	_	_	_	_	Estar enfermo con cáncer » Recaída	_	O	_
+41	,	lpitarch	O	_	_	_	_	_	_	O	_
+42	cosa	lpitarch	O	_	_	_	_	_	_	O	_
+43	que	lpitarch	O	_	_	_	_	_	_	O	_
+44	es	lpitarch	O	_	_	_	_	_	_	O	_
+45	muy	lpitarch	O	_	_	_	_	_	_	O	_
+46	importante	lpitarch	O	_	_	_	_	_	_	O	_
+47	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 58
+# text = En el último TAC veo que hay un ligero crecimiento y estoy a la espera de la oncóloga para que me diga que haremos.
+1	En	lpitarch	O	_	_	_	_	_	_	O	_
+2	el	lpitarch	O	_	_	_	_	_	_	O	_
+3	último	lpitarch	O	_	_	_	_	_	_	O	_
+4	TAC	lpitarch	O	_	_	_	_	_	_	O	_
+5	veo	lpitarch	O	_	_	_	_	_	_	O	_
+6	que	lpitarch	O	_	_	_	_	_	_	O	_
+7	hay	lpitarch	O	_	_	_	_	_	_	O	_
+8	un	lpitarch	O	_	_	_	_	_	_	O	_
+9	ligero	lpitarch	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/ligero-01186733-a	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/peque%C3%B1o-01391351-a	_	Cancer » Tecnicismo cáncer	_	O	_
+10	crecimiento	lpitarch	O	_	_	_	_	_	_	O	_
+11	y	lpitarch	O	_	_	_	_	_	_	O	_
+12	estoy	lpitarch	O	_	_	_	_	_	_	O	_
+13	a	lpitarch	O	_	_	_	_	_	_	O	_
+14	la	lpitarch	O	_	_	_	_	_	_	O	_
+15	espera	lpitarch	O	_	_	_	_	_	_	O	_
+16	de	lpitarch	O	_	_	_	_	_	_	O	_
+17	la	lpitarch	O	_	_	_	_	_	_	O	_
+18	oncóloga	lpitarch	O	_	_	_	_	_	_	O	_
+19	para	lpitarch	O	_	_	_	_	_	_	O	_
+20	que	lpitarch	O	_	_	_	_	_	_	O	_
+21	me	lpitarch	O	_	_	_	_	_	_	O	_
+22	diga	lpitarch	O	_	_	_	_	_	_	O	_
+23	que	lpitarch	O	_	_	_	_	_	_	O	_
+24	haremos	lpitarch	O	_	_	_	_	_	_	O	_
+25	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 59
+# text = Espero que si alguien lee esto, vea que metastasis no es igual a muerte inminente, ya que gracias a Dios ya llevo tres años con esto y sigo haciendo vida más o menos normal y trabajando.
+1	Espero	lpitarch	O	_	_	_	_	_	_	O	_
+2	que	lpitarch	O	_	_	_	_	_	_	O	_
+3	si	lpitarch	O	_	_	_	_	_	_	O	_
+4	alguien	lpitarch	O	_	_	_	_	_	_	O	_
+5	lee	lpitarch	O	_	_	_	_	_	_	O	_
+6	esto	lpitarch	O	_	_	_	_	_	_	O	_
+7	,	lpitarch	O	_	_	_	_	_	_	O	_
+8	vea	lpitarch	O	_	_	_	_	_	_	O	_
+9	que	lpitarch	O	_	_	_	_	_	_	O	_
+10	metastasis	lpitarch	O	_	_	_	_	_	_	O	_
+11	no	lpitarch	O	_	_	_	_	_	_	O	_
+12	es	lpitarch	O	_	_	_	_	_	_	O	_
+13	igual	lpitarch	O	_	_	_	_	_	_	O	_
+14	a	lpitarch	O	_	_	_	_	_	_	O	_
+15	muerte	lpitarch	O	_	_	_	_	_	_	O	_
+16	inminente	lpitarch	O	_	_	_	_	_	_	O	_
+17	,	lpitarch	O	_	_	_	_	_	_	O	_
+18	ya	lpitarch	O	_	_	_	_	_	_	O	_
+19	que	lpitarch	O	_	_	_	_	_	_	O	_
+20	gracias	lpitarch	O	_	_	_	_	_	_	O	_
+21	a	lpitarch	O	_	_	_	_	_	_	O	_
+22	Dios	lpitarch	O	_	_	_	_	_	_	O	_
+23	ya	lpitarch	O	_	_	_	_	_	_	O	_
+24	llevo	lpitarch	O	_	_	_	_	_	_	O	_
+25	tres	lpitarch	O	_	_	_	_	_	_	O	_
+26	años	lpitarch	O	_	_	_	_	_	_	O	_
+27	con	lpitarch	O	_	_	_	_	_	_	O	_
+28	esto	lpitarch	O	_	_	_	_	_	_	O	_
+29	y	lpitarch	O	_	_	_	_	_	_	O	_
+30	sigo	lpitarch	O	_	_	_	_	_	_	O	_
+31	haciendo	lpitarch	O	_	_	_	_	_	_	O	_
+32	vida	lpitarch	O	_	_	_	_	_	_	O	_
+33	más	lpitarch	O	_	_	_	_	_	_	O	_
+34	o	lpitarch	O	_	_	_	_	_	_	O	_
+35	menos	lpitarch	O	_	_	_	_	_	_	O	_
+36	normal	lpitarch	O	_	_	_	_	_	_	O	_
+37	y	lpitarch	O	_	_	_	_	_	_	O	_
+38	trabajando	lpitarch	O	_	_	_	_	_	_	O	_
+39	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 60
+# text = Cada vez hay mejores tratamientos, hay que aguantar, hasta que la ciencia encuentre lo que todos esperamos.\n\n
+1	Cada	lpitarch	O	_	_	_	_	_	_	O	_
+2	vez	lpitarch	O	_	_	_	_	_	_	O	_
+3	hay	lpitarch	O	_	_	_	_	_	_	O	_
+4	mejores	lpitarch	O	_	_	_	_	_	_	O	_
+5	tratamientos	lpitarch	O	_	_	_	_	_	_	O	_
+6	,	lpitarch	O	_	_	_	_	_	_	O	_
+7	hay	lpitarch	O	_	_	_	_	_	_	O	_
+8	que	lpitarch	O	_	_	_	_	_	_	O	_
+9	aguantar	lpitarch	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/aguantar-01301410-v|https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/aguantar-02450989-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/aguantar-00668099-v|https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/aguantar-02706816-v	_	Estar enfermo con cáncer|Emociones » Molestia (física o mental)	_	O	_
+10	,	lpitarch	O	_	_	_	_	_	_	O	_
+11	hasta	lpitarch	O	_	_	_	_	_	_	O	_
+12	que	lpitarch	O	_	_	_	_	_	_	O	_
+13	la	lpitarch	O	_	_	_	_	_	_	O	_
+14	ciencia	lpitarch	O	_	_	_	_	_	_	O	_
+15	encuentre	lpitarch	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/encontrar-01313923-v|https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/encontrar-02285629-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/encontrar-00918872-v	_	Otros » Medicina	metonimia	O	_
+16	lo	lpitarch	O	_	_	_	_	_	_	O	_
+17	que	lpitarch	O	_	_	_	_	_	_	O	_
+18	todos	lpitarch	O	_	_	_	_	_	_	O	_
+19	esperamos	lpitarch	O	_	_	_	_	_	_	O	_
+20	.	lpitarch	O	_	_	_	_	_	_	O	_
+21	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 61
+# text = [Autor 20]: Hola xxxx!\n\nmi marido le han detectado en noviembre un cancer renal en estado IV, con metastasis en la pelvis.
+1	[	lpitarch	O	_	_	_	_	_	_	O	_
+2	Autor	lpitarch	O	_	_	_	_	_	_	O	_
+3	20	lpitarch	O	_	_	_	_	_	_	O	_
+4	]	lpitarch	O	_	_	_	_	_	_	O	_
+5	:	lpitarch	O	_	_	_	_	_	_	O	_
+6	Hola	lpitarch	O	_	_	_	_	_	_	O	_
+7	xxxx	lpitarch	O	_	_	_	_	_	_	O	_
+8	!	lpitarch	O	_	_	_	_	_	_	O	_
+9	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+10	mi	lpitarch	O	_	_	_	_	_	_	O	_
+11	marido	lpitarch	O	_	_	_	_	_	_	O	_
+12	le	lpitarch	O	_	_	_	_	_	_	O	_
+13	han	lpitarch	O	_	_	_	_	_	_	O	_
+14	detectado	lpitarch	O	_	_	_	_	_	_	O	_
+15	en	lpitarch	O	_	_	_	_	_	_	O	_
+16	noviembre	lpitarch	O	_	_	_	_	_	_	O	_
+17	un	lpitarch	O	_	_	_	_	_	_	O	_
+18	cancer	lpitarch	O	_	_	_	_	_	_	O	_
+19	renal	lpitarch	O	_	_	_	_	_	_	O	_
+20	en	lpitarch	O	_	_	_	_	_	_	O	_
+21	estado	lpitarch	O	_	_	_	_	_	_	O	_
+22	IV	lpitarch	O	_	_	_	_	_	_	O	_
+23	,	lpitarch	O	_	_	_	_	_	_	O	_
+24	con	lpitarch	O	_	_	_	_	_	_	O	_
+25	metastasis	lpitarch	O	_	_	_	_	_	_	O	_
+26	en	lpitarch	O	_	_	_	_	_	_	O	_
+27	la	lpitarch	O	_	_	_	_	_	_	O	_
+28	pelvis	lpitarch	O	_	_	_	_	_	_	O	_
+29	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 62
+# text = No es tu mismo caso, pero leer en gente real que las metastasis no siempre son muerte sin remedio... me reconforta!...
+1	No	lpitarch	O	_	_	_	_	_	_	O	_
+2	es	lpitarch	O	_	_	_	_	_	_	O	_
+3	tu	lpitarch	O	_	_	_	_	_	_	O	_
+4	mismo	lpitarch	O	_	_	_	_	_	_	O	_
+5	caso	lpitarch	O	_	_	_	_	_	_	O	_
+6	,	lpitarch	O	_	_	_	_	_	_	O	_
+7	pero	lpitarch	O	_	_	_	_	_	_	O	_
+8	leer	lpitarch	O	_	_	_	_	_	_	O	_
+9	en	lpitarch	O	_	_	_	_	_	_	O	_
+10	gente	lpitarch	O	_	_	_	_	_	_	O	_
+11	real	lpitarch	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/real-00043765-a|https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/real-01932973-a	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/real-02460964-a	_	personas>>apoyo|Personas involucradas	_	O	_
+12	que	lpitarch	O	_	_	_	_	_	_	O	_
+13	las	lpitarch	O	_	_	_	_	_	_	O	_
+14	metastasis	lpitarch	O	_	_	_	_	_	_	O	_
+15	no	lpitarch	O	_	_	_	_	_	_	O	_
+16	siempre	lpitarch	O	_	_	_	_	_	_	O	_
+17	son	lpitarch	O	_	_	_	_	_	_	O	_
+18	muerte	lpitarch	O	_	_	_	_	_	_	O	_
+19	sin	lpitarch	O	_	_	_	_	_	_	O	_
+20	remedio	lpitarch	O	_	_	_	_	_	_	O	_
+21	...	lpitarch	O	_	_	_	_	_	_	O	_
+22	me	lpitarch	O	_	_	_	_	_	_	O	_
+23	reconforta	lpitarch	O	_	_	_	_	_	_	O	_
+24	!	lpitarch	O	_	_	_	_	_	_	O	_
+25	...	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 63
+# text = a el le estan dando imnunoterapia, porque efectivamente, la quimio, para el riñon no funciona.\n\n
+1	a	lpitarch	O	_	_	_	_	_	_	O	_
+2	el	lpitarch	O	_	_	_	_	_	_	O	_
+3	le	lpitarch	O	_	_	_	_	_	_	O	_
+4	estan	lpitarch	O	_	_	_	_	_	_	O	_
+5	dando	lpitarch	O	_	_	_	_	_	_	O	_
+6	imnunoterapia	lpitarch	O	_	_	_	_	_	_	O	_
+7	,	lpitarch	O	_	_	_	_	_	_	O	_
+8	porque	lpitarch	O	_	_	_	_	_	_	O	_
+9	efectivamente	lpitarch	O	_	_	_	_	_	_	O	_
+10	,	lpitarch	O	_	_	_	_	_	_	O	_
+11	la	lpitarch	O	_	_	_	_	_	_	O	_
+12	quimio	lpitarch	O	_	_	_	_	_	_	O	_
+13	,	lpitarch	O	_	_	_	_	_	_	O	_
+14	para	lpitarch	O	_	_	_	_	_	_	O	_
+15	el	lpitarch	O	_	_	_	_	_	_	O	_
+16	riñon	lpitarch	O	_	_	_	_	_	_	O	_
+17	no	lpitarch	O	_	_	_	_	_	_	O	_
+18	funciona	lpitarch	O	_	_	_	_	_	_	O	_
+19	.	lpitarch	O	_	_	_	_	_	_	O	_
+20	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 64
+# text = Te deseo todo lo mejor!!!!\n\n
+1	Te	lpitarch	O	_	_	_	_	_	_	O	_
+2	deseo	lpitarch	O	_	_	_	_	_	_	O	_
+3	todo	lpitarch	O	_	_	_	_	_	_	O	_
+4	lo	lpitarch	O	_	_	_	_	_	_	O	_
+5	mejor	lpitarch	O	_	_	_	_	_	_	O	_
+6	!	lpitarch	O	_	_	_	_	_	_	O	_
+7	!	lpitarch	O	_	_	_	_	_	_	O	_
+8	!	lpitarch	O	_	_	_	_	_	_	O	_
+9	!	lpitarch	O	_	_	_	_	_	_	O	_
+10	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 65
+# text = [Autor 18]: Hola xxxxx, la inmunoterapia está funcionando muy bien en primera linea de tratamiento, espero que le vaya genial, además normalmente no tiene efectos secundarios, lo que es lo más, pq la quimio tiene lo suyo.
+1	[	lpitarch	O	_	_	_	_	_	_	O	_
+2	Autor	lpitarch	O	_	_	_	_	_	_	O	_
+3	18	lpitarch	O	_	_	_	_	_	_	O	_
+4	]	lpitarch	O	_	_	_	_	_	_	O	_
+5	:	lpitarch	O	_	_	_	_	_	_	O	_
+6	Hola	lpitarch	O	_	_	_	_	_	_	O	_
+7	xxxxx	lpitarch	O	_	_	_	_	_	_	B	_
+8	,	lpitarch	O	_	_	_	_	_	_	O	_
+9	la	lpitarch	O	_	_	_	_	_	_	O	_
+10	inmunoterapia	lpitarch	O	_	_	_	_	_	_	O	_
+11	está	lpitarch	O	_	_	_	_	_	_	O	_
+12	funcionando	lpitarch	O	_	_	_	_	_	_	O	_
+13	muy	lpitarch	O	_	_	_	_	_	_	O	_
+14	bien	lpitarch	O	_	_	_	_	_	_	O	_
+15	en	lpitarch	O	_	_	_	_	_	_	O	_
+16	primera	lpitarch	O	_	_	_	_	_	_	O	_
+17	linea	lpitarch	O	_	_	_	_	_	_	O	_
+18	de	lpitarch	O	_	_	_	_	_	_	O	_
+19	tratamiento	lpitarch	O	_	_	_	_	_	_	O	_
+20	,	lpitarch	O	_	_	_	_	_	_	O	_
+21	espero	lpitarch	O	_	_	_	_	_	_	O	_
+22	que	lpitarch	O	_	_	_	_	_	_	O	_
+23	le	lpitarch	O	_	_	_	_	_	_	O	_
+24	vaya	lpitarch	O	_	_	_	_	_	_	O	_
+25	genial	lpitarch	O	_	_	_	_	_	_	O	_
+26	,	lpitarch	O	_	_	_	_	_	_	O	_
+27	además	lpitarch	O	_	_	_	_	_	_	O	_
+28	normalmente	lpitarch	O	_	_	_	_	_	_	O	_
+29	no	lpitarch	O	_	_	_	_	_	_	O	_
+30	tiene	lpitarch	O	_	_	_	_	_	_	O	_
+31	efectos	lpitarch	O	_	_	_	_	_	_	O	_
+32	secundarios	lpitarch	O	_	_	_	_	_	_	O	_
+33	,	lpitarch	O	_	_	_	_	_	_	O	_
+34	lo	lpitarch	O	_	_	_	_	_	_	O	_
+35	que	lpitarch	O	_	_	_	_	_	_	O	_
+36	es	lpitarch	O	_	_	_	_	_	_	O	_
+37	lo	lpitarch	O	_	_	_	_	_	_	O	_
+38	más	lpitarch	O	_	_	_	_	_	_	O	_
+39	,	lpitarch	O	_	_	_	_	_	_	O	_
+40	pq	lpitarch	O	_	_	_	_	_	_	O	_
+41	la	lpitarch	O	_	_	_	_	_	_	O	_
+42	quimio	lpitarch	O	_	_	_	_	_	_	O	_
+43	tiene	lpitarch	O	_	_	_	_	_	_	O	_
+44	lo	lpitarch	O	_	_	_	_	_	_	O	_
+45	suyo	lpitarch	O	_	_	_	_	_	_	O	_
+46	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 66
+# text = Si te apatece hay una asociación de cancer renal y tenemos un grupo de wahtscon gente que esta en la misma situación que tu marido y yo, así charlamos sobre el tratamiento, sobre los efectos secundarios, sobre como está la investigación de nuestro cancer, etc.
+1	Si	lpitarch	O	_	_	_	_	_	_	O	_
+2	te	lpitarch	O	_	_	_	_	_	_	O	_
+3	apatece	lpitarch	O	_	_	_	_	_	_	O	_
+4	hay	lpitarch	O	_	_	_	_	_	_	O	_
+5	una	lpitarch	O	_	_	_	_	_	_	O	_
+6	asociación	lpitarch	O	_	_	_	_	_	_	O	_
+7	de	lpitarch	O	_	_	_	_	_	_	O	_
+8	cancer	lpitarch	O	_	_	_	_	_	_	O	_
+9	renal	lpitarch	O	_	_	_	_	_	_	O	_
+10	y	lpitarch	O	_	_	_	_	_	_	O	_
+11	tenemos	lpitarch	O	_	_	_	_	_	_	O	_
+12	un	lpitarch	O	_	_	_	_	_	_	O	_
+13	grupo	lpitarch	O	_	_	_	_	_	_	O	_
+14	de	lpitarch	O	_	_	_	_	_	_	O	_
+15	wahtscon	lpitarch	O	_	_	_	_	_	_	O	_
+16	gente	lpitarch	O	_	_	_	_	_	_	O	_
+17	que	lpitarch	O	_	_	_	_	_	_	O	_
+18	esta	lpitarch	O	_	_	_	_	_	_	O	_
+19	en	lpitarch	O	_	_	_	_	_	_	O	_
+20	la	lpitarch	O	_	_	_	_	_	_	O	_
+21	misma	lpitarch	O	_	_	_	_	_	_	O	_
+22	situación	lpitarch	O	_	_	_	_	_	_	O	_
+23	que	lpitarch	O	_	_	_	_	_	_	O	_
+24	tu	lpitarch	O	_	_	_	_	_	_	O	_
+25	marido	lpitarch	O	_	_	_	_	_	_	O	_
+26	y	lpitarch	O	_	_	_	_	_	_	O	_
+27	yo	lpitarch	O	_	_	_	_	_	_	O	_
+28	,	lpitarch	O	_	_	_	_	_	_	O	_
+29	así	lpitarch	O	_	_	_	_	_	_	O	_
+30	charlamos	lpitarch	O	_	_	_	_	_	_	O	_
+31	sobre	lpitarch	O	_	_	_	_	_	_	O	_
+32	el	lpitarch	O	_	_	_	_	_	_	O	_
+33	tratamiento	lpitarch	O	_	_	_	_	_	_	O	_
+34	,	lpitarch	O	_	_	_	_	_	_	O	_
+35	sobre	lpitarch	O	_	_	_	_	_	_	O	_
+36	los	lpitarch	O	_	_	_	_	_	_	O	_
+37	efectos	lpitarch	O	_	_	_	_	_	_	O	_
+38	secundarios	lpitarch	O	_	_	_	_	_	_	O	_
+39	,	lpitarch	O	_	_	_	_	_	_	O	_
+40	sobre	lpitarch	O	_	_	_	_	_	_	O	_
+41	como	lpitarch	O	_	_	_	_	_	_	O	_
+42	está	lpitarch	O	_	_	_	_	_	_	O	_
+43	la	lpitarch	O	_	_	_	_	_	_	O	_
+44	investigación	lpitarch	O	_	_	_	_	_	_	O	_
+45	de	lpitarch	O	_	_	_	_	_	_	O	_
+46	nuestro	lpitarch	O	_	_	_	_	_	_	O	_
+47	cancer	lpitarch	O	_	_	_	_	_	_	O	_
+48	,	lpitarch	O	_	_	_	_	_	_	O	_
+49	etc.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 67
+# text = , solo por si os apetece compartir e informaros.
+1	,	lpitarch	O	_	_	_	_	_	_	O	_
+2	solo	lpitarch	O	_	_	_	_	_	_	O	_
+3	por	lpitarch	O	_	_	_	_	_	_	O	_
+4	si	lpitarch	O	_	_	_	_	_	_	O	_
+5	os	lpitarch	O	_	_	_	_	_	_	O	_
+6	apetece	lpitarch	O	_	_	_	_	_	_	O	_
+7	compartir	lpitarch	O	_	_	_	_	_	_	O	_
+8	e	lpitarch	O	_	_	_	_	_	_	O	_
+9	informaros	lpitarch	O	_	_	_	_	_	_	O	_
+10	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 68
+# text = Si no, pués siempre podemos hablar por aquí.
+1	Si	lpitarch	O	_	_	_	_	_	_	O	_
+2	no	lpitarch	O	_	_	_	_	_	_	O	_
+3	,	lpitarch	O	_	_	_	_	_	_	O	_
+4	pués	lpitarch	O	_	_	_	_	_	_	O	_
+5	siempre	lpitarch	O	_	_	_	_	_	_	O	_
+6	podemos	lpitarch	O	_	_	_	_	_	_	O	_
+7	hablar	lpitarch	O	_	_	_	_	_	_	O	_
+8	por	lpitarch	O	_	_	_	_	_	_	O	_
+9	aquí	lpitarch	O	_	_	_	_	_	_	O	_
+10	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 69
+# text = Un abrazo muy grande, y espero que le vaya muy bien.\n\n
+1	Un	lpitarch	O	_	_	_	_	_	_	O	_
+2	abrazo	lpitarch	O	_	_	_	_	_	_	O	_
+3	muy	lpitarch	O	_	_	_	_	_	_	O	_
+4	grande	lpitarch	O	_	_	_	_	_	_	O	_
+5	,	lpitarch	O	_	_	_	_	_	_	O	_
+6	y	lpitarch	O	_	_	_	_	_	_	O	_
+7	espero	lpitarch	O	_	_	_	_	_	_	O	_
+8	que	lpitarch	O	_	_	_	_	_	_	O	_
+9	le	lpitarch	O	_	_	_	_	_	_	O	_
+10	vaya	lpitarch	O	_	_	_	_	_	_	O	_
+11	muy	lpitarch	O	_	_	_	_	_	_	O	_
+12	bien	lpitarch	O	_	_	_	_	_	_	O	_
+13	.	lpitarch	O	_	_	_	_	_	_	O	_
+14	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 70
+# text = [Autor 23]: Hola xxxx, soy xxxxxx, te mando mi correo electrónico por si quieres hablar del tema %%EMAIL%%\n\nUn abrazo\n\n[Autor 23]: Hola a todos los luchadores que estáis en este grupo! Soy xxxxxx, os cuento un poco mi historia, a mi padre le han detectado carcinomatosis peritoneal metástasis de un tumor de primario de origen gástrico.
+1	[	lpitarch	O	_	_	_	_	_	_	O	_
+2	Autor	lpitarch	O	_	_	_	_	_	_	O	_
+3	23	lpitarch	O	_	_	_	_	_	_	O	_
+4	]	lpitarch	O	_	_	_	_	_	_	O	_
+5	:	lpitarch	O	_	_	_	_	_	_	O	_
+6	Hola	lpitarch	O	_	_	_	_	_	_	O	_
+7	xxxx	lpitarch	O	_	_	_	_	_	_	B	_
+8	,	lpitarch	O	_	_	_	_	_	_	O	_
+9	soy	lpitarch	O	_	_	_	_	_	_	O	_
+10	xxxxxx	lpitarch	O	_	_	_	_	_	_	B	_
+11	,	lpitarch	O	_	_	_	_	_	_	O	_
+12	te	lpitarch	O	_	_	_	_	_	_	O	_
+13	mando	lpitarch	O	_	_	_	_	_	_	O	_
+14	mi	lpitarch	O	_	_	_	_	_	_	O	_
+15	correo	lpitarch	O	_	_	_	_	_	_	O	_
+16	electrónico	lpitarch	O	_	_	_	_	_	_	O	_
+17	por	lpitarch	O	_	_	_	_	_	_	O	_
+18	si	lpitarch	O	_	_	_	_	_	_	O	_
+19	quieres	lpitarch	O	_	_	_	_	_	_	O	_
+20	hablar	lpitarch	O	_	_	_	_	_	_	O	_
+21	del	lpitarch	O	_	_	_	_	_	_	O	_
+22	tema	lpitarch	O	_	_	_	_	_	_	O	_
+23	%	lpitarch	O	_	_	_	_	_	_	O	_
+24	%	lpitarch	O	_	_	_	_	_	_	O	_
+25	EMAIL%%	lpitarch	O	_	_	_	_	_	_	O	_
+26	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+27	Un	lpitarch	O	_	_	_	_	_	_	O	_
+28	abrazo	lpitarch	O	_	_	_	_	_	_	O	_
+29	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+30	[	lpitarch	O	_	_	_	_	_	_	O	_
+31	Autor	lpitarch	O	_	_	_	_	_	_	O	_
+32	23	lpitarch	O	_	_	_	_	_	_	O	_
+33	]	lpitarch	O	_	_	_	_	_	_	O	_
+34	:	lpitarch	O	_	_	_	_	_	_	O	_
+35	Hola	lpitarch	O	_	_	_	_	_	_	O	_
+36	a	lpitarch	O	_	_	_	_	_	_	O	_
+37	todos	lpitarch	O	_	_	_	_	_	_	O	_
+38	los	lpitarch	O	_	_	_	_	_	_	O	_
+39	luchadores	lpitarch	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/luchador-09906538-n|https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/luchador-09939313-n	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/paciente-10405694-n	_	Personas » Paciente	_	O	_
+40	que	lpitarch	O	_	_	_	_	_	_	O	_
+41	estáis	lpitarch	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/estar-02655135-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/participar-01082606-v	_	personas >> comunidadaecc	_	O	_
+42	en	lpitarch	I	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/estar-02655135-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/participar-01082606-v	_	personas >> comunidadaecc	_	O	_
+43	este	lpitarch	O	_	_	_	_	_	_	O	_
+44	grupo	lpitarch	O	_	_	_	_	_	_	O	_
+45	!	lpitarch	O	_	_	_	_	_	_	O	_
+46	Soy	lpitarch	O	_	_	_	_	_	_	O	_
+47	xxxxxx	lpitarch	O	_	_	_	_	_	_	O	_
+48	,	lpitarch	O	_	_	_	_	_	_	O	_
+49	os	lpitarch	O	_	_	_	_	_	_	O	_
+50	cuento	lpitarch	O	_	_	_	_	_	_	O	_
+51	un	lpitarch	O	_	_	_	_	_	_	O	_
+52	poco	lpitarch	O	_	_	_	_	_	_	O	_
+53	mi	lpitarch	O	_	_	_	_	_	_	O	_
+54	historia	lpitarch	O	_	_	_	_	_	_	O	_
+55	,	lpitarch	O	_	_	_	_	_	_	O	_
+56	a	lpitarch	O	_	_	_	_	_	_	O	_
+57	mi	lpitarch	O	_	_	_	_	_	_	O	_
+58	padre	lpitarch	O	_	_	_	_	_	_	O	_
+59	le	lpitarch	O	_	_	_	_	_	_	O	_
+60	han	lpitarch	O	_	_	_	_	_	_	O	_
+61	detectado	lpitarch	O	_	_	_	_	_	_	O	_
+62	carcinomatosis	lpitarch	O	_	_	_	_	_	_	O	_
+63	peritoneal	lpitarch	O	_	_	_	_	_	_	O	_
+64	metástasis	lpitarch	O	_	_	_	_	_	_	O	_
+65	de	lpitarch	O	_	_	_	_	_	_	O	_
+66	un	lpitarch	O	_	_	_	_	_	_	O	_
+67	tumor	lpitarch	O	_	_	_	_	_	_	O	_
+68	de	lpitarch	O	_	_	_	_	_	_	O	_
+69	primario	lpitarch	O	_	_	_	_	_	_	O	_
+70	de	lpitarch	O	_	_	_	_	_	_	O	_
+71	origen	lpitarch	O	_	_	_	_	_	_	O	_
+72	gástrico	lpitarch	O	_	_	_	_	_	_	O	_
+73	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 71
+# text = Le operaron hace 6 semanas y ahí fue cuando vieron la metástasis.
+1	Le	lpitarch	O	_	_	_	_	_	_	O	_
+2	operaron	lpitarch	O	_	_	_	_	_	_	O	_
+3	hace	lpitarch	O	_	_	_	_	_	_	O	_
+4	6	lpitarch	O	_	_	_	_	_	_	O	_
+5	semanas	lpitarch	O	_	_	_	_	_	_	O	_
+6	y	lpitarch	O	_	_	_	_	_	_	O	_
+7	ahí	lpitarch	O	_	_	_	_	_	_	O	_
+8	fue	lpitarch	O	_	_	_	_	_	_	O	_
+9	cuando	lpitarch	O	_	_	_	_	_	_	O	_
+10	vieron	lpitarch	O	_	_	_	_	_	_	O	_
+11	la	lpitarch	O	_	_	_	_	_	_	O	_
+12	metástasis	lpitarch	O	_	_	_	_	_	_	O	_
+13	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 72
+# text = Hace dos semanas ha empezado con tratamiento ( folfox) creo que se llama.
+1	Hace	lpitarch	O	_	_	_	_	_	_	O	_
+2	dos	lpitarch	O	_	_	_	_	_	_	O	_
+3	semanas	lpitarch	O	_	_	_	_	_	_	O	_
+4	ha	lpitarch	O	_	_	_	_	_	_	O	_
+5	empezado	lpitarch	O	_	_	_	_	_	_	O	_
+6	con	lpitarch	O	_	_	_	_	_	_	O	_
+7	tratamiento	lpitarch	O	_	_	_	_	_	_	O	_
+8	(	lpitarch	O	_	_	_	_	_	_	O	_
+9	folfox	lpitarch	O	_	_	_	_	_	_	O	_
+10	)	lpitarch	O	_	_	_	_	_	_	O	_
+11	creo	lpitarch	O	_	_	_	_	_	_	O	_
+12	que	lpitarch	O	_	_	_	_	_	_	O	_
+13	se	lpitarch	O	_	_	_	_	_	_	O	_
+14	llama	lpitarch	O	_	_	_	_	_	_	O	_
+15	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 73
+# text = No hay mucha información al respuesta ni muchos testimonios.
+1	No	lpitarch	O	_	_	_	_	_	_	O	_
+2	hay	lpitarch	O	_	_	_	_	_	_	O	_
+3	mucha	lpitarch	O	_	_	_	_	_	_	O	_
+4	información	lpitarch	O	_	_	_	_	_	_	O	_
+5	al	lpitarch	O	_	_	_	_	_	_	O	_
+6	respuesta	lpitarch	O	_	_	_	_	_	_	O	_
+7	ni	lpitarch	O	_	_	_	_	_	_	O	_
+8	muchos	lpitarch	O	_	_	_	_	_	_	O	_
+9	testimonios	lpitarch	O	_	_	_	_	_	_	O	_
+10	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 74
+# text = Os dejo mi correo electrónico por si alguien que se encuentre en la misma situación quiere compartir opiniones e informarnos algo porque en mi caso estamos muy perdidos.
+1	Os	lpitarch	O	_	_	_	_	_	_	O	_
+2	dejo	lpitarch	O	_	_	_	_	_	_	O	_
+3	mi	lpitarch	O	_	_	_	_	_	_	O	_
+4	correo	lpitarch	O	_	_	_	_	_	_	O	_
+5	electrónico	lpitarch	O	_	_	_	_	_	_	O	_
+6	por	lpitarch	O	_	_	_	_	_	_	O	_
+7	si	lpitarch	O	_	_	_	_	_	_	O	_
+8	alguien	lpitarch	O	_	_	_	_	_	_	O	_
+9	que	lpitarch	O	_	_	_	_	_	_	O	_
+10	se	lpitarch	O	_	_	_	_	_	_	O	_
+11	encuentre	lpitarch	O	_	_	_	_	_	_	O	_
+12	en	lpitarch	O	_	_	_	_	_	_	O	_
+13	la	lpitarch	O	_	_	_	_	_	_	O	_
+14	misma	lpitarch	O	_	_	_	_	_	_	O	_
+15	situación	lpitarch	O	_	_	_	_	_	_	O	_
+16	quiere	lpitarch	O	_	_	_	_	_	_	O	_
+17	compartir	lpitarch	O	_	_	_	_	_	_	O	_
+18	opiniones	lpitarch	O	_	_	_	_	_	_	O	_
+19	e	lpitarch	O	_	_	_	_	_	_	O	_
+20	informarnos	lpitarch	O	_	_	_	_	_	_	O	_
+21	algo	lpitarch	O	_	_	_	_	_	_	O	_
+22	porque	lpitarch	O	_	_	_	_	_	_	O	_
+23	en	lpitarch	O	_	_	_	_	_	_	O	_
+24	mi	lpitarch	O	_	_	_	_	_	_	O	_
+25	caso	lpitarch	O	_	_	_	_	_	_	O	_
+26	estamos	lpitarch	O	_	_	_	_	_	_	O	_
+27	muy	lpitarch	O	_	_	_	_	_	_	O	_
+28	perdidos	lpitarch	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/perder-02127853-v|https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/perder-02287618-v	que se ha salido de su ruta y no sabe llegar a su destino.	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/desorientar-00621734-v|https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/perdido-01230616-a	_	Diagnóstico » Recibir informacion	_	O	_
+29	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 75
+# text = La cosa dicen que no pinta bien pero me niego a aceptar esto.
+1	La	lpitarch	O	_	_	_	_	_	_	O	_
+2	cosa	lpitarch	O	_	_	_	_	_	_	O	_
+3	dicen	lpitarch	O	_	_	_	_	_	_	O	_
+4	que	lpitarch	O	_	_	_	_	_	_	O	_
+5	no	lpitarch	O	_	_	_	_	_	_	O	_
+6	pinta	lpitarch	O	_	_	_	_	_	_	O	_
+7	bien	lpitarch	O	_	_	_	_	_	_	O	_
+8	pero	lpitarch	O	_	_	_	_	_	_	O	_
+9	me	lpitarch	O	_	_	_	_	_	_	O	_
+10	niego	lpitarch	O	_	_	_	_	_	_	O	_
+11	a	lpitarch	O	_	_	_	_	_	_	O	_
+12	aceptar	lpitarch	O	_	_	_	_	_	_	O	_
+13	esto	lpitarch	O	_	_	_	_	_	_	O	_
+14	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 76
+# text = Creo que tiene que haber personas que hayan podido superar la enfermedad, aunque no tenga cura que la enfermedad se cronifique o algo.
+1	Creo	lpitarch	O	_	_	_	_	_	_	O	_
+2	que	lpitarch	O	_	_	_	_	_	_	O	_
+3	tiene	lpitarch	O	_	_	_	_	_	_	O	_
+4	que	lpitarch	O	_	_	_	_	_	_	O	_
+5	haber	lpitarch	O	_	_	_	_	_	_	O	_
+6	personas	lpitarch	O	_	_	_	_	_	_	O	_
+7	que	lpitarch	O	_	_	_	_	_	_	O	_
+8	hayan	lpitarch	O	_	_	_	_	_	_	O	_
+9	podido	lpitarch	O	_	_	_	_	_	_	O	_
+10	superar	lpitarch	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/superar-01105639-v|https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/superar-02081795-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/superar-00268011-v	_	Estar enfermo con cáncer » Curarse y recuperarse	_	O	_
+11	la	lpitarch	O	_	_	_	_	_	_	O	_
+12	enfermedad	lpitarch	O	_	_	_	_	_	_	O	_
+13	,	lpitarch	O	_	_	_	_	_	_	O	_
+14	aunque	lpitarch	O	_	_	_	_	_	_	O	_
+15	no	lpitarch	O	_	_	_	_	_	_	O	_
+16	tenga	lpitarch	O	_	_	_	_	_	_	O	_
+17	cura	lpitarch	O	_	_	_	_	_	_	O	_
+18	que	lpitarch	O	_	_	_	_	_	_	O	_
+19	la	lpitarch	O	_	_	_	_	_	_	O	_
+20	enfermedad	lpitarch	O	_	_	_	_	_	_	O	_
+21	se	lpitarch	O	_	_	_	_	_	_	O	_
+22	cronifique	lpitarch	O	_	_	_	_	_	_	O	_
+23	o	lpitarch	O	_	_	_	_	_	_	O	_
+24	algo	lpitarch	O	_	_	_	_	_	_	O	_
+25	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 77
+# text = Por favor cualquier testimonio o ayuda sería valioso xxxx en estos momentos.
+1	Por	lpitarch	O	_	_	_	_	_	_	O	_
+2	favor	lpitarch	O	_	_	_	_	_	_	O	_
+3	cualquier	lpitarch	O	_	_	_	_	_	_	O	_
+4	testimonio	lpitarch	O	_	_	_	_	_	_	O	_
+5	o	lpitarch	O	_	_	_	_	_	_	O	_
+6	ayuda	lpitarch	O	_	_	_	_	_	_	O	_
+7	sería	lpitarch	O	_	_	_	_	_	_	O	_
+8	valioso	lpitarch	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/valioso-02500884-a	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/valioso-02587738-a	_	personas >> comunidadaecc	_	O	_
+9	xxxx	lpitarch	O	_	_	_	_	_	_	O	_
+10	en	lpitarch	O	_	_	_	_	_	_	O	_
+11	estos	lpitarch	O	_	_	_	_	_	_	O	_
+12	momentos	lpitarch	O	_	_	_	_	_	_	O	_
+13	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 78
+# text = Un abrazo enorme xxxx, me encantaría tener el placer de contactar contigo.\n\n
+1	Un	lpitarch	O	_	_	_	_	_	_	O	_
+2	abrazo	lpitarch	O	_	_	_	_	_	_	O	_
+3	enorme	lpitarch	O	_	_	_	_	_	_	O	_
+4	xxxx	lpitarch	O	_	_	_	_	_	_	O	_
+5	,	lpitarch	O	_	_	_	_	_	_	O	_
+6	me	lpitarch	O	_	_	_	_	_	_	O	_
+7	encantaría	lpitarch	O	_	_	_	_	_	_	O	_
+8	tener	lpitarch	O	_	_	_	_	_	_	O	_
+9	el	lpitarch	O	_	_	_	_	_	_	O	_
+10	placer	lpitarch	O	_	_	_	_	_	_	O	_
+11	de	lpitarch	O	_	_	_	_	_	_	O	_
+12	contactar	lpitarch	O	_	_	_	_	_	_	O	_
+13	contigo	lpitarch	O	_	_	_	_	_	_	O	_
+14	.	lpitarch	O	_	_	_	_	_	_	O	_
+15	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 79
+# text = mi correo es este %%EMAIL%%\n\nmin abrazo enorme y mucho ánimo\n\n[Autor 23]: Hola a todos los luchadores que estáis en este grupo!
+1	mi	lpitarch	O	_	_	_	_	_	_	O	_
+2	correo	lpitarch	O	_	_	_	_	_	_	O	_
+3	es	lpitarch	O	_	_	_	_	_	_	O	_
+4	este	lpitarch	O	_	_	_	_	_	_	O	_
+5	%	lpitarch	O	_	_	_	_	_	_	O	_
+6	%	lpitarch	O	_	_	_	_	_	_	O	_
+7	EMAIL%%	lpitarch	O	_	_	_	_	_	_	O	_
+8	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+9	min	lpitarch	O	_	_	_	_	_	_	O	_
+10	abrazo	lpitarch	O	_	_	_	_	_	_	O	_
+11	enorme	lpitarch	O	_	_	_	_	_	_	O	_
+12	y	lpitarch	O	_	_	_	_	_	_	O	_
+13	mucho	lpitarch	O	_	_	_	_	_	_	O	_
+14	ánimo	lpitarch	O	_	_	_	_	_	_	O	_
+15	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+16	[	lpitarch	O	_	_	_	_	_	_	O	_
+17	Autor	lpitarch	O	_	_	_	_	_	_	O	_
+18	23	lpitarch	O	_	_	_	_	_	_	O	_
+19	]	lpitarch	O	_	_	_	_	_	_	O	_
+20	:	lpitarch	O	_	_	_	_	_	_	O	_
+21	Hola	lpitarch	O	_	_	_	_	_	_	O	_
+22	a	lpitarch	O	_	_	_	_	_	_	O	_
+23	todos	lpitarch	O	_	_	_	_	_	_	O	_
+24	los	lpitarch	O	_	_	_	_	_	_	O	_
+25	luchadores	lpitarch	O	_	_	_	_	_	_	O	_
+26	que	lpitarch	O	_	_	_	_	_	_	O	_
+27	estáis	lpitarch	O	_	_	_	_	_	_	O	_
+28	en	lpitarch	O	_	_	_	_	_	_	O	_
+29	este	lpitarch	O	_	_	_	_	_	_	O	_
+30	grupo	lpitarch	O	_	_	_	_	_	_	O	_
+31	!	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 80
+# text = Soy xxxxxx, os cuento un poco mi historia, a mi padre le han detectado carcinomatosis peritoneal metástasis de un tumor de primario de origen gástrico.
+1	Soy	lpitarch	O	_	_	_	_	_	_	O	_
+2	xxxxxx	lpitarch	O	_	_	_	_	_	_	O	_
+3	,	lpitarch	O	_	_	_	_	_	_	O	_
+4	os	lpitarch	O	_	_	_	_	_	_	O	_
+5	cuento	lpitarch	O	_	_	_	_	_	_	O	_
+6	un	lpitarch	O	_	_	_	_	_	_	O	_
+7	poco	lpitarch	O	_	_	_	_	_	_	O	_
+8	mi	lpitarch	O	_	_	_	_	_	_	O	_
+9	historia	lpitarch	O	_	_	_	_	_	_	O	_
+10	,	lpitarch	O	_	_	_	_	_	_	O	_
+11	a	lpitarch	O	_	_	_	_	_	_	O	_
+12	mi	lpitarch	O	_	_	_	_	_	_	O	_
+13	padre	lpitarch	O	_	_	_	_	_	_	O	_
+14	le	lpitarch	O	_	_	_	_	_	_	O	_
+15	han	lpitarch	O	_	_	_	_	_	_	O	_
+16	detectado	lpitarch	O	_	_	_	_	_	_	O	_
+17	carcinomatosis	lpitarch	O	_	_	_	_	_	_	O	_
+18	peritoneal	lpitarch	O	_	_	_	_	_	_	O	_
+19	metástasis	lpitarch	O	_	_	_	_	_	_	O	_
+20	de	lpitarch	O	_	_	_	_	_	_	O	_
+21	un	lpitarch	O	_	_	_	_	_	_	O	_
+22	tumor	lpitarch	O	_	_	_	_	_	_	O	_
+23	de	lpitarch	O	_	_	_	_	_	_	O	_
+24	primario	lpitarch	O	_	_	_	_	_	_	O	_
+25	de	lpitarch	O	_	_	_	_	_	_	O	_
+26	origen	lpitarch	O	_	_	_	_	_	_	O	_
+27	gástrico	lpitarch	O	_	_	_	_	_	_	O	_
+28	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 81
+# text = Le operaron hace 6 semanas y ahí fue cuando vieron la metástasis.
+1	Le	lpitarch	O	_	_	_	_	_	_	O	_
+2	operaron	lpitarch	O	_	_	_	_	_	_	O	_
+3	hace	lpitarch	O	_	_	_	_	_	_	O	_
+4	6	lpitarch	O	_	_	_	_	_	_	O	_
+5	semanas	lpitarch	O	_	_	_	_	_	_	O	_
+6	y	lpitarch	O	_	_	_	_	_	_	O	_
+7	ahí	lpitarch	O	_	_	_	_	_	_	O	_
+8	fue	lpitarch	O	_	_	_	_	_	_	O	_
+9	cuando	lpitarch	O	_	_	_	_	_	_	O	_
+10	vieron	lpitarch	O	_	_	_	_	_	_	O	_
+11	la	lpitarch	O	_	_	_	_	_	_	O	_
+12	metástasis	lpitarch	O	_	_	_	_	_	_	O	_
+13	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 82
+# text = Hace dos semanas ha empezado con tratamiento ( folfox) creo que se llama.
+1	Hace	lpitarch	O	_	_	_	_	_	_	O	_
+2	dos	lpitarch	O	_	_	_	_	_	_	O	_
+3	semanas	lpitarch	O	_	_	_	_	_	_	O	_
+4	ha	lpitarch	O	_	_	_	_	_	_	O	_
+5	empezado	lpitarch	O	_	_	_	_	_	_	O	_
+6	con	lpitarch	O	_	_	_	_	_	_	O	_
+7	tratamiento	lpitarch	O	_	_	_	_	_	_	O	_
+8	(	lpitarch	O	_	_	_	_	_	_	O	_
+9	folfox	lpitarch	O	_	_	_	_	_	_	O	_
+10	)	lpitarch	O	_	_	_	_	_	_	O	_
+11	creo	lpitarch	O	_	_	_	_	_	_	O	_
+12	que	lpitarch	O	_	_	_	_	_	_	O	_
+13	se	lpitarch	O	_	_	_	_	_	_	O	_
+14	llama	lpitarch	O	_	_	_	_	_	_	O	_
+15	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 83
+# text = No hay mucha información al respuesta ni muchos testimonios.
+1	No	lpitarch	O	_	_	_	_	_	_	O	_
+2	hay	lpitarch	O	_	_	_	_	_	_	O	_
+3	mucha	lpitarch	O	_	_	_	_	_	_	O	_
+4	información	lpitarch	O	_	_	_	_	_	_	O	_
+5	al	lpitarch	O	_	_	_	_	_	_	O	_
+6	respuesta	lpitarch	O	_	_	_	_	_	_	O	_
+7	ni	lpitarch	O	_	_	_	_	_	_	O	_
+8	muchos	lpitarch	O	_	_	_	_	_	_	O	_
+9	testimonios	lpitarch	O	_	_	_	_	_	_	O	_
+10	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 84
+# text = Os dejo mi correo electrónico por si alguien que se encuentre en la misma situación quiere compartir opiniones e informarnos algo porque en mi caso estamos muy perdidos.
+1	Os	lpitarch	O	_	_	_	_	_	_	O	_
+2	dejo	lpitarch	O	_	_	_	_	_	_	O	_
+3	mi	lpitarch	O	_	_	_	_	_	_	O	_
+4	correo	lpitarch	O	_	_	_	_	_	_	O	_
+5	electrónico	lpitarch	O	_	_	_	_	_	_	O	_
+6	por	lpitarch	O	_	_	_	_	_	_	O	_
+7	si	lpitarch	O	_	_	_	_	_	_	O	_
+8	alguien	lpitarch	O	_	_	_	_	_	_	O	_
+9	que	lpitarch	O	_	_	_	_	_	_	O	_
+10	se	lpitarch	O	_	_	_	_	_	_	O	_
+11	encuentre	lpitarch	O	_	_	_	_	_	_	O	_
+12	en	lpitarch	O	_	_	_	_	_	_	O	_
+13	la	lpitarch	O	_	_	_	_	_	_	O	_
+14	misma	lpitarch	O	_	_	_	_	_	_	O	_
+15	situación	lpitarch	O	_	_	_	_	_	_	O	_
+16	quiere	lpitarch	O	_	_	_	_	_	_	O	_
+17	compartir	lpitarch	O	_	_	_	_	_	_	O	_
+18	opiniones	lpitarch	O	_	_	_	_	_	_	O	_
+19	e	lpitarch	O	_	_	_	_	_	_	O	_
+20	informarnos	lpitarch	O	_	_	_	_	_	_	O	_
+21	algo	lpitarch	O	_	_	_	_	_	_	O	_
+22	porque	lpitarch	O	_	_	_	_	_	_	O	_
+23	en	lpitarch	O	_	_	_	_	_	_	O	_
+24	mi	lpitarch	O	_	_	_	_	_	_	O	_
+25	caso	lpitarch	O	_	_	_	_	_	_	O	_
+26	estamos	lpitarch	O	_	_	_	_	_	_	O	_
+27	muy	lpitarch	O	_	_	_	_	_	_	O	_
+28	perdidos	lpitarch	O	_	_	_	_	_	_	O	_
+29	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 85
+# text = La cosa dicen que no pinta bien pero me niego a aceptar esto.
+1	La	lpitarch	O	_	_	_	_	_	_	O	_
+2	cosa	lpitarch	O	_	_	_	_	_	_	O	_
+3	dicen	lpitarch	O	_	_	_	_	_	_	O	_
+4	que	lpitarch	O	_	_	_	_	_	_	O	_
+5	no	lpitarch	O	_	_	_	_	_	_	O	_
+6	pinta	lpitarch	O	_	_	_	_	_	_	O	_
+7	bien	lpitarch	O	_	_	_	_	_	_	O	_
+8	pero	lpitarch	O	_	_	_	_	_	_	O	_
+9	me	lpitarch	O	_	_	_	_	_	_	O	_
+10	niego	lpitarch	O	_	_	_	_	_	_	O	_
+11	a	lpitarch	O	_	_	_	_	_	_	O	_
+12	aceptar	lpitarch	O	_	_	_	_	_	_	O	_
+13	esto	lpitarch	O	_	_	_	_	_	_	O	_
+14	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 86
+# text = Creo que tiene que haber personas que hayan podido superar la enfermedad, aunque no tenga cura que la enfermedad se cronifique o algo.
+1	Creo	lpitarch	O	_	_	_	_	_	_	O	_
+2	que	lpitarch	O	_	_	_	_	_	_	O	_
+3	tiene	lpitarch	O	_	_	_	_	_	_	O	_
+4	que	lpitarch	O	_	_	_	_	_	_	O	_
+5	haber	lpitarch	O	_	_	_	_	_	_	O	_
+6	personas	lpitarch	O	_	_	_	_	_	_	O	_
+7	que	lpitarch	O	_	_	_	_	_	_	O	_
+8	hayan	lpitarch	O	_	_	_	_	_	_	O	_
+9	podido	lpitarch	O	_	_	_	_	_	_	O	_
+10	superar	lpitarch	O	_	_	_	_	_	_	O	_
+11	la	lpitarch	O	_	_	_	_	_	_	O	_
+12	enfermedad	lpitarch	O	_	_	_	_	_	_	O	_
+13	,	lpitarch	O	_	_	_	_	_	_	O	_
+14	aunque	lpitarch	O	_	_	_	_	_	_	O	_
+15	no	lpitarch	O	_	_	_	_	_	_	O	_
+16	tenga	lpitarch	O	_	_	_	_	_	_	O	_
+17	cura	lpitarch	O	_	_	_	_	_	_	O	_
+18	que	lpitarch	O	_	_	_	_	_	_	O	_
+19	la	lpitarch	O	_	_	_	_	_	_	O	_
+20	enfermedad	lpitarch	O	_	_	_	_	_	_	O	_
+21	se	lpitarch	O	_	_	_	_	_	_	O	_
+22	cronifique	lpitarch	O	_	_	_	_	_	_	O	_
+23	o	lpitarch	O	_	_	_	_	_	_	O	_
+24	algo	lpitarch	O	_	_	_	_	_	_	O	_
+25	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 87
+# text = Por favor cualquier testimonio o ayuda sería valioso xxxx en estos momentos.
+1	Por	lpitarch	O	_	_	_	_	_	_	O	_
+2	favor	lpitarch	O	_	_	_	_	_	_	O	_
+3	cualquier	lpitarch	O	_	_	_	_	_	_	O	_
+4	testimonio	lpitarch	O	_	_	_	_	_	_	O	_
+5	o	lpitarch	O	_	_	_	_	_	_	O	_
+6	ayuda	lpitarch	O	_	_	_	_	_	_	O	_
+7	sería	lpitarch	O	_	_	_	_	_	_	O	_
+8	valioso	lpitarch	O	_	_	_	_	_	_	O	_
+9	xxxx	lpitarch	O	_	_	_	_	_	_	O	_
+10	en	lpitarch	O	_	_	_	_	_	_	O	_
+11	estos	lpitarch	O	_	_	_	_	_	_	O	_
+12	momentos	lpitarch	O	_	_	_	_	_	_	O	_
+13	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 88
+# text = Un abrazo enorme xxxx, me encantaría tener el placer de contactar contigo.\n\n
+1	Un	lpitarch	O	_	_	_	_	_	_	O	_
+2	abrazo	lpitarch	O	_	_	_	_	_	_	O	_
+3	enorme	lpitarch	O	_	_	_	_	_	_	O	_
+4	xxxx	lpitarch	O	_	_	_	_	_	_	O	_
+5	,	lpitarch	O	_	_	_	_	_	_	O	_
+6	me	lpitarch	O	_	_	_	_	_	_	O	_
+7	encantaría	lpitarch	O	_	_	_	_	_	_	O	_
+8	tener	lpitarch	O	_	_	_	_	_	_	O	_
+9	el	lpitarch	O	_	_	_	_	_	_	O	_
+10	placer	lpitarch	O	_	_	_	_	_	_	O	_
+11	de	lpitarch	O	_	_	_	_	_	_	O	_
+12	contactar	lpitarch	O	_	_	_	_	_	_	O	_
+13	contigo	lpitarch	O	_	_	_	_	_	_	O	_
+14	.	lpitarch	O	_	_	_	_	_	_	O	_
+15	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 89
+# text = mi correo es este %%EMAIL%%\n\nmin abrazo enorme y mucho ánimo\n\n[Autor 23]: Hola a todos los luchadores que estáis en este grupo!
+1	mi	lpitarch	O	_	_	_	_	_	_	O	_
+2	correo	lpitarch	O	_	_	_	_	_	_	O	_
+3	es	lpitarch	O	_	_	_	_	_	_	O	_
+4	este	lpitarch	O	_	_	_	_	_	_	O	_
+5	%	lpitarch	O	_	_	_	_	_	_	O	_
+6	%	lpitarch	O	_	_	_	_	_	_	O	_
+7	EMAIL%%	lpitarch	O	_	_	_	_	_	_	O	_
+8	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+9	min	lpitarch	O	_	_	_	_	_	_	O	_
+10	abrazo	lpitarch	O	_	_	_	_	_	_	O	_
+11	enorme	lpitarch	O	_	_	_	_	_	_	O	_
+12	y	lpitarch	O	_	_	_	_	_	_	O	_
+13	mucho	lpitarch	O	_	_	_	_	_	_	O	_
+14	ánimo	lpitarch	O	_	_	_	_	_	_	O	_
+15	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+16	[	lpitarch	O	_	_	_	_	_	_	O	_
+17	Autor	lpitarch	O	_	_	_	_	_	_	O	_
+18	23	lpitarch	O	_	_	_	_	_	_	O	_
+19	]	lpitarch	O	_	_	_	_	_	_	O	_
+20	:	lpitarch	O	_	_	_	_	_	_	O	_
+21	Hola	lpitarch	O	_	_	_	_	_	_	O	_
+22	a	lpitarch	O	_	_	_	_	_	_	O	_
+23	todos	lpitarch	O	_	_	_	_	_	_	O	_
+24	los	lpitarch	O	_	_	_	_	_	_	O	_
+25	luchadores	lpitarch	O	_	_	_	_	_	_	O	_
+26	que	lpitarch	O	_	_	_	_	_	_	O	_
+27	estáis	lpitarch	O	_	_	_	_	_	_	O	_
+28	en	lpitarch	O	_	_	_	_	_	_	O	_
+29	este	lpitarch	O	_	_	_	_	_	_	O	_
+30	grupo	lpitarch	O	_	_	_	_	_	_	O	_
+31	!	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 90
+# text = Soy xxxxxx, os cuento un poco mi historia, a mi padre le han detectado carcinomatosis peritoneal metástasis de un tumor de primario de origen gástrico.
+1	Soy	lpitarch	O	_	_	_	_	_	_	O	_
+2	xxxxxx	lpitarch	O	_	_	_	_	_	_	O	_
+3	,	lpitarch	O	_	_	_	_	_	_	O	_
+4	os	lpitarch	O	_	_	_	_	_	_	O	_
+5	cuento	lpitarch	O	_	_	_	_	_	_	O	_
+6	un	lpitarch	O	_	_	_	_	_	_	O	_
+7	poco	lpitarch	O	_	_	_	_	_	_	O	_
+8	mi	lpitarch	O	_	_	_	_	_	_	O	_
+9	historia	lpitarch	O	_	_	_	_	_	_	O	_
+10	,	lpitarch	O	_	_	_	_	_	_	O	_
+11	a	lpitarch	O	_	_	_	_	_	_	O	_
+12	mi	lpitarch	O	_	_	_	_	_	_	O	_
+13	padre	lpitarch	O	_	_	_	_	_	_	O	_
+14	le	lpitarch	O	_	_	_	_	_	_	O	_
+15	han	lpitarch	O	_	_	_	_	_	_	O	_
+16	detectado	lpitarch	O	_	_	_	_	_	_	O	_
+17	carcinomatosis	lpitarch	O	_	_	_	_	_	_	O	_
+18	peritoneal	lpitarch	O	_	_	_	_	_	_	O	_
+19	metástasis	lpitarch	O	_	_	_	_	_	_	O	_
+20	de	lpitarch	O	_	_	_	_	_	_	O	_
+21	un	lpitarch	O	_	_	_	_	_	_	O	_
+22	tumor	lpitarch	O	_	_	_	_	_	_	O	_
+23	de	lpitarch	O	_	_	_	_	_	_	O	_
+24	primario	lpitarch	O	_	_	_	_	_	_	O	_
+25	de	lpitarch	O	_	_	_	_	_	_	O	_
+26	origen	lpitarch	O	_	_	_	_	_	_	O	_
+27	gástrico	lpitarch	O	_	_	_	_	_	_	O	_
+28	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 91
+# text = Le operaron hace 6 semanas y ahí fue cuando vieron la metástasis.
+1	Le	lpitarch	O	_	_	_	_	_	_	O	_
+2	operaron	lpitarch	O	_	_	_	_	_	_	O	_
+3	hace	lpitarch	O	_	_	_	_	_	_	O	_
+4	6	lpitarch	O	_	_	_	_	_	_	O	_
+5	semanas	lpitarch	O	_	_	_	_	_	_	O	_
+6	y	lpitarch	O	_	_	_	_	_	_	O	_
+7	ahí	lpitarch	O	_	_	_	_	_	_	O	_
+8	fue	lpitarch	O	_	_	_	_	_	_	O	_
+9	cuando	lpitarch	O	_	_	_	_	_	_	O	_
+10	vieron	lpitarch	O	_	_	_	_	_	_	O	_
+11	la	lpitarch	O	_	_	_	_	_	_	O	_
+12	metástasis	lpitarch	O	_	_	_	_	_	_	O	_
+13	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 92
+# text = Hace dos semanas ha empezado con tratamiento ( folfox) creo que se llama.
+1	Hace	lpitarch	O	_	_	_	_	_	_	O	_
+2	dos	lpitarch	O	_	_	_	_	_	_	O	_
+3	semanas	lpitarch	O	_	_	_	_	_	_	O	_
+4	ha	lpitarch	O	_	_	_	_	_	_	O	_
+5	empezado	lpitarch	O	_	_	_	_	_	_	O	_
+6	con	lpitarch	O	_	_	_	_	_	_	O	_
+7	tratamiento	lpitarch	O	_	_	_	_	_	_	O	_
+8	(	lpitarch	O	_	_	_	_	_	_	O	_
+9	folfox	lpitarch	O	_	_	_	_	_	_	O	_
+10	)	lpitarch	O	_	_	_	_	_	_	O	_
+11	creo	lpitarch	O	_	_	_	_	_	_	O	_
+12	que	lpitarch	O	_	_	_	_	_	_	O	_
+13	se	lpitarch	O	_	_	_	_	_	_	O	_
+14	llama	lpitarch	O	_	_	_	_	_	_	O	_
+15	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 93
+# text = No hay mucha información al respuesta ni muchos testimonios.
+1	No	lpitarch	O	_	_	_	_	_	_	O	_
+2	hay	lpitarch	O	_	_	_	_	_	_	O	_
+3	mucha	lpitarch	O	_	_	_	_	_	_	O	_
+4	información	lpitarch	O	_	_	_	_	_	_	O	_
+5	al	lpitarch	O	_	_	_	_	_	_	O	_
+6	respuesta	lpitarch	O	_	_	_	_	_	_	O	_
+7	ni	lpitarch	O	_	_	_	_	_	_	O	_
+8	muchos	lpitarch	O	_	_	_	_	_	_	O	_
+9	testimonios	lpitarch	O	_	_	_	_	_	_	O	_
+10	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 94
+# text = Os dejo mi correo electrónico por si alguien que se encuentre en la misma situación quiere compartir opiniones e informarnos algo porque en mi caso estamos muy perdidos.
+1	Os	lpitarch	O	_	_	_	_	_	_	O	_
+2	dejo	lpitarch	O	_	_	_	_	_	_	O	_
+3	mi	lpitarch	O	_	_	_	_	_	_	O	_
+4	correo	lpitarch	O	_	_	_	_	_	_	O	_
+5	electrónico	lpitarch	O	_	_	_	_	_	_	O	_
+6	por	lpitarch	O	_	_	_	_	_	_	O	_
+7	si	lpitarch	O	_	_	_	_	_	_	O	_
+8	alguien	lpitarch	O	_	_	_	_	_	_	O	_
+9	que	lpitarch	O	_	_	_	_	_	_	O	_
+10	se	lpitarch	O	_	_	_	_	_	_	O	_
+11	encuentre	lpitarch	O	_	_	_	_	_	_	O	_
+12	en	lpitarch	O	_	_	_	_	_	_	O	_
+13	la	lpitarch	O	_	_	_	_	_	_	O	_
+14	misma	lpitarch	O	_	_	_	_	_	_	O	_
+15	situación	lpitarch	O	_	_	_	_	_	_	O	_
+16	quiere	lpitarch	O	_	_	_	_	_	_	O	_
+17	compartir	lpitarch	O	_	_	_	_	_	_	O	_
+18	opiniones	lpitarch	O	_	_	_	_	_	_	O	_
+19	e	lpitarch	O	_	_	_	_	_	_	O	_
+20	informarnos	lpitarch	O	_	_	_	_	_	_	O	_
+21	algo	lpitarch	O	_	_	_	_	_	_	O	_
+22	porque	lpitarch	O	_	_	_	_	_	_	O	_
+23	en	lpitarch	O	_	_	_	_	_	_	O	_
+24	mi	lpitarch	O	_	_	_	_	_	_	O	_
+25	caso	lpitarch	O	_	_	_	_	_	_	O	_
+26	estamos	lpitarch	O	_	_	_	_	_	_	O	_
+27	muy	lpitarch	O	_	_	_	_	_	_	O	_
+28	perdidos	lpitarch	O	_	_	_	_	_	_	O	_
+29	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 95
+# text = La cosa dicen que no pinta bien pero me niego a aceptar esto.
+1	La	lpitarch	O	_	_	_	_	_	_	O	_
+2	cosa	lpitarch	O	_	_	_	_	_	_	O	_
+3	dicen	lpitarch	O	_	_	_	_	_	_	O	_
+4	que	lpitarch	O	_	_	_	_	_	_	O	_
+5	no	lpitarch	O	_	_	_	_	_	_	O	_
+6	pinta	lpitarch	O	_	_	_	_	_	_	O	_
+7	bien	lpitarch	O	_	_	_	_	_	_	O	_
+8	pero	lpitarch	O	_	_	_	_	_	_	O	_
+9	me	lpitarch	O	_	_	_	_	_	_	O	_
+10	niego	lpitarch	O	_	_	_	_	_	_	O	_
+11	a	lpitarch	O	_	_	_	_	_	_	O	_
+12	aceptar	lpitarch	O	_	_	_	_	_	_	O	_
+13	esto	lpitarch	O	_	_	_	_	_	_	O	_
+14	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 96
+# text = Creo que tiene que haber personas que hayan podido superar la enfermedad, aunque no tenga cura que la enfermedad se cronifique o algo.
+1	Creo	lpitarch	O	_	_	_	_	_	_	O	_
+2	que	lpitarch	O	_	_	_	_	_	_	O	_
+3	tiene	lpitarch	O	_	_	_	_	_	_	O	_
+4	que	lpitarch	O	_	_	_	_	_	_	O	_
+5	haber	lpitarch	O	_	_	_	_	_	_	O	_
+6	personas	lpitarch	O	_	_	_	_	_	_	O	_
+7	que	lpitarch	O	_	_	_	_	_	_	O	_
+8	hayan	lpitarch	O	_	_	_	_	_	_	O	_
+9	podido	lpitarch	O	_	_	_	_	_	_	O	_
+10	superar	lpitarch	O	_	_	_	_	_	_	O	_
+11	la	lpitarch	O	_	_	_	_	_	_	O	_
+12	enfermedad	lpitarch	O	_	_	_	_	_	_	O	_
+13	,	lpitarch	O	_	_	_	_	_	_	O	_
+14	aunque	lpitarch	O	_	_	_	_	_	_	O	_
+15	no	lpitarch	O	_	_	_	_	_	_	O	_
+16	tenga	lpitarch	O	_	_	_	_	_	_	O	_
+17	cura	lpitarch	O	_	_	_	_	_	_	O	_
+18	que	lpitarch	O	_	_	_	_	_	_	O	_
+19	la	lpitarch	O	_	_	_	_	_	_	O	_
+20	enfermedad	lpitarch	O	_	_	_	_	_	_	O	_
+21	se	lpitarch	O	_	_	_	_	_	_	O	_
+22	cronifique	lpitarch	O	_	_	_	_	_	_	O	_
+23	o	lpitarch	O	_	_	_	_	_	_	O	_
+24	algo	lpitarch	O	_	_	_	_	_	_	O	_
+25	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 97
+# text = Por favor cualquier testimonio o ayuda sería valioso xxxx en estos momentos.
+1	Por	lpitarch	O	_	_	_	_	_	_	O	_
+2	favor	lpitarch	O	_	_	_	_	_	_	O	_
+3	cualquier	lpitarch	O	_	_	_	_	_	_	O	_
+4	testimonio	lpitarch	O	_	_	_	_	_	_	O	_
+5	o	lpitarch	O	_	_	_	_	_	_	O	_
+6	ayuda	lpitarch	O	_	_	_	_	_	_	O	_
+7	sería	lpitarch	O	_	_	_	_	_	_	O	_
+8	valioso	lpitarch	O	_	_	_	_	_	_	O	_
+9	xxxx	lpitarch	O	_	_	_	_	_	_	O	_
+10	en	lpitarch	O	_	_	_	_	_	_	O	_
+11	estos	lpitarch	O	_	_	_	_	_	_	O	_
+12	momentos	lpitarch	O	_	_	_	_	_	_	O	_
+13	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 98
+# text = Un abrazo enorme xxxx, me encantaría tener el placer de contactar contigo.\n\n
+1	Un	lpitarch	O	_	_	_	_	_	_	O	_
+2	abrazo	lpitarch	O	_	_	_	_	_	_	O	_
+3	enorme	lpitarch	O	_	_	_	_	_	_	O	_
+4	xxxx	lpitarch	O	_	_	_	_	_	_	B	_
+5	,	lpitarch	O	_	_	_	_	_	_	O	_
+6	me	lpitarch	O	_	_	_	_	_	_	O	_
+7	encantaría	lpitarch	O	_	_	_	_	_	_	O	_
+8	tener	lpitarch	O	_	_	_	_	_	_	O	_
+9	el	lpitarch	O	_	_	_	_	_	_	O	_
+10	placer	lpitarch	O	_	_	_	_	_	_	O	_
+11	de	lpitarch	O	_	_	_	_	_	_	O	_
+12	contactar	lpitarch	O	_	_	_	_	_	_	O	_
+13	contigo	lpitarch	O	_	_	_	_	_	_	O	_
+14	.	lpitarch	O	_	_	_	_	_	_	O	_
+15	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 99
+# text = mi correo es este %%EMAIL%%\n\nmin abrazo enorme y mucho ánimo\n\n[Autor 18]: Hola xxxxxx, siento lo de tu padre, pero hoy en día hay muchos tratamientos para cronificar la enfermedad.
+1	mi	lpitarch	O	_	_	_	_	_	_	O	_
+2	correo	lpitarch	O	_	_	_	_	_	_	O	_
+3	es	lpitarch	O	_	_	_	_	_	_	O	_
+4	este	lpitarch	O	_	_	_	_	_	_	O	_
+5	%	lpitarch	O	_	_	_	_	_	_	O	_
+6	%	lpitarch	O	_	_	_	_	_	_	O	_
+7	EMAIL%%	lpitarch	O	_	_	_	_	_	_	O	_
+8	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+9	min	lpitarch	O	_	_	_	_	_	_	O	_
+10	abrazo	lpitarch	O	_	_	_	_	_	_	O	_
+11	enorme	lpitarch	O	_	_	_	_	_	_	O	_
+12	y	lpitarch	O	_	_	_	_	_	_	O	_
+13	mucho	lpitarch	O	_	_	_	_	_	_	O	_
+14	ánimo	lpitarch	O	_	_	_	_	_	_	O	_
+15	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+16	[	lpitarch	O	_	_	_	_	_	_	O	_
+17	Autor	lpitarch	O	_	_	_	_	_	_	O	_
+18	18	lpitarch	O	_	_	_	_	_	_	O	_
+19	]	lpitarch	O	_	_	_	_	_	_	O	_
+20	:	lpitarch	O	_	_	_	_	_	_	O	_
+21	Hola	lpitarch	O	_	_	_	_	_	_	O	_
+22	xxxxxx	lpitarch	O	_	_	_	_	_	_	B	_
+23	,	lpitarch	O	_	_	_	_	_	_	O	_
+24	siento	lpitarch	O	_	_	_	_	_	_	O	_
+25	lo	lpitarch	O	_	_	_	_	_	_	O	_
+26	de	lpitarch	O	_	_	_	_	_	_	O	_
+27	tu	lpitarch	O	_	_	_	_	_	_	O	_
+28	padre	lpitarch	O	_	_	_	_	_	_	O	_
+29	,	lpitarch	O	_	_	_	_	_	_	O	_
+30	pero	lpitarch	O	_	_	_	_	_	_	O	_
+31	hoy	lpitarch	O	_	_	_	_	_	_	O	_
+32	en	lpitarch	O	_	_	_	_	_	_	O	_
+33	día	lpitarch	O	_	_	_	_	_	_	O	_
+34	hay	lpitarch	O	_	_	_	_	_	_	O	_
+35	muchos	lpitarch	O	_	_	_	_	_	_	O	_
+36	tratamientos	lpitarch	O	_	_	_	_	_	_	O	_
+37	para	lpitarch	O	_	_	_	_	_	_	O	_
+38	cronificar	lpitarch	O	_	_	_	_	_	_	O	_
+39	la	lpitarch	O	_	_	_	_	_	_	O	_
+40	enfermedad	lpitarch	O	_	_	_	_	_	_	O	_
+41	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 100
+# text = Ahora te escribiré por privado porque tambien hay una asociación para primarios gástricos, donde hay muchos testimonios de supervivientes, no es mi caso, pero me gusta entrar de vez en cuando porque los tratamientos son similares y los relatos de la gente muy esperanzadores.
+1	Ahora	lpitarch	O	_	_	_	_	_	_	O	_
+2	te	lpitarch	O	_	_	_	_	_	_	O	_
+3	escribiré	lpitarch	O	_	_	_	_	_	_	O	_
+4	por	lpitarch	O	_	_	_	_	_	_	O	_
+5	privado	lpitarch	O	_	_	_	_	_	_	O	_
+6	porque	lpitarch	O	_	_	_	_	_	_	O	_
+7	tambien	lpitarch	O	_	_	_	_	_	_	O	_
+8	hay	lpitarch	O	_	_	_	_	_	_	O	_
+9	una	lpitarch	O	_	_	_	_	_	_	O	_
+10	asociación	lpitarch	O	_	_	_	_	_	_	O	_
+11	para	lpitarch	O	_	_	_	_	_	_	O	_
+12	primarios	lpitarch	O	_	_	_	_	_	_	O	_
+13	gástricos	lpitarch	O	_	_	_	_	_	_	O	_
+14	,	lpitarch	O	_	_	_	_	_	_	O	_
+15	donde	lpitarch	O	_	_	_	_	_	_	O	_
+16	hay	lpitarch	O	_	_	_	_	_	_	O	_
+17	muchos	lpitarch	O	_	_	_	_	_	_	O	_
+18	testimonios	lpitarch	O	_	_	_	_	_	_	O	_
+19	de	lpitarch	O	_	_	_	_	_	_	O	_
+20	supervivientes	lpitarch	O	_	_	_	_	_	_	O	_
+21	,	lpitarch	O	_	_	_	_	_	_	O	_
+22	no	lpitarch	O	_	_	_	_	_	_	O	_
+23	es	lpitarch	O	_	_	_	_	_	_	O	_
+24	mi	lpitarch	O	_	_	_	_	_	_	O	_
+25	caso	lpitarch	O	_	_	_	_	_	_	O	_
+26	,	lpitarch	O	_	_	_	_	_	_	O	_
+27	pero	lpitarch	O	_	_	_	_	_	_	O	_
+28	me	lpitarch	O	_	_	_	_	_	_	O	_
+29	gusta	lpitarch	O	_	_	_	_	_	_	O	_
+30	entrar	lpitarch	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/entrar-02016523-v	ir o pasar de fuera adentro	_	entrar en una página electrónica.	personas >> comunidadaecc	_	O	_
+31	de	lpitarch	O	_	_	_	_	_	_	O	_
+32	vez	lpitarch	O	_	_	_	_	_	_	O	_
+33	en	lpitarch	O	_	_	_	_	_	_	O	_
+34	cuando	lpitarch	O	_	_	_	_	_	_	O	_
+35	porque	lpitarch	O	_	_	_	_	_	_	O	_
+36	los	lpitarch	O	_	_	_	_	_	_	O	_
+37	tratamientos	lpitarch	O	_	_	_	_	_	_	O	_
+38	son	lpitarch	O	_	_	_	_	_	_	O	_
+39	similares	lpitarch	O	_	_	_	_	_	_	O	_
+40	y	lpitarch	O	_	_	_	_	_	_	O	_
+41	los	lpitarch	O	_	_	_	_	_	_	O	_
+42	relatos	lpitarch	O	_	_	_	_	_	_	O	_
+43	de	lpitarch	O	_	_	_	_	_	_	O	_
+44	la	lpitarch	O	_	_	_	_	_	_	O	_
+45	gente	lpitarch	O	_	_	_	_	_	_	O	_
+46	muy	lpitarch	O	_	_	_	_	_	_	O	_
+47	esperanzadores	lpitarch	O	_	_	_	_	_	_	O	_
+48	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 101
+# text = Me alegro de que te hayas animado a escribir por aquí.
+1	Me	lpitarch	O	_	_	_	_	_	_	O	_
+2	alegro	lpitarch	O	_	_	_	_	_	_	O	_
+3	de	lpitarch	O	_	_	_	_	_	_	O	_
+4	que	lpitarch	O	_	_	_	_	_	_	O	_
+5	te	lpitarch	O	_	_	_	_	_	_	O	_
+6	hayas	lpitarch	O	_	_	_	_	_	_	O	_
+7	animado	lpitarch	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/animado-00118066-a	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/animado-00362467-a	_	personas >> comunidadaecc	_	O	_
+8	a	lpitarch	O	_	_	_	_	_	_	O	_
+9	escribir	lpitarch	O	_	_	_	_	_	_	O	_
+10	por	lpitarch	O	_	_	_	_	_	_	O	_
+11	aquí	lpitarch	O	_	_	_	_	_	_	O	_
+12	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 102
+# text = Un abrazo!\n\n
+1	Un	lpitarch	O	_	_	_	_	_	_	O	_
+2	abrazo	lpitarch	O	_	_	_	_	_	_	O	_
+3	!	lpitarch	O	_	_	_	_	_	_	O	_
+4	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 103
+# text = [Autor 22]: Hola buenas noches , yo he sido operado de cancer renal hace 3 años, me gustaria saber mas de la asociacion de pacientes de cancer renal\n\nMuchas gracias\n\n\n\nxxxxx xxxxxxx\n\n[Autor 18]: Hola xxxxx, se llama xxxxxx, por si quieres buscar información.
+1	[	lpitarch	O	_	_	_	_	_	_	O	_
+2	Autor	lpitarch	O	_	_	_	_	_	_	O	_
+3	22	lpitarch	O	_	_	_	_	_	_	O	_
+4	]	lpitarch	O	_	_	_	_	_	_	O	_
+5	:	lpitarch	O	_	_	_	_	_	_	O	_
+6	Hola	lpitarch	O	_	_	_	_	_	_	O	_
+7	buenas	lpitarch	O	_	_	_	_	_	_	O	_
+8	noches	lpitarch	O	_	_	_	_	_	_	O	_
+9	,	lpitarch	O	_	_	_	_	_	_	O	_
+10	yo	lpitarch	O	_	_	_	_	_	_	O	_
+11	he	lpitarch	O	_	_	_	_	_	_	O	_
+12	sido	lpitarch	O	_	_	_	_	_	_	O	_
+13	operado	lpitarch	O	_	_	_	_	_	_	O	_
+14	de	lpitarch	O	_	_	_	_	_	_	O	_
+15	cancer	lpitarch	O	_	_	_	_	_	_	O	_
+16	renal	lpitarch	O	_	_	_	_	_	_	O	_
+17	hace	lpitarch	O	_	_	_	_	_	_	O	_
+18	3	lpitarch	O	_	_	_	_	_	_	O	_
+19	años	lpitarch	O	_	_	_	_	_	_	O	_
+20	,	lpitarch	O	_	_	_	_	_	_	O	_
+21	me	lpitarch	O	_	_	_	_	_	_	O	_
+22	gustaria	lpitarch	O	_	_	_	_	_	_	O	_
+23	saber	lpitarch	O	_	_	_	_	_	_	O	_
+24	mas	lpitarch	O	_	_	_	_	_	_	O	_
+25	de	lpitarch	O	_	_	_	_	_	_	O	_
+26	la	lpitarch	O	_	_	_	_	_	_	O	_
+27	asociacion	lpitarch	O	_	_	_	_	_	_	O	_
+28	de	lpitarch	O	_	_	_	_	_	_	O	_
+29	pacientes	lpitarch	O	_	_	_	_	_	_	O	_
+30	de	lpitarch	O	_	_	_	_	_	_	O	_
+31	cancer	lpitarch	O	_	_	_	_	_	_	O	_
+32	renal	lpitarch	O	_	_	_	_	_	_	O	_
+33	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+34	Muchas	lpitarch	O	_	_	_	_	_	_	O	_
+35	gracias	lpitarch	O	_	_	_	_	_	_	O	_
+36	\n\n\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+37	xxxxx	lpitarch	O	_	_	_	_	_	_	O	_
+38	xxxxxxx	lpitarch	O	_	_	_	_	_	_	I	_
+39	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+40	[	lpitarch	O	_	_	_	_	_	_	O	_
+41	Autor	lpitarch	O	_	_	_	_	_	_	O	_
+42	18	lpitarch	O	_	_	_	_	_	_	O	_
+43	]	lpitarch	O	_	_	_	_	_	_	O	_
+44	:	lpitarch	O	_	_	_	_	_	_	O	_
+45	Hola	lpitarch	O	_	_	_	_	_	_	O	_
+46	xxxxx	lpitarch	O	_	_	_	_	_	_	B	_
+47	,	lpitarch	O	_	_	_	_	_	_	O	_
+48	se	lpitarch	O	_	_	_	_	_	_	O	_
+49	llama	lpitarch	O	_	_	_	_	_	_	O	_
+50	xxxxxx	lpitarch	O	_	_	_	_	_	_	O	_
+51	,	lpitarch	O	_	_	_	_	_	_	O	_
+52	por	lpitarch	O	_	_	_	_	_	_	O	_
+53	si	lpitarch	O	_	_	_	_	_	_	O	_
+54	quieres	lpitarch	O	_	_	_	_	_	_	O	_
+55	buscar	lpitarch	O	_	_	_	_	_	_	O	_
+56	información	lpitarch	O	_	_	_	_	_	_	O	_
+57	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 104
+# text = Si te interesa entrar en el grupo de whats dimelo y te explico como.
+1	Si	lpitarch	O	_	_	_	_	_	_	O	_
+2	te	lpitarch	O	_	_	_	_	_	_	O	_
+3	interesa	lpitarch	O	_	_	_	_	_	_	O	_
+4	entrar	lpitarch	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/entrar-02016523-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/entrar-01082606-v	_	personas >> comunidadaecc	_	O	_
+5	en	lpitarch	O	_	_	_	_	_	_	O	_
+6	el	lpitarch	O	_	_	_	_	_	_	O	_
+7	grupo	lpitarch	O	_	_	_	_	_	_	O	_
+8	de	lpitarch	O	_	_	_	_	_	_	O	_
+9	whats	lpitarch	O	_	_	_	_	_	_	O	_
+10	dimelo	lpitarch	O	_	_	_	_	_	_	O	_
+11	y	lpitarch	O	_	_	_	_	_	_	O	_
+12	te	lpitarch	O	_	_	_	_	_	_	O	_
+13	explico	lpitarch	O	_	_	_	_	_	_	O	_
+14	como	lpitarch	O	_	_	_	_	_	_	O	_
+15	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 105
+# text = Un abrazo\n\n[Autor 18]: Hola a tod@s, sigo escribiendo aquí, por si alguien lo lee y le sirve.
+1	Un	lpitarch	O	_	_	_	_	_	_	O	_
+2	abrazo	lpitarch	O	_	_	_	_	_	_	O	_
+3	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+4	[	lpitarch	O	_	_	_	_	_	_	O	_
+5	Autor	lpitarch	O	_	_	_	_	_	_	O	_
+6	18	lpitarch	O	_	_	_	_	_	_	O	_
+7	]	lpitarch	O	_	_	_	_	_	_	O	_
+8	:	lpitarch	O	_	_	_	_	_	_	O	_
+9	Hola	lpitarch	O	_	_	_	_	_	_	O	_
+10	a	lpitarch	O	_	_	_	_	_	_	O	_
+11	tod@s	lpitarch	O	_	_	_	_	_	_	O	_
+12	,	lpitarch	O	_	_	_	_	_	_	O	_
+13	sigo	lpitarch	O	_	_	_	_	_	_	O	_
+14	escribiendo	lpitarch	O	_	_	_	_	_	_	O	_
+15	aquí	lpitarch	O	_	_	_	_	_	_	O	_
+16	,	lpitarch	O	_	_	_	_	_	_	O	_
+17	por	lpitarch	O	_	_	_	_	_	_	O	_
+18	si	lpitarch	O	_	_	_	_	_	_	O	_
+19	alguien	lpitarch	O	_	_	_	_	_	_	O	_
+20	lo	lpitarch	O	_	_	_	_	_	_	O	_
+21	lee	lpitarch	O	_	_	_	_	_	_	O	_
+22	y	lpitarch	O	_	_	_	_	_	_	O	_
+23	le	lpitarch	O	_	_	_	_	_	_	O	_
+24	sirve	lpitarch	O	_	_	_	_	_	_	O	_
+25	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 106
+# text = Después de una año y un mes con sunitinib, de nuevo he tenido buenos resultados y todos los nódulos de la metástasis han reducido su tamaño.
+1	Después	lpitarch	O	_	_	_	_	_	_	O	_
+2	de	lpitarch	O	_	_	_	_	_	_	O	_
+3	una	lpitarch	O	_	_	_	_	_	_	O	_
+4	año	lpitarch	O	_	_	_	_	_	_	O	_
+5	y	lpitarch	O	_	_	_	_	_	_	O	_
+6	un	lpitarch	O	_	_	_	_	_	_	O	_
+7	mes	lpitarch	O	_	_	_	_	_	_	O	_
+8	con	lpitarch	O	_	_	_	_	_	_	O	_
+9	sunitinib	lpitarch	O	_	_	_	_	_	_	O	_
+10	,	lpitarch	O	_	_	_	_	_	_	O	_
+11	de	lpitarch	O	_	_	_	_	_	_	O	_
+12	nuevo	lpitarch	O	_	_	_	_	_	_	O	_
+13	he	lpitarch	O	_	_	_	_	_	_	O	_
+14	tenido	lpitarch	O	_	_	_	_	_	_	O	_
+15	buenos	lpitarch	O	_	_	_	_	_	_	O	_
+16	resultados	lpitarch	O	_	_	_	_	_	_	O	_
+17	y	lpitarch	O	_	_	_	_	_	_	O	_
+18	todos	lpitarch	O	_	_	_	_	_	_	O	_
+19	los	lpitarch	O	_	_	_	_	_	_	O	_
+20	nódulos	lpitarch	O	_	_	_	_	_	_	O	_
+21	de	lpitarch	O	_	_	_	_	_	_	O	_
+22	la	lpitarch	O	_	_	_	_	_	_	O	_
+23	metástasis	lpitarch	O	_	_	_	_	_	_	O	_
+24	han	lpitarch	O	_	_	_	_	_	_	O	_
+25	reducido	lpitarch	O	_	_	_	_	_	_	O	_
+26	su	lpitarch	O	_	_	_	_	_	_	O	_
+27	tamaño	lpitarch	O	_	_	_	_	_	_	O	_
+28	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 107
+# text = Más que feliz por el resultado y esperando que siga así por mucho tiempo más.
+1	Más	lpitarch	O	_	_	_	_	_	_	O	_
+2	que	lpitarch	O	_	_	_	_	_	_	O	_
+3	feliz	lpitarch	O	_	_	_	_	_	_	O	_
+4	por	lpitarch	O	_	_	_	_	_	_	O	_
+5	el	lpitarch	O	_	_	_	_	_	_	O	_
+6	resultado	lpitarch	O	_	_	_	_	_	_	O	_
+7	y	lpitarch	O	_	_	_	_	_	_	O	_
+8	esperando	lpitarch	O	_	_	_	_	_	_	O	_
+9	que	lpitarch	O	_	_	_	_	_	_	O	_
+10	siga	lpitarch	O	_	_	_	_	_	_	O	_
+11	así	lpitarch	O	_	_	_	_	_	_	O	_
+12	por	lpitarch	O	_	_	_	_	_	_	O	_
+13	mucho	lpitarch	O	_	_	_	_	_	_	O	_
+14	tiempo	lpitarch	O	_	_	_	_	_	_	O	_
+15	más	lpitarch	O	_	_	_	_	_	_	O	_
+16	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 108
+# text = Los efectos del sunitinib cada vez son más llevaderos, sigo trabajando y para celebrar los resultados me marcho de vacaciones a Francia una semana.
+1	Los	lpitarch	O	_	_	_	_	_	_	O	_
+2	efectos	lpitarch	O	_	_	_	_	_	_	O	_
+3	del	lpitarch	O	_	_	_	_	_	_	O	_
+4	sunitinib	lpitarch	O	_	_	_	_	_	_	O	_
+5	cada	lpitarch	O	_	_	_	_	_	_	O	_
+6	vez	lpitarch	O	_	_	_	_	_	_	O	_
+7	son	lpitarch	O	_	_	_	_	_	_	O	_
+8	más	lpitarch	O	_	_	_	_	_	_	O	_
+9	llevaderos	lpitarch	O	_	_	_	_	_	_	O	_
+10	,	lpitarch	O	_	_	_	_	_	_	O	_
+11	sigo	lpitarch	O	_	_	_	_	_	_	O	_
+12	trabajando	lpitarch	O	_	_	_	_	_	_	O	_
+13	y	lpitarch	O	_	_	_	_	_	_	O	_
+14	para	lpitarch	O	_	_	_	_	_	_	O	_
+15	celebrar	lpitarch	O	_	_	_	_	_	_	O	_
+16	los	lpitarch	O	_	_	_	_	_	_	O	_
+17	resultados	lpitarch	O	_	_	_	_	_	_	O	_
+18	me	lpitarch	O	_	_	_	_	_	_	O	_
+19	marcho	lpitarch	O	_	_	_	_	_	_	O	_
+20	de	lpitarch	O	_	_	_	_	_	_	O	_
+21	vacaciones	lpitarch	O	_	_	_	_	_	_	O	_
+22	a	lpitarch	O	_	_	_	_	_	_	O	_
+23	Francia	lpitarch	O	_	_	_	_	_	_	O	_
+24	una	lpitarch	O	_	_	_	_	_	_	O	_
+25	semana	lpitarch	O	_	_	_	_	_	_	O	_
+26	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 109
+# text = Mucha fuerza y ánimo para los que estais igual que yo, mejor o peor, la esperanza de unos, es la esperanza de todos.
+1	Mucha	lpitarch	O	_	_	_	_	_	_	O	_
+2	fuerza	lpitarch	O	_	_	_	_	_	_	O	_
+3	y	lpitarch	O	_	_	_	_	_	_	O	_
+4	ánimo	lpitarch	O	_	_	_	_	_	_	O	_
+5	para	lpitarch	O	_	_	_	_	_	_	O	_
+6	los	lpitarch	O	_	_	_	_	_	_	O	_
+7	que	lpitarch	O	_	_	_	_	_	_	O	_
+8	estais	lpitarch	O	_	_	_	_	_	_	O	_
+9	igual	lpitarch	O	_	_	_	_	_	_	O	_
+10	que	lpitarch	O	_	_	_	_	_	_	O	_
+11	yo	lpitarch	O	_	_	_	_	_	_	O	_
+12	,	lpitarch	O	_	_	_	_	_	_	O	_
+13	mejor	lpitarch	O	_	_	_	_	_	_	O	_
+14	o	lpitarch	O	_	_	_	_	_	_	O	_
+15	peor	lpitarch	O	_	_	_	_	_	_	O	_
+16	,	lpitarch	O	_	_	_	_	_	_	O	_
+17	la	lpitarch	O	_	_	_	_	_	_	O	_
+18	esperanza	lpitarch	O	_	_	_	_	_	_	O	_
+19	de	lpitarch	O	_	_	_	_	_	_	O	_
+20	unos	lpitarch	O	_	_	_	_	_	_	O	_
+21	,	lpitarch	O	_	_	_	_	_	_	O	_
+22	es	lpitarch	O	_	_	_	_	_	_	O	_
+23	la	lpitarch	O	_	_	_	_	_	_	O	_
+24	esperanza	lpitarch	O	_	_	_	_	_	_	O	_
+25	de	lpitarch	O	_	_	_	_	_	_	O	_
+26	todos	lpitarch	O	_	_	_	_	_	_	O	_
+27	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 110
+# text = Un gran abrazo!\n\n
+1	Un	lpitarch	O	_	_	_	_	_	_	O	_
+2	gran	lpitarch	O	_	_	_	_	_	_	O	_
+3	abrazo	lpitarch	O	_	_	_	_	_	_	O	_
+4	!	lpitarch	O	_	_	_	_	_	_	O	_
+5	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 111
+# text = [Autor 21]: Yo te leo xxxx, me haces sentir mejor.
+1	[	lpitarch	O	_	_	_	_	_	_	O	_
+2	Autor	lpitarch	O	_	_	_	_	_	_	O	_
+3	21	lpitarch	O	_	_	_	_	_	_	O	_
+4	]	lpitarch	O	_	_	_	_	_	_	O	_
+5	:	lpitarch	O	_	_	_	_	_	_	O	_
+6	Yo	lpitarch	O	_	_	_	_	_	_	O	_
+7	te	lpitarch	O	_	_	_	_	_	_	O	_
+8	leo	lpitarch	O	_	_	_	_	_	_	O	_
+9	xxxx	lpitarch	O	_	_	_	_	_	_	B	_
+10	,	lpitarch	O	_	_	_	_	_	_	I	_
+11	me	lpitarch	O	_	_	_	_	_	_	O	_
+12	haces	lpitarch	O	_	_	_	_	_	_	O	_
+13	sentir	lpitarch	O	_	_	_	_	_	_	O	_
+14	mejor	lpitarch	O	_	_	_	_	_	_	O	_
+15	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 112
+# text = Sinceramente siempre mereconfortan tus palabras.
+1	Sinceramente	lpitarch	O	_	_	_	_	_	_	O	_
+2	siempre	lpitarch	O	_	_	_	_	_	_	O	_
+3	mereconfortan	lpitarch	O	_	_	_	_	_	_	O	_
+4	tus	lpitarch	O	_	_	_	_	_	_	O	_
+5	palabras	lpitarch	O	_	_	_	_	_	_	O	_
+6	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 113
+# text = Me alegro muchísimode tus buenos resultados.\n\n
+1	Me	lpitarch	O	_	_	_	_	_	_	O	_
+2	alegro	lpitarch	O	_	_	_	_	_	_	O	_
+3	muchísimode	lpitarch	O	_	_	_	_	_	_	O	_
+4	tus	lpitarch	O	_	_	_	_	_	_	O	_
+5	buenos	lpitarch	O	_	_	_	_	_	_	O	_
+6	resultados	lpitarch	O	_	_	_	_	_	_	O	_
+7	.	lpitarch	O	_	_	_	_	_	_	O	_
+8	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 114
+# text = Disfruta mucho de esas vacaciones.
+1	Disfruta	lpitarch	O	_	_	_	_	_	_	O	_
+2	mucho	lpitarch	O	_	_	_	_	_	_	O	_
+3	de	lpitarch	O	_	_	_	_	_	_	O	_
+4	esas	lpitarch	O	_	_	_	_	_	_	O	_
+5	vacaciones	lpitarch	O	_	_	_	_	_	_	O	_
+6	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 115
+# text = Te las mereces.\n\n
+1	Te	lpitarch	O	_	_	_	_	_	_	O	_
+2	las	lpitarch	O	_	_	_	_	_	_	O	_
+3	mereces	lpitarch	O	_	_	_	_	_	_	O	_
+4	.	lpitarch	O	_	_	_	_	_	_	O	_
+5	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 116
+# text = [Autor 20]: Hola xxxx,\n\n\n\nla verdad es que si me gustaria compartir experiencias con gente en la misma situacion.\n\n
+1	[	lpitarch	O	_	_	_	_	_	_	O	_
+2	Autor	lpitarch	O	_	_	_	_	_	_	O	_
+3	20	lpitarch	O	_	_	_	_	_	_	O	_
+4	]	lpitarch	O	_	_	_	_	_	_	O	_
+5	:	lpitarch	O	_	_	_	_	_	_	O	_
+6	Hola	lpitarch	O	_	_	_	_	_	_	O	_
+7	xxxx	lpitarch	O	_	_	_	_	_	_	B	_
+8	,	lpitarch	O	_	_	_	_	_	_	I	_
+9	\n\n\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+10	la	lpitarch	O	_	_	_	_	_	_	O	_
+11	verdad	lpitarch	O	_	_	_	_	_	_	O	_
+12	es	lpitarch	O	_	_	_	_	_	_	O	_
+13	que	lpitarch	O	_	_	_	_	_	_	O	_
+14	si	lpitarch	O	_	_	_	_	_	_	O	_
+15	me	lpitarch	O	_	_	_	_	_	_	O	_
+16	gustaria	lpitarch	O	_	_	_	_	_	_	O	_
+17	compartir	lpitarch	O	_	_	_	_	_	_	O	_
+18	experiencias	lpitarch	O	_	_	_	_	_	_	O	_
+19	con	lpitarch	O	_	_	_	_	_	_	O	_
+20	gente	lpitarch	O	_	_	_	_	_	_	O	_
+21	en	lpitarch	O	_	_	_	_	_	_	O	_
+22	la	lpitarch	O	_	_	_	_	_	_	O	_
+23	misma	lpitarch	O	_	_	_	_	_	_	O	_
+24	situacion	lpitarch	O	_	_	_	_	_	_	O	_
+25	.	lpitarch	O	_	_	_	_	_	_	O	_
+26	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 117
+# text = [Autor 19]: Buenas noches,
+1	[	lpitarch	O	_	_	_	_	_	_	O	_
+2	Autor	lpitarch	O	_	_	_	_	_	_	O	_
+3	19	lpitarch	O	_	_	_	_	_	_	O	_
+4	]	lpitarch	O	_	_	_	_	_	_	O	_
+5	:	lpitarch	O	_	_	_	_	_	_	O	_
+6	Buenas	lpitarch	O	_	_	_	_	_	_	O	_
+7	noches	lpitarch	O	_	_	_	_	_	_	O	_
+8	,	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 118
+# text = yo hoy recibi la peor noticia , mi madre tiene cancer .
+1	yo	lpitarch	O	_	_	_	_	_	_	O	_
+2	hoy	lpitarch	O	_	_	_	_	_	_	O	_
+3	recibi	lpitarch	O	_	_	_	_	_	_	O	_
+4	la	lpitarch	O	_	_	_	_	_	_	O	_
+5	peor	lpitarch	O	_	_	_	_	_	_	O	_
+6	noticia	lpitarch	O	_	_	_	_	_	_	O	_
+7	,	lpitarch	O	_	_	_	_	_	_	O	_
+8	mi	lpitarch	O	_	_	_	_	_	_	O	_
+9	madre	lpitarch	O	_	_	_	_	_	_	O	_
+10	tiene	lpitarch	O	_	_	_	_	_	_	O	_
+11	cancer	lpitarch	O	_	_	_	_	_	_	O	_
+12	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 119
+# text = No puedo entenderlo me encantaría compartir consultas con ustedes.
+1	No	lpitarch	O	_	_	_	_	_	_	O	_
+2	puedo	lpitarch	O	_	_	_	_	_	_	O	_
+3	entenderlo	lpitarch	O	_	_	_	_	_	_	O	_
+4	me	lpitarch	O	_	_	_	_	_	_	O	_
+5	encantaría	lpitarch	O	_	_	_	_	_	_	O	_
+6	compartir	lpitarch	O	_	_	_	_	_	_	O	_
+7	consultas	lpitarch	O	_	_	_	_	_	_	O	_
+8	con	lpitarch	O	_	_	_	_	_	_	O	_
+9	ustedes	lpitarch	O	_	_	_	_	_	_	O	_
+10	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 120
+# text = Aliviarme un poco.
+1	Aliviarme	lpitarch	B	_	dejar que un líquido salga por el aliviadero de un recipiente, para evitar que sobrepase un determinado nivel de este|quitar a alguien o algo parte del peso que sobre él o ello carga.	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/aliviar-00063916-v	disminuir o mitigar las enfermedades, las fatigas del cuerpo o las aflicciones del ánimo.	emociones >> desahogarse	_	O	_
+2	un	lpitarch	O	_	_	_	_	_	_	O	_
+3	poco	lpitarch	O	_	_	_	_	_	_	O	_
+4	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 121
+# text = Gracias\n\n[Autor 18]
+1	Gracias	lpitarch	O	_	_	_	_	_	_	O	_
+2	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+3	[	lpitarch	O	_	_	_	_	_	_	O	_
+4	Autor	lpitarch	O	_	_	_	_	_	_	O	_
+5	18	lpitarch	O	_	_	_	_	_	_	O	_
+6	]	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 122
+# text = : Gracias xxxx, ya estoy de vuelta, la verdad es que me ha ido muy bien desconectar.
+1	:	lpitarch	O	_	_	_	_	_	_	O	_
+2	Gracias	lpitarch	O	_	_	_	_	_	_	O	_
+3	xxxx	lpitarch	O	_	_	_	_	_	_	O	_
+4	,	lpitarch	O	_	_	_	_	_	_	O	_
+5	ya	lpitarch	O	_	_	_	_	_	_	O	_
+6	estoy	lpitarch	O	_	_	_	_	_	_	O	_
+7	de	lpitarch	O	_	_	_	_	_	_	O	_
+8	vuelta	lpitarch	O	_	_	_	_	_	_	O	_
+9	,	lpitarch	O	_	_	_	_	_	_	O	_
+10	la	lpitarch	O	_	_	_	_	_	_	O	_
+11	verdad	lpitarch	O	_	_	_	_	_	_	O	_
+12	es	lpitarch	O	_	_	_	_	_	_	O	_
+13	que	lpitarch	O	_	_	_	_	_	_	O	_
+14	me	lpitarch	O	_	_	_	_	_	_	O	_
+15	ha	lpitarch	O	_	_	_	_	_	_	O	_
+16	ido	lpitarch	O	_	_	_	_	_	_	O	_
+17	muy	lpitarch	O	_	_	_	_	_	_	O	_
+18	bien	lpitarch	O	_	_	_	_	_	_	O	_
+19	desconectar	lpitarch	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/desconectar-01356038-v|https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/desconectar-01510576-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/relajar-00025985-v|https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/relajarse-00082308-v	_	emociones >> desahogarse	_	O	_
+20	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 123
+# text = Un abrazo y gracias por tus palabras.\n\n
+1	Un	lpitarch	O	_	_	_	_	_	_	O	_
+2	abrazo	lpitarch	O	_	_	_	_	_	_	O	_
+3	y	lpitarch	O	_	_	_	_	_	_	O	_
+4	gracias	lpitarch	O	_	_	_	_	_	_	O	_
+5	por	lpitarch	O	_	_	_	_	_	_	O	_
+6	tus	lpitarch	O	_	_	_	_	_	_	O	_
+7	palabras	lpitarch	O	_	_	_	_	_	_	O	_
+8	.	lpitarch	O	_	_	_	_	_	_	O	_
+9	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 124
+# text = [Autor 18]: Hola xxxxx, ya dejé mi correo por aquí por si te apetece hablar, la verdad es que es difícil poder lidiar con esta situación y ayuda hablar con gente que pasa lo mismo.
+1	[	lpitarch	O	_	_	_	_	_	_	O	_
+2	Autor	lpitarch	O	_	_	_	_	_	_	O	_
+3	18	lpitarch	O	_	_	_	_	_	_	O	_
+4	]	lpitarch	O	_	_	_	_	_	_	O	_
+5	:	lpitarch	O	_	_	_	_	_	_	O	_
+6	Hola	lpitarch	O	_	_	_	_	_	_	O	_
+7	xxxxx	lpitarch	O	_	_	_	_	_	_	B	_
+8	,	lpitarch	O	_	_	_	_	_	_	O	_
+9	ya	lpitarch	O	_	_	_	_	_	_	O	_
+10	dejé	lpitarch	O	_	_	_	_	_	_	O	_
+11	mi	lpitarch	O	_	_	_	_	_	_	O	_
+12	correo	lpitarch	O	_	_	_	_	_	_	O	_
+13	por	lpitarch	O	_	_	_	_	_	_	O	_
+14	aquí	lpitarch	O	_	_	_	_	_	_	O	_
+15	por	lpitarch	O	_	_	_	_	_	_	O	_
+16	si	lpitarch	O	_	_	_	_	_	_	O	_
+17	te	lpitarch	O	_	_	_	_	_	_	O	_
+18	apetece	lpitarch	O	_	_	_	_	_	_	O	_
+19	hablar	lpitarch	O	_	_	_	_	_	_	O	_
+20	,	lpitarch	O	_	_	_	_	_	_	O	_
+21	la	lpitarch	O	_	_	_	_	_	_	O	_
+22	verdad	lpitarch	O	_	_	_	_	_	_	O	_
+23	es	lpitarch	O	_	_	_	_	_	_	O	_
+24	que	lpitarch	O	_	_	_	_	_	_	O	_
+25	es	lpitarch	O	_	_	_	_	_	_	O	_
+26	difícil	lpitarch	O	_	_	_	_	_	_	O	_
+27	poder	lpitarch	O	_	_	_	_	_	_	O	_
+28	lidiar	lpitarch	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/lidiar-01090335-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/experimentar-02108026-v	_	Estar enfermo con cáncer	_	O	_
+29	con	lpitarch	O	_	_	_	_	_	_	O	_
+30	esta	lpitarch	O	_	_	_	_	_	_	O	_
+31	situación	lpitarch	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/situaci%C3%B3n-05074774-n	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/situaci%C3%B3n-13927383-n	_	personas >> comunidadaecc|Estar enfermo con cáncer	_	O	_
+32	y	lpitarch	O	_	_	_	_	_	_	O	_
+33	ayuda	lpitarch	O	_	_	_	_	_	_	O	_
+34	hablar	lpitarch	O	_	_	_	_	_	_	O	_
+35	con	lpitarch	O	_	_	_	_	_	_	O	_
+36	gente	lpitarch	O	_	_	_	_	_	_	O	_
+37	que	lpitarch	O	_	_	_	_	_	_	O	_
+38	pasa	lpitarch	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/pasar-01212230-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/pasar-00344643-v	_	personas >> comunidadaecc|Estar enfermo con cáncer	_	O	_
+39	lo	lpitarch	O	_	_	_	_	_	_	O	_
+40	mismo	lpitarch	O	_	_	_	_	_	_	O	_
+41	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 125
+# text = Un abrazo.
+1	Un	lpitarch	O	_	_	_	_	_	_	O	_
+2	abrazo	lpitarch	O	_	_	_	_	_	_	O	_
+3	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 126
+# text = %%EMAIL%%\n\n\n\n[Autor 18]: Hola xxxxxxx, no te preocupes, hoy en día hay muchos tratamientos, ya nos explicarás si te apetece como va tu madre, un abrazo muy grande.
+1	%	lpitarch	O	_	_	_	_	_	_	O	_
+2	%	lpitarch	O	_	_	_	_	_	_	O	_
+3	EMAIL%%	lpitarch	O	_	_	_	_	_	_	O	_
+4	\n\n\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+5	[	lpitarch	O	_	_	_	_	_	_	O	_
+6	Autor	lpitarch	O	_	_	_	_	_	_	O	_
+7	18	lpitarch	O	_	_	_	_	_	_	O	_
+8	]	lpitarch	O	_	_	_	_	_	_	O	_
+9	:	lpitarch	O	_	_	_	_	_	_	O	_
+10	Hola	lpitarch	O	_	_	_	_	_	_	O	_
+11	xxxxxxx	lpitarch	O	_	_	_	_	_	_	B	_
+12	,	lpitarch	O	_	_	_	_	_	_	O	_
+13	no	lpitarch	O	_	_	_	_	_	_	O	_
+14	te	lpitarch	O	_	_	_	_	_	_	O	_
+15	preocupes	lpitarch	O	_	_	_	_	_	_	O	_
+16	,	lpitarch	O	_	_	_	_	_	_	O	_
+17	hoy	lpitarch	O	_	_	_	_	_	_	O	_
+18	en	lpitarch	O	_	_	_	_	_	_	O	_
+19	día	lpitarch	O	_	_	_	_	_	_	O	_
+20	hay	lpitarch	O	_	_	_	_	_	_	O	_
+21	muchos	lpitarch	O	_	_	_	_	_	_	O	_
+22	tratamientos	lpitarch	O	_	_	_	_	_	_	O	_
+23	,	lpitarch	O	_	_	_	_	_	_	O	_
+24	ya	lpitarch	O	_	_	_	_	_	_	O	_
+25	nos	lpitarch	O	_	_	_	_	_	_	O	_
+26	explicarás	lpitarch	O	_	_	_	_	_	_	O	_
+27	si	lpitarch	O	_	_	_	_	_	_	O	_
+28	te	lpitarch	O	_	_	_	_	_	_	O	_
+29	apetece	lpitarch	O	_	_	_	_	_	_	O	_
+30	como	lpitarch	O	_	_	_	_	_	_	O	_
+31	va	lpitarch	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/ir-01904930-v|https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/ir-02009433-v|https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/ir-02685951-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/estar-02604760-v	_	Estar enfermo con cáncer	_	O	_
+32	tu	lpitarch	O	_	_	_	_	_	_	O	_
+33	madre	lpitarch	O	_	_	_	_	_	_	O	_
+34	,	lpitarch	O	_	_	_	_	_	_	O	_
+35	un	lpitarch	O	_	_	_	_	_	_	O	_
+36	abrazo	lpitarch	O	_	_	_	_	_	_	O	_
+37	muy	lpitarch	O	_	_	_	_	_	_	O	_
+38	grande	lpitarch	O	_	_	_	_	_	_	O	_
+39	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 127
+# text = Estos días me pondré a leer todos los temas nuevas, a ver si en alguno explicabas algo más de tu historia.
+1	Estos	lpitarch	O	_	_	_	_	_	_	O	_
+2	días	lpitarch	O	_	_	_	_	_	_	O	_
+3	me	lpitarch	O	_	_	_	_	_	_	O	_
+4	pondré	lpitarch	O	_	_	_	_	_	_	O	_
+5	a	lpitarch	O	_	_	_	_	_	_	O	_
+6	leer	lpitarch	O	_	_	_	_	_	_	O	_
+7	todos	lpitarch	O	_	_	_	_	_	_	O	_
+8	los	lpitarch	O	_	_	_	_	_	_	O	_
+9	temas	lpitarch	O	_	_	_	_	_	_	O	_
+10	nuevas	lpitarch	O	_	_	_	_	_	_	O	_
+11	,	lpitarch	O	_	_	_	_	_	_	O	_
+12	a	lpitarch	O	_	_	_	_	_	_	O	_
+13	ver	lpitarch	O	_	_	_	_	_	_	O	_
+14	si	lpitarch	O	_	_	_	_	_	_	O	_
+15	en	lpitarch	O	_	_	_	_	_	_	O	_
+16	alguno	lpitarch	O	_	_	_	_	_	_	O	_
+17	explicabas	lpitarch	O	_	_	_	_	_	_	O	_
+18	algo	lpitarch	O	_	_	_	_	_	_	O	_
+19	más	lpitarch	O	_	_	_	_	_	_	O	_
+20	de	lpitarch	O	_	_	_	_	_	_	O	_
+21	tu	lpitarch	O	_	_	_	_	_	_	O	_
+22	historia	lpitarch	O	_	_	_	_	_	_	O	_
+23	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 128
+# text = Animo!\n\n[Autor 18]: Hola a todos y a todas y felices fiestas! Pongo una actualización ya que mi primer correo es de hace mucho.
+1	Animo	lpitarch	O	_	_	_	_	_	_	O	_
+2	!	lpitarch	O	_	_	_	_	_	_	O	_
+3	\n\n	lpitarch	O	_	_	_	_	_	_	O	_
+4	[	lpitarch	O	_	_	_	_	_	_	O	_
+5	Autor	lpitarch	O	_	_	_	_	_	_	O	_
+6	18	lpitarch	O	_	_	_	_	_	_	O	_
+7	]	lpitarch	O	_	_	_	_	_	_	O	_
+8	:	lpitarch	O	_	_	_	_	_	_	O	_
+9	Hola	lpitarch	O	_	_	_	_	_	_	O	_
+10	a	lpitarch	O	_	_	_	_	_	_	O	_
+11	todos	lpitarch	O	_	_	_	_	_	_	O	_
+12	y	lpitarch	O	_	_	_	_	_	_	O	_
+13	a	lpitarch	O	_	_	_	_	_	_	O	_
+14	todas	lpitarch	O	_	_	_	_	_	_	O	_
+15	y	lpitarch	O	_	_	_	_	_	_	O	_
+16	felices	lpitarch	O	_	_	_	_	_	_	O	_
+17	fiestas	lpitarch	O	_	_	_	_	_	_	O	_
+18	!	lpitarch	O	_	_	_	_	_	_	O	_
+19	Pongo	lpitarch	O	_	_	_	_	_	_	O	_
+20	una	lpitarch	O	_	_	_	_	_	_	O	_
+21	actualización	lpitarch	O	_	_	_	_	_	_	O	_
+22	ya	lpitarch	O	_	_	_	_	_	_	O	_
+23	que	lpitarch	O	_	_	_	_	_	_	O	_
+24	mi	lpitarch	O	_	_	_	_	_	_	O	_
+25	primer	lpitarch	O	_	_	_	_	_	_	O	_
+26	correo	lpitarch	O	_	_	_	_	_	_	O	_
+27	es	lpitarch	O	_	_	_	_	_	_	O	_
+28	de	lpitarch	O	_	_	_	_	_	_	O	_
+29	hace	lpitarch	O	_	_	_	_	_	_	O	_
+30	mucho	lpitarch	O	_	_	_	_	_	_	O	_
+31	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 129
+# text = el sunitinib después de seis años me ha dejado de funcionar, y ante un avance importante de las lesiones de mi metástasis me pasan por protocolo a segunda linea de tratamiento.
+1	el	lpitarch	O	_	_	_	_	_	_	O	_
+2	sunitinib	lpitarch	O	_	_	_	_	_	_	O	_
+3	después	lpitarch	O	_	_	_	_	_	_	O	_
+4	de	lpitarch	O	_	_	_	_	_	_	O	_
+5	seis	lpitarch	O	_	_	_	_	_	_	O	_
+6	años	lpitarch	O	_	_	_	_	_	_	O	_
+7	me	lpitarch	O	_	_	_	_	_	_	O	_
+8	ha	lpitarch	O	_	_	_	_	_	_	O	_
+9	dejado	lpitarch	O	_	_	_	_	_	_	O	_
+10	de	lpitarch	O	_	_	_	_	_	_	O	_
+11	funcionar	lpitarch	B	_	_	_	_	Tratamiento » Otros	duda	O	_
+12	,	lpitarch	O	_	_	_	_	_	_	O	_
+13	y	lpitarch	O	_	_	_	_	_	_	O	_
+14	ante	lpitarch	O	_	_	_	_	_	_	O	_
+15	un	lpitarch	O	_	_	_	_	_	_	O	_
+16	avance	lpitarch	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/avanzar-01995549-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/progreso-00249501-n	_	_	_	O	_
+17	importante	lpitarch	O	_	_	_	_	_	_	O	_
+18	de	lpitarch	O	_	_	_	_	_	_	O	_
+19	las	lpitarch	O	_	_	_	_	_	_	O	_
+20	lesiones	lpitarch	O	_	_	_	_	_	_	O	_
+21	de	lpitarch	O	_	_	_	_	_	_	O	_
+22	mi	lpitarch	O	_	_	_	_	_	_	O	_
+23	metástasis	lpitarch	O	_	_	_	_	_	_	O	_
+24	me	lpitarch	O	_	_	_	_	_	_	O	_
+25	pasan	lpitarch	O	_	_	_	_	_	_	O	_
+26	por	lpitarch	O	_	_	_	_	_	_	O	_
+27	protocolo	lpitarch	O	_	_	_	_	_	_	O	_
+28	a	lpitarch	O	_	_	_	_	_	_	O	_
+29	segunda	lpitarch	O	_	_	_	_	_	_	O	_
+30	linea	lpitarch	O	_	_	_	_	_	_	O	_
+31	de	lpitarch	O	_	_	_	_	_	_	O	_
+32	tratamiento	lpitarch	O	_	_	_	_	_	_	O	_
+33	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 130
+# text = El día 8 de enero empezaré con inmunoterápia.
+1	El	lpitarch	O	_	_	_	_	_	_	O	_
+2	día	lpitarch	O	_	_	_	_	_	_	O	_
+3	8	lpitarch	O	_	_	_	_	_	_	O	_
+4	de	lpitarch	O	_	_	_	_	_	_	O	_
+5	enero	lpitarch	O	_	_	_	_	_	_	O	_
+6	empezaré	lpitarch	O	_	_	_	_	_	_	O	_
+7	con	lpitarch	O	_	_	_	_	_	_	O	_
+8	inmunoterápia	lpitarch	O	_	_	_	_	_	_	O	_
+9	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 131
+# text = Ya explicaré por aquí que tal me va.
+1	Ya	lpitarch	O	_	_	_	_	_	_	O	_
+2	explicaré	lpitarch	O	_	_	_	_	_	_	O	_
+3	por	lpitarch	O	_	_	_	_	_	_	O	_
+4	aquí	lpitarch	O	_	_	_	_	_	_	O	_
+5	que	lpitarch	O	_	_	_	_	_	_	O	_
+6	tal	lpitarch	O	_	_	_	_	_	_	O	_
+7	me	lpitarch	O	_	_	_	_	_	_	O	_
+8	va	lpitarch	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/ir-02685951-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/estar-02604760-v	_	Estar enfermo con cáncer	_	O	_
+9	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 132
+# text = Se que estos mensajes ayudan a muchos, así que por eso me gusta compartirlo.
+1	Se	lpitarch	O	_	_	_	_	_	_	O	_
+2	que	lpitarch	O	_	_	_	_	_	_	O	_
+3	estos	lpitarch	O	_	_	_	_	_	_	O	_
+4	mensajes	lpitarch	O	_	_	_	_	_	_	O	_
+5	ayudan	lpitarch	O	_	_	_	_	_	_	O	_
+6	a	lpitarch	O	_	_	_	_	_	_	O	_
+7	muchos	lpitarch	O	_	_	_	_	_	_	O	_
+8	,	lpitarch	O	_	_	_	_	_	_	O	_
+9	así	lpitarch	O	_	_	_	_	_	_	O	_
+10	que	lpitarch	O	_	_	_	_	_	_	O	_
+11	por	lpitarch	O	_	_	_	_	_	_	O	_
+12	eso	lpitarch	O	_	_	_	_	_	_	O	_
+13	me	lpitarch	O	_	_	_	_	_	_	O	_
+14	gusta	lpitarch	O	_	_	_	_	_	_	O	_
+15	compartirlo	lpitarch	O	_	_	_	_	_	_	O	_
+16	.	lpitarch	O	_	_	_	_	_	_	O	_
+
+# sent_id = 133
+# text = Un abrazo.
+1	Un	lpitarch	O	_	_	_	_	_	_	O	_
+2	abrazo	lpitarch	O	_	_	_	_	_	_	O	_
+3	.	lpitarch	O	_	_	_	_	_	_	O	_

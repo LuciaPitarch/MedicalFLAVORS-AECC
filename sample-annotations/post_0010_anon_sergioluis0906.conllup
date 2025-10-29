@@ -1,0 +1,3278 @@
+ID FORM AECC:ANNOTATOR AECC:METAPHOR AECC:BM AECC:BM_RAE AECC:CM AECC:CM_RAE AECC:TGT_DOMAIN AECC:META_NOTE AECC:MWE AECC:MWE_NOTE
+# sent_id = 1
+# text = Tema: ESPERANZA\n
+1	Tema	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	:	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	ESPERANZA	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 2
+# text = Autor 18: \n
+1	Autor	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	18	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	:	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 3
+# text = Hola a todos me llamo xxxxxxx, hace ocho años pasé por un cancer de riñón, me operaron, no necesité quimio, yfuí pasando los controles de revision hasta este verano.
+1	Hola	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	todos	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	llamo	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	xxxxxxx	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	hace	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	ocho	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	años	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	pasé	sergioluis0906	B	_	_	_	_	_	_	O	_
+12	por	sergioluis0906	I	_	_	_	_	_	_	O	_
+13	un	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	cancer	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	riñón	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	operaron	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	necesité	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	quimio	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	yfuí	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	pasando	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	los	sergioluis0906	O	_	_	_	_	_	_	O	_
+28	controles	sergioluis0906	O	_	_	_	_	_	_	O	_
+29	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+30	revision	sergioluis0906	O	_	_	_	_	_	_	O	_
+31	hasta	sergioluis0906	O	_	_	_	_	_	_	O	_
+32	este	sergioluis0906	O	_	_	_	_	_	_	O	_
+33	verano	sergioluis0906	O	_	_	_	_	_	_	O	_
+34	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 4
+# text = Me detectaron un quiste en el ovario y me dijeron que no preocupara por que era benigno, pero la verdad es que después de extirparlo se dieron cuenta de que era una metastasis del riñón, después del gran susto , me repitieron las pruebas y me dicen que vuelvo a estar limpia, pero que igualmente me aconsejaban hacer una quimio preventiva de seis meses.
+1	Me	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	detectaron	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	un	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	quiste	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	el	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	ovario	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	dijeron	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	preocupara	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	por	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	era	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	benigno	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	pero	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	verdad	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	es	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	después	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	extirparlo	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	se	sergioluis0906	O	_	_	_	_	_	_	O	_
+28	dieron	sergioluis0906	O	_	_	_	_	_	_	O	_
+29	cuenta	sergioluis0906	O	_	_	_	_	_	_	O	_
+30	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+31	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+32	era	sergioluis0906	O	_	_	_	_	_	_	O	_
+33	una	sergioluis0906	O	_	_	_	_	_	_	O	_
+34	metastasis	sergioluis0906	O	_	_	_	_	_	_	O	_
+35	del	sergioluis0906	O	_	_	_	_	_	_	O	_
+36	riñón	sergioluis0906	O	_	_	_	_	_	_	O	_
+37	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+38	después	sergioluis0906	O	_	_	_	_	_	_	O	_
+39	del	sergioluis0906	O	_	_	_	_	_	_	O	_
+40	gran	sergioluis0906	O	_	_	_	_	_	_	O	_
+41	susto	sergioluis0906	O	_	_	_	_	_	_	O	_
+42	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+43	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+44	repitieron	sergioluis0906	O	_	_	_	_	_	_	O	_
+45	las	sergioluis0906	O	_	_	_	_	_	_	O	_
+46	pruebas	sergioluis0906	O	_	_	_	_	_	_	O	_
+47	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+48	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+49	dicen	sergioluis0906	O	_	_	_	_	_	_	O	_
+50	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+51	vuelvo	sergioluis0906	O	_	_	_	_	_	_	O	_
+52	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+53	estar	sergioluis0906	O	_	_	_	_	_	_	O	_
+54	limpia	sergioluis0906	O	_	_	_	_	_	_	O	_
+55	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+56	pero	sergioluis0906	O	_	_	_	_	_	_	O	_
+57	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+58	igualmente	sergioluis0906	O	_	_	_	_	_	_	O	_
+59	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+60	aconsejaban	sergioluis0906	O	_	_	_	_	_	_	O	_
+61	hacer	sergioluis0906	O	_	_	_	_	_	_	O	_
+62	una	sergioluis0906	O	_	_	_	_	_	_	O	_
+63	quimio	sergioluis0906	O	_	_	_	_	_	_	O	_
+64	preventiva	sergioluis0906	O	_	_	_	_	_	_	O	_
+65	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+66	seis	sergioluis0906	O	_	_	_	_	_	_	O	_
+67	meses	sergioluis0906	O	_	_	_	_	_	_	O	_
+68	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 5
+# text = Como ya estaba muy asustada y deprimida y no confiaba en nadiepedí una segunda opinión, en la xxxx x'xxxxxn que fue el hospital que elejí me dijeron que no me serviria de nada ya que la quimio para el cancer de riñon no sirve, así que me propusieron hacer controles cada tres meses.\n\n
+1	Como	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	ya	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	estaba	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	muy	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	asustada	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	deprimida	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	confiaba	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	nadiepedí	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	una	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	segunda	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	opinión	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	xxxx	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	x'xxxxxn	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	fue	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	el	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	hospital	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	elejí	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+28	dijeron	sergioluis0906	O	_	_	_	_	_	_	O	_
+29	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+30	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+31	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+32	serviria	sergioluis0906	O	_	_	_	_	_	_	O	_
+33	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+34	nada	sergioluis0906	O	_	_	_	_	_	_	O	_
+35	ya	sergioluis0906	O	_	_	_	_	_	_	O	_
+36	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+37	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+38	quimio	sergioluis0906	O	_	_	_	_	_	_	O	_
+39	para	sergioluis0906	O	_	_	_	_	_	_	O	_
+40	el	sergioluis0906	O	_	_	_	_	_	_	O	_
+41	cancer	sergioluis0906	O	_	_	_	_	_	_	O	_
+42	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+43	riñon	sergioluis0906	O	_	_	_	_	_	_	O	_
+44	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+45	sirve	sergioluis0906	O	_	_	_	_	_	_	O	_
+46	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+47	así	sergioluis0906	O	_	_	_	_	_	_	O	_
+48	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+49	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+50	propusieron	sergioluis0906	O	_	_	_	_	_	_	O	_
+51	hacer	sergioluis0906	O	_	_	_	_	_	_	O	_
+52	controles	sergioluis0906	O	_	_	_	_	_	_	O	_
+53	cada	sergioluis0906	O	_	_	_	_	_	_	O	_
+54	tres	sergioluis0906	O	_	_	_	_	_	_	O	_
+55	meses	sergioluis0906	O	_	_	_	_	_	_	O	_
+56	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+57	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 6
+# text = El primer control era para el xx xx xxxxxxx, fuí muy esperanzada por que me encontraba muy bien, pero me dijeron que tenia dos implantes en el peritoneo de 8 y 12 mm, que me repetirían las pruebas, pero que me hiciera a la idea de que esto no tiene cura, no se puede operar y no hay quimio para esto, solo tratamientos experimentales que según dicen no pueden curarme, ya no me atrevo a preguntar si no me van a curar para que son?tengo xx xxxx, bueno muy prontito xx y tengo un hijo de xx, alguien me puede explicar como te preparas para algo que no tiene cura, estos días están siendo una tortura.\n\n
+1	El	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	primer	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	control	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	era	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	para	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	el	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	xx	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	xx	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	xxxxxxx	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	fuí	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	muy	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	esperanzada	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	por	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	encontraba	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	muy	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	bien	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	pero	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	dijeron	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	tenia	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	dos	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	implantes	sergioluis0906	O	_	_	_	_	_	_	O	_
+28	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+29	el	sergioluis0906	O	_	_	_	_	_	_	O	_
+30	peritoneo	sergioluis0906	O	_	_	_	_	_	_	O	_
+31	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+32	8	sergioluis0906	O	_	_	_	_	_	_	O	_
+33	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+34	12	sergioluis0906	O	_	_	_	_	_	_	O	_
+35	mm	sergioluis0906	O	_	_	_	_	_	_	O	_
+36	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+37	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+38	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+39	repetirían	sergioluis0906	O	_	_	_	_	_	_	O	_
+40	las	sergioluis0906	O	_	_	_	_	_	_	O	_
+41	pruebas	sergioluis0906	O	_	_	_	_	_	_	O	_
+42	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+43	pero	sergioluis0906	O	_	_	_	_	_	_	O	_
+44	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+45	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+46	hiciera	sergioluis0906	O	_	_	_	_	_	_	O	_
+47	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+48	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+49	idea	sergioluis0906	O	_	_	_	_	_	_	O	_
+50	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+51	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+52	esto	sergioluis0906	O	_	_	_	_	_	_	O	_
+53	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+54	tiene	sergioluis0906	O	_	_	_	_	_	_	O	_
+55	cura	sergioluis0906	O	_	_	_	_	_	_	O	_
+56	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+57	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+58	se	sergioluis0906	O	_	_	_	_	_	_	O	_
+59	puede	sergioluis0906	O	_	_	_	_	_	_	O	_
+60	operar	sergioluis0906	O	_	_	_	_	_	_	O	_
+61	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+62	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+63	hay	sergioluis0906	O	_	_	_	_	_	_	O	_
+64	quimio	sergioluis0906	O	_	_	_	_	_	_	O	_
+65	para	sergioluis0906	O	_	_	_	_	_	_	O	_
+66	esto	sergioluis0906	O	_	_	_	_	_	_	O	_
+67	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+68	solo	sergioluis0906	O	_	_	_	_	_	_	O	_
+69	tratamientos	sergioluis0906	O	_	_	_	_	_	_	O	_
+70	experimentales	sergioluis0906	O	_	_	_	_	_	_	O	_
+71	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+72	según	sergioluis0906	O	_	_	_	_	_	_	O	_
+73	dicen	sergioluis0906	O	_	_	_	_	_	_	O	_
+74	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+75	pueden	sergioluis0906	O	_	_	_	_	_	_	O	_
+76	curarme	sergioluis0906	O	_	_	_	_	_	_	O	_
+77	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+78	ya	sergioluis0906	O	_	_	_	_	_	_	O	_
+79	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+80	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+81	atrevo	sergioluis0906	O	_	_	_	_	_	_	O	_
+82	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+83	preguntar	sergioluis0906	O	_	_	_	_	_	_	O	_
+84	si	sergioluis0906	O	_	_	_	_	_	_	O	_
+85	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+86	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+87	van	sergioluis0906	O	_	_	_	_	_	_	O	_
+88	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+89	curar	sergioluis0906	O	_	_	_	_	_	_	O	_
+90	para	sergioluis0906	O	_	_	_	_	_	_	O	_
+91	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+92	son?tengo	sergioluis0906	O	_	_	_	_	_	_	O	_
+93	xx	sergioluis0906	O	_	_	_	_	_	_	O	_
+94	xxxx	sergioluis0906	O	_	_	_	_	_	_	O	_
+95	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+96	bueno	sergioluis0906	O	_	_	_	_	_	_	O	_
+97	muy	sergioluis0906	O	_	_	_	_	_	_	O	_
+98	prontito	sergioluis0906	O	_	_	_	_	_	_	O	_
+99	xx	sergioluis0906	O	_	_	_	_	_	_	O	_
+100	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+101	tengo	sergioluis0906	O	_	_	_	_	_	_	O	_
+102	un	sergioluis0906	O	_	_	_	_	_	_	O	_
+103	hijo	sergioluis0906	O	_	_	_	_	_	_	O	_
+104	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+105	xx	sergioluis0906	O	_	_	_	_	_	_	O	_
+106	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+107	alguien	sergioluis0906	O	_	_	_	_	_	_	O	_
+108	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+109	puede	sergioluis0906	O	_	_	_	_	_	_	O	_
+110	explicar	sergioluis0906	O	_	_	_	_	_	_	O	_
+111	como	sergioluis0906	O	_	_	_	_	_	_	O	_
+112	te	sergioluis0906	O	_	_	_	_	_	_	O	_
+113	preparas	sergioluis0906	O	_	_	_	_	_	_	O	_
+114	para	sergioluis0906	O	_	_	_	_	_	_	O	_
+115	algo	sergioluis0906	O	_	_	_	_	_	_	O	_
+116	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+117	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+118	tiene	sergioluis0906	O	_	_	_	_	_	_	O	_
+119	cura	sergioluis0906	O	_	_	_	_	_	_	O	_
+120	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+121	estos	sergioluis0906	O	_	_	_	_	_	_	O	_
+122	días	sergioluis0906	O	_	_	_	_	_	_	O	_
+123	están	sergioluis0906	O	_	_	_	_	_	_	O	_
+124	siendo	sergioluis0906	O	_	_	_	_	_	_	O	_
+125	una	sergioluis0906	O	_	_	_	_	_	_	O	_
+126	tortura	sergioluis0906	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/tortura-14333433-n	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/torturar-01802689-v	_	Emociones » Otros	_	O	_
+127	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+128	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 7
+# text = El próximo xxx xx me dan los resultados, y estoy aterrada, busco igual que todos algún testimonio que me de esperanza.\n\n
+1	El	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	próximo	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	xxx	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	xx	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	dan	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	los	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	resultados	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	estoy	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	aterrada	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	busco	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	igual	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	todos	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	algún	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	testimonio	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	esperanza	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 8
+# text = Comentarios:\n\n[Autor 26]: Hola xxxx, además del apoyo de todos los miembros de esta comunidad, te podemos ofrecer ayuda psicológica totalmente gratuita, llámanos al xxx xxx xxx, ya verás cómo te vas a sentir mejor.
+1	Comentarios	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	:	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	[	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	Autor	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	26	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	]	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	:	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	Hola	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	xxxx	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	además	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	del	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	apoyo	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	todos	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	los	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	miembros	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	esta	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	comunidad	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	te	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	podemos	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	ofrecer	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	ayuda	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	psicológica	sergioluis0906	O	_	_	_	_	_	_	O	_
+28	totalmente	sergioluis0906	O	_	_	_	_	_	_	O	_
+29	gratuita	sergioluis0906	O	_	_	_	_	_	_	O	_
+30	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+31	llámanos	sergioluis0906	O	_	_	_	_	_	_	O	_
+32	al	sergioluis0906	O	_	_	_	_	_	_	O	_
+33	xxx	sergioluis0906	O	_	_	_	_	_	_	O	_
+34	xxx	sergioluis0906	O	_	_	_	_	_	_	O	_
+35	xxx	sergioluis0906	O	_	_	_	_	_	_	O	_
+36	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+37	ya	sergioluis0906	O	_	_	_	_	_	_	O	_
+38	verás	sergioluis0906	O	_	_	_	_	_	_	O	_
+39	cómo	sergioluis0906	O	_	_	_	_	_	_	O	_
+40	te	sergioluis0906	O	_	_	_	_	_	_	O	_
+41	vas	sergioluis0906	O	_	_	_	_	_	_	O	_
+42	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+43	sentir	sergioluis0906	O	_	_	_	_	_	_	O	_
+44	mejor	sergioluis0906	O	_	_	_	_	_	_	O	_
+45	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 9
+# text = Un abrazo\n\n[Autor 25]: Hola xxxxxx\n\nTienes que estar súper agobiada .de
+1	Un	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	abrazo	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	[	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	Autor	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	25	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	]	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	:	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	Hola	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	xxxxxx	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	Tienes	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	estar	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	súper	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	agobiada	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	.de	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 10
+# text = el tema no se mucho la verdad .pero
+1	el	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	tema	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	se	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	mucho	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	verdad	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	.pero	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 11
+# text = si mi testimonio te puede ayudar .te cuento\n\nA nuestro hijo hace 5 años le diagnosticaron una enfermedad degenerativa sin cura\n\nCuando escuchamos eso casi nos morimos tanto mi marido como yo .le mandaron un tratamiento .que lo que hace es que eso se cronifique .y mira ya han pasado 5 años y esta como si nada .tu tratamiento seguro que es para hacer que se quede dormido y ya está\n\nTe deseo lo.mejor\n\n
+1	si	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	mi	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	testimonio	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	te	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	puede	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	ayudar	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	.te	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	cuento	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	A	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	nuestro	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	hijo	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	hace	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	5	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	años	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	le	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	diagnosticaron	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	una	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	enfermedad	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	degenerativa	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	sin	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	cura	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	Cuando	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	escuchamos	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	eso	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	casi	sergioluis0906	O	_	_	_	_	_	_	O	_
+28	nos	sergioluis0906	O	_	_	_	_	_	_	O	_
+29	morimos	sergioluis0906	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/morir-00354845-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/morir-00224295-v	_	Emociones » Otros	_	O	_
+30	tanto	sergioluis0906	O	_	_	_	_	_	_	O	_
+31	mi	sergioluis0906	O	_	_	_	_	_	_	O	_
+32	marido	sergioluis0906	O	_	_	_	_	_	_	O	_
+33	como	sergioluis0906	O	_	_	_	_	_	_	O	_
+34	yo	sergioluis0906	O	_	_	_	_	_	_	O	_
+35	.le	sergioluis0906	O	_	_	_	_	_	_	O	_
+36	mandaron	sergioluis0906	O	_	_	_	_	_	_	O	_
+37	un	sergioluis0906	O	_	_	_	_	_	_	O	_
+38	tratamiento	sergioluis0906	O	_	_	_	_	_	_	O	_
+39	.que	sergioluis0906	O	_	_	_	_	_	_	O	_
+40	lo	sergioluis0906	O	_	_	_	_	_	_	O	_
+41	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+42	hace	sergioluis0906	O	_	_	_	_	_	_	O	_
+43	es	sergioluis0906	O	_	_	_	_	_	_	O	_
+44	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+45	eso	sergioluis0906	O	_	_	_	_	_	_	O	_
+46	se	sergioluis0906	O	_	_	_	_	_	_	O	_
+47	cronifique	sergioluis0906	O	_	_	_	_	_	_	O	_
+48	.y	sergioluis0906	O	_	_	_	_	_	_	O	_
+49	mira	sergioluis0906	O	_	_	_	_	_	_	O	_
+50	ya	sergioluis0906	O	_	_	_	_	_	_	O	_
+51	han	sergioluis0906	O	_	_	_	_	_	_	O	_
+52	pasado	sergioluis0906	O	_	_	_	_	_	_	O	_
+53	5	sergioluis0906	O	_	_	_	_	_	_	O	_
+54	años	sergioluis0906	O	_	_	_	_	_	_	O	_
+55	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+56	esta	sergioluis0906	O	_	_	_	_	_	_	O	_
+57	como	sergioluis0906	O	_	_	_	_	_	_	O	_
+58	si	sergioluis0906	O	_	_	_	_	_	_	O	_
+59	nada	sergioluis0906	O	_	_	_	_	_	_	O	_
+60	.tu	sergioluis0906	O	_	_	_	_	_	_	O	_
+61	tratamiento	sergioluis0906	O	_	_	_	_	_	_	O	_
+62	seguro	sergioluis0906	O	_	_	_	_	_	_	O	_
+63	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+64	es	sergioluis0906	O	_	_	_	_	_	_	O	_
+65	para	sergioluis0906	O	_	_	_	_	_	_	O	_
+66	hacer	sergioluis0906	O	_	_	_	_	_	_	O	_
+67	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+68	se	sergioluis0906	O	_	_	_	_	_	_	O	_
+69	quede	sergioluis0906	O	_	_	_	_	_	_	O	_
+70	dormido	sergioluis0906	O	_	_	_	_	_	_	O	_
+71	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+72	ya	sergioluis0906	O	_	_	_	_	_	_	O	_
+73	está	sergioluis0906	O	_	_	_	_	_	_	O	_
+74	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+75	Te	sergioluis0906	O	_	_	_	_	_	_	O	_
+76	deseo	sergioluis0906	O	_	_	_	_	_	_	O	_
+77	lo.mejor	sergioluis0906	O	_	_	_	_	_	_	O	_
+78	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 12
+# text = [Autor 18]: Hola! Agobiada es poco, muchas gracias por los ánimos, espero que tú hijo siga así de bien por siempre.
+1	[	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	Autor	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	18	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	]	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	:	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	Hola	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	!	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	Agobiada	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	es	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	poco	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	muchas	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	gracias	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	por	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	los	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	ánimos	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	espero	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	tú	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	hijo	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	siga	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	así	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	bien	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	por	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	siempre	sergioluis0906	O	_	_	_	_	_	_	O	_
+28	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 13
+# text = Besos\n\n[Autor 18]: Hola a todos! Me han repetido las pruebas y los nodulosno han crecido ni un mm en un mes y diez dias , según me dicen ahora ya no estan tan seguros de que sea lo que pensaban (me dijeron que no tenía cura) y me dan una nueva revision para dentro de tres meses, lo que me parece a mi que es muy buena señal!!
+1	Besos	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	[	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	Autor	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	18	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	]	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	:	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	Hola	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	todos	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	!	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	Me	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	han	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	repetido	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	las	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	pruebas	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	los	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	nodulosno	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	han	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	crecido	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	ni	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	un	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	mm	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	un	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	mes	sergioluis0906	O	_	_	_	_	_	_	O	_
+28	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+29	diez	sergioluis0906	O	_	_	_	_	_	_	O	_
+30	dias	sergioluis0906	O	_	_	_	_	_	_	O	_
+31	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+32	según	sergioluis0906	O	_	_	_	_	_	_	O	_
+33	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+34	dicen	sergioluis0906	O	_	_	_	_	_	_	O	_
+35	ahora	sergioluis0906	O	_	_	_	_	_	_	O	_
+36	ya	sergioluis0906	O	_	_	_	_	_	_	O	_
+37	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+38	estan	sergioluis0906	O	_	_	_	_	_	_	O	_
+39	tan	sergioluis0906	O	_	_	_	_	_	_	O	_
+40	seguros	sergioluis0906	O	_	_	_	_	_	_	O	_
+41	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+42	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+43	sea	sergioluis0906	O	_	_	_	_	_	_	O	_
+44	lo	sergioluis0906	O	_	_	_	_	_	_	O	_
+45	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+46	pensaban	sergioluis0906	O	_	_	_	_	_	_	O	_
+47	(	sergioluis0906	O	_	_	_	_	_	_	O	_
+48	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+49	dijeron	sergioluis0906	O	_	_	_	_	_	_	O	_
+50	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+51	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+52	tenía	sergioluis0906	O	_	_	_	_	_	_	O	_
+53	cura	sergioluis0906	O	_	_	_	_	_	_	O	_
+54	)	sergioluis0906	O	_	_	_	_	_	_	O	_
+55	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+56	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+57	dan	sergioluis0906	O	_	_	_	_	_	_	O	_
+58	una	sergioluis0906	O	_	_	_	_	_	_	O	_
+59	nueva	sergioluis0906	O	_	_	_	_	_	_	O	_
+60	revision	sergioluis0906	O	_	_	_	_	_	_	O	_
+61	para	sergioluis0906	O	_	_	_	_	_	_	O	_
+62	dentro	sergioluis0906	O	_	_	_	_	_	_	O	_
+63	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+64	tres	sergioluis0906	O	_	_	_	_	_	_	O	_
+65	meses	sergioluis0906	O	_	_	_	_	_	_	O	_
+66	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+67	lo	sergioluis0906	O	_	_	_	_	_	_	O	_
+68	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+69	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+70	parece	sergioluis0906	O	_	_	_	_	_	_	O	_
+71	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+72	mi	sergioluis0906	O	_	_	_	_	_	_	O	_
+73	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+74	es	sergioluis0906	O	_	_	_	_	_	_	O	_
+75	muy	sergioluis0906	O	_	_	_	_	_	_	O	_
+76	buena	sergioluis0906	O	_	_	_	_	_	_	O	_
+77	señal	sergioluis0906	O	_	_	_	_	_	_	O	_
+78	!	sergioluis0906	O	_	_	_	_	_	_	O	_
+79	!	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 14
+# text = !
+1	!	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 15
+# text = Lo comparto para que si alguien está en la situación en la que yo estaba hace un mes, que no pierda la confianza y los ánimos!!!\n\n
+1	Lo	sergioluis0906	B	_	_	_	_	_	_	O	_
+2	comparto	sergioluis0906	I	_	_	_	_	_	_	O	_
+3	para	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	si	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	alguien	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	está	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	situación	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	yo	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	estaba	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	hace	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	un	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	mes	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	pierda	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	confianza	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	los	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	ánimos	sergioluis0906	O	_	_	_	_	_	_	O	_
+28	!	sergioluis0906	O	_	_	_	_	_	_	O	_
+29	!	sergioluis0906	O	_	_	_	_	_	_	O	_
+30	!	sergioluis0906	O	_	_	_	_	_	_	O	_
+31	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 16
+# text = [Autor 18]: Hola a todos, ya contacté con una psicooncologa, gracias.
+1	[	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	Autor	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	18	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	]	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	:	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	Hola	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	todos	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	ya	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	contacté	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	con	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	una	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	psicooncologa	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	gracias	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 17
+# text = Ahora las cosas se han complicado y además de los nódulos en el peritoneo tengo una metastasis tambien en el pancreas.
+1	Ahora	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	las	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	cosas	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	se	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	han	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	complicado	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	además	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	los	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	nódulos	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	el	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	peritoneo	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	tengo	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	una	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	metastasis	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	tambien	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	el	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	pancreas	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 18
+# text = Aunque de momento no me ponen en tratamiento, porque se ve que evoluciona muy lento.
+1	Aunque	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	momento	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	ponen	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	tratamiento	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	porque	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	se	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	ve	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	evoluciona	sergioluis0906	B	_	_	_	_	_	_	O	_
+15	muy	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	lento	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 19
+# text = Sigo buscando a alguien que esté en mi misma situación o parecida.
+1	Sigo	sergioluis0906	B	_	_	_	_	_	_	O	_
+2	buscando	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	alguien	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	esté	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	mi	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	misma	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	situación	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	o	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	parecida	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 20
+# text = Gracias a todos y mucha salud.\n\n
+1	Gracias	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	todos	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	mucha	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	salud	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 21
+# text = [Autor 24]: xxxx, qué tal estás?
+1	[	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	Autor	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	24	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	]	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	:	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	xxxx	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	qué	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	tal	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	estás	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	?	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 22
+# text = Te sigo, y siento que lo estás haciendo muy bien.
+1	Te	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	sigo	sergioluis0906	B	_	_	_	_	_	_	O	_
+3	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	siento	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	lo	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	estás	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	haciendo	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	muy	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	bien	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 23
+# text = Siempre das palabras de ánimo a la gente que lo necesita y buscas desahogarte de alguna manera u otra.
+1	Siempre	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	das	sergioluis0906	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/dar-01060746-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/dar-00108604-v	_	Emociones	_	O	_
+3	palabras	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	ánimo	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	gente	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	lo	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	necesita	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	buscas	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	desahogarte	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	alguna	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	manera	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	u	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	otra	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 24
+# text = Ese es el camino, dar amor, y buscar ayuda.
+1	Ese	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	es	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	el	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	camino	sergioluis0906	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/camino-00312691-n	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/camino-00172710-n	_	_	_	O	_
+5	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	dar	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	amor	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	buscar	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	ayuda	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 25
+# text = Así que aquí me tienes, o en mi web%%URL%%\n\nUn Abrazo, xxxx, y todas mis fuerzas para que disfrutes de cada día\n\n[Autor 18]: Hola guapa, espero que estes mejor, se que has tenido que pasar por un proceso muy duro, y me alegra ver que lo has enfocado en ayudar a los demás.
+1	Así	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	aquí	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	tienes	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	o	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	mi	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	web%%URL%%	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	Un	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	Abrazo	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	xxxx	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	todas	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	mis	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	fuerzas	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	para	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	disfrutes	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	cada	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	día	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+28	[	sergioluis0906	O	_	_	_	_	_	_	O	_
+29	Autor	sergioluis0906	O	_	_	_	_	_	_	O	_
+30	18	sergioluis0906	O	_	_	_	_	_	_	O	_
+31	]	sergioluis0906	O	_	_	_	_	_	_	O	_
+32	:	sergioluis0906	O	_	_	_	_	_	_	O	_
+33	Hola	sergioluis0906	O	_	_	_	_	_	_	O	_
+34	guapa	sergioluis0906	O	_	_	_	_	_	_	O	_
+35	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+36	espero	sergioluis0906	O	_	_	_	_	_	_	O	_
+37	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+38	estes	sergioluis0906	O	_	_	_	_	_	_	O	_
+39	mejor	sergioluis0906	O	_	_	_	_	_	_	O	_
+40	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+41	se	sergioluis0906	O	_	_	_	_	_	_	O	_
+42	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+43	has	sergioluis0906	O	_	_	_	_	_	_	O	_
+44	tenido	sergioluis0906	O	_	_	_	_	_	_	O	_
+45	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+46	pasar	sergioluis0906	O	_	_	_	_	_	_	O	_
+47	por	sergioluis0906	O	_	_	_	_	_	_	O	_
+48	un	sergioluis0906	O	_	_	_	_	_	_	O	_
+49	proceso	sergioluis0906	O	_	_	_	_	_	_	O	_
+50	muy	sergioluis0906	O	_	_	_	_	_	_	O	_
+51	duro	sergioluis0906	O	_	_	_	_	_	_	O	_
+52	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+53	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+54	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+55	alegra	sergioluis0906	O	_	_	_	_	_	_	O	_
+56	ver	sergioluis0906	O	_	_	_	_	_	_	O	_
+57	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+58	lo	sergioluis0906	O	_	_	_	_	_	_	O	_
+59	has	sergioluis0906	O	_	_	_	_	_	_	O	_
+60	enfocado	sergioluis0906	O	_	_	_	_	_	_	O	_
+61	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+62	ayudar	sergioluis0906	O	_	_	_	_	_	_	O	_
+63	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+64	los	sergioluis0906	O	_	_	_	_	_	_	O	_
+65	demás	sergioluis0906	O	_	_	_	_	_	_	O	_
+66	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 26
+# text = Yo la última vez que escribí, ya expliqué que tenia metastasis de peritoneo y de pancreas, de este último hace ya un año.
+1	Yo	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	última	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	vez	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	escribí	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	ya	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	expliqué	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	tenia	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	metastasis	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	peritoneo	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	pancreas	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	este	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	último	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	hace	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	ya	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	un	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	año	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 27
+# text = No han crecido mucho, pero se decidieron a ponerme en tratamiento, algo parecido a una quimio en pastillas, se llama sunitinib, y estoy por el tercer mes.
+1	No	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	han	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	crecido	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	mucho	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	pero	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	se	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	decidieron	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	ponerme	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	tratamiento	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	algo	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	parecido	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	una	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	quimio	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	pastillas	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	se	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	llama	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	sunitinib	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	estoy	sergioluis0906	O	_	_	_	_	_	_	O	_
+28	por	sergioluis0906	O	_	_	_	_	_	_	O	_
+29	el	sergioluis0906	O	_	_	_	_	_	_	O	_
+30	tercer	sergioluis0906	O	_	_	_	_	_	_	O	_
+31	mes	sergioluis0906	O	_	_	_	_	_	_	O	_
+32	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 28
+# text = Estoy con muchos efectos secundarios, y a veces no todo lo animada que quisiera.
+1	Estoy	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	con	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	muchos	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	efectos	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	secundarios	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	veces	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	todo	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	lo	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	animada	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	quisiera	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 29
+# text = El mes que viene me hacen el Tac, para ver si esta funcionando.
+1	El	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	mes	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	viene	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	hacen	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	el	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	Tac	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	para	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	ver	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	si	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	esta	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	funcionando	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 30
+# text = Espero que sea así.
+1	Espero	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	sea	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	así	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 31
+# text = Gracias por preguntar y darme la oportunidad de explicar.
+1	Gracias	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	por	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	preguntar	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	darme	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	oportunidad	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	explicar	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 32
+# text = Un abrazo.\n\n
+1	Un	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	abrazo	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 33
+# text = [Autor 18]: Hola guapa, espero que estes mejor, se que has tenido que pasar por un proceso muy duro, y me alegra ver que lo has enfocado en ayudar a los demás.
+1	[	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	Autor	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	18	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	]	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	:	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	Hola	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	guapa	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	espero	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	estes	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	mejor	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	se	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	has	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	tenido	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	pasar	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	por	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	un	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	proceso	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	muy	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	duro	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+28	alegra	sergioluis0906	O	_	_	_	_	_	_	O	_
+29	ver	sergioluis0906	O	_	_	_	_	_	_	O	_
+30	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+31	lo	sergioluis0906	O	_	_	_	_	_	_	O	_
+32	has	sergioluis0906	O	_	_	_	_	_	_	O	_
+33	enfocado	sergioluis0906	O	_	_	_	_	_	_	O	_
+34	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+35	ayudar	sergioluis0906	O	_	_	_	_	_	_	O	_
+36	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+37	los	sergioluis0906	O	_	_	_	_	_	_	O	_
+38	demás	sergioluis0906	O	_	_	_	_	_	_	O	_
+39	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 34
+# text = Yo la última vez que escribí, ya expliqué que tenia metastasis de peritoneo y de pancreas, de este último hace ya un año.
+1	Yo	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	última	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	vez	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	escribí	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	ya	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	expliqué	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	tenia	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	metastasis	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	peritoneo	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	pancreas	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	este	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	último	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	hace	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	ya	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	un	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	año	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 35
+# text = No han crecido mucho, pero se decidieron a ponerme en tratamiento, algo parecido a una quimio en pastillas, se llama sunitinib, y estoy por el tercer mes.
+1	No	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	han	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	crecido	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	mucho	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	pero	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	se	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	decidieron	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	ponerme	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	tratamiento	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	algo	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	parecido	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	una	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	quimio	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	pastillas	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	se	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	llama	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	sunitinib	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	estoy	sergioluis0906	O	_	_	_	_	_	_	O	_
+28	por	sergioluis0906	O	_	_	_	_	_	_	O	_
+29	el	sergioluis0906	O	_	_	_	_	_	_	O	_
+30	tercer	sergioluis0906	O	_	_	_	_	_	_	O	_
+31	mes	sergioluis0906	O	_	_	_	_	_	_	O	_
+32	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 36
+# text = Estoy con muchos efectos secundarios, y a veces no todo lo animada que quisiera.
+1	Estoy	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	con	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	muchos	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	efectos	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	secundarios	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	veces	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	todo	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	lo	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	animada	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	quisiera	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 37
+# text = El mes que viene me hacen el Tac, para ver si esta funcionando.
+1	El	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	mes	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	viene	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	hacen	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	el	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	Tac	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	para	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	ver	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	si	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	esta	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	funcionando	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 38
+# text = Espero que sea así.
+1	Espero	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	sea	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	así	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 39
+# text = Gracias por preguntar y darme la oportunidad de explicar.
+1	Gracias	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	por	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	preguntar	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	darme	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	oportunidad	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	explicar	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 40
+# text = Un abrazo.\n\n
+1	Un	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	abrazo	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 41
+# text = [Autor 24]: Hola, xxxx, me admira tu entereza.
+1	[	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	Autor	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	24	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	]	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	:	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	Hola	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	xxxx	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	admira	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	tu	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	entereza	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 42
+# text = Tu proceso es muy duro y ahí estás..
+1	Tu	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	proceso	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	es	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	muy	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	duro	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	ahí	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	estás	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	..	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 43
+# text = dando palabras de ánimo a los demás.
+1	dando	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	palabras	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	ánimo	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	los	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	demás	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 44
+# text = Debes de ser una chica muy maja :-) Normal que no estés todo lo animada que quisieras en muchas ocasiones, cuando uno no se encuentra bien físicamente y tiene una situación de incertidumbre, tener malos momentos es natural, somo humanos...
+1	Debes	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	ser	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	una	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	chica	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	muy	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	maja	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	:-)	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	Normal	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	estés	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	todo	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	lo	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	animada	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	quisieras	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	muchas	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	ocasiones	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	cuando	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	uno	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	se	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	encuentra	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	bien	sergioluis0906	O	_	_	_	_	_	_	O	_
+28	físicamente	sergioluis0906	O	_	_	_	_	_	_	O	_
+29	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+30	tiene	sergioluis0906	O	_	_	_	_	_	_	O	_
+31	una	sergioluis0906	O	_	_	_	_	_	_	O	_
+32	situación	sergioluis0906	O	_	_	_	_	_	_	O	_
+33	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+34	incertidumbre	sergioluis0906	O	_	_	_	_	_	_	O	_
+35	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+36	tener	sergioluis0906	O	_	_	_	_	_	_	O	_
+37	malos	sergioluis0906	O	_	_	_	_	_	_	O	_
+38	momentos	sergioluis0906	O	_	_	_	_	_	_	O	_
+39	es	sergioluis0906	O	_	_	_	_	_	_	O	_
+40	natural	sergioluis0906	O	_	_	_	_	_	_	O	_
+41	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+42	somo	sergioluis0906	O	_	_	_	_	_	_	O	_
+43	humanos	sergioluis0906	O	_	_	_	_	_	_	O	_
+44	...	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 45
+# text = No te sientas mal, al revés, y expúlsalo.
+1	No	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	te	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	sientas	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	mal	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	al	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	revés	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	expúlsalo	sergioluis0906	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/expulsar-02222318-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/expulsar-02223479-v	_	Emociones	no me dejo etiquetar de forma corecta e incluye el Cuando	O	_
+11	.	sergioluis0906	I	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/expulsar-02222318-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/expulsar-02223479-v	_	Emociones	no me dejo etiquetar de forma corecta e incluye el Cuando	O	_
+
+# sent_id = 46
+# text = Cuando estés de bajón, si te apetece hablar, escríbeme por mi web (es que no quiero hacer público mi mail) Estaría encantada de charlar contigo.\n\n
+1	Cuando	sergioluis0906	I	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/expulsar-02222318-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/expulsar-02223479-v	_	Emociones	no me dejo etiquetar de forma corecta e incluye el Cuando	O	_
+2	estés	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	bajón	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	si	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	te	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	apetece	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	hablar	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	escríbeme	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	por	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	mi	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	web	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	(	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	es	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	quiero	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	hacer	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	público	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	mi	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	mail	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	)	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	Estaría	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	encantada	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+28	charlar	sergioluis0906	O	_	_	_	_	_	_	O	_
+29	contigo	sergioluis0906	O	_	_	_	_	_	_	O	_
+30	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+31	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 47
+# text = Un abrazo\n\n[Autor 18]: Hola, no había visto tu mensaje, es lo que tiene este foro...
+1	Un	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	abrazo	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	[	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	Autor	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	18	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	]	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	:	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	Hola	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	había	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	visto	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	tu	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	mensaje	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	es	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	lo	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	tiene	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	este	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	foro	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	...	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 48
+# text = De acuerdo seguimos charlando por la web.
+1	De	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	acuerdo	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	seguimos	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	charlando	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	por	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	web	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 49
+# text = Un abrazo.\n\n
+1	Un	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	abrazo	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 50
+# text = [Autor 18]: Hola, no había visto tu mensaje, es lo que tiene este foro...
+1	[	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	Autor	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	18	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	]	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	:	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	Hola	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	había	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	visto	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	tu	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	mensaje	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	es	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	lo	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	tiene	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	este	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	foro	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	...	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 51
+# text = De acuerdo seguimos charlando por la web.
+1	De	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	acuerdo	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	seguimos	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	charlando	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	por	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	web	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 52
+# text = Un abrazo.\n\n
+1	Un	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	abrazo	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 53
+# text = [Autor 18]: Hola! Que tal sigue tu niño?
+1	[	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	Autor	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	18	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	]	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	:	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	Hola	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	!	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	Que	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	tal	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	sigue	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	tu	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	niño	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	?	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 54
+# text = Espero que esté muy bien un abrazo.\n\n
+1	Espero	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	esté	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	muy	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	bien	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	un	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	abrazo	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 55
+# text = [Autor 18]: Hola a todos! Añado actualización a mi historia por si a alguien le sirve.
+1	[	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	Autor	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	18	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	]	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	:	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	Hola	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	todos	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	!	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	Añado	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	actualización	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	mi	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	historia	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	por	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	si	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	alguien	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	le	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	sirve	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 56
+# text = Ya tengo varias metástasis peritoneo y pancreas.
+1	Ya	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	tengo	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	varias	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	metástasis	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	peritoneo	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	pancreas	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 57
+# text = Finalmente se decidieron a ponerme en tratamiento, sunitinib, en mi caso, llevo con él diez meses, hasta la fecha ha sido muy duro pero ha ido menguando de tamaño y no ha habido ninguna nueva aparición, cosa que es muy importante.
+1	Finalmente	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	se	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	decidieron	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	ponerme	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	tratamiento	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	sunitinib	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	mi	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	caso	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	llevo	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	con	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	él	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	diez	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	meses	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	hasta	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	fecha	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	ha	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	sido	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	muy	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	duro	sergioluis0906	O	_	_	_	_	_	_	O	_
+28	pero	sergioluis0906	O	_	_	_	_	_	_	O	_
+29	ha	sergioluis0906	O	_	_	_	_	_	_	O	_
+30	ido	sergioluis0906	O	_	_	_	_	_	_	O	_
+31	menguando	sergioluis0906	O	_	_	_	_	_	_	O	_
+32	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+33	tamaño	sergioluis0906	O	_	_	_	_	_	_	O	_
+34	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+35	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+36	ha	sergioluis0906	O	_	_	_	_	_	_	O	_
+37	habido	sergioluis0906	O	_	_	_	_	_	_	O	_
+38	ninguna	sergioluis0906	O	_	_	_	_	_	_	O	_
+39	nueva	sergioluis0906	O	_	_	_	_	_	_	O	_
+40	aparición	sergioluis0906	O	_	_	_	_	_	_	O	_
+41	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+42	cosa	sergioluis0906	O	_	_	_	_	_	_	O	_
+43	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+44	es	sergioluis0906	O	_	_	_	_	_	_	O	_
+45	muy	sergioluis0906	O	_	_	_	_	_	_	O	_
+46	importante	sergioluis0906	O	_	_	_	_	_	_	O	_
+47	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 58
+# text = En el último TAC veo que hay un ligero crecimiento y estoy a la espera de la oncóloga para que me diga que haremos.
+1	En	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	el	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	último	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	TAC	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	veo	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	hay	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	un	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	ligero	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	crecimiento	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	estoy	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	espera	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	oncóloga	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	para	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	diga	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	haremos	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 59
+# text = Espero que si alguien lee esto, vea que metastasis no es igual a muerte inminente, ya que gracias a Dios ya llevo tres años con esto y sigo haciendo vida más o menos normal y trabajando.
+1	Espero	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	si	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	alguien	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	lee	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	esto	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	vea	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	metastasis	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	es	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	igual	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	muerte	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	inminente	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	ya	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	gracias	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	Dios	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	ya	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	llevo	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	tres	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	años	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	con	sergioluis0906	O	_	_	_	_	_	_	O	_
+28	esto	sergioluis0906	O	_	_	_	_	_	_	O	_
+29	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+30	sigo	sergioluis0906	O	_	_	_	_	_	_	O	_
+31	haciendo	sergioluis0906	O	_	_	_	_	_	_	O	_
+32	vida	sergioluis0906	O	_	_	_	_	_	_	O	_
+33	más	sergioluis0906	O	_	_	_	_	_	_	O	_
+34	o	sergioluis0906	O	_	_	_	_	_	_	O	_
+35	menos	sergioluis0906	O	_	_	_	_	_	_	O	_
+36	normal	sergioluis0906	O	_	_	_	_	_	_	O	_
+37	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+38	trabajando	sergioluis0906	O	_	_	_	_	_	_	O	_
+39	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 60
+# text = Cada vez hay mejores tratamientos, hay que aguantar, hasta que la ciencia encuentre lo que todos esperamos.\n\n
+1	Cada	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	vez	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	hay	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	mejores	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	tratamientos	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	hay	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	aguantar	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	hasta	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	ciencia	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	encuentre	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	lo	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	todos	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	esperamos	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 61
+# text = [Autor 20]: Hola xxxx!\n\nmi marido le han detectado en noviembre un cancer renal en estado IV, con metastasis en la pelvis.
+1	[	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	Autor	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	20	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	]	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	:	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	Hola	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	xxxx	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	!	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	mi	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	marido	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	le	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	han	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	detectado	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	noviembre	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	un	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	cancer	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	renal	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	estado	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	IV	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	con	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	metastasis	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+28	pelvis	sergioluis0906	O	_	_	_	_	_	_	O	_
+29	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 62
+# text = No es tu mismo caso, pero leer en gente real que las metastasis no siempre son muerte sin remedio... me reconforta!...
+1	No	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	es	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	tu	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	mismo	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	caso	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	pero	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	leer	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	gente	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	real	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	las	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	metastasis	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	siempre	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	son	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	muerte	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	sin	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	remedio	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	...	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	reconforta	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	!	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	...	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 63
+# text = a el le estan dando imnunoterapia, porque efectivamente, la quimio, para el riñon no funciona.\n\n
+1	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	el	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	le	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	estan	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	dando	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	imnunoterapia	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	porque	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	efectivamente	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	quimio	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	para	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	el	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	riñon	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	funciona	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 64
+# text = Te deseo todo lo mejor!!!!\n\n
+1	Te	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	deseo	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	todo	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	lo	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	mejor	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	!	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	!	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	!	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	!	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 65
+# text = [Autor 18]: Hola xxxxx, la inmunoterapia está funcionando muy bien en primera linea de tratamiento, espero que le vaya genial, además normalmente no tiene efectos secundarios, lo que es lo más, pq la quimio tiene lo suyo.
+1	[	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	Autor	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	18	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	]	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	:	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	Hola	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	xxxxx	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	inmunoterapia	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	está	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	funcionando	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	muy	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	bien	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	primera	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	linea	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	tratamiento	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	espero	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	le	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	vaya	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	genial	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	además	sergioluis0906	O	_	_	_	_	_	_	O	_
+28	normalmente	sergioluis0906	O	_	_	_	_	_	_	O	_
+29	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+30	tiene	sergioluis0906	O	_	_	_	_	_	_	O	_
+31	efectos	sergioluis0906	O	_	_	_	_	_	_	O	_
+32	secundarios	sergioluis0906	O	_	_	_	_	_	_	O	_
+33	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+34	lo	sergioluis0906	O	_	_	_	_	_	_	O	_
+35	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+36	es	sergioluis0906	O	_	_	_	_	_	_	O	_
+37	lo	sergioluis0906	O	_	_	_	_	_	_	O	_
+38	más	sergioluis0906	O	_	_	_	_	_	_	O	_
+39	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+40	pq	sergioluis0906	O	_	_	_	_	_	_	O	_
+41	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+42	quimio	sergioluis0906	O	_	_	_	_	_	_	O	_
+43	tiene	sergioluis0906	O	_	_	_	_	_	_	O	_
+44	lo	sergioluis0906	O	_	_	_	_	_	_	O	_
+45	suyo	sergioluis0906	O	_	_	_	_	_	_	O	_
+46	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 66
+# text = Si te apatece hay una asociación de cancer renal y tenemos un grupo de wahtscon gente que esta en la misma situación que tu marido y yo, así charlamos sobre el tratamiento, sobre los efectos secundarios, sobre como está la investigación de nuestro cancer, etc.
+1	Si	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	te	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	apatece	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	hay	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	una	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	asociación	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	cancer	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	renal	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	tenemos	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	un	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	grupo	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	wahtscon	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	gente	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	esta	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	misma	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	situación	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	tu	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	marido	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	yo	sergioluis0906	O	_	_	_	_	_	_	O	_
+28	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+29	así	sergioluis0906	O	_	_	_	_	_	_	O	_
+30	charlamos	sergioluis0906	O	_	_	_	_	_	_	O	_
+31	sobre	sergioluis0906	O	_	_	_	_	_	_	O	_
+32	el	sergioluis0906	O	_	_	_	_	_	_	O	_
+33	tratamiento	sergioluis0906	O	_	_	_	_	_	_	O	_
+34	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+35	sobre	sergioluis0906	O	_	_	_	_	_	_	O	_
+36	los	sergioluis0906	O	_	_	_	_	_	_	O	_
+37	efectos	sergioluis0906	O	_	_	_	_	_	_	O	_
+38	secundarios	sergioluis0906	O	_	_	_	_	_	_	O	_
+39	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+40	sobre	sergioluis0906	O	_	_	_	_	_	_	O	_
+41	como	sergioluis0906	O	_	_	_	_	_	_	O	_
+42	está	sergioluis0906	O	_	_	_	_	_	_	O	_
+43	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+44	investigación	sergioluis0906	O	_	_	_	_	_	_	O	_
+45	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+46	nuestro	sergioluis0906	O	_	_	_	_	_	_	O	_
+47	cancer	sergioluis0906	O	_	_	_	_	_	_	O	_
+48	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+49	etc.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 67
+# text = , solo por si os apetece compartir e informaros.
+1	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	solo	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	por	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	si	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	os	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	apetece	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	compartir	sergioluis0906	B	_	_	_	_	_	_	O	_
+8	e	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	informaros	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 68
+# text = Si no, pués siempre podemos hablar por aquí.
+1	Si	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	pués	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	siempre	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	podemos	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	hablar	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	por	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	aquí	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 69
+# text = Un abrazo muy grande, y espero que le vaya muy bien.\n\n
+1	Un	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	abrazo	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	muy	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	grande	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	espero	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	le	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	vaya	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	muy	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	bien	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 70
+# text = [Autor 23]: Hola xxxx, soy xxxxxx, te mando mi correo electrónico por si quieres hablar del tema %%EMAIL%%\n\nUn abrazo\n\n[Autor 23]: Hola a todos los luchadores que estáis en este grupo! Soy xxxxxx, os cuento un poco mi historia, a mi padre le han detectado carcinomatosis peritoneal metástasis de un tumor de primario de origen gástrico.
+1	[	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	Autor	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	23	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	]	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	:	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	Hola	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	xxxx	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	soy	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	xxxxxx	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	te	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	mando	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	mi	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	correo	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	electrónico	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	por	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	si	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	quieres	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	hablar	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	del	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	tema	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	%	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	%	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	EMAIL%%	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	Un	sergioluis0906	O	_	_	_	_	_	_	O	_
+28	abrazo	sergioluis0906	O	_	_	_	_	_	_	O	_
+29	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+30	[	sergioluis0906	O	_	_	_	_	_	_	O	_
+31	Autor	sergioluis0906	O	_	_	_	_	_	_	O	_
+32	23	sergioluis0906	O	_	_	_	_	_	_	O	_
+33	]	sergioluis0906	O	_	_	_	_	_	_	O	_
+34	:	sergioluis0906	O	_	_	_	_	_	_	O	_
+35	Hola	sergioluis0906	O	_	_	_	_	_	_	O	_
+36	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+37	todos	sergioluis0906	O	_	_	_	_	_	_	O	_
+38	los	sergioluis0906	O	_	_	_	_	_	_	O	_
+39	luchadores	sergioluis0906	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/luchador-09939313-n	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/luchador-09906538-n	_	Personas » Otros	_	O	_
+40	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+41	estáis	sergioluis0906	O	_	_	_	_	_	_	O	_
+42	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+43	este	sergioluis0906	O	_	_	_	_	_	_	O	_
+44	grupo	sergioluis0906	O	_	_	_	_	_	_	O	_
+45	!	sergioluis0906	O	_	_	_	_	_	_	O	_
+46	Soy	sergioluis0906	O	_	_	_	_	_	_	O	_
+47	xxxxxx	sergioluis0906	O	_	_	_	_	_	_	O	_
+48	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+49	os	sergioluis0906	O	_	_	_	_	_	_	O	_
+50	cuento	sergioluis0906	O	_	_	_	_	_	_	O	_
+51	un	sergioluis0906	O	_	_	_	_	_	_	O	_
+52	poco	sergioluis0906	O	_	_	_	_	_	_	O	_
+53	mi	sergioluis0906	O	_	_	_	_	_	_	O	_
+54	historia	sergioluis0906	O	_	_	_	_	_	_	O	_
+55	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+56	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+57	mi	sergioluis0906	O	_	_	_	_	_	_	O	_
+58	padre	sergioluis0906	O	_	_	_	_	_	_	O	_
+59	le	sergioluis0906	O	_	_	_	_	_	_	O	_
+60	han	sergioluis0906	O	_	_	_	_	_	_	O	_
+61	detectado	sergioluis0906	O	_	_	_	_	_	_	O	_
+62	carcinomatosis	sergioluis0906	O	_	_	_	_	_	_	O	_
+63	peritoneal	sergioluis0906	O	_	_	_	_	_	_	O	_
+64	metástasis	sergioluis0906	O	_	_	_	_	_	_	O	_
+65	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+66	un	sergioluis0906	O	_	_	_	_	_	_	O	_
+67	tumor	sergioluis0906	O	_	_	_	_	_	_	O	_
+68	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+69	primario	sergioluis0906	O	_	_	_	_	_	_	O	_
+70	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+71	origen	sergioluis0906	O	_	_	_	_	_	_	O	_
+72	gástrico	sergioluis0906	O	_	_	_	_	_	_	O	_
+73	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 71
+# text = Le operaron hace 6 semanas y ahí fue cuando vieron la metástasis.
+1	Le	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	operaron	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	hace	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	6	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	semanas	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	ahí	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	fue	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	cuando	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	vieron	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	metástasis	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 72
+# text = Hace dos semanas ha empezado con tratamiento ( folfox) creo que se llama.
+1	Hace	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	dos	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	semanas	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	ha	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	empezado	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	con	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	tratamiento	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	(	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	folfox	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	)	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	creo	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	se	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	llama	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 73
+# text = No hay mucha información al respuesta ni muchos testimonios.
+1	No	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	hay	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	mucha	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	información	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	al	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	respuesta	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	ni	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	muchos	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	testimonios	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 74
+# text = Os dejo mi correo electrónico por si alguien que se encuentre en la misma situación quiere compartir opiniones e informarnos algo porque en mi caso estamos muy perdidos.
+1	Os	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	dejo	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	mi	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	correo	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	electrónico	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	por	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	si	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	alguien	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	se	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	encuentre	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	misma	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	situación	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	quiere	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	compartir	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	opiniones	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	e	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	informarnos	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	algo	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	porque	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	mi	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	caso	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	estamos	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	muy	sergioluis0906	O	_	_	_	_	_	_	O	_
+28	perdidos	sergioluis0906	O	_	_	_	_	_	_	O	_
+29	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 75
+# text = La cosa dicen que no pinta bien pero me niego a aceptar esto.
+1	La	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	cosa	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	dicen	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	pinta	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	bien	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	pero	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	niego	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	aceptar	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	esto	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 76
+# text = Creo que tiene que haber personas que hayan podido superar la enfermedad, aunque no tenga cura que la enfermedad se cronifique o algo.
+1	Creo	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	tiene	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	haber	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	personas	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	hayan	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	podido	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	superar	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	enfermedad	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	aunque	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	tenga	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	cura	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	enfermedad	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	se	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	cronifique	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	o	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	algo	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 77
+# text = Por favor cualquier testimonio o ayuda sería valioso xxxx en estos momentos.
+1	Por	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	favor	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	cualquier	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	testimonio	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	o	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	ayuda	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	sería	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	valioso	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	xxxx	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	estos	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	momentos	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 78
+# text = Un abrazo enorme xxxx, me encantaría tener el placer de contactar contigo.\n\n
+1	Un	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	abrazo	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	enorme	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	xxxx	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	encantaría	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	tener	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	el	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	placer	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	contactar	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	contigo	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 79
+# text = mi correo es este %%EMAIL%%\n\nmin abrazo enorme y mucho ánimo\n\n[Autor 23]: Hola a todos los luchadores que estáis en este grupo!
+1	mi	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	correo	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	es	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	este	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	%	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	%	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	EMAIL%%	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	min	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	abrazo	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	enorme	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	mucho	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	ánimo	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	[	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	Autor	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	23	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	]	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	:	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	Hola	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	todos	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	los	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	luchadores	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	estáis	sergioluis0906	O	_	_	_	_	_	_	O	_
+28	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+29	este	sergioluis0906	O	_	_	_	_	_	_	O	_
+30	grupo	sergioluis0906	O	_	_	_	_	_	_	O	_
+31	!	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 80
+# text = Soy xxxxxx, os cuento un poco mi historia, a mi padre le han detectado carcinomatosis peritoneal metástasis de un tumor de primario de origen gástrico.
+1	Soy	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	xxxxxx	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	os	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	cuento	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	un	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	poco	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	mi	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	historia	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	mi	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	padre	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	le	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	han	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	detectado	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	carcinomatosis	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	peritoneal	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	metástasis	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	un	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	tumor	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	primario	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	origen	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	gástrico	sergioluis0906	O	_	_	_	_	_	_	O	_
+28	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 81
+# text = Le operaron hace 6 semanas y ahí fue cuando vieron la metástasis.
+1	Le	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	operaron	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	hace	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	6	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	semanas	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	ahí	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	fue	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	cuando	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	vieron	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	metástasis	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 82
+# text = Hace dos semanas ha empezado con tratamiento ( folfox) creo que se llama.
+1	Hace	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	dos	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	semanas	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	ha	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	empezado	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	con	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	tratamiento	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	(	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	folfox	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	)	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	creo	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	se	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	llama	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 83
+# text = No hay mucha información al respuesta ni muchos testimonios.
+1	No	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	hay	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	mucha	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	información	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	al	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	respuesta	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	ni	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	muchos	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	testimonios	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 84
+# text = Os dejo mi correo electrónico por si alguien que se encuentre en la misma situación quiere compartir opiniones e informarnos algo porque en mi caso estamos muy perdidos.
+1	Os	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	dejo	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	mi	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	correo	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	electrónico	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	por	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	si	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	alguien	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	se	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	encuentre	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	misma	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	situación	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	quiere	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	compartir	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	opiniones	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	e	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	informarnos	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	algo	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	porque	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	mi	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	caso	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	estamos	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	muy	sergioluis0906	O	_	_	_	_	_	_	O	_
+28	perdidos	sergioluis0906	O	_	_	_	_	_	_	O	_
+29	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 85
+# text = La cosa dicen que no pinta bien pero me niego a aceptar esto.
+1	La	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	cosa	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	dicen	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	pinta	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	bien	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	pero	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	niego	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	aceptar	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	esto	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 86
+# text = Creo que tiene que haber personas que hayan podido superar la enfermedad, aunque no tenga cura que la enfermedad se cronifique o algo.
+1	Creo	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	tiene	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	haber	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	personas	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	hayan	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	podido	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	superar	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	enfermedad	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	aunque	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	tenga	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	cura	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	enfermedad	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	se	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	cronifique	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	o	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	algo	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 87
+# text = Por favor cualquier testimonio o ayuda sería valioso xxxx en estos momentos.
+1	Por	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	favor	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	cualquier	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	testimonio	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	o	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	ayuda	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	sería	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	valioso	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	xxxx	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	estos	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	momentos	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 88
+# text = Un abrazo enorme xxxx, me encantaría tener el placer de contactar contigo.\n\n
+1	Un	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	abrazo	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	enorme	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	xxxx	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	encantaría	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	tener	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	el	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	placer	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	contactar	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	contigo	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 89
+# text = mi correo es este %%EMAIL%%\n\nmin abrazo enorme y mucho ánimo\n\n[Autor 23]: Hola a todos los luchadores que estáis en este grupo!
+1	mi	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	correo	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	es	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	este	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	%	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	%	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	EMAIL%%	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	min	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	abrazo	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	enorme	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	mucho	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	ánimo	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	[	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	Autor	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	23	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	]	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	:	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	Hola	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	todos	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	los	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	luchadores	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	estáis	sergioluis0906	O	_	_	_	_	_	_	O	_
+28	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+29	este	sergioluis0906	O	_	_	_	_	_	_	O	_
+30	grupo	sergioluis0906	O	_	_	_	_	_	_	O	_
+31	!	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 90
+# text = Soy xxxxxx, os cuento un poco mi historia, a mi padre le han detectado carcinomatosis peritoneal metástasis de un tumor de primario de origen gástrico.
+1	Soy	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	xxxxxx	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	os	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	cuento	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	un	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	poco	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	mi	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	historia	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	mi	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	padre	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	le	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	han	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	detectado	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	carcinomatosis	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	peritoneal	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	metástasis	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	un	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	tumor	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	primario	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	origen	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	gástrico	sergioluis0906	O	_	_	_	_	_	_	O	_
+28	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 91
+# text = Le operaron hace 6 semanas y ahí fue cuando vieron la metástasis.
+1	Le	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	operaron	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	hace	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	6	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	semanas	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	ahí	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	fue	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	cuando	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	vieron	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	metástasis	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 92
+# text = Hace dos semanas ha empezado con tratamiento ( folfox) creo que se llama.
+1	Hace	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	dos	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	semanas	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	ha	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	empezado	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	con	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	tratamiento	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	(	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	folfox	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	)	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	creo	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	se	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	llama	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 93
+# text = No hay mucha información al respuesta ni muchos testimonios.
+1	No	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	hay	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	mucha	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	información	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	al	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	respuesta	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	ni	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	muchos	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	testimonios	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 94
+# text = Os dejo mi correo electrónico por si alguien que se encuentre en la misma situación quiere compartir opiniones e informarnos algo porque en mi caso estamos muy perdidos.
+1	Os	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	dejo	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	mi	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	correo	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	electrónico	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	por	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	si	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	alguien	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	se	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	encuentre	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	misma	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	situación	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	quiere	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	compartir	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	opiniones	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	e	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	informarnos	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	algo	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	porque	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	mi	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	caso	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	estamos	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	muy	sergioluis0906	O	_	_	_	_	_	_	O	_
+28	perdidos	sergioluis0906	O	_	_	_	_	_	_	O	_
+29	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 95
+# text = La cosa dicen que no pinta bien pero me niego a aceptar esto.
+1	La	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	cosa	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	dicen	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	pinta	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	bien	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	pero	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	niego	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	aceptar	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	esto	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 96
+# text = Creo que tiene que haber personas que hayan podido superar la enfermedad, aunque no tenga cura que la enfermedad se cronifique o algo.
+1	Creo	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	tiene	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	haber	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	personas	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	hayan	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	podido	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	superar	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	enfermedad	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	aunque	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	tenga	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	cura	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	enfermedad	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	se	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	cronifique	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	o	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	algo	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 97
+# text = Por favor cualquier testimonio o ayuda sería valioso xxxx en estos momentos.
+1	Por	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	favor	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	cualquier	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	testimonio	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	o	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	ayuda	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	sería	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	valioso	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	xxxx	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	estos	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	momentos	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 98
+# text = Un abrazo enorme xxxx, me encantaría tener el placer de contactar contigo.\n\n
+1	Un	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	abrazo	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	enorme	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	xxxx	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	encantaría	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	tener	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	el	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	placer	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	contactar	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	contigo	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 99
+# text = mi correo es este %%EMAIL%%\n\nmin abrazo enorme y mucho ánimo\n\n[Autor 18]: Hola xxxxxx, siento lo de tu padre, pero hoy en día hay muchos tratamientos para cronificar la enfermedad.
+1	mi	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	correo	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	es	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	este	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	%	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	%	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	EMAIL%%	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	min	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	abrazo	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	enorme	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	mucho	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	ánimo	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	[	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	Autor	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	18	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	]	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	:	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	Hola	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	xxxxxx	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	siento	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	lo	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	tu	sergioluis0906	O	_	_	_	_	_	_	O	_
+28	padre	sergioluis0906	O	_	_	_	_	_	_	O	_
+29	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+30	pero	sergioluis0906	O	_	_	_	_	_	_	O	_
+31	hoy	sergioluis0906	O	_	_	_	_	_	_	O	_
+32	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+33	día	sergioluis0906	O	_	_	_	_	_	_	O	_
+34	hay	sergioluis0906	O	_	_	_	_	_	_	O	_
+35	muchos	sergioluis0906	O	_	_	_	_	_	_	O	_
+36	tratamientos	sergioluis0906	O	_	_	_	_	_	_	O	_
+37	para	sergioluis0906	O	_	_	_	_	_	_	O	_
+38	cronificar	sergioluis0906	O	_	_	_	_	_	_	O	_
+39	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+40	enfermedad	sergioluis0906	O	_	_	_	_	_	_	O	_
+41	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 100
+# text = Ahora te escribiré por privado porque tambien hay una asociación para primarios gástricos, donde hay muchos testimonios de supervivientes, no es mi caso, pero me gusta entrar de vez en cuando porque los tratamientos son similares y los relatos de la gente muy esperanzadores.
+1	Ahora	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	te	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	escribiré	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	por	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	privado	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	porque	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	tambien	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	hay	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	una	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	asociación	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	para	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	primarios	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	gástricos	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	donde	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	hay	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	muchos	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	testimonios	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	supervivientes	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	es	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	mi	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	caso	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	pero	sergioluis0906	O	_	_	_	_	_	_	O	_
+28	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+29	gusta	sergioluis0906	O	_	_	_	_	_	_	O	_
+30	entrar	sergioluis0906	O	_	_	_	_	_	_	O	_
+31	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+32	vez	sergioluis0906	O	_	_	_	_	_	_	O	_
+33	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+34	cuando	sergioluis0906	O	_	_	_	_	_	_	O	_
+35	porque	sergioluis0906	O	_	_	_	_	_	_	O	_
+36	los	sergioluis0906	O	_	_	_	_	_	_	O	_
+37	tratamientos	sergioluis0906	O	_	_	_	_	_	_	O	_
+38	son	sergioluis0906	O	_	_	_	_	_	_	O	_
+39	similares	sergioluis0906	O	_	_	_	_	_	_	O	_
+40	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+41	los	sergioluis0906	O	_	_	_	_	_	_	O	_
+42	relatos	sergioluis0906	O	_	_	_	_	_	_	O	_
+43	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+44	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+45	gente	sergioluis0906	O	_	_	_	_	_	_	O	_
+46	muy	sergioluis0906	O	_	_	_	_	_	_	O	_
+47	esperanzadores	sergioluis0906	O	_	_	_	_	_	_	O	_
+48	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 101
+# text = Me alegro de que te hayas animado a escribir por aquí.
+1	Me	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	alegro	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	te	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	hayas	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	animado	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	escribir	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	por	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	aquí	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 102
+# text = Un abrazo!\n\n
+1	Un	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	abrazo	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	!	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 103
+# text = [Autor 22]: Hola buenas noches , yo he sido operado de cancer renal hace 3 años, me gustaria saber mas de la asociacion de pacientes de cancer renal\n\nMuchas gracias\n\n\n\nxxxxx xxxxxxx\n\n[Autor 18]: Hola xxxxx, se llama xxxxxx, por si quieres buscar información.
+1	[	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	Autor	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	22	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	]	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	:	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	Hola	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	buenas	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	noches	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	yo	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	he	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	sido	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	operado	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	cancer	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	renal	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	hace	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	3	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	años	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	gustaria	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	saber	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	mas	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	asociacion	sergioluis0906	O	_	_	_	_	_	_	O	_
+28	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+29	pacientes	sergioluis0906	O	_	_	_	_	_	_	O	_
+30	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+31	cancer	sergioluis0906	O	_	_	_	_	_	_	O	_
+32	renal	sergioluis0906	O	_	_	_	_	_	_	O	_
+33	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+34	Muchas	sergioluis0906	O	_	_	_	_	_	_	O	_
+35	gracias	sergioluis0906	O	_	_	_	_	_	_	O	_
+36	\n\n\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+37	xxxxx	sergioluis0906	O	_	_	_	_	_	_	O	_
+38	xxxxxxx	sergioluis0906	O	_	_	_	_	_	_	O	_
+39	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+40	[	sergioluis0906	O	_	_	_	_	_	_	O	_
+41	Autor	sergioluis0906	O	_	_	_	_	_	_	O	_
+42	18	sergioluis0906	O	_	_	_	_	_	_	O	_
+43	]	sergioluis0906	O	_	_	_	_	_	_	O	_
+44	:	sergioluis0906	O	_	_	_	_	_	_	O	_
+45	Hola	sergioluis0906	O	_	_	_	_	_	_	O	_
+46	xxxxx	sergioluis0906	O	_	_	_	_	_	_	O	_
+47	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+48	se	sergioluis0906	O	_	_	_	_	_	_	O	_
+49	llama	sergioluis0906	O	_	_	_	_	_	_	O	_
+50	xxxxxx	sergioluis0906	O	_	_	_	_	_	_	O	_
+51	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+52	por	sergioluis0906	O	_	_	_	_	_	_	O	_
+53	si	sergioluis0906	O	_	_	_	_	_	_	O	_
+54	quieres	sergioluis0906	O	_	_	_	_	_	_	O	_
+55	buscar	sergioluis0906	O	_	_	_	_	_	_	O	_
+56	información	sergioluis0906	O	_	_	_	_	_	_	O	_
+57	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 104
+# text = Si te interesa entrar en el grupo de whats dimelo y te explico como.
+1	Si	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	te	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	interesa	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	entrar	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	el	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	grupo	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	whats	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	dimelo	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	te	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	explico	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	como	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 105
+# text = Un abrazo\n\n[Autor 18]: Hola a tod@s, sigo escribiendo aquí, por si alguien lo lee y le sirve.
+1	Un	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	abrazo	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	[	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	Autor	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	18	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	]	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	:	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	Hola	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	tod@s	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	sigo	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	escribiendo	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	aquí	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	por	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	si	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	alguien	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	lo	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	lee	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	le	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	sirve	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 106
+# text = Después de una año y un mes con sunitinib, de nuevo he tenido buenos resultados y todos los nódulos de la metástasis han reducido su tamaño.
+1	Después	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	una	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	año	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	un	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	mes	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	con	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	sunitinib	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	nuevo	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	he	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	tenido	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	buenos	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	resultados	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	todos	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	los	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	nódulos	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	metástasis	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	han	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	reducido	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	su	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	tamaño	sergioluis0906	O	_	_	_	_	_	_	O	_
+28	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 107
+# text = Más que feliz por el resultado y esperando que siga así por mucho tiempo más.
+1	Más	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	feliz	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	por	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	el	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	resultado	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	esperando	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	siga	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	así	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	por	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	mucho	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	tiempo	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	más	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 108
+# text = Los efectos del sunitinib cada vez son más llevaderos, sigo trabajando y para celebrar los resultados me marcho de vacaciones a Francia una semana.
+1	Los	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	efectos	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	del	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	sunitinib	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	cada	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	vez	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	son	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	más	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	llevaderos	sergioluis0906	B	_	_	_	_	_	_	O	_
+10	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	sigo	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	trabajando	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	para	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	celebrar	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	los	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	resultados	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	marcho	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	vacaciones	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	Francia	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	una	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	semana	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 109
+# text = Mucha fuerza y ánimo para los que estais igual que yo, mejor o peor, la esperanza de unos, es la esperanza de todos.
+1	Mucha	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	fuerza	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	ánimo	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	para	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	los	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	estais	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	igual	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	yo	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	mejor	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	o	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	peor	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	esperanza	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	unos	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	es	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	esperanza	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	todos	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 110
+# text = Un gran abrazo!\n\n
+1	Un	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	gran	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	abrazo	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	!	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 111
+# text = [Autor 21]: Yo te leo xxxx, me haces sentir mejor.
+1	[	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	Autor	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	21	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	]	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	:	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	Yo	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	te	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	leo	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	xxxx	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	haces	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	sentir	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	mejor	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 112
+# text = Sinceramente siempre mereconfortan tus palabras.
+1	Sinceramente	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	siempre	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	mereconfortan	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	tus	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	palabras	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 113
+# text = Me alegro muchísimode tus buenos resultados.\n\n
+1	Me	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	alegro	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	muchísimode	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	tus	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	buenos	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	resultados	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 114
+# text = Disfruta mucho de esas vacaciones.
+1	Disfruta	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	mucho	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	esas	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	vacaciones	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 115
+# text = Te las mereces.\n\n
+1	Te	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	las	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	mereces	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 116
+# text = [Autor 20]: Hola xxxx,\n\n\n\nla verdad es que si me gustaria compartir experiencias con gente en la misma situacion.\n\n
+1	[	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	Autor	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	20	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	]	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	:	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	Hola	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	xxxx	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	\n\n\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	verdad	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	es	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	si	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	gustaria	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	compartir	sergioluis0906	B	_	_	_	_	_	_	O	_
+18	experiencias	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	con	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	gente	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	misma	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	situacion	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 117
+# text = [Autor 19]: Buenas noches,
+1	[	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	Autor	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	19	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	]	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	:	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	Buenas	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	noches	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 118
+# text = yo hoy recibi la peor noticia , mi madre tiene cancer .
+1	yo	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	hoy	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	recibi	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	peor	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	noticia	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	mi	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	madre	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	tiene	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	cancer	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 119
+# text = No puedo entenderlo me encantaría compartir consultas con ustedes.
+1	No	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	puedo	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	entenderlo	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	encantaría	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	compartir	sergioluis0906	B	_	_	_	_	_	_	O	_
+7	consultas	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	con	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	ustedes	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 120
+# text = Aliviarme un poco.
+1	Aliviarme	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	un	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	poco	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 121
+# text = Gracias\n\n[Autor 18]
+1	Gracias	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	[	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	Autor	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	18	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	]	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 122
+# text = : Gracias xxxx, ya estoy de vuelta, la verdad es que me ha ido muy bien desconectar.
+1	:	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	Gracias	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	xxxx	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	ya	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	estoy	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	vuelta	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	verdad	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	es	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	ha	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	ido	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	muy	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	bien	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	desconectar	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 123
+# text = Un abrazo y gracias por tus palabras.\n\n
+1	Un	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	abrazo	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	gracias	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	por	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	tus	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	palabras	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 124
+# text = [Autor 18]: Hola xxxxx, ya dejé mi correo por aquí por si te apetece hablar, la verdad es que es difícil poder lidiar con esta situación y ayuda hablar con gente que pasa lo mismo.
+1	[	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	Autor	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	18	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	]	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	:	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	Hola	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	xxxxx	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	ya	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	dejé	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	mi	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	correo	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	por	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	aquí	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	por	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	si	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	te	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	apetece	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	hablar	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	la	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	verdad	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	es	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	es	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	difícil	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	poder	sergioluis0906	O	_	_	_	_	_	_	O	_
+28	lidiar	sergioluis0906	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/lidiar-01090335-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/lidiar-01090335-v	_	Emociones	_	O	_
+29	con	sergioluis0906	O	_	_	_	_	_	_	O	_
+30	esta	sergioluis0906	O	_	_	_	_	_	_	O	_
+31	situación	sergioluis0906	O	_	_	_	_	_	_	O	_
+32	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+33	ayuda	sergioluis0906	O	_	_	_	_	_	_	O	_
+34	hablar	sergioluis0906	O	_	_	_	_	_	_	O	_
+35	con	sergioluis0906	O	_	_	_	_	_	_	O	_
+36	gente	sergioluis0906	O	_	_	_	_	_	_	O	_
+37	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+38	pasa	sergioluis0906	O	_	_	_	_	_	_	O	_
+39	lo	sergioluis0906	O	_	_	_	_	_	_	O	_
+40	mismo	sergioluis0906	O	_	_	_	_	_	_	O	_
+41	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 125
+# text = Un abrazo.
+1	Un	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	abrazo	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 126
+# text = %%EMAIL%%\n\n\n\n[Autor 18]: Hola xxxxxxx, no te preocupes, hoy en día hay muchos tratamientos, ya nos explicarás si te apetece como va tu madre, un abrazo muy grande.
+1	%	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	%	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	EMAIL%%	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	\n\n\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	[	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	Autor	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	18	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	]	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	:	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	Hola	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	xxxxxxx	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	no	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	te	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	preocupes	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	hoy	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	día	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	hay	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	muchos	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	tratamientos	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	ya	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	nos	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	explicarás	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	si	sergioluis0906	O	_	_	_	_	_	_	O	_
+28	te	sergioluis0906	O	_	_	_	_	_	_	O	_
+29	apetece	sergioluis0906	O	_	_	_	_	_	_	O	_
+30	como	sergioluis0906	O	_	_	_	_	_	_	O	_
+31	va	sergioluis0906	O	_	_	_	_	_	_	O	_
+32	tu	sergioluis0906	O	_	_	_	_	_	_	O	_
+33	madre	sergioluis0906	O	_	_	_	_	_	_	O	_
+34	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+35	un	sergioluis0906	O	_	_	_	_	_	_	O	_
+36	abrazo	sergioluis0906	O	_	_	_	_	_	_	O	_
+37	muy	sergioluis0906	O	_	_	_	_	_	_	O	_
+38	grande	sergioluis0906	O	_	_	_	_	_	_	O	_
+39	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 127
+# text = Estos días me pondré a leer todos los temas nuevas, a ver si en alguno explicabas algo más de tu historia.
+1	Estos	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	días	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	pondré	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	leer	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	todos	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	los	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	temas	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	nuevas	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	ver	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	si	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	en	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	alguno	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	explicabas	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	algo	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	más	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	tu	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	historia	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 128
+# text = Animo!\n\n[Autor 18]: Hola a todos y a todas y felices fiestas! Pongo una actualización ya que mi primer correo es de hace mucho.
+1	Animo	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	!	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	\n\n	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	[	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	Autor	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	18	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	]	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	:	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	Hola	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	todos	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	todas	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	felices	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	fiestas	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	!	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	Pongo	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	una	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	actualización	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	ya	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	mi	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	primer	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	correo	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	es	sergioluis0906	O	_	_	_	_	_	_	O	_
+28	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+29	hace	sergioluis0906	O	_	_	_	_	_	_	O	_
+30	mucho	sergioluis0906	O	_	_	_	_	_	_	O	_
+31	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 129
+# text = el sunitinib después de seis años me ha dejado de funcionar, y ante un avance importante de las lesiones de mi metástasis me pasan por protocolo a segunda linea de tratamiento.
+1	el	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	sunitinib	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	después	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	seis	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	años	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	ha	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	dejado	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	funcionar	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	y	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	ante	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	un	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	avance	sergioluis0906	O	_	_	_	_	_	_	O	_
+17	importante	sergioluis0906	O	_	_	_	_	_	_	O	_
+18	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+19	las	sergioluis0906	O	_	_	_	_	_	_	O	_
+20	lesiones	sergioluis0906	O	_	_	_	_	_	_	O	_
+21	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+22	mi	sergioluis0906	O	_	_	_	_	_	_	O	_
+23	metástasis	sergioluis0906	O	_	_	_	_	_	_	O	_
+24	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+25	pasan	sergioluis0906	O	_	_	_	_	_	_	O	_
+26	por	sergioluis0906	O	_	_	_	_	_	_	O	_
+27	protocolo	sergioluis0906	O	_	_	_	_	_	_	O	_
+28	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+29	segunda	sergioluis0906	O	_	_	_	_	_	_	O	_
+30	linea	sergioluis0906	O	_	_	_	_	_	_	O	_
+31	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+32	tratamiento	sergioluis0906	O	_	_	_	_	_	_	O	_
+33	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 130
+# text = El día 8 de enero empezaré con inmunoterápia.
+1	El	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	día	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	8	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	de	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	enero	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	empezaré	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	con	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	inmunoterápia	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 131
+# text = Ya explicaré por aquí que tal me va.
+1	Ya	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	explicaré	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	por	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	aquí	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	tal	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	va	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 132
+# text = Se que estos mensajes ayudan a muchos, así que por eso me gusta compartirlo.
+1	Se	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	estos	sergioluis0906	O	_	_	_	_	_	_	O	_
+4	mensajes	sergioluis0906	O	_	_	_	_	_	_	O	_
+5	ayudan	sergioluis0906	O	_	_	_	_	_	_	O	_
+6	a	sergioluis0906	O	_	_	_	_	_	_	O	_
+7	muchos	sergioluis0906	O	_	_	_	_	_	_	O	_
+8	,	sergioluis0906	O	_	_	_	_	_	_	O	_
+9	así	sergioluis0906	O	_	_	_	_	_	_	O	_
+10	que	sergioluis0906	O	_	_	_	_	_	_	O	_
+11	por	sergioluis0906	O	_	_	_	_	_	_	O	_
+12	eso	sergioluis0906	O	_	_	_	_	_	_	O	_
+13	me	sergioluis0906	O	_	_	_	_	_	_	O	_
+14	gusta	sergioluis0906	O	_	_	_	_	_	_	O	_
+15	compartirlo	sergioluis0906	O	_	_	_	_	_	_	O	_
+16	.	sergioluis0906	O	_	_	_	_	_	_	O	_
+
+# sent_id = 133
+# text = Un abrazo.
+1	Un	sergioluis0906	O	_	_	_	_	_	_	O	_
+2	abrazo	sergioluis0906	O	_	_	_	_	_	_	O	_
+3	.	sergioluis0906	O	_	_	_	_	_	_	O	_

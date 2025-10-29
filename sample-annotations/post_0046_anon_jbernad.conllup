@@ -1,0 +1,527 @@
+ID FORM AECC:ANNOTATOR AECC:METAPHOR AECC:BM AECC:BM_RAE AECC:CM AECC:CM_RAE AECC:TGT_DOMAIN AECC:META_NOTE AECC:MWE AECC:MWE_NOTE
+# sent_id = 1
+# text = Tema: Superación cáncer cerebral\n
+1	Tema	jbernad	O	_	_	_	_	_	_	O	_
+2	:	jbernad	O	_	_	_	_	_	_	O	_
+3	Superación	jbernad	B	_	_	_	_	_	_	O	_
+4	cáncer	jbernad	O	_	_	_	_	_	_	O	_
+5	cerebral	jbernad	O	_	_	_	_	_	_	O	_
+6	\n	jbernad	O	_	_	_	_	_	_	O	_
+
+# sent_id = 2
+# text = Autor 167: \n
+1	Autor	jbernad	O	_	_	_	_	_	_	O	_
+2	167	jbernad	O	_	_	_	_	_	_	O	_
+3	:	jbernad	O	_	_	_	_	_	_	O	_
+4	\n	jbernad	O	_	_	_	_	_	_	O	_
+
+# sent_id = 3
+# text = Buenas tardes a todas las personas que leen estas líneas porque han sido diagnosticados de cáncer cerebral, y a todos los familiares que lo sufren.
+1	Buenas	jbernad	O	_	_	_	_	_	_	O	_
+2	tardes	jbernad	O	_	_	_	_	_	_	O	_
+3	a	jbernad	O	_	_	_	_	_	_	O	_
+4	todas	jbernad	O	_	_	_	_	_	_	O	_
+5	las	jbernad	O	_	_	_	_	_	_	O	_
+6	personas	jbernad	O	_	_	_	_	_	_	O	_
+7	que	jbernad	O	_	_	_	_	_	_	O	_
+8	leen	jbernad	O	_	_	_	_	_	_	O	_
+9	estas	jbernad	O	_	_	_	_	_	_	O	_
+10	líneas	jbernad	O	_	_	_	_	_	_	O	_
+11	porque	jbernad	O	_	_	_	_	_	_	O	_
+12	han	jbernad	O	_	_	_	_	_	_	O	_
+13	sido	jbernad	O	_	_	_	_	_	_	O	_
+14	diagnosticados	jbernad	O	_	_	_	_	_	_	O	_
+15	de	jbernad	O	_	_	_	_	_	_	O	_
+16	cáncer	jbernad	O	_	_	_	_	_	_	O	_
+17	cerebral	jbernad	O	_	_	_	_	_	_	O	_
+18	,	jbernad	O	_	_	_	_	_	_	O	_
+19	y	jbernad	O	_	_	_	_	_	_	O	_
+20	a	jbernad	O	_	_	_	_	_	_	O	_
+21	todos	jbernad	O	_	_	_	_	_	_	O	_
+22	los	jbernad	O	_	_	_	_	_	_	O	_
+23	familiares	jbernad	O	_	_	_	_	_	_	O	_
+24	que	jbernad	O	_	_	_	_	_	_	O	_
+25	lo	jbernad	O	_	_	_	_	_	_	O	_
+26	sufren	jbernad	B	_	_	_	_	_	_	O	_
+27	.	jbernad	O	_	_	_	_	_	_	O	_
+
+# sent_id = 4
+# text = Este es un testimonio de apoyo y esperanza para todos vosotros, en esos momentos de sufrimiento, desesperanza y angustia en la que nuestras vidas se apagan y no vemos salida.
+1	Este	jbernad	O	_	_	_	_	_	_	O	_
+2	es	jbernad	O	_	_	_	_	_	_	O	_
+3	un	jbernad	O	_	_	_	_	_	_	O	_
+4	testimonio	jbernad	O	_	_	_	_	_	_	O	_
+5	de	jbernad	O	_	_	_	_	_	_	O	_
+6	apoyo	jbernad	O	_	_	_	_	_	_	O	_
+7	y	jbernad	O	_	_	_	_	_	_	O	_
+8	esperanza	jbernad	O	_	_	_	_	_	_	O	_
+9	para	jbernad	O	_	_	_	_	_	_	O	_
+10	todos	jbernad	O	_	_	_	_	_	_	O	_
+11	vosotros	jbernad	O	_	_	_	_	_	_	O	_
+12	,	jbernad	O	_	_	_	_	_	_	O	_
+13	en	jbernad	O	_	_	_	_	_	_	O	_
+14	esos	jbernad	O	_	_	_	_	_	_	O	_
+15	momentos	jbernad	O	_	_	_	_	_	_	O	_
+16	de	jbernad	O	_	_	_	_	_	_	O	_
+17	sufrimiento	jbernad	O	_	_	_	_	_	_	O	_
+18	,	jbernad	O	_	_	_	_	_	_	O	_
+19	desesperanza	jbernad	O	_	_	_	_	_	_	O	_
+20	y	jbernad	O	_	_	_	_	_	_	O	_
+21	angustia	jbernad	O	_	_	_	_	_	_	O	_
+22	en	jbernad	O	_	_	_	_	_	_	O	_
+23	la	jbernad	O	_	_	_	_	_	_	O	_
+24	que	jbernad	O	_	_	_	_	_	_	O	_
+25	nuestras	jbernad	O	_	_	_	_	_	_	O	_
+26	vidas	jbernad	O	_	_	_	_	_	_	O	_
+27	se	jbernad	B	_	_	_	_	_	_	O	_
+28	apagan	jbernad	I	_	_	_	_	_	_	O	_
+29	y	jbernad	O	_	_	_	_	_	_	O	_
+30	no	jbernad	O	_	_	_	_	_	_	O	_
+31	vemos	jbernad	B	_	_	_	_	_	_	O	_
+32	salida	jbernad	I	_	_	_	_	_	_	O	_
+33	.	jbernad	O	_	_	_	_	_	_	O	_
+
+# sent_id = 5
+# text = Mi hermano fue ingresado en julio del año pasado por dolores de cabeza, y diagnosticado de astrocitoma anaplásico grado 2/3.
+1	Mi	jbernad	O	_	_	_	_	_	_	O	_
+2	hermano	jbernad	O	_	_	_	_	_	_	O	_
+3	fue	jbernad	O	_	_	_	_	_	_	O	_
+4	ingresado	jbernad	O	_	_	_	_	_	_	O	_
+5	en	jbernad	O	_	_	_	_	_	_	O	_
+6	julio	jbernad	O	_	_	_	_	_	_	O	_
+7	del	jbernad	O	_	_	_	_	_	_	O	_
+8	año	jbernad	O	_	_	_	_	_	_	O	_
+9	pasado	jbernad	O	_	_	_	_	_	_	O	_
+10	por	jbernad	O	_	_	_	_	_	_	O	_
+11	dolores	jbernad	O	_	_	_	_	_	_	O	_
+12	de	jbernad	O	_	_	_	_	_	_	O	_
+13	cabeza	jbernad	O	_	_	_	_	_	_	O	_
+14	,	jbernad	O	_	_	_	_	_	_	O	_
+15	y	jbernad	O	_	_	_	_	_	_	O	_
+16	diagnosticado	jbernad	O	_	_	_	_	_	_	O	_
+17	de	jbernad	O	_	_	_	_	_	_	O	_
+18	astrocitoma	jbernad	O	_	_	_	_	_	_	O	_
+19	anaplásico	jbernad	O	_	_	_	_	_	_	O	_
+20	grado	jbernad	O	_	_	_	_	_	_	O	_
+21	2/3	jbernad	O	_	_	_	_	_	_	O	_
+22	.	jbernad	O	_	_	_	_	_	_	O	_
+
+# sent_id = 6
+# text = Tenía varios tumores en diferentes puntos.
+1	Tenía	jbernad	O	_	_	_	_	_	_	O	_
+2	varios	jbernad	O	_	_	_	_	_	_	O	_
+3	tumores	jbernad	O	_	_	_	_	_	_	O	_
+4	en	jbernad	O	_	_	_	_	_	_	O	_
+5	diferentes	jbernad	O	_	_	_	_	_	_	O	_
+6	puntos	jbernad	B	_	_	_	_	_	_	O	_
+7	.	jbernad	O	_	_	_	_	_	_	O	_
+
+# sent_id = 7
+# text = No se puede explicar el impacto familiar, el dolor, la desesperación, la incertidumbre...no hay palabras.
+1	No	jbernad	O	_	_	_	_	_	_	O	_
+2	se	jbernad	O	_	_	_	_	_	_	O	_
+3	puede	jbernad	O	_	_	_	_	_	_	O	_
+4	explicar	jbernad	O	_	_	_	_	_	_	O	_
+5	el	jbernad	O	_	_	_	_	_	_	O	_
+6	impacto	jbernad	B	_	_	_	_	_	_	O	_
+7	familiar	jbernad	O	_	_	_	_	_	_	O	_
+8	,	jbernad	O	_	_	_	_	_	_	O	_
+9	el	jbernad	O	_	_	_	_	_	_	O	_
+10	dolor	jbernad	O	_	_	_	_	_	_	O	_
+11	,	jbernad	O	_	_	_	_	_	_	O	_
+12	la	jbernad	O	_	_	_	_	_	_	O	_
+13	desesperación	jbernad	O	_	_	_	_	_	_	O	_
+14	,	jbernad	O	_	_	_	_	_	_	O	_
+15	la	jbernad	O	_	_	_	_	_	_	O	_
+16	incertidumbre	jbernad	O	_	_	_	_	_	_	O	_
+17	...	jbernad	O	_	_	_	_	_	_	O	_
+18	no	jbernad	O	_	_	_	_	_	_	O	_
+19	hay	jbernad	O	_	_	_	_	_	_	O	_
+20	palabras	jbernad	O	_	_	_	_	_	_	O	_
+21	.	jbernad	O	_	_	_	_	_	_	O	_
+
+# sent_id = 8
+# text = Después de dos operaciones, radioterapia y quimioterapia, ayer le dieron el resultado del TAC, un año después del diagnóstico.
+1	Después	jbernad	O	_	_	_	_	_	_	O	_
+2	de	jbernad	O	_	_	_	_	_	_	O	_
+3	dos	jbernad	O	_	_	_	_	_	_	O	_
+4	operaciones	jbernad	O	_	_	_	_	_	_	O	_
+5	,	jbernad	O	_	_	_	_	_	_	O	_
+6	radioterapia	jbernad	O	_	_	_	_	_	_	O	_
+7	y	jbernad	O	_	_	_	_	_	_	O	_
+8	quimioterapia	jbernad	O	_	_	_	_	_	_	O	_
+9	,	jbernad	O	_	_	_	_	_	_	O	_
+10	ayer	jbernad	O	_	_	_	_	_	_	O	_
+11	le	jbernad	O	_	_	_	_	_	_	O	_
+12	dieron	jbernad	O	_	_	_	_	_	_	O	_
+13	el	jbernad	O	_	_	_	_	_	_	O	_
+14	resultado	jbernad	O	_	_	_	_	_	_	O	_
+15	del	jbernad	O	_	_	_	_	_	_	O	_
+16	TAC	jbernad	O	_	_	_	_	_	_	O	_
+17	,	jbernad	O	_	_	_	_	_	_	O	_
+18	un	jbernad	O	_	_	_	_	_	_	O	_
+19	año	jbernad	O	_	_	_	_	_	_	O	_
+20	después	jbernad	O	_	_	_	_	_	_	O	_
+21	del	jbernad	O	_	_	_	_	_	_	O	_
+22	diagnóstico	jbernad	O	_	_	_	_	_	_	O	_
+23	.	jbernad	O	_	_	_	_	_	_	O	_
+
+# sent_id = 9
+# text = Hemos vuelto todos a nacer!!!!!
+1	Hemos	jbernad	O	_	_	_	_	_	_	O	_
+2	vuelto	jbernad	O	_	_	_	_	_	_	O	_
+3	todos	jbernad	O	_	_	_	_	_	_	O	_
+4	a	jbernad	O	_	_	_	_	_	_	O	_
+5	nacer	jbernad	B	_	_	_	_	_	_	O	_
+6	!	jbernad	O	_	_	_	_	_	_	O	_
+7	!	jbernad	O	_	_	_	_	_	_	O	_
+8	!	jbernad	O	_	_	_	_	_	_	O	_
+9	!	jbernad	O	_	_	_	_	_	_	O	_
+10	!	jbernad	O	_	_	_	_	_	_	O	_
+
+# sent_id = 10
+# text = Aún no damos crédito, y el médico tampoco.
+1	Aún	jbernad	O	_	_	_	_	_	_	O	_
+2	no	jbernad	O	_	_	_	_	_	_	O	_
+3	damos	jbernad	O	_	_	_	_	_	_	O	_
+4	crédito	jbernad	O	_	_	_	_	_	_	O	_
+5	,	jbernad	O	_	_	_	_	_	_	O	_
+6	y	jbernad	O	_	_	_	_	_	_	O	_
+7	el	jbernad	O	_	_	_	_	_	_	O	_
+8	médico	jbernad	O	_	_	_	_	_	_	O	_
+9	tampoco	jbernad	O	_	_	_	_	_	_	O	_
+10	.	jbernad	O	_	_	_	_	_	_	O	_
+
+# sent_id = 11
+# text = Los tumores han desaparecido, no existen!!!
+1	Los	jbernad	O	_	_	_	_	_	_	O	_
+2	tumores	jbernad	O	_	_	_	_	_	_	O	_
+3	han	jbernad	O	_	_	_	_	_	_	O	_
+4	desaparecido	jbernad	O	_	_	_	_	_	_	O	_
+5	,	jbernad	O	_	_	_	_	_	_	O	_
+6	no	jbernad	O	_	_	_	_	_	_	O	_
+7	existen	jbernad	O	_	_	_	_	_	_	O	_
+8	!	jbernad	O	_	_	_	_	_	_	O	_
+9	!	jbernad	O	_	_	_	_	_	_	O	_
+10	!	jbernad	O	_	_	_	_	_	_	O	_
+
+# sent_id = 12
+# text = Ha quedado sólo un punto, insignificante, que según las palabras del médico "no tiene importancia", está inactivo.
+1	Ha	jbernad	O	_	_	_	_	_	_	O	_
+2	quedado	jbernad	O	_	_	_	_	_	_	O	_
+3	sólo	jbernad	O	_	_	_	_	_	_	O	_
+4	un	jbernad	O	_	_	_	_	_	_	O	_
+5	punto	jbernad	B	_	_	_	_	_	_	O	_
+6	,	jbernad	O	_	_	_	_	_	_	O	_
+7	insignificante	jbernad	B	_	_	_	_	_	_	O	_
+8	,	jbernad	O	_	_	_	_	_	_	O	_
+9	que	jbernad	O	_	_	_	_	_	_	O	_
+10	según	jbernad	O	_	_	_	_	_	_	O	_
+11	las	jbernad	O	_	_	_	_	_	_	O	_
+12	palabras	jbernad	B	_	_	_	_	_	_	O	_
+13	del	jbernad	O	_	_	_	_	_	_	O	_
+14	médico	jbernad	O	_	_	_	_	_	_	O	_
+15	"	jbernad	O	_	_	_	_	_	_	O	_
+16	no	jbernad	O	_	_	_	_	_	_	O	_
+17	tiene	jbernad	O	_	_	_	_	_	_	O	_
+18	importancia	jbernad	O	_	_	_	_	_	_	O	_
+19	"	jbernad	O	_	_	_	_	_	_	O	_
+20	,	jbernad	O	_	_	_	_	_	_	O	_
+21	está	jbernad	O	_	_	_	_	_	_	O	_
+22	inactivo	jbernad	B	_	_	_	_	_	_	O	_
+23	.	jbernad	O	_	_	_	_	_	_	O	_
+
+# sent_id = 13
+# text = No hay signos de alteración de ningún tipo en pruebas de contraste, está limpiooo todo!!
+1	No	jbernad	O	_	_	_	_	_	_	O	_
+2	hay	jbernad	O	_	_	_	_	_	_	O	_
+3	signos	jbernad	O	_	_	_	_	_	_	O	_
+4	de	jbernad	O	_	_	_	_	_	_	O	_
+5	alteración	jbernad	O	_	_	_	_	_	_	O	_
+6	de	jbernad	O	_	_	_	_	_	_	O	_
+7	ningún	jbernad	O	_	_	_	_	_	_	O	_
+8	tipo	jbernad	O	_	_	_	_	_	_	O	_
+9	en	jbernad	O	_	_	_	_	_	_	O	_
+10	pruebas	jbernad	O	_	_	_	_	_	_	O	_
+11	de	jbernad	O	_	_	_	_	_	_	O	_
+12	contraste	jbernad	O	_	_	_	_	_	_	O	_
+13	,	jbernad	O	_	_	_	_	_	_	O	_
+14	está	jbernad	O	_	_	_	_	_	_	O	_
+15	limpiooo	jbernad	B	_	_	_	_	_	_	O	_
+16	todo	jbernad	O	_	_	_	_	_	_	O	_
+17	!	jbernad	O	_	_	_	_	_	_	O	_
+18	!	jbernad	O	_	_	_	_	_	_	O	_
+
+# sent_id = 14
+# text = A partir de ahora controles cada tres meses y a vivir.
+1	A	jbernad	O	_	_	_	_	_	_	O	_
+2	partir	jbernad	O	_	_	_	_	_	_	O	_
+3	de	jbernad	O	_	_	_	_	_	_	O	_
+4	ahora	jbernad	O	_	_	_	_	_	_	O	_
+5	controles	jbernad	O	_	_	_	_	_	_	O	_
+6	cada	jbernad	O	_	_	_	_	_	_	O	_
+7	tres	jbernad	O	_	_	_	_	_	_	O	_
+8	meses	jbernad	O	_	_	_	_	_	_	O	_
+9	y	jbernad	O	_	_	_	_	_	_	O	_
+10	a	jbernad	B	_	_	_	_	_	_	O	_
+11	vivir	jbernad	I	_	_	_	_	_	_	O	_
+12	.	jbernad	O	_	_	_	_	_	_	O	_
+
+# sent_id = 15
+# text = Decirles que estos casos también existen, aunque parezca imposible.
+1	Decirles	jbernad	O	_	_	_	_	_	_	O	_
+2	que	jbernad	O	_	_	_	_	_	_	O	_
+3	estos	jbernad	O	_	_	_	_	_	_	O	_
+4	casos	jbernad	O	_	_	_	_	_	_	O	_
+5	también	jbernad	O	_	_	_	_	_	_	O	_
+6	existen	jbernad	O	_	_	_	_	_	_	O	_
+7	,	jbernad	O	_	_	_	_	_	_	O	_
+8	aunque	jbernad	O	_	_	_	_	_	_	O	_
+9	parezca	jbernad	O	_	_	_	_	_	_	O	_
+10	imposible	jbernad	O	_	_	_	_	_	_	O	_
+11	.	jbernad	O	_	_	_	_	_	_	O	_
+
+# sent_id = 16
+# text = Somos los primeros sorprendidos, y queríamos transmitirles mucha fuerza y apoyo, y siempre CREER en la medicina y la sanación, ya que es posible.
+1	Somos	jbernad	O	_	_	_	_	_	_	O	_
+2	los	jbernad	O	_	_	_	_	_	_	O	_
+3	primeros	jbernad	O	_	_	_	_	_	_	O	_
+4	sorprendidos	jbernad	O	_	_	_	_	_	_	O	_
+5	,	jbernad	O	_	_	_	_	_	_	O	_
+6	y	jbernad	O	_	_	_	_	_	_	O	_
+7	queríamos	jbernad	O	_	_	_	_	_	_	O	_
+8	transmitirles	jbernad	O	_	_	_	_	_	_	O	_
+9	mucha	jbernad	O	_	_	_	_	_	_	O	_
+10	fuerza	jbernad	B	_	_	_	_	_	_	O	_
+11	y	jbernad	O	_	_	_	_	_	_	O	_
+12	apoyo	jbernad	B	_	_	_	_	_	_	O	_
+13	,	jbernad	O	_	_	_	_	_	_	O	_
+14	y	jbernad	O	_	_	_	_	_	_	O	_
+15	siempre	jbernad	O	_	_	_	_	_	_	O	_
+16	CREER	jbernad	B	_	_	_	_	_	_	O	_
+17	en	jbernad	O	_	_	_	_	_	_	O	_
+18	la	jbernad	O	_	_	_	_	_	_	O	_
+19	medicina	jbernad	O	_	_	_	_	_	_	O	_
+20	y	jbernad	O	_	_	_	_	_	_	O	_
+21	la	jbernad	O	_	_	_	_	_	_	O	_
+22	sanación	jbernad	O	_	_	_	_	_	_	O	_
+23	,	jbernad	O	_	_	_	_	_	_	O	_
+24	ya	jbernad	O	_	_	_	_	_	_	O	_
+25	que	jbernad	O	_	_	_	_	_	_	O	_
+26	es	jbernad	O	_	_	_	_	_	_	O	_
+27	posible	jbernad	O	_	_	_	_	_	_	O	_
+28	.	jbernad	O	_	_	_	_	_	_	O	_
+
+# sent_id = 17
+# text = Un gran abrazo a tod@s\n\nComentarios:\n\n[Autor 169]: Aun siendo una gran noticia,
+1	Un	jbernad	O	_	_	_	_	_	_	O	_
+2	gran	jbernad	O	_	_	_	_	_	_	O	_
+3	abrazo	jbernad	O	_	_	_	_	_	_	O	_
+4	a	jbernad	O	_	_	_	_	_	_	O	_
+5	tod@s	jbernad	O	_	_	_	_	_	_	O	_
+6	\n\n	jbernad	O	_	_	_	_	_	_	O	_
+7	Comentarios	jbernad	O	_	_	_	_	_	_	O	_
+8	:	jbernad	O	_	_	_	_	_	_	O	_
+9	\n\n	jbernad	O	_	_	_	_	_	_	O	_
+10	[	jbernad	O	_	_	_	_	_	_	O	_
+11	Autor	jbernad	O	_	_	_	_	_	_	O	_
+12	169	jbernad	O	_	_	_	_	_	_	O	_
+13	]	jbernad	O	_	_	_	_	_	_	O	_
+14	:	jbernad	O	_	_	_	_	_	_	O	_
+15	Aun	jbernad	O	_	_	_	_	_	_	O	_
+16	siendo	jbernad	O	_	_	_	_	_	_	O	_
+17	una	jbernad	O	_	_	_	_	_	_	O	_
+18	gran	jbernad	O	_	_	_	_	_	_	O	_
+19	noticia	jbernad	O	_	_	_	_	_	_	O	_
+20	,	jbernad	O	_	_	_	_	_	_	O	_
+
+# sent_id = 18
+# text = yo esperaria para lanzar las campanas al vuelo, el cancer aparece cuando menos se espera y lo fastidia todo.....\n\n
+1	yo	jbernad	O	_	_	_	_	_	_	O	_
+2	esperaria	jbernad	O	_	_	_	_	_	_	O	_
+3	para	jbernad	O	_	_	_	_	_	_	O	_
+4	lanzar	jbernad	O	_	_	_	_	_	_	O	_
+5	las	jbernad	O	_	_	_	_	_	_	O	_
+6	campanas	jbernad	O	_	_	_	_	_	_	O	_
+7	al	jbernad	O	_	_	_	_	_	_	O	_
+8	vuelo	jbernad	O	_	_	_	_	_	_	O	_
+9	,	jbernad	O	_	_	_	_	_	_	O	_
+10	el	jbernad	O	_	_	_	_	_	_	O	_
+11	cancer	jbernad	O	_	_	_	_	_	_	O	_
+12	aparece	jbernad	B	_	_	_	_	_	_	O	_
+13	cuando	jbernad	O	_	_	_	_	_	_	O	_
+14	menos	jbernad	O	_	_	_	_	_	_	O	_
+15	se	jbernad	O	_	_	_	_	_	_	O	_
+16	espera	jbernad	O	_	_	_	_	_	_	O	_
+17	y	jbernad	O	_	_	_	_	_	_	O	_
+18	lo	jbernad	O	_	_	_	_	_	_	O	_
+19	fastidia	jbernad	B	_	_	_	_	_	_	O	_
+20	todo	jbernad	O	_	_	_	_	_	_	O	_
+21	.....	jbernad	O	_	_	_	_	_	_	O	_
+22	\n\n	jbernad	O	_	_	_	_	_	_	O	_
+
+# sent_id = 19
+# text = [Autor 26]: Hola, Xxxxx\n\nNos alegra saber que habéis tenido buenas noticias.
+1	[	jbernad	O	_	_	_	_	_	_	O	_
+2	Autor	jbernad	O	_	_	_	_	_	_	O	_
+3	26	jbernad	O	_	_	_	_	_	_	O	_
+4	]	jbernad	O	_	_	_	_	_	_	O	_
+5	:	jbernad	O	_	_	_	_	_	_	O	_
+6	Hola	jbernad	O	_	_	_	_	_	_	O	_
+7	,	jbernad	O	_	_	_	_	_	_	O	_
+8	Xxxxx	jbernad	O	_	_	_	_	_	_	O	_
+9	\n\n	jbernad	O	_	_	_	_	_	_	O	_
+10	Nos	jbernad	O	_	_	_	_	_	_	O	_
+11	alegra	jbernad	O	_	_	_	_	_	_	O	_
+12	saber	jbernad	O	_	_	_	_	_	_	O	_
+13	que	jbernad	O	_	_	_	_	_	_	O	_
+14	habéis	jbernad	O	_	_	_	_	_	_	O	_
+15	tenido	jbernad	O	_	_	_	_	_	_	O	_
+16	buenas	jbernad	O	_	_	_	_	_	_	O	_
+17	noticias	jbernad	O	_	_	_	_	_	_	O	_
+18	.	jbernad	O	_	_	_	_	_	_	O	_
+
+# sent_id = 20
+# text = No obstante, tendréis que seguir en contacto con los médicos y, probablemente, llevar a cabo un seguimiento.
+1	No	jbernad	O	_	_	_	_	_	_	O	_
+2	obstante	jbernad	O	_	_	_	_	_	_	O	_
+3	,	jbernad	O	_	_	_	_	_	_	O	_
+4	tendréis	jbernad	O	_	_	_	_	_	_	O	_
+5	que	jbernad	O	_	_	_	_	_	_	O	_
+6	seguir	jbernad	O	_	_	_	_	_	_	O	_
+7	en	jbernad	O	_	_	_	_	_	_	O	_
+8	contacto	jbernad	O	_	_	_	_	_	_	O	_
+9	con	jbernad	O	_	_	_	_	_	_	O	_
+10	los	jbernad	O	_	_	_	_	_	_	O	_
+11	médicos	jbernad	O	_	_	_	_	_	_	O	_
+12	y	jbernad	O	_	_	_	_	_	_	O	_
+13	,	jbernad	O	_	_	_	_	_	_	O	_
+14	probablemente	jbernad	O	_	_	_	_	_	_	O	_
+15	,	jbernad	O	_	_	_	_	_	_	O	_
+16	llevar	jbernad	O	_	_	_	_	_	_	O	_
+17	a	jbernad	O	_	_	_	_	_	_	O	_
+18	cabo	jbernad	O	_	_	_	_	_	_	O	_
+19	un	jbernad	O	_	_	_	_	_	_	O	_
+20	seguimiento	jbernad	B	_	_	_	_	_	_	O	_
+21	.	jbernad	O	_	_	_	_	_	_	O	_
+
+# sent_id = 21
+# text = Si necesitáis ayuda, información u orientación, no dudéis en contactar con nosotros a través del servicio de atención gratuito infocáncer: 000 000 000 24h/7 días\n\nUn abrazo\n\n[Autor 168]: Buenas, Cómo está tu hermano?
+1	Si	jbernad	O	_	_	_	_	_	_	O	_
+2	necesitáis	jbernad	O	_	_	_	_	_	_	O	_
+3	ayuda	jbernad	O	_	_	_	_	_	_	O	_
+4	,	jbernad	O	_	_	_	_	_	_	O	_
+5	información	jbernad	O	_	_	_	_	_	_	O	_
+6	u	jbernad	O	_	_	_	_	_	_	O	_
+7	orientación	jbernad	O	_	_	_	_	_	_	O	_
+8	,	jbernad	O	_	_	_	_	_	_	O	_
+9	no	jbernad	O	_	_	_	_	_	_	O	_
+10	dudéis	jbernad	O	_	_	_	_	_	_	O	_
+11	en	jbernad	O	_	_	_	_	_	_	O	_
+12	contactar	jbernad	O	_	_	_	_	_	_	O	_
+13	con	jbernad	O	_	_	_	_	_	_	O	_
+14	nosotros	jbernad	O	_	_	_	_	_	_	O	_
+15	a	jbernad	O	_	_	_	_	_	_	O	_
+16	través	jbernad	O	_	_	_	_	_	_	O	_
+17	del	jbernad	O	_	_	_	_	_	_	O	_
+18	servicio	jbernad	O	_	_	_	_	_	_	O	_
+19	de	jbernad	O	_	_	_	_	_	_	O	_
+20	atención	jbernad	O	_	_	_	_	_	_	O	_
+21	gratuito	jbernad	O	_	_	_	_	_	_	O	_
+22	infocáncer	jbernad	O	_	_	_	_	_	_	O	_
+23	:	jbernad	O	_	_	_	_	_	_	O	_
+24	000	jbernad	O	_	_	_	_	_	_	O	_
+25	000	jbernad	O	_	_	_	_	_	_	O	_
+26	000	jbernad	O	_	_	_	_	_	_	O	_
+27	24h/7	jbernad	O	_	_	_	_	_	_	O	_
+28	días	jbernad	O	_	_	_	_	_	_	O	_
+29	\n\n	jbernad	O	_	_	_	_	_	_	O	_
+30	Un	jbernad	O	_	_	_	_	_	_	O	_
+31	abrazo	jbernad	O	_	_	_	_	_	_	O	_
+32	\n\n	jbernad	O	_	_	_	_	_	_	O	_
+33	[	jbernad	O	_	_	_	_	_	_	O	_
+34	Autor	jbernad	O	_	_	_	_	_	_	O	_
+35	168	jbernad	O	_	_	_	_	_	_	O	_
+36	]	jbernad	O	_	_	_	_	_	_	O	_
+37	:	jbernad	O	_	_	_	_	_	_	O	_
+38	Buenas	jbernad	O	_	_	_	_	_	_	O	_
+39	,	jbernad	O	_	_	_	_	_	_	O	_
+40	Cómo	jbernad	O	_	_	_	_	_	_	O	_
+41	está	jbernad	O	_	_	_	_	_	_	O	_
+42	tu	jbernad	O	_	_	_	_	_	_	O	_
+43	hermano	jbernad	O	_	_	_	_	_	_	O	_
+44	?	jbernad	O	_	_	_	_	_	_	O	_
+
+# sent_id = 22
+# text = Sigue bien?
+1	Sigue	jbernad	O	_	_	_	_	_	_	O	_
+2	bien	jbernad	O	_	_	_	_	_	_	O	_
+3	?	jbernad	O	_	_	_	_	_	_	O	_
+
+# sent_id = 23
+# text = Espero que vaya todo bien.
+1	Espero	jbernad	O	_	_	_	_	_	_	O	_
+2	que	jbernad	O	_	_	_	_	_	_	O	_
+3	vaya	jbernad	O	_	_	_	_	_	_	O	_
+4	todo	jbernad	O	_	_	_	_	_	_	O	_
+5	bien	jbernad	O	_	_	_	_	_	_	O	_
+6	.	jbernad	O	_	_	_	_	_	_	O	_
+
+# sent_id = 24
+# text = A mi cuñado le han detectado un Astrocitoma grado 3, estamos desolados y con mucha incertidumbre.
+1	A	jbernad	O	_	_	_	_	_	_	O	_
+2	mi	jbernad	O	_	_	_	_	_	_	O	_
+3	cuñado	jbernad	O	_	_	_	_	_	_	O	_
+4	le	jbernad	O	_	_	_	_	_	_	O	_
+5	han	jbernad	O	_	_	_	_	_	_	O	_
+6	detectado	jbernad	O	_	_	_	_	_	_	O	_
+7	un	jbernad	O	_	_	_	_	_	_	O	_
+8	Astrocitoma	jbernad	O	_	_	_	_	_	_	O	_
+9	grado	jbernad	O	_	_	_	_	_	_	O	_
+10	3	jbernad	O	_	_	_	_	_	_	O	_
+11	,	jbernad	O	_	_	_	_	_	_	O	_
+12	estamos	jbernad	O	_	_	_	_	_	_	O	_
+13	desolados	jbernad	B	_	_	_	_	_	_	O	_
+14	y	jbernad	O	_	_	_	_	_	_	O	_
+15	con	jbernad	O	_	_	_	_	_	_	O	_
+16	mucha	jbernad	O	_	_	_	_	_	_	O	_
+17	incertidumbre	jbernad	O	_	_	_	_	_	_	O	_
+18	.	jbernad	O	_	_	_	_	_	_	O	_
+
+# sent_id = 25
+# text = Estamos buscando información sobre pacientes que estén pasando por lo mismo, para saber cómo están, qué tratamientos les están poniendo, qué les está funcionando.\n\n
+1	Estamos	jbernad	O	_	_	_	_	_	_	O	_
+2	buscando	jbernad	O	_	_	_	_	_	_	O	_
+3	información	jbernad	O	_	_	_	_	_	_	O	_
+4	sobre	jbernad	O	_	_	_	_	_	_	O	_
+5	pacientes	jbernad	O	_	_	_	_	_	_	O	_
+6	que	jbernad	O	_	_	_	_	_	_	O	_
+7	estén	jbernad	O	_	_	_	_	_	_	O	_
+8	pasando	jbernad	O	_	_	_	_	_	_	O	_
+9	por	jbernad	O	_	_	_	_	_	_	O	_
+10	lo	jbernad	O	_	_	_	_	_	_	O	_
+11	mismo	jbernad	O	_	_	_	_	_	_	O	_
+12	,	jbernad	O	_	_	_	_	_	_	O	_
+13	para	jbernad	O	_	_	_	_	_	_	O	_
+14	saber	jbernad	O	_	_	_	_	_	_	O	_
+15	cómo	jbernad	O	_	_	_	_	_	_	O	_
+16	están	jbernad	O	_	_	_	_	_	_	O	_
+17	,	jbernad	O	_	_	_	_	_	_	O	_
+18	qué	jbernad	O	_	_	_	_	_	_	O	_
+19	tratamientos	jbernad	O	_	_	_	_	_	_	O	_
+20	les	jbernad	O	_	_	_	_	_	_	O	_
+21	están	jbernad	O	_	_	_	_	_	_	O	_
+22	poniendo	jbernad	O	_	_	_	_	_	_	O	_
+23	,	jbernad	O	_	_	_	_	_	_	O	_
+24	qué	jbernad	O	_	_	_	_	_	_	O	_
+25	les	jbernad	O	_	_	_	_	_	_	O	_
+26	está	jbernad	O	_	_	_	_	_	_	O	_
+27	funcionando	jbernad	O	_	_	_	_	_	_	O	_
+28	.	jbernad	O	_	_	_	_	_	_	O	_
+29	\n\n	jbernad	O	_	_	_	_	_	_	O	_
+
+# sent_id = 26
+# text = Gracias de antemano
+1	Gracias	jbernad	O	_	_	_	_	_	_	O	_
+2	de	jbernad	O	_	_	_	_	_	_	O	_
+3	antemano	jbernad	O	_	_	_	_	_	_	O	_
