@@ -1,0 +1,3278 @@
+ID FORM AECC:ANNOTATOR AECC:METAPHOR AECC:BM AECC:BM_RAE AECC:CM AECC:CM_RAE AECC:TGT_DOMAIN AECC:META_NOTE AECC:MWE AECC:MWE_NOTE
+# sent_id = 1
+# text = Tema: ESPERANZA\n
+1	Tema	annot3	O	_	_	_	_	_	_	O	_
+2	:	annot3	O	_	_	_	_	_	_	O	_
+3	ESPERANZA	annot3	O	_	_	_	_	_	_	O	_
+4	\n	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 2
+# text = Autor 18: \n
+1	Autor	annot3	O	_	_	_	_	_	_	O	_
+2	18	annot3	O	_	_	_	_	_	_	O	_
+3	:	annot3	O	_	_	_	_	_	_	O	_
+4	\n	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 3
+# text = Hola a todos me llamo xxxxxxx, hace ocho años pasé por un cancer de riñón, me operaron, no necesité quimio, yfuí pasando los controles de revision hasta este verano.
+1	Hola	annot3	O	_	_	_	_	_	_	O	_
+2	a	annot3	O	_	_	_	_	_	_	O	_
+3	todos	annot3	O	_	_	_	_	_	_	O	_
+4	me	annot3	O	_	_	_	_	_	_	O	_
+5	llamo	annot3	O	_	_	_	_	_	_	O	_
+6	xxxxxxx	annot3	O	_	_	_	_	_	_	O	_
+7	,	annot3	O	_	_	_	_	_	_	O	_
+8	hace	annot3	O	_	_	_	_	_	_	O	_
+9	ocho	annot3	O	_	_	_	_	_	_	O	_
+10	años	annot3	O	_	_	_	_	_	_	O	_
+11	pasé	annot3	B	_	_	_	_	_	_	O	_
+12	por	annot3	I	_	_	_	_	_	_	O	_
+13	un	annot3	O	_	_	_	_	_	_	O	_
+14	cancer	annot3	O	_	_	_	_	_	_	O	_
+15	de	annot3	O	_	_	_	_	_	_	O	_
+16	riñón	annot3	O	_	_	_	_	_	_	O	_
+17	,	annot3	O	_	_	_	_	_	_	O	_
+18	me	annot3	O	_	_	_	_	_	_	O	_
+19	operaron	annot3	O	_	_	_	_	_	_	O	_
+20	,	annot3	O	_	_	_	_	_	_	O	_
+21	no	annot3	O	_	_	_	_	_	_	O	_
+22	necesité	annot3	O	_	_	_	_	_	_	O	_
+23	quimio	annot3	O	_	_	_	_	_	_	O	_
+24	,	annot3	O	_	_	_	_	_	_	O	_
+25	yfuí	annot3	O	_	_	_	_	_	_	O	_
+26	pasando	annot3	O	_	_	_	_	_	_	O	_
+27	los	annot3	O	_	_	_	_	_	_	O	_
+28	controles	annot3	O	_	_	_	_	_	_	O	_
+29	de	annot3	O	_	_	_	_	_	_	O	_
+30	revision	annot3	O	_	_	_	_	_	_	O	_
+31	hasta	annot3	O	_	_	_	_	_	_	O	_
+32	este	annot3	O	_	_	_	_	_	_	O	_
+33	verano	annot3	O	_	_	_	_	_	_	O	_
+34	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 4
+# text = Me detectaron un quiste en el ovario y me dijeron que no preocupara por que era benigno, pero la verdad es que después de extirparlo se dieron cuenta de que era una metastasis del riñón, después del gran susto , me repitieron las pruebas y me dicen que vuelvo a estar limpia, pero que igualmente me aconsejaban hacer una quimio preventiva de seis meses.
+1	Me	annot3	O	_	_	_	_	_	_	O	_
+2	detectaron	annot3	O	_	_	_	_	_	_	O	_
+3	un	annot3	O	_	_	_	_	_	_	O	_
+4	quiste	annot3	O	_	_	_	_	_	_	O	_
+5	en	annot3	O	_	_	_	_	_	_	O	_
+6	el	annot3	O	_	_	_	_	_	_	O	_
+7	ovario	annot3	O	_	_	_	_	_	_	O	_
+8	y	annot3	O	_	_	_	_	_	_	O	_
+9	me	annot3	O	_	_	_	_	_	_	O	_
+10	dijeron	annot3	O	_	_	_	_	_	_	O	_
+11	que	annot3	O	_	_	_	_	_	_	O	_
+12	no	annot3	O	_	_	_	_	_	_	O	_
+13	preocupara	annot3	O	_	_	_	_	_	_	O	_
+14	por	annot3	O	_	_	_	_	_	_	O	_
+15	que	annot3	O	_	_	_	_	_	_	O	_
+16	era	annot3	O	_	_	_	_	_	_	O	_
+17	benigno	annot3	O	_	_	_	_	_	_	O	_
+18	,	annot3	O	_	_	_	_	_	_	O	_
+19	pero	annot3	O	_	_	_	_	_	_	O	_
+20	la	annot3	O	_	_	_	_	_	_	O	_
+21	verdad	annot3	O	_	_	_	_	_	_	O	_
+22	es	annot3	O	_	_	_	_	_	_	O	_
+23	que	annot3	O	_	_	_	_	_	_	O	_
+24	después	annot3	O	_	_	_	_	_	_	O	_
+25	de	annot3	O	_	_	_	_	_	_	O	_
+26	extirparlo	annot3	O	_	_	_	_	_	_	O	_
+27	se	annot3	O	_	_	_	_	_	_	O	_
+28	dieron	annot3	O	_	_	_	_	_	_	O	_
+29	cuenta	annot3	O	_	_	_	_	_	_	O	_
+30	de	annot3	O	_	_	_	_	_	_	O	_
+31	que	annot3	O	_	_	_	_	_	_	O	_
+32	era	annot3	O	_	_	_	_	_	_	O	_
+33	una	annot3	O	_	_	_	_	_	_	O	_
+34	metastasis	annot3	O	_	_	_	_	_	_	O	_
+35	del	annot3	O	_	_	_	_	_	_	O	_
+36	riñón	annot3	O	_	_	_	_	_	_	O	_
+37	,	annot3	O	_	_	_	_	_	_	O	_
+38	después	annot3	O	_	_	_	_	_	_	O	_
+39	del	annot3	O	_	_	_	_	_	_	O	_
+40	gran	annot3	O	_	_	_	_	_	_	O	_
+41	susto	annot3	O	_	_	_	_	_	_	O	_
+42	,	annot3	O	_	_	_	_	_	_	O	_
+43	me	annot3	O	_	_	_	_	_	_	O	_
+44	repitieron	annot3	O	_	_	_	_	_	_	O	_
+45	las	annot3	O	_	_	_	_	_	_	O	_
+46	pruebas	annot3	O	_	_	_	_	_	_	O	_
+47	y	annot3	O	_	_	_	_	_	_	O	_
+48	me	annot3	O	_	_	_	_	_	_	O	_
+49	dicen	annot3	O	_	_	_	_	_	_	O	_
+50	que	annot3	O	_	_	_	_	_	_	O	_
+51	vuelvo	annot3	O	_	_	_	_	_	_	O	_
+52	a	annot3	O	_	_	_	_	_	_	O	_
+53	estar	annot3	O	_	_	_	_	_	_	O	_
+54	limpia	annot3	O	_	_	_	_	_	_	O	_
+55	,	annot3	O	_	_	_	_	_	_	O	_
+56	pero	annot3	O	_	_	_	_	_	_	O	_
+57	que	annot3	O	_	_	_	_	_	_	O	_
+58	igualmente	annot3	O	_	_	_	_	_	_	O	_
+59	me	annot3	O	_	_	_	_	_	_	O	_
+60	aconsejaban	annot3	O	_	_	_	_	_	_	O	_
+61	hacer	annot3	O	_	_	_	_	_	_	O	_
+62	una	annot3	O	_	_	_	_	_	_	O	_
+63	quimio	annot3	O	_	_	_	_	_	_	O	_
+64	preventiva	annot3	O	_	_	_	_	_	_	O	_
+65	de	annot3	O	_	_	_	_	_	_	O	_
+66	seis	annot3	O	_	_	_	_	_	_	O	_
+67	meses	annot3	O	_	_	_	_	_	_	O	_
+68	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 5
+# text = Como ya estaba muy asustada y deprimida y no confiaba en nadiepedí una segunda opinión, en la xxxx x'xxxxxn que fue el hospital que elejí me dijeron que no me serviria de nada ya que la quimio para el cancer de riñon no sirve, así que me propusieron hacer controles cada tres meses.\n\n
+1	Como	annot3	O	_	_	_	_	_	_	O	_
+2	ya	annot3	O	_	_	_	_	_	_	O	_
+3	estaba	annot3	O	_	_	_	_	_	_	O	_
+4	muy	annot3	O	_	_	_	_	_	_	O	_
+5	asustada	annot3	O	_	_	_	_	_	_	O	_
+6	y	annot3	O	_	_	_	_	_	_	O	_
+7	deprimida	annot3	O	_	_	_	_	_	_	O	_
+8	y	annot3	O	_	_	_	_	_	_	O	_
+9	no	annot3	O	_	_	_	_	_	_	O	_
+10	confiaba	annot3	O	_	_	_	_	_	_	O	_
+11	en	annot3	O	_	_	_	_	_	_	O	_
+12	nadiepedí	annot3	O	_	_	_	_	_	_	O	_
+13	una	annot3	O	_	_	_	_	_	_	O	_
+14	segunda	annot3	O	_	_	_	_	_	_	O	_
+15	opinión	annot3	O	_	_	_	_	_	_	O	_
+16	,	annot3	O	_	_	_	_	_	_	O	_
+17	en	annot3	O	_	_	_	_	_	_	O	_
+18	la	annot3	O	_	_	_	_	_	_	O	_
+19	xxxx	annot3	O	_	_	_	_	_	_	O	_
+20	x'xxxxxn	annot3	O	_	_	_	_	_	_	O	_
+21	que	annot3	O	_	_	_	_	_	_	O	_
+22	fue	annot3	O	_	_	_	_	_	_	O	_
+23	el	annot3	O	_	_	_	_	_	_	O	_
+24	hospital	annot3	O	_	_	_	_	_	_	O	_
+25	que	annot3	O	_	_	_	_	_	_	O	_
+26	elejí	annot3	O	_	_	_	_	_	_	O	_
+27	me	annot3	O	_	_	_	_	_	_	O	_
+28	dijeron	annot3	O	_	_	_	_	_	_	O	_
+29	que	annot3	O	_	_	_	_	_	_	O	_
+30	no	annot3	O	_	_	_	_	_	_	O	_
+31	me	annot3	O	_	_	_	_	_	_	O	_
+32	serviria	annot3	O	_	_	_	_	_	_	O	_
+33	de	annot3	O	_	_	_	_	_	_	O	_
+34	nada	annot3	O	_	_	_	_	_	_	O	_
+35	ya	annot3	O	_	_	_	_	_	_	O	_
+36	que	annot3	O	_	_	_	_	_	_	O	_
+37	la	annot3	O	_	_	_	_	_	_	O	_
+38	quimio	annot3	O	_	_	_	_	_	_	O	_
+39	para	annot3	O	_	_	_	_	_	_	O	_
+40	el	annot3	O	_	_	_	_	_	_	O	_
+41	cancer	annot3	O	_	_	_	_	_	_	O	_
+42	de	annot3	O	_	_	_	_	_	_	O	_
+43	riñon	annot3	O	_	_	_	_	_	_	O	_
+44	no	annot3	O	_	_	_	_	_	_	O	_
+45	sirve	annot3	O	_	_	_	_	_	_	O	_
+46	,	annot3	O	_	_	_	_	_	_	O	_
+47	así	annot3	O	_	_	_	_	_	_	O	_
+48	que	annot3	O	_	_	_	_	_	_	O	_
+49	me	annot3	O	_	_	_	_	_	_	O	_
+50	propusieron	annot3	O	_	_	_	_	_	_	O	_
+51	hacer	annot3	O	_	_	_	_	_	_	O	_
+52	controles	annot3	O	_	_	_	_	_	_	O	_
+53	cada	annot3	O	_	_	_	_	_	_	O	_
+54	tres	annot3	O	_	_	_	_	_	_	O	_
+55	meses	annot3	O	_	_	_	_	_	_	O	_
+56	.	annot3	O	_	_	_	_	_	_	O	_
+57	\n\n	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 6
+# text = El primer control era para el xx xx xxxxxxx, fuí muy esperanzada por que me encontraba muy bien, pero me dijeron que tenia dos implantes en el peritoneo de 8 y 12 mm, que me repetirían las pruebas, pero que me hiciera a la idea de que esto no tiene cura, no se puede operar y no hay quimio para esto, solo tratamientos experimentales que según dicen no pueden curarme, ya no me atrevo a preguntar si no me van a curar para que son?tengo xx xxxx, bueno muy prontito xx y tengo un hijo de xx, alguien me puede explicar como te preparas para algo que no tiene cura, estos días están siendo una tortura.\n\n
+1	El	annot3	O	_	_	_	_	_	_	O	_
+2	primer	annot3	O	_	_	_	_	_	_	O	_
+3	control	annot3	O	_	_	_	_	_	_	O	_
+4	era	annot3	O	_	_	_	_	_	_	O	_
+5	para	annot3	O	_	_	_	_	_	_	O	_
+6	el	annot3	O	_	_	_	_	_	_	O	_
+7	xx	annot3	O	_	_	_	_	_	_	O	_
+8	xx	annot3	O	_	_	_	_	_	_	O	_
+9	xxxxxxx	annot3	O	_	_	_	_	_	_	O	_
+10	,	annot3	O	_	_	_	_	_	_	O	_
+11	fuí	annot3	O	_	_	_	_	_	_	O	_
+12	muy	annot3	O	_	_	_	_	_	_	O	_
+13	esperanzada	annot3	O	_	_	_	_	_	_	O	_
+14	por	annot3	O	_	_	_	_	_	_	O	_
+15	que	annot3	O	_	_	_	_	_	_	O	_
+16	me	annot3	O	_	_	_	_	_	_	O	_
+17	encontraba	annot3	O	_	_	_	_	_	_	O	_
+18	muy	annot3	O	_	_	_	_	_	_	O	_
+19	bien	annot3	O	_	_	_	_	_	_	O	_
+20	,	annot3	O	_	_	_	_	_	_	O	_
+21	pero	annot3	O	_	_	_	_	_	_	O	_
+22	me	annot3	O	_	_	_	_	_	_	O	_
+23	dijeron	annot3	O	_	_	_	_	_	_	O	_
+24	que	annot3	O	_	_	_	_	_	_	O	_
+25	tenia	annot3	O	_	_	_	_	_	_	O	_
+26	dos	annot3	O	_	_	_	_	_	_	O	_
+27	implantes	annot3	O	_	_	_	_	_	_	O	_
+28	en	annot3	O	_	_	_	_	_	_	O	_
+29	el	annot3	O	_	_	_	_	_	_	O	_
+30	peritoneo	annot3	O	_	_	_	_	_	_	O	_
+31	de	annot3	O	_	_	_	_	_	_	O	_
+32	8	annot3	O	_	_	_	_	_	_	O	_
+33	y	annot3	O	_	_	_	_	_	_	O	_
+34	12	annot3	O	_	_	_	_	_	_	O	_
+35	mm	annot3	O	_	_	_	_	_	_	O	_
+36	,	annot3	O	_	_	_	_	_	_	O	_
+37	que	annot3	O	_	_	_	_	_	_	O	_
+38	me	annot3	O	_	_	_	_	_	_	O	_
+39	repetirían	annot3	O	_	_	_	_	_	_	O	_
+40	las	annot3	O	_	_	_	_	_	_	O	_
+41	pruebas	annot3	O	_	_	_	_	_	_	O	_
+42	,	annot3	O	_	_	_	_	_	_	O	_
+43	pero	annot3	O	_	_	_	_	_	_	O	_
+44	que	annot3	O	_	_	_	_	_	_	O	_
+45	me	annot3	O	_	_	_	_	_	_	O	_
+46	hiciera	annot3	O	_	_	_	_	_	_	O	_
+47	a	annot3	O	_	_	_	_	_	_	O	_
+48	la	annot3	O	_	_	_	_	_	_	O	_
+49	idea	annot3	O	_	_	_	_	_	_	O	_
+50	de	annot3	O	_	_	_	_	_	_	O	_
+51	que	annot3	O	_	_	_	_	_	_	O	_
+52	esto	annot3	O	_	_	_	_	_	_	O	_
+53	no	annot3	O	_	_	_	_	_	_	O	_
+54	tiene	annot3	O	_	_	_	_	_	_	O	_
+55	cura	annot3	O	_	_	_	_	_	_	O	_
+56	,	annot3	O	_	_	_	_	_	_	O	_
+57	no	annot3	O	_	_	_	_	_	_	O	_
+58	se	annot3	O	_	_	_	_	_	_	O	_
+59	puede	annot3	O	_	_	_	_	_	_	O	_
+60	operar	annot3	O	_	_	_	_	_	_	O	_
+61	y	annot3	O	_	_	_	_	_	_	O	_
+62	no	annot3	O	_	_	_	_	_	_	O	_
+63	hay	annot3	O	_	_	_	_	_	_	O	_
+64	quimio	annot3	O	_	_	_	_	_	_	O	_
+65	para	annot3	O	_	_	_	_	_	_	O	_
+66	esto	annot3	O	_	_	_	_	_	_	O	_
+67	,	annot3	O	_	_	_	_	_	_	O	_
+68	solo	annot3	O	_	_	_	_	_	_	O	_
+69	tratamientos	annot3	O	_	_	_	_	_	_	O	_
+70	experimentales	annot3	O	_	_	_	_	_	_	O	_
+71	que	annot3	O	_	_	_	_	_	_	O	_
+72	según	annot3	O	_	_	_	_	_	_	O	_
+73	dicen	annot3	O	_	_	_	_	_	_	O	_
+74	no	annot3	O	_	_	_	_	_	_	O	_
+75	pueden	annot3	O	_	_	_	_	_	_	O	_
+76	curarme	annot3	O	_	_	_	_	_	_	O	_
+77	,	annot3	O	_	_	_	_	_	_	O	_
+78	ya	annot3	O	_	_	_	_	_	_	O	_
+79	no	annot3	O	_	_	_	_	_	_	O	_
+80	me	annot3	O	_	_	_	_	_	_	O	_
+81	atrevo	annot3	O	_	_	_	_	_	_	O	_
+82	a	annot3	O	_	_	_	_	_	_	O	_
+83	preguntar	annot3	O	_	_	_	_	_	_	O	_
+84	si	annot3	O	_	_	_	_	_	_	O	_
+85	no	annot3	O	_	_	_	_	_	_	O	_
+86	me	annot3	O	_	_	_	_	_	_	O	_
+87	van	annot3	O	_	_	_	_	_	_	O	_
+88	a	annot3	O	_	_	_	_	_	_	O	_
+89	curar	annot3	O	_	_	_	_	_	_	O	_
+90	para	annot3	O	_	_	_	_	_	_	O	_
+91	que	annot3	O	_	_	_	_	_	_	O	_
+92	son?tengo	annot3	O	_	_	_	_	_	_	O	_
+93	xx	annot3	O	_	_	_	_	_	_	O	_
+94	xxxx	annot3	O	_	_	_	_	_	_	O	_
+95	,	annot3	O	_	_	_	_	_	_	O	_
+96	bueno	annot3	O	_	_	_	_	_	_	O	_
+97	muy	annot3	O	_	_	_	_	_	_	O	_
+98	prontito	annot3	O	_	_	_	_	_	_	O	_
+99	xx	annot3	O	_	_	_	_	_	_	O	_
+100	y	annot3	O	_	_	_	_	_	_	O	_
+101	tengo	annot3	O	_	_	_	_	_	_	O	_
+102	un	annot3	O	_	_	_	_	_	_	O	_
+103	hijo	annot3	O	_	_	_	_	_	_	O	_
+104	de	annot3	O	_	_	_	_	_	_	O	_
+105	xx	annot3	O	_	_	_	_	_	_	O	_
+106	,	annot3	O	_	_	_	_	_	_	O	_
+107	alguien	annot3	O	_	_	_	_	_	_	O	_
+108	me	annot3	O	_	_	_	_	_	_	O	_
+109	puede	annot3	O	_	_	_	_	_	_	O	_
+110	explicar	annot3	O	_	_	_	_	_	_	O	_
+111	como	annot3	O	_	_	_	_	_	_	O	_
+112	te	annot3	O	_	_	_	_	_	_	O	_
+113	preparas	annot3	O	_	_	_	_	_	_	O	_
+114	para	annot3	O	_	_	_	_	_	_	O	_
+115	algo	annot3	O	_	_	_	_	_	_	O	_
+116	que	annot3	O	_	_	_	_	_	_	O	_
+117	no	annot3	O	_	_	_	_	_	_	O	_
+118	tiene	annot3	O	_	_	_	_	_	_	O	_
+119	cura	annot3	O	_	_	_	_	_	_	O	_
+120	,	annot3	O	_	_	_	_	_	_	O	_
+121	estos	annot3	O	_	_	_	_	_	_	O	_
+122	días	annot3	O	_	_	_	_	_	_	O	_
+123	están	annot3	O	_	_	_	_	_	_	O	_
+124	siendo	annot3	O	_	_	_	_	_	_	O	_
+125	una	annot3	O	_	_	_	_	_	_	O	_
+126	tortura	annot3	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/tortura-14333433-n	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/torturar-01802689-v	_	Emociones » Otros	_	O	_
+127	.	annot3	O	_	_	_	_	_	_	O	_
+128	\n\n	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 7
+# text = El próximo xxx xx me dan los resultados, y estoy aterrada, busco igual que todos algún testimonio que me de esperanza.\n\n
+1	El	annot3	O	_	_	_	_	_	_	O	_
+2	próximo	annot3	O	_	_	_	_	_	_	O	_
+3	xxx	annot3	O	_	_	_	_	_	_	O	_
+4	xx	annot3	O	_	_	_	_	_	_	O	_
+5	me	annot3	O	_	_	_	_	_	_	O	_
+6	dan	annot3	O	_	_	_	_	_	_	O	_
+7	los	annot3	O	_	_	_	_	_	_	O	_
+8	resultados	annot3	O	_	_	_	_	_	_	O	_
+9	,	annot3	O	_	_	_	_	_	_	O	_
+10	y	annot3	O	_	_	_	_	_	_	O	_
+11	estoy	annot3	O	_	_	_	_	_	_	O	_
+12	aterrada	annot3	O	_	_	_	_	_	_	O	_
+13	,	annot3	O	_	_	_	_	_	_	O	_
+14	busco	annot3	O	_	_	_	_	_	_	O	_
+15	igual	annot3	O	_	_	_	_	_	_	O	_
+16	que	annot3	O	_	_	_	_	_	_	O	_
+17	todos	annot3	O	_	_	_	_	_	_	O	_
+18	algún	annot3	O	_	_	_	_	_	_	O	_
+19	testimonio	annot3	O	_	_	_	_	_	_	O	_
+20	que	annot3	O	_	_	_	_	_	_	O	_
+21	me	annot3	O	_	_	_	_	_	_	O	_
+22	de	annot3	O	_	_	_	_	_	_	O	_
+23	esperanza	annot3	O	_	_	_	_	_	_	O	_
+24	.	annot3	O	_	_	_	_	_	_	O	_
+25	\n\n	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 8
+# text = Comentarios:\n\n[Autor 26]: Hola xxxx, además del apoyo de todos los miembros de esta comunidad, te podemos ofrecer ayuda psicológica totalmente gratuita, llámanos al xxx xxx xxx, ya verás cómo te vas a sentir mejor.
+1	Comentarios	annot3	O	_	_	_	_	_	_	O	_
+2	:	annot3	O	_	_	_	_	_	_	O	_
+3	\n\n	annot3	O	_	_	_	_	_	_	O	_
+4	[	annot3	O	_	_	_	_	_	_	O	_
+5	Autor	annot3	O	_	_	_	_	_	_	O	_
+6	26	annot3	O	_	_	_	_	_	_	O	_
+7	]	annot3	O	_	_	_	_	_	_	O	_
+8	:	annot3	O	_	_	_	_	_	_	O	_
+9	Hola	annot3	O	_	_	_	_	_	_	O	_
+10	xxxx	annot3	O	_	_	_	_	_	_	O	_
+11	,	annot3	O	_	_	_	_	_	_	O	_
+12	además	annot3	O	_	_	_	_	_	_	O	_
+13	del	annot3	O	_	_	_	_	_	_	O	_
+14	apoyo	annot3	O	_	_	_	_	_	_	O	_
+15	de	annot3	O	_	_	_	_	_	_	O	_
+16	todos	annot3	O	_	_	_	_	_	_	O	_
+17	los	annot3	O	_	_	_	_	_	_	O	_
+18	miembros	annot3	O	_	_	_	_	_	_	O	_
+19	de	annot3	O	_	_	_	_	_	_	O	_
+20	esta	annot3	O	_	_	_	_	_	_	O	_
+21	comunidad	annot3	O	_	_	_	_	_	_	O	_
+22	,	annot3	O	_	_	_	_	_	_	O	_
+23	te	annot3	O	_	_	_	_	_	_	O	_
+24	podemos	annot3	O	_	_	_	_	_	_	O	_
+25	ofrecer	annot3	O	_	_	_	_	_	_	O	_
+26	ayuda	annot3	O	_	_	_	_	_	_	O	_
+27	psicológica	annot3	O	_	_	_	_	_	_	O	_
+28	totalmente	annot3	O	_	_	_	_	_	_	O	_
+29	gratuita	annot3	O	_	_	_	_	_	_	O	_
+30	,	annot3	O	_	_	_	_	_	_	O	_
+31	llámanos	annot3	O	_	_	_	_	_	_	O	_
+32	al	annot3	O	_	_	_	_	_	_	O	_
+33	xxx	annot3	O	_	_	_	_	_	_	O	_
+34	xxx	annot3	O	_	_	_	_	_	_	O	_
+35	xxx	annot3	O	_	_	_	_	_	_	O	_
+36	,	annot3	O	_	_	_	_	_	_	O	_
+37	ya	annot3	O	_	_	_	_	_	_	O	_
+38	verás	annot3	O	_	_	_	_	_	_	O	_
+39	cómo	annot3	O	_	_	_	_	_	_	O	_
+40	te	annot3	O	_	_	_	_	_	_	O	_
+41	vas	annot3	O	_	_	_	_	_	_	O	_
+42	a	annot3	O	_	_	_	_	_	_	O	_
+43	sentir	annot3	O	_	_	_	_	_	_	O	_
+44	mejor	annot3	O	_	_	_	_	_	_	O	_
+45	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 9
+# text = Un abrazo\n\n[Autor 25]: Hola xxxxxx\n\nTienes que estar súper agobiada .de
+1	Un	annot3	O	_	_	_	_	_	_	O	_
+2	abrazo	annot3	O	_	_	_	_	_	_	O	_
+3	\n\n	annot3	O	_	_	_	_	_	_	O	_
+4	[	annot3	O	_	_	_	_	_	_	O	_
+5	Autor	annot3	O	_	_	_	_	_	_	O	_
+6	25	annot3	O	_	_	_	_	_	_	O	_
+7	]	annot3	O	_	_	_	_	_	_	O	_
+8	:	annot3	O	_	_	_	_	_	_	O	_
+9	Hola	annot3	O	_	_	_	_	_	_	O	_
+10	xxxxxx	annot3	O	_	_	_	_	_	_	O	_
+11	\n\n	annot3	O	_	_	_	_	_	_	O	_
+12	Tienes	annot3	O	_	_	_	_	_	_	O	_
+13	que	annot3	O	_	_	_	_	_	_	O	_
+14	estar	annot3	O	_	_	_	_	_	_	O	_
+15	súper	annot3	O	_	_	_	_	_	_	O	_
+16	agobiada	annot3	O	_	_	_	_	_	_	O	_
+17	.de	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 10
+# text = el tema no se mucho la verdad .pero
+1	el	annot3	O	_	_	_	_	_	_	O	_
+2	tema	annot3	O	_	_	_	_	_	_	O	_
+3	no	annot3	O	_	_	_	_	_	_	O	_
+4	se	annot3	O	_	_	_	_	_	_	O	_
+5	mucho	annot3	O	_	_	_	_	_	_	O	_
+6	la	annot3	O	_	_	_	_	_	_	O	_
+7	verdad	annot3	O	_	_	_	_	_	_	O	_
+8	.pero	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 11
+# text = si mi testimonio te puede ayudar .te cuento\n\nA nuestro hijo hace 5 años le diagnosticaron una enfermedad degenerativa sin cura\n\nCuando escuchamos eso casi nos morimos tanto mi marido como yo .le mandaron un tratamiento .que lo que hace es que eso se cronifique .y mira ya han pasado 5 años y esta como si nada .tu tratamiento seguro que es para hacer que se quede dormido y ya está\n\nTe deseo lo.mejor\n\n
+1	si	annot3	O	_	_	_	_	_	_	O	_
+2	mi	annot3	O	_	_	_	_	_	_	O	_
+3	testimonio	annot3	O	_	_	_	_	_	_	O	_
+4	te	annot3	O	_	_	_	_	_	_	O	_
+5	puede	annot3	O	_	_	_	_	_	_	O	_
+6	ayudar	annot3	O	_	_	_	_	_	_	O	_
+7	.te	annot3	O	_	_	_	_	_	_	O	_
+8	cuento	annot3	O	_	_	_	_	_	_	O	_
+9	\n\n	annot3	O	_	_	_	_	_	_	O	_
+10	A	annot3	O	_	_	_	_	_	_	O	_
+11	nuestro	annot3	O	_	_	_	_	_	_	O	_
+12	hijo	annot3	O	_	_	_	_	_	_	O	_
+13	hace	annot3	O	_	_	_	_	_	_	O	_
+14	5	annot3	O	_	_	_	_	_	_	O	_
+15	años	annot3	O	_	_	_	_	_	_	O	_
+16	le	annot3	O	_	_	_	_	_	_	O	_
+17	diagnosticaron	annot3	O	_	_	_	_	_	_	O	_
+18	una	annot3	O	_	_	_	_	_	_	O	_
+19	enfermedad	annot3	O	_	_	_	_	_	_	O	_
+20	degenerativa	annot3	O	_	_	_	_	_	_	O	_
+21	sin	annot3	O	_	_	_	_	_	_	O	_
+22	cura	annot3	O	_	_	_	_	_	_	O	_
+23	\n\n	annot3	O	_	_	_	_	_	_	O	_
+24	Cuando	annot3	O	_	_	_	_	_	_	O	_
+25	escuchamos	annot3	O	_	_	_	_	_	_	O	_
+26	eso	annot3	O	_	_	_	_	_	_	O	_
+27	casi	annot3	O	_	_	_	_	_	_	O	_
+28	nos	annot3	O	_	_	_	_	_	_	O	_
+29	morimos	annot3	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/morir-00354845-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/morir-00224295-v	_	Emociones » Otros	_	O	_
+30	tanto	annot3	O	_	_	_	_	_	_	O	_
+31	mi	annot3	O	_	_	_	_	_	_	O	_
+32	marido	annot3	O	_	_	_	_	_	_	O	_
+33	como	annot3	O	_	_	_	_	_	_	O	_
+34	yo	annot3	O	_	_	_	_	_	_	O	_
+35	.le	annot3	O	_	_	_	_	_	_	O	_
+36	mandaron	annot3	O	_	_	_	_	_	_	O	_
+37	un	annot3	O	_	_	_	_	_	_	O	_
+38	tratamiento	annot3	O	_	_	_	_	_	_	O	_
+39	.que	annot3	O	_	_	_	_	_	_	O	_
+40	lo	annot3	O	_	_	_	_	_	_	O	_
+41	que	annot3	O	_	_	_	_	_	_	O	_
+42	hace	annot3	O	_	_	_	_	_	_	O	_
+43	es	annot3	O	_	_	_	_	_	_	O	_
+44	que	annot3	O	_	_	_	_	_	_	O	_
+45	eso	annot3	O	_	_	_	_	_	_	O	_
+46	se	annot3	O	_	_	_	_	_	_	O	_
+47	cronifique	annot3	O	_	_	_	_	_	_	O	_
+48	.y	annot3	O	_	_	_	_	_	_	O	_
+49	mira	annot3	O	_	_	_	_	_	_	O	_
+50	ya	annot3	O	_	_	_	_	_	_	O	_
+51	han	annot3	O	_	_	_	_	_	_	O	_
+52	pasado	annot3	O	_	_	_	_	_	_	O	_
+53	5	annot3	O	_	_	_	_	_	_	O	_
+54	años	annot3	O	_	_	_	_	_	_	O	_
+55	y	annot3	O	_	_	_	_	_	_	O	_
+56	esta	annot3	O	_	_	_	_	_	_	O	_
+57	como	annot3	O	_	_	_	_	_	_	O	_
+58	si	annot3	O	_	_	_	_	_	_	O	_
+59	nada	annot3	O	_	_	_	_	_	_	O	_
+60	.tu	annot3	O	_	_	_	_	_	_	O	_
+61	tratamiento	annot3	O	_	_	_	_	_	_	O	_
+62	seguro	annot3	O	_	_	_	_	_	_	O	_
+63	que	annot3	O	_	_	_	_	_	_	O	_
+64	es	annot3	O	_	_	_	_	_	_	O	_
+65	para	annot3	O	_	_	_	_	_	_	O	_
+66	hacer	annot3	O	_	_	_	_	_	_	O	_
+67	que	annot3	O	_	_	_	_	_	_	O	_
+68	se	annot3	O	_	_	_	_	_	_	O	_
+69	quede	annot3	O	_	_	_	_	_	_	O	_
+70	dormido	annot3	O	_	_	_	_	_	_	O	_
+71	y	annot3	O	_	_	_	_	_	_	O	_
+72	ya	annot3	O	_	_	_	_	_	_	O	_
+73	está	annot3	O	_	_	_	_	_	_	O	_
+74	\n\n	annot3	O	_	_	_	_	_	_	O	_
+75	Te	annot3	O	_	_	_	_	_	_	O	_
+76	deseo	annot3	O	_	_	_	_	_	_	O	_
+77	lo.mejor	annot3	O	_	_	_	_	_	_	O	_
+78	\n\n	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 12
+# text = [Autor 18]: Hola! Agobiada es poco, muchas gracias por los ánimos, espero que tú hijo siga así de bien por siempre.
+1	[	annot3	O	_	_	_	_	_	_	O	_
+2	Autor	annot3	O	_	_	_	_	_	_	O	_
+3	18	annot3	O	_	_	_	_	_	_	O	_
+4	]	annot3	O	_	_	_	_	_	_	O	_
+5	:	annot3	O	_	_	_	_	_	_	O	_
+6	Hola	annot3	O	_	_	_	_	_	_	O	_
+7	!	annot3	O	_	_	_	_	_	_	O	_
+8	Agobiada	annot3	O	_	_	_	_	_	_	O	_
+9	es	annot3	O	_	_	_	_	_	_	O	_
+10	poco	annot3	O	_	_	_	_	_	_	O	_
+11	,	annot3	O	_	_	_	_	_	_	O	_
+12	muchas	annot3	O	_	_	_	_	_	_	O	_
+13	gracias	annot3	O	_	_	_	_	_	_	O	_
+14	por	annot3	O	_	_	_	_	_	_	O	_
+15	los	annot3	O	_	_	_	_	_	_	O	_
+16	ánimos	annot3	O	_	_	_	_	_	_	O	_
+17	,	annot3	O	_	_	_	_	_	_	O	_
+18	espero	annot3	O	_	_	_	_	_	_	O	_
+19	que	annot3	O	_	_	_	_	_	_	O	_
+20	tú	annot3	O	_	_	_	_	_	_	O	_
+21	hijo	annot3	O	_	_	_	_	_	_	O	_
+22	siga	annot3	O	_	_	_	_	_	_	O	_
+23	así	annot3	O	_	_	_	_	_	_	O	_
+24	de	annot3	O	_	_	_	_	_	_	O	_
+25	bien	annot3	O	_	_	_	_	_	_	O	_
+26	por	annot3	O	_	_	_	_	_	_	O	_
+27	siempre	annot3	O	_	_	_	_	_	_	O	_
+28	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 13
+# text = Besos\n\n[Autor 18]: Hola a todos! Me han repetido las pruebas y los nodulosno han crecido ni un mm en un mes y diez dias , según me dicen ahora ya no estan tan seguros de que sea lo que pensaban (me dijeron que no tenía cura) y me dan una nueva revision para dentro de tres meses, lo que me parece a mi que es muy buena señal!!
+1	Besos	annot3	O	_	_	_	_	_	_	O	_
+2	\n\n	annot3	O	_	_	_	_	_	_	O	_
+3	[	annot3	O	_	_	_	_	_	_	O	_
+4	Autor	annot3	O	_	_	_	_	_	_	O	_
+5	18	annot3	O	_	_	_	_	_	_	O	_
+6	]	annot3	O	_	_	_	_	_	_	O	_
+7	:	annot3	O	_	_	_	_	_	_	O	_
+8	Hola	annot3	O	_	_	_	_	_	_	O	_
+9	a	annot3	O	_	_	_	_	_	_	O	_
+10	todos	annot3	O	_	_	_	_	_	_	O	_
+11	!	annot3	O	_	_	_	_	_	_	O	_
+12	Me	annot3	O	_	_	_	_	_	_	O	_
+13	han	annot3	O	_	_	_	_	_	_	O	_
+14	repetido	annot3	O	_	_	_	_	_	_	O	_
+15	las	annot3	O	_	_	_	_	_	_	O	_
+16	pruebas	annot3	O	_	_	_	_	_	_	O	_
+17	y	annot3	O	_	_	_	_	_	_	O	_
+18	los	annot3	O	_	_	_	_	_	_	O	_
+19	nodulosno	annot3	O	_	_	_	_	_	_	O	_
+20	han	annot3	O	_	_	_	_	_	_	O	_
+21	crecido	annot3	O	_	_	_	_	_	_	O	_
+22	ni	annot3	O	_	_	_	_	_	_	O	_
+23	un	annot3	O	_	_	_	_	_	_	O	_
+24	mm	annot3	O	_	_	_	_	_	_	O	_
+25	en	annot3	O	_	_	_	_	_	_	O	_
+26	un	annot3	O	_	_	_	_	_	_	O	_
+27	mes	annot3	O	_	_	_	_	_	_	O	_
+28	y	annot3	O	_	_	_	_	_	_	O	_
+29	diez	annot3	O	_	_	_	_	_	_	O	_
+30	dias	annot3	O	_	_	_	_	_	_	O	_
+31	,	annot3	O	_	_	_	_	_	_	O	_
+32	según	annot3	O	_	_	_	_	_	_	O	_
+33	me	annot3	O	_	_	_	_	_	_	O	_
+34	dicen	annot3	O	_	_	_	_	_	_	O	_
+35	ahora	annot3	O	_	_	_	_	_	_	O	_
+36	ya	annot3	O	_	_	_	_	_	_	O	_
+37	no	annot3	O	_	_	_	_	_	_	O	_
+38	estan	annot3	O	_	_	_	_	_	_	O	_
+39	tan	annot3	O	_	_	_	_	_	_	O	_
+40	seguros	annot3	O	_	_	_	_	_	_	O	_
+41	de	annot3	O	_	_	_	_	_	_	O	_
+42	que	annot3	O	_	_	_	_	_	_	O	_
+43	sea	annot3	O	_	_	_	_	_	_	O	_
+44	lo	annot3	O	_	_	_	_	_	_	O	_
+45	que	annot3	O	_	_	_	_	_	_	O	_
+46	pensaban	annot3	O	_	_	_	_	_	_	O	_
+47	(	annot3	O	_	_	_	_	_	_	O	_
+48	me	annot3	O	_	_	_	_	_	_	O	_
+49	dijeron	annot3	O	_	_	_	_	_	_	O	_
+50	que	annot3	O	_	_	_	_	_	_	O	_
+51	no	annot3	O	_	_	_	_	_	_	O	_
+52	tenía	annot3	O	_	_	_	_	_	_	O	_
+53	cura	annot3	O	_	_	_	_	_	_	O	_
+54	)	annot3	O	_	_	_	_	_	_	O	_
+55	y	annot3	O	_	_	_	_	_	_	O	_
+56	me	annot3	O	_	_	_	_	_	_	O	_
+57	dan	annot3	O	_	_	_	_	_	_	O	_
+58	una	annot3	O	_	_	_	_	_	_	O	_
+59	nueva	annot3	O	_	_	_	_	_	_	O	_
+60	revision	annot3	O	_	_	_	_	_	_	O	_
+61	para	annot3	O	_	_	_	_	_	_	O	_
+62	dentro	annot3	O	_	_	_	_	_	_	O	_
+63	de	annot3	O	_	_	_	_	_	_	O	_
+64	tres	annot3	O	_	_	_	_	_	_	O	_
+65	meses	annot3	O	_	_	_	_	_	_	O	_
+66	,	annot3	O	_	_	_	_	_	_	O	_
+67	lo	annot3	O	_	_	_	_	_	_	O	_
+68	que	annot3	O	_	_	_	_	_	_	O	_
+69	me	annot3	O	_	_	_	_	_	_	O	_
+70	parece	annot3	O	_	_	_	_	_	_	O	_
+71	a	annot3	O	_	_	_	_	_	_	O	_
+72	mi	annot3	O	_	_	_	_	_	_	O	_
+73	que	annot3	O	_	_	_	_	_	_	O	_
+74	es	annot3	O	_	_	_	_	_	_	O	_
+75	muy	annot3	O	_	_	_	_	_	_	O	_
+76	buena	annot3	O	_	_	_	_	_	_	O	_
+77	señal	annot3	O	_	_	_	_	_	_	O	_
+78	!	annot3	O	_	_	_	_	_	_	O	_
+79	!	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 14
+# text = !
+1	!	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 15
+# text = Lo comparto para que si alguien está en la situación en la que yo estaba hace un mes, que no pierda la confianza y los ánimos!!!\n\n
+1	Lo	annot3	B	_	_	_	_	_	_	O	_
+2	comparto	annot3	I	_	_	_	_	_	_	O	_
+3	para	annot3	O	_	_	_	_	_	_	O	_
+4	que	annot3	O	_	_	_	_	_	_	O	_
+5	si	annot3	O	_	_	_	_	_	_	O	_
+6	alguien	annot3	O	_	_	_	_	_	_	O	_
+7	está	annot3	O	_	_	_	_	_	_	O	_
+8	en	annot3	O	_	_	_	_	_	_	O	_
+9	la	annot3	O	_	_	_	_	_	_	O	_
+10	situación	annot3	O	_	_	_	_	_	_	O	_
+11	en	annot3	O	_	_	_	_	_	_	O	_
+12	la	annot3	O	_	_	_	_	_	_	O	_
+13	que	annot3	O	_	_	_	_	_	_	O	_
+14	yo	annot3	O	_	_	_	_	_	_	O	_
+15	estaba	annot3	O	_	_	_	_	_	_	O	_
+16	hace	annot3	O	_	_	_	_	_	_	O	_
+17	un	annot3	O	_	_	_	_	_	_	O	_
+18	mes	annot3	O	_	_	_	_	_	_	O	_
+19	,	annot3	O	_	_	_	_	_	_	O	_
+20	que	annot3	O	_	_	_	_	_	_	O	_
+21	no	annot3	O	_	_	_	_	_	_	O	_
+22	pierda	annot3	O	_	_	_	_	_	_	O	_
+23	la	annot3	O	_	_	_	_	_	_	O	_
+24	confianza	annot3	O	_	_	_	_	_	_	O	_
+25	y	annot3	O	_	_	_	_	_	_	O	_
+26	los	annot3	O	_	_	_	_	_	_	O	_
+27	ánimos	annot3	O	_	_	_	_	_	_	O	_
+28	!	annot3	O	_	_	_	_	_	_	O	_
+29	!	annot3	O	_	_	_	_	_	_	O	_
+30	!	annot3	O	_	_	_	_	_	_	O	_
+31	\n\n	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 16
+# text = [Autor 18]: Hola a todos, ya contacté con una psicooncologa, gracias.
+1	[	annot3	O	_	_	_	_	_	_	O	_
+2	Autor	annot3	O	_	_	_	_	_	_	O	_
+3	18	annot3	O	_	_	_	_	_	_	O	_
+4	]	annot3	O	_	_	_	_	_	_	O	_
+5	:	annot3	O	_	_	_	_	_	_	O	_
+6	Hola	annot3	O	_	_	_	_	_	_	O	_
+7	a	annot3	O	_	_	_	_	_	_	O	_
+8	todos	annot3	O	_	_	_	_	_	_	O	_
+9	,	annot3	O	_	_	_	_	_	_	O	_
+10	ya	annot3	O	_	_	_	_	_	_	O	_
+11	contacté	annot3	O	_	_	_	_	_	_	O	_
+12	con	annot3	O	_	_	_	_	_	_	O	_
+13	una	annot3	O	_	_	_	_	_	_	O	_
+14	psicooncologa	annot3	O	_	_	_	_	_	_	O	_
+15	,	annot3	O	_	_	_	_	_	_	O	_
+16	gracias	annot3	O	_	_	_	_	_	_	O	_
+17	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 17
+# text = Ahora las cosas se han complicado y además de los nódulos en el peritoneo tengo una metastasis tambien en el pancreas.
+1	Ahora	annot3	O	_	_	_	_	_	_	O	_
+2	las	annot3	O	_	_	_	_	_	_	O	_
+3	cosas	annot3	O	_	_	_	_	_	_	O	_
+4	se	annot3	O	_	_	_	_	_	_	O	_
+5	han	annot3	O	_	_	_	_	_	_	O	_
+6	complicado	annot3	O	_	_	_	_	_	_	O	_
+7	y	annot3	O	_	_	_	_	_	_	O	_
+8	además	annot3	O	_	_	_	_	_	_	O	_
+9	de	annot3	O	_	_	_	_	_	_	O	_
+10	los	annot3	O	_	_	_	_	_	_	O	_
+11	nódulos	annot3	O	_	_	_	_	_	_	O	_
+12	en	annot3	O	_	_	_	_	_	_	O	_
+13	el	annot3	O	_	_	_	_	_	_	O	_
+14	peritoneo	annot3	O	_	_	_	_	_	_	O	_
+15	tengo	annot3	O	_	_	_	_	_	_	O	_
+16	una	annot3	O	_	_	_	_	_	_	O	_
+17	metastasis	annot3	O	_	_	_	_	_	_	O	_
+18	tambien	annot3	O	_	_	_	_	_	_	O	_
+19	en	annot3	O	_	_	_	_	_	_	O	_
+20	el	annot3	O	_	_	_	_	_	_	O	_
+21	pancreas	annot3	O	_	_	_	_	_	_	O	_
+22	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 18
+# text = Aunque de momento no me ponen en tratamiento, porque se ve que evoluciona muy lento.
+1	Aunque	annot3	O	_	_	_	_	_	_	O	_
+2	de	annot3	O	_	_	_	_	_	_	O	_
+3	momento	annot3	O	_	_	_	_	_	_	O	_
+4	no	annot3	O	_	_	_	_	_	_	O	_
+5	me	annot3	O	_	_	_	_	_	_	O	_
+6	ponen	annot3	O	_	_	_	_	_	_	O	_
+7	en	annot3	O	_	_	_	_	_	_	O	_
+8	tratamiento	annot3	O	_	_	_	_	_	_	O	_
+9	,	annot3	O	_	_	_	_	_	_	O	_
+10	porque	annot3	O	_	_	_	_	_	_	O	_
+11	se	annot3	O	_	_	_	_	_	_	O	_
+12	ve	annot3	O	_	_	_	_	_	_	O	_
+13	que	annot3	O	_	_	_	_	_	_	O	_
+14	evoluciona	annot3	B	_	_	_	_	_	_	O	_
+15	muy	annot3	O	_	_	_	_	_	_	O	_
+16	lento	annot3	O	_	_	_	_	_	_	O	_
+17	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 19
+# text = Sigo buscando a alguien que esté en mi misma situación o parecida.
+1	Sigo	annot3	B	_	_	_	_	_	_	O	_
+2	buscando	annot3	O	_	_	_	_	_	_	O	_
+3	a	annot3	O	_	_	_	_	_	_	O	_
+4	alguien	annot3	O	_	_	_	_	_	_	O	_
+5	que	annot3	O	_	_	_	_	_	_	O	_
+6	esté	annot3	O	_	_	_	_	_	_	O	_
+7	en	annot3	O	_	_	_	_	_	_	O	_
+8	mi	annot3	O	_	_	_	_	_	_	O	_
+9	misma	annot3	O	_	_	_	_	_	_	O	_
+10	situación	annot3	O	_	_	_	_	_	_	O	_
+11	o	annot3	O	_	_	_	_	_	_	O	_
+12	parecida	annot3	O	_	_	_	_	_	_	O	_
+13	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 20
+# text = Gracias a todos y mucha salud.\n\n
+1	Gracias	annot3	O	_	_	_	_	_	_	O	_
+2	a	annot3	O	_	_	_	_	_	_	O	_
+3	todos	annot3	O	_	_	_	_	_	_	O	_
+4	y	annot3	O	_	_	_	_	_	_	O	_
+5	mucha	annot3	O	_	_	_	_	_	_	O	_
+6	salud	annot3	O	_	_	_	_	_	_	O	_
+7	.	annot3	O	_	_	_	_	_	_	O	_
+8	\n\n	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 21
+# text = [Autor 24]: xxxx, qué tal estás?
+1	[	annot3	O	_	_	_	_	_	_	O	_
+2	Autor	annot3	O	_	_	_	_	_	_	O	_
+3	24	annot3	O	_	_	_	_	_	_	O	_
+4	]	annot3	O	_	_	_	_	_	_	O	_
+5	:	annot3	O	_	_	_	_	_	_	O	_
+6	xxxx	annot3	O	_	_	_	_	_	_	O	_
+7	,	annot3	O	_	_	_	_	_	_	O	_
+8	qué	annot3	O	_	_	_	_	_	_	O	_
+9	tal	annot3	O	_	_	_	_	_	_	O	_
+10	estás	annot3	O	_	_	_	_	_	_	O	_
+11	?	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 22
+# text = Te sigo, y siento que lo estás haciendo muy bien.
+1	Te	annot3	O	_	_	_	_	_	_	O	_
+2	sigo	annot3	B	_	_	_	_	_	_	O	_
+3	,	annot3	O	_	_	_	_	_	_	O	_
+4	y	annot3	O	_	_	_	_	_	_	O	_
+5	siento	annot3	O	_	_	_	_	_	_	O	_
+6	que	annot3	O	_	_	_	_	_	_	O	_
+7	lo	annot3	O	_	_	_	_	_	_	O	_
+8	estás	annot3	O	_	_	_	_	_	_	O	_
+9	haciendo	annot3	O	_	_	_	_	_	_	O	_
+10	muy	annot3	O	_	_	_	_	_	_	O	_
+11	bien	annot3	O	_	_	_	_	_	_	O	_
+12	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 23
+# text = Siempre das palabras de ánimo a la gente que lo necesita y buscas desahogarte de alguna manera u otra.
+1	Siempre	annot3	O	_	_	_	_	_	_	O	_
+2	das	annot3	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/dar-01060746-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/dar-00108604-v	_	Emociones	_	O	_
+3	palabras	annot3	O	_	_	_	_	_	_	O	_
+4	de	annot3	O	_	_	_	_	_	_	O	_
+5	ánimo	annot3	O	_	_	_	_	_	_	O	_
+6	a	annot3	O	_	_	_	_	_	_	O	_
+7	la	annot3	O	_	_	_	_	_	_	O	_
+8	gente	annot3	O	_	_	_	_	_	_	O	_
+9	que	annot3	O	_	_	_	_	_	_	O	_
+10	lo	annot3	O	_	_	_	_	_	_	O	_
+11	necesita	annot3	O	_	_	_	_	_	_	O	_
+12	y	annot3	O	_	_	_	_	_	_	O	_
+13	buscas	annot3	O	_	_	_	_	_	_	O	_
+14	desahogarte	annot3	O	_	_	_	_	_	_	O	_
+15	de	annot3	O	_	_	_	_	_	_	O	_
+16	alguna	annot3	O	_	_	_	_	_	_	O	_
+17	manera	annot3	O	_	_	_	_	_	_	O	_
+18	u	annot3	O	_	_	_	_	_	_	O	_
+19	otra	annot3	O	_	_	_	_	_	_	O	_
+20	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 24
+# text = Ese es el camino, dar amor, y buscar ayuda.
+1	Ese	annot3	O	_	_	_	_	_	_	O	_
+2	es	annot3	O	_	_	_	_	_	_	O	_
+3	el	annot3	O	_	_	_	_	_	_	O	_
+4	camino	annot3	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/camino-00312691-n	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/camino-00172710-n	_	_	_	O	_
+5	,	annot3	O	_	_	_	_	_	_	O	_
+6	dar	annot3	O	_	_	_	_	_	_	O	_
+7	amor	annot3	O	_	_	_	_	_	_	O	_
+8	,	annot3	O	_	_	_	_	_	_	O	_
+9	y	annot3	O	_	_	_	_	_	_	O	_
+10	buscar	annot3	O	_	_	_	_	_	_	O	_
+11	ayuda	annot3	O	_	_	_	_	_	_	O	_
+12	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 25
+# text = Así que aquí me tienes, o en mi web%%URL%%\n\nUn Abrazo, xxxx, y todas mis fuerzas para que disfrutes de cada día\n\n[Autor 18]: Hola guapa, espero que estes mejor, se que has tenido que pasar por un proceso muy duro, y me alegra ver que lo has enfocado en ayudar a los demás.
+1	Así	annot3	O	_	_	_	_	_	_	O	_
+2	que	annot3	O	_	_	_	_	_	_	O	_
+3	aquí	annot3	O	_	_	_	_	_	_	O	_
+4	me	annot3	O	_	_	_	_	_	_	O	_
+5	tienes	annot3	O	_	_	_	_	_	_	O	_
+6	,	annot3	O	_	_	_	_	_	_	O	_
+7	o	annot3	O	_	_	_	_	_	_	O	_
+8	en	annot3	O	_	_	_	_	_	_	O	_
+9	mi	annot3	O	_	_	_	_	_	_	O	_
+10	web%%URL%%	annot3	O	_	_	_	_	_	_	O	_
+11	\n\n	annot3	O	_	_	_	_	_	_	O	_
+12	Un	annot3	O	_	_	_	_	_	_	O	_
+13	Abrazo	annot3	O	_	_	_	_	_	_	O	_
+14	,	annot3	O	_	_	_	_	_	_	O	_
+15	xxxx	annot3	O	_	_	_	_	_	_	O	_
+16	,	annot3	O	_	_	_	_	_	_	O	_
+17	y	annot3	O	_	_	_	_	_	_	O	_
+18	todas	annot3	O	_	_	_	_	_	_	O	_
+19	mis	annot3	O	_	_	_	_	_	_	O	_
+20	fuerzas	annot3	O	_	_	_	_	_	_	O	_
+21	para	annot3	O	_	_	_	_	_	_	O	_
+22	que	annot3	O	_	_	_	_	_	_	O	_
+23	disfrutes	annot3	O	_	_	_	_	_	_	O	_
+24	de	annot3	O	_	_	_	_	_	_	O	_
+25	cada	annot3	O	_	_	_	_	_	_	O	_
+26	día	annot3	O	_	_	_	_	_	_	O	_
+27	\n\n	annot3	O	_	_	_	_	_	_	O	_
+28	[	annot3	O	_	_	_	_	_	_	O	_
+29	Autor	annot3	O	_	_	_	_	_	_	O	_
+30	18	annot3	O	_	_	_	_	_	_	O	_
+31	]	annot3	O	_	_	_	_	_	_	O	_
+32	:	annot3	O	_	_	_	_	_	_	O	_
+33	Hola	annot3	O	_	_	_	_	_	_	O	_
+34	guapa	annot3	O	_	_	_	_	_	_	O	_
+35	,	annot3	O	_	_	_	_	_	_	O	_
+36	espero	annot3	O	_	_	_	_	_	_	O	_
+37	que	annot3	O	_	_	_	_	_	_	O	_
+38	estes	annot3	O	_	_	_	_	_	_	O	_
+39	mejor	annot3	O	_	_	_	_	_	_	O	_
+40	,	annot3	O	_	_	_	_	_	_	O	_
+41	se	annot3	O	_	_	_	_	_	_	O	_
+42	que	annot3	O	_	_	_	_	_	_	O	_
+43	has	annot3	O	_	_	_	_	_	_	O	_
+44	tenido	annot3	O	_	_	_	_	_	_	O	_
+45	que	annot3	O	_	_	_	_	_	_	O	_
+46	pasar	annot3	O	_	_	_	_	_	_	O	_
+47	por	annot3	O	_	_	_	_	_	_	O	_
+48	un	annot3	O	_	_	_	_	_	_	O	_
+49	proceso	annot3	O	_	_	_	_	_	_	O	_
+50	muy	annot3	O	_	_	_	_	_	_	O	_
+51	duro	annot3	O	_	_	_	_	_	_	O	_
+52	,	annot3	O	_	_	_	_	_	_	O	_
+53	y	annot3	O	_	_	_	_	_	_	O	_
+54	me	annot3	O	_	_	_	_	_	_	O	_
+55	alegra	annot3	O	_	_	_	_	_	_	O	_
+56	ver	annot3	O	_	_	_	_	_	_	O	_
+57	que	annot3	O	_	_	_	_	_	_	O	_
+58	lo	annot3	O	_	_	_	_	_	_	O	_
+59	has	annot3	O	_	_	_	_	_	_	O	_
+60	enfocado	annot3	O	_	_	_	_	_	_	O	_
+61	en	annot3	O	_	_	_	_	_	_	O	_
+62	ayudar	annot3	O	_	_	_	_	_	_	O	_
+63	a	annot3	O	_	_	_	_	_	_	O	_
+64	los	annot3	O	_	_	_	_	_	_	O	_
+65	demás	annot3	O	_	_	_	_	_	_	O	_
+66	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 26
+# text = Yo la última vez que escribí, ya expliqué que tenia metastasis de peritoneo y de pancreas, de este último hace ya un año.
+1	Yo	annot3	O	_	_	_	_	_	_	O	_
+2	la	annot3	O	_	_	_	_	_	_	O	_
+3	última	annot3	O	_	_	_	_	_	_	O	_
+4	vez	annot3	O	_	_	_	_	_	_	O	_
+5	que	annot3	O	_	_	_	_	_	_	O	_
+6	escribí	annot3	O	_	_	_	_	_	_	O	_
+7	,	annot3	O	_	_	_	_	_	_	O	_
+8	ya	annot3	O	_	_	_	_	_	_	O	_
+9	expliqué	annot3	O	_	_	_	_	_	_	O	_
+10	que	annot3	O	_	_	_	_	_	_	O	_
+11	tenia	annot3	O	_	_	_	_	_	_	O	_
+12	metastasis	annot3	O	_	_	_	_	_	_	O	_
+13	de	annot3	O	_	_	_	_	_	_	O	_
+14	peritoneo	annot3	O	_	_	_	_	_	_	O	_
+15	y	annot3	O	_	_	_	_	_	_	O	_
+16	de	annot3	O	_	_	_	_	_	_	O	_
+17	pancreas	annot3	O	_	_	_	_	_	_	O	_
+18	,	annot3	O	_	_	_	_	_	_	O	_
+19	de	annot3	O	_	_	_	_	_	_	O	_
+20	este	annot3	O	_	_	_	_	_	_	O	_
+21	último	annot3	O	_	_	_	_	_	_	O	_
+22	hace	annot3	O	_	_	_	_	_	_	O	_
+23	ya	annot3	O	_	_	_	_	_	_	O	_
+24	un	annot3	O	_	_	_	_	_	_	O	_
+25	año	annot3	O	_	_	_	_	_	_	O	_
+26	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 27
+# text = No han crecido mucho, pero se decidieron a ponerme en tratamiento, algo parecido a una quimio en pastillas, se llama sunitinib, y estoy por el tercer mes.
+1	No	annot3	O	_	_	_	_	_	_	O	_
+2	han	annot3	O	_	_	_	_	_	_	O	_
+3	crecido	annot3	O	_	_	_	_	_	_	O	_
+4	mucho	annot3	O	_	_	_	_	_	_	O	_
+5	,	annot3	O	_	_	_	_	_	_	O	_
+6	pero	annot3	O	_	_	_	_	_	_	O	_
+7	se	annot3	O	_	_	_	_	_	_	O	_
+8	decidieron	annot3	O	_	_	_	_	_	_	O	_
+9	a	annot3	O	_	_	_	_	_	_	O	_
+10	ponerme	annot3	O	_	_	_	_	_	_	O	_
+11	en	annot3	O	_	_	_	_	_	_	O	_
+12	tratamiento	annot3	O	_	_	_	_	_	_	O	_
+13	,	annot3	O	_	_	_	_	_	_	O	_
+14	algo	annot3	O	_	_	_	_	_	_	O	_
+15	parecido	annot3	O	_	_	_	_	_	_	O	_
+16	a	annot3	O	_	_	_	_	_	_	O	_
+17	una	annot3	O	_	_	_	_	_	_	O	_
+18	quimio	annot3	O	_	_	_	_	_	_	O	_
+19	en	annot3	O	_	_	_	_	_	_	O	_
+20	pastillas	annot3	O	_	_	_	_	_	_	O	_
+21	,	annot3	O	_	_	_	_	_	_	O	_
+22	se	annot3	O	_	_	_	_	_	_	O	_
+23	llama	annot3	O	_	_	_	_	_	_	O	_
+24	sunitinib	annot3	O	_	_	_	_	_	_	O	_
+25	,	annot3	O	_	_	_	_	_	_	O	_
+26	y	annot3	O	_	_	_	_	_	_	O	_
+27	estoy	annot3	O	_	_	_	_	_	_	O	_
+28	por	annot3	O	_	_	_	_	_	_	O	_
+29	el	annot3	O	_	_	_	_	_	_	O	_
+30	tercer	annot3	O	_	_	_	_	_	_	O	_
+31	mes	annot3	O	_	_	_	_	_	_	O	_
+32	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 28
+# text = Estoy con muchos efectos secundarios, y a veces no todo lo animada que quisiera.
+1	Estoy	annot3	O	_	_	_	_	_	_	O	_
+2	con	annot3	O	_	_	_	_	_	_	O	_
+3	muchos	annot3	O	_	_	_	_	_	_	O	_
+4	efectos	annot3	O	_	_	_	_	_	_	O	_
+5	secundarios	annot3	O	_	_	_	_	_	_	O	_
+6	,	annot3	O	_	_	_	_	_	_	O	_
+7	y	annot3	O	_	_	_	_	_	_	O	_
+8	a	annot3	O	_	_	_	_	_	_	O	_
+9	veces	annot3	O	_	_	_	_	_	_	O	_
+10	no	annot3	O	_	_	_	_	_	_	O	_
+11	todo	annot3	O	_	_	_	_	_	_	O	_
+12	lo	annot3	O	_	_	_	_	_	_	O	_
+13	animada	annot3	O	_	_	_	_	_	_	O	_
+14	que	annot3	O	_	_	_	_	_	_	O	_
+15	quisiera	annot3	O	_	_	_	_	_	_	O	_
+16	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 29
+# text = El mes que viene me hacen el Tac, para ver si esta funcionando.
+1	El	annot3	O	_	_	_	_	_	_	O	_
+2	mes	annot3	O	_	_	_	_	_	_	O	_
+3	que	annot3	O	_	_	_	_	_	_	O	_
+4	viene	annot3	O	_	_	_	_	_	_	O	_
+5	me	annot3	O	_	_	_	_	_	_	O	_
+6	hacen	annot3	O	_	_	_	_	_	_	O	_
+7	el	annot3	O	_	_	_	_	_	_	O	_
+8	Tac	annot3	O	_	_	_	_	_	_	O	_
+9	,	annot3	O	_	_	_	_	_	_	O	_
+10	para	annot3	O	_	_	_	_	_	_	O	_
+11	ver	annot3	O	_	_	_	_	_	_	O	_
+12	si	annot3	O	_	_	_	_	_	_	O	_
+13	esta	annot3	O	_	_	_	_	_	_	O	_
+14	funcionando	annot3	O	_	_	_	_	_	_	O	_
+15	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 30
+# text = Espero que sea así.
+1	Espero	annot3	O	_	_	_	_	_	_	O	_
+2	que	annot3	O	_	_	_	_	_	_	O	_
+3	sea	annot3	O	_	_	_	_	_	_	O	_
+4	así	annot3	O	_	_	_	_	_	_	O	_
+5	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 31
+# text = Gracias por preguntar y darme la oportunidad de explicar.
+1	Gracias	annot3	O	_	_	_	_	_	_	O	_
+2	por	annot3	O	_	_	_	_	_	_	O	_
+3	preguntar	annot3	O	_	_	_	_	_	_	O	_
+4	y	annot3	O	_	_	_	_	_	_	O	_
+5	darme	annot3	O	_	_	_	_	_	_	O	_
+6	la	annot3	O	_	_	_	_	_	_	O	_
+7	oportunidad	annot3	O	_	_	_	_	_	_	O	_
+8	de	annot3	O	_	_	_	_	_	_	O	_
+9	explicar	annot3	O	_	_	_	_	_	_	O	_
+10	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 32
+# text = Un abrazo.\n\n
+1	Un	annot3	O	_	_	_	_	_	_	O	_
+2	abrazo	annot3	O	_	_	_	_	_	_	O	_
+3	.	annot3	O	_	_	_	_	_	_	O	_
+4	\n\n	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 33
+# text = [Autor 18]: Hola guapa, espero que estes mejor, se que has tenido que pasar por un proceso muy duro, y me alegra ver que lo has enfocado en ayudar a los demás.
+1	[	annot3	O	_	_	_	_	_	_	O	_
+2	Autor	annot3	O	_	_	_	_	_	_	O	_
+3	18	annot3	O	_	_	_	_	_	_	O	_
+4	]	annot3	O	_	_	_	_	_	_	O	_
+5	:	annot3	O	_	_	_	_	_	_	O	_
+6	Hola	annot3	O	_	_	_	_	_	_	O	_
+7	guapa	annot3	O	_	_	_	_	_	_	O	_
+8	,	annot3	O	_	_	_	_	_	_	O	_
+9	espero	annot3	O	_	_	_	_	_	_	O	_
+10	que	annot3	O	_	_	_	_	_	_	O	_
+11	estes	annot3	O	_	_	_	_	_	_	O	_
+12	mejor	annot3	O	_	_	_	_	_	_	O	_
+13	,	annot3	O	_	_	_	_	_	_	O	_
+14	se	annot3	O	_	_	_	_	_	_	O	_
+15	que	annot3	O	_	_	_	_	_	_	O	_
+16	has	annot3	O	_	_	_	_	_	_	O	_
+17	tenido	annot3	O	_	_	_	_	_	_	O	_
+18	que	annot3	O	_	_	_	_	_	_	O	_
+19	pasar	annot3	O	_	_	_	_	_	_	O	_
+20	por	annot3	O	_	_	_	_	_	_	O	_
+21	un	annot3	O	_	_	_	_	_	_	O	_
+22	proceso	annot3	O	_	_	_	_	_	_	O	_
+23	muy	annot3	O	_	_	_	_	_	_	O	_
+24	duro	annot3	O	_	_	_	_	_	_	O	_
+25	,	annot3	O	_	_	_	_	_	_	O	_
+26	y	annot3	O	_	_	_	_	_	_	O	_
+27	me	annot3	O	_	_	_	_	_	_	O	_
+28	alegra	annot3	O	_	_	_	_	_	_	O	_
+29	ver	annot3	O	_	_	_	_	_	_	O	_
+30	que	annot3	O	_	_	_	_	_	_	O	_
+31	lo	annot3	O	_	_	_	_	_	_	O	_
+32	has	annot3	O	_	_	_	_	_	_	O	_
+33	enfocado	annot3	O	_	_	_	_	_	_	O	_
+34	en	annot3	O	_	_	_	_	_	_	O	_
+35	ayudar	annot3	O	_	_	_	_	_	_	O	_
+36	a	annot3	O	_	_	_	_	_	_	O	_
+37	los	annot3	O	_	_	_	_	_	_	O	_
+38	demás	annot3	O	_	_	_	_	_	_	O	_
+39	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 34
+# text = Yo la última vez que escribí, ya expliqué que tenia metastasis de peritoneo y de pancreas, de este último hace ya un año.
+1	Yo	annot3	O	_	_	_	_	_	_	O	_
+2	la	annot3	O	_	_	_	_	_	_	O	_
+3	última	annot3	O	_	_	_	_	_	_	O	_
+4	vez	annot3	O	_	_	_	_	_	_	O	_
+5	que	annot3	O	_	_	_	_	_	_	O	_
+6	escribí	annot3	O	_	_	_	_	_	_	O	_
+7	,	annot3	O	_	_	_	_	_	_	O	_
+8	ya	annot3	O	_	_	_	_	_	_	O	_
+9	expliqué	annot3	O	_	_	_	_	_	_	O	_
+10	que	annot3	O	_	_	_	_	_	_	O	_
+11	tenia	annot3	O	_	_	_	_	_	_	O	_
+12	metastasis	annot3	O	_	_	_	_	_	_	O	_
+13	de	annot3	O	_	_	_	_	_	_	O	_
+14	peritoneo	annot3	O	_	_	_	_	_	_	O	_
+15	y	annot3	O	_	_	_	_	_	_	O	_
+16	de	annot3	O	_	_	_	_	_	_	O	_
+17	pancreas	annot3	O	_	_	_	_	_	_	O	_
+18	,	annot3	O	_	_	_	_	_	_	O	_
+19	de	annot3	O	_	_	_	_	_	_	O	_
+20	este	annot3	O	_	_	_	_	_	_	O	_
+21	último	annot3	O	_	_	_	_	_	_	O	_
+22	hace	annot3	O	_	_	_	_	_	_	O	_
+23	ya	annot3	O	_	_	_	_	_	_	O	_
+24	un	annot3	O	_	_	_	_	_	_	O	_
+25	año	annot3	O	_	_	_	_	_	_	O	_
+26	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 35
+# text = No han crecido mucho, pero se decidieron a ponerme en tratamiento, algo parecido a una quimio en pastillas, se llama sunitinib, y estoy por el tercer mes.
+1	No	annot3	O	_	_	_	_	_	_	O	_
+2	han	annot3	O	_	_	_	_	_	_	O	_
+3	crecido	annot3	O	_	_	_	_	_	_	O	_
+4	mucho	annot3	O	_	_	_	_	_	_	O	_
+5	,	annot3	O	_	_	_	_	_	_	O	_
+6	pero	annot3	O	_	_	_	_	_	_	O	_
+7	se	annot3	O	_	_	_	_	_	_	O	_
+8	decidieron	annot3	O	_	_	_	_	_	_	O	_
+9	a	annot3	O	_	_	_	_	_	_	O	_
+10	ponerme	annot3	O	_	_	_	_	_	_	O	_
+11	en	annot3	O	_	_	_	_	_	_	O	_
+12	tratamiento	annot3	O	_	_	_	_	_	_	O	_
+13	,	annot3	O	_	_	_	_	_	_	O	_
+14	algo	annot3	O	_	_	_	_	_	_	O	_
+15	parecido	annot3	O	_	_	_	_	_	_	O	_
+16	a	annot3	O	_	_	_	_	_	_	O	_
+17	una	annot3	O	_	_	_	_	_	_	O	_
+18	quimio	annot3	O	_	_	_	_	_	_	O	_
+19	en	annot3	O	_	_	_	_	_	_	O	_
+20	pastillas	annot3	O	_	_	_	_	_	_	O	_
+21	,	annot3	O	_	_	_	_	_	_	O	_
+22	se	annot3	O	_	_	_	_	_	_	O	_
+23	llama	annot3	O	_	_	_	_	_	_	O	_
+24	sunitinib	annot3	O	_	_	_	_	_	_	O	_
+25	,	annot3	O	_	_	_	_	_	_	O	_
+26	y	annot3	O	_	_	_	_	_	_	O	_
+27	estoy	annot3	O	_	_	_	_	_	_	O	_
+28	por	annot3	O	_	_	_	_	_	_	O	_
+29	el	annot3	O	_	_	_	_	_	_	O	_
+30	tercer	annot3	O	_	_	_	_	_	_	O	_
+31	mes	annot3	O	_	_	_	_	_	_	O	_
+32	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 36
+# text = Estoy con muchos efectos secundarios, y a veces no todo lo animada que quisiera.
+1	Estoy	annot3	O	_	_	_	_	_	_	O	_
+2	con	annot3	O	_	_	_	_	_	_	O	_
+3	muchos	annot3	O	_	_	_	_	_	_	O	_
+4	efectos	annot3	O	_	_	_	_	_	_	O	_
+5	secundarios	annot3	O	_	_	_	_	_	_	O	_
+6	,	annot3	O	_	_	_	_	_	_	O	_
+7	y	annot3	O	_	_	_	_	_	_	O	_
+8	a	annot3	O	_	_	_	_	_	_	O	_
+9	veces	annot3	O	_	_	_	_	_	_	O	_
+10	no	annot3	O	_	_	_	_	_	_	O	_
+11	todo	annot3	O	_	_	_	_	_	_	O	_
+12	lo	annot3	O	_	_	_	_	_	_	O	_
+13	animada	annot3	O	_	_	_	_	_	_	O	_
+14	que	annot3	O	_	_	_	_	_	_	O	_
+15	quisiera	annot3	O	_	_	_	_	_	_	O	_
+16	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 37
+# text = El mes que viene me hacen el Tac, para ver si esta funcionando.
+1	El	annot3	O	_	_	_	_	_	_	O	_
+2	mes	annot3	O	_	_	_	_	_	_	O	_
+3	que	annot3	O	_	_	_	_	_	_	O	_
+4	viene	annot3	O	_	_	_	_	_	_	O	_
+5	me	annot3	O	_	_	_	_	_	_	O	_
+6	hacen	annot3	O	_	_	_	_	_	_	O	_
+7	el	annot3	O	_	_	_	_	_	_	O	_
+8	Tac	annot3	O	_	_	_	_	_	_	O	_
+9	,	annot3	O	_	_	_	_	_	_	O	_
+10	para	annot3	O	_	_	_	_	_	_	O	_
+11	ver	annot3	O	_	_	_	_	_	_	O	_
+12	si	annot3	O	_	_	_	_	_	_	O	_
+13	esta	annot3	O	_	_	_	_	_	_	O	_
+14	funcionando	annot3	O	_	_	_	_	_	_	O	_
+15	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 38
+# text = Espero que sea así.
+1	Espero	annot3	O	_	_	_	_	_	_	O	_
+2	que	annot3	O	_	_	_	_	_	_	O	_
+3	sea	annot3	O	_	_	_	_	_	_	O	_
+4	así	annot3	O	_	_	_	_	_	_	O	_
+5	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 39
+# text = Gracias por preguntar y darme la oportunidad de explicar.
+1	Gracias	annot3	O	_	_	_	_	_	_	O	_
+2	por	annot3	O	_	_	_	_	_	_	O	_
+3	preguntar	annot3	O	_	_	_	_	_	_	O	_
+4	y	annot3	O	_	_	_	_	_	_	O	_
+5	darme	annot3	O	_	_	_	_	_	_	O	_
+6	la	annot3	O	_	_	_	_	_	_	O	_
+7	oportunidad	annot3	O	_	_	_	_	_	_	O	_
+8	de	annot3	O	_	_	_	_	_	_	O	_
+9	explicar	annot3	O	_	_	_	_	_	_	O	_
+10	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 40
+# text = Un abrazo.\n\n
+1	Un	annot3	O	_	_	_	_	_	_	O	_
+2	abrazo	annot3	O	_	_	_	_	_	_	O	_
+3	.	annot3	O	_	_	_	_	_	_	O	_
+4	\n\n	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 41
+# text = [Autor 24]: Hola, xxxx, me admira tu entereza.
+1	[	annot3	O	_	_	_	_	_	_	O	_
+2	Autor	annot3	O	_	_	_	_	_	_	O	_
+3	24	annot3	O	_	_	_	_	_	_	O	_
+4	]	annot3	O	_	_	_	_	_	_	O	_
+5	:	annot3	O	_	_	_	_	_	_	O	_
+6	Hola	annot3	O	_	_	_	_	_	_	O	_
+7	,	annot3	O	_	_	_	_	_	_	O	_
+8	xxxx	annot3	O	_	_	_	_	_	_	O	_
+9	,	annot3	O	_	_	_	_	_	_	O	_
+10	me	annot3	O	_	_	_	_	_	_	O	_
+11	admira	annot3	O	_	_	_	_	_	_	O	_
+12	tu	annot3	O	_	_	_	_	_	_	O	_
+13	entereza	annot3	O	_	_	_	_	_	_	O	_
+14	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 42
+# text = Tu proceso es muy duro y ahí estás..
+1	Tu	annot3	O	_	_	_	_	_	_	O	_
+2	proceso	annot3	O	_	_	_	_	_	_	O	_
+3	es	annot3	O	_	_	_	_	_	_	O	_
+4	muy	annot3	O	_	_	_	_	_	_	O	_
+5	duro	annot3	O	_	_	_	_	_	_	O	_
+6	y	annot3	O	_	_	_	_	_	_	O	_
+7	ahí	annot3	O	_	_	_	_	_	_	O	_
+8	estás	annot3	O	_	_	_	_	_	_	O	_
+9	..	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 43
+# text = dando palabras de ánimo a los demás.
+1	dando	annot3	O	_	_	_	_	_	_	O	_
+2	palabras	annot3	O	_	_	_	_	_	_	O	_
+3	de	annot3	O	_	_	_	_	_	_	O	_
+4	ánimo	annot3	O	_	_	_	_	_	_	O	_
+5	a	annot3	O	_	_	_	_	_	_	O	_
+6	los	annot3	O	_	_	_	_	_	_	O	_
+7	demás	annot3	O	_	_	_	_	_	_	O	_
+8	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 44
+# text = Debes de ser una chica muy maja :-) Normal que no estés todo lo animada que quisieras en muchas ocasiones, cuando uno no se encuentra bien físicamente y tiene una situación de incertidumbre, tener malos momentos es natural, somo humanos...
+1	Debes	annot3	O	_	_	_	_	_	_	O	_
+2	de	annot3	O	_	_	_	_	_	_	O	_
+3	ser	annot3	O	_	_	_	_	_	_	O	_
+4	una	annot3	O	_	_	_	_	_	_	O	_
+5	chica	annot3	O	_	_	_	_	_	_	O	_
+6	muy	annot3	O	_	_	_	_	_	_	O	_
+7	maja	annot3	O	_	_	_	_	_	_	O	_
+8	:-)	annot3	O	_	_	_	_	_	_	O	_
+9	Normal	annot3	O	_	_	_	_	_	_	O	_
+10	que	annot3	O	_	_	_	_	_	_	O	_
+11	no	annot3	O	_	_	_	_	_	_	O	_
+12	estés	annot3	O	_	_	_	_	_	_	O	_
+13	todo	annot3	O	_	_	_	_	_	_	O	_
+14	lo	annot3	O	_	_	_	_	_	_	O	_
+15	animada	annot3	O	_	_	_	_	_	_	O	_
+16	que	annot3	O	_	_	_	_	_	_	O	_
+17	quisieras	annot3	O	_	_	_	_	_	_	O	_
+18	en	annot3	O	_	_	_	_	_	_	O	_
+19	muchas	annot3	O	_	_	_	_	_	_	O	_
+20	ocasiones	annot3	O	_	_	_	_	_	_	O	_
+21	,	annot3	O	_	_	_	_	_	_	O	_
+22	cuando	annot3	O	_	_	_	_	_	_	O	_
+23	uno	annot3	O	_	_	_	_	_	_	O	_
+24	no	annot3	O	_	_	_	_	_	_	O	_
+25	se	annot3	O	_	_	_	_	_	_	O	_
+26	encuentra	annot3	O	_	_	_	_	_	_	O	_
+27	bien	annot3	O	_	_	_	_	_	_	O	_
+28	físicamente	annot3	O	_	_	_	_	_	_	O	_
+29	y	annot3	O	_	_	_	_	_	_	O	_
+30	tiene	annot3	O	_	_	_	_	_	_	O	_
+31	una	annot3	O	_	_	_	_	_	_	O	_
+32	situación	annot3	O	_	_	_	_	_	_	O	_
+33	de	annot3	O	_	_	_	_	_	_	O	_
+34	incertidumbre	annot3	O	_	_	_	_	_	_	O	_
+35	,	annot3	O	_	_	_	_	_	_	O	_
+36	tener	annot3	O	_	_	_	_	_	_	O	_
+37	malos	annot3	O	_	_	_	_	_	_	O	_
+38	momentos	annot3	O	_	_	_	_	_	_	O	_
+39	es	annot3	O	_	_	_	_	_	_	O	_
+40	natural	annot3	O	_	_	_	_	_	_	O	_
+41	,	annot3	O	_	_	_	_	_	_	O	_
+42	somo	annot3	O	_	_	_	_	_	_	O	_
+43	humanos	annot3	O	_	_	_	_	_	_	O	_
+44	...	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 45
+# text = No te sientas mal, al revés, y expúlsalo.
+1	No	annot3	O	_	_	_	_	_	_	O	_
+2	te	annot3	O	_	_	_	_	_	_	O	_
+3	sientas	annot3	O	_	_	_	_	_	_	O	_
+4	mal	annot3	O	_	_	_	_	_	_	O	_
+5	,	annot3	O	_	_	_	_	_	_	O	_
+6	al	annot3	O	_	_	_	_	_	_	O	_
+7	revés	annot3	O	_	_	_	_	_	_	O	_
+8	,	annot3	O	_	_	_	_	_	_	O	_
+9	y	annot3	O	_	_	_	_	_	_	O	_
+10	expúlsalo	annot3	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/expulsar-02222318-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/expulsar-02223479-v	_	Emociones	no me dejo etiquetar de forma corecta e incluye el Cuando	O	_
+11	.	annot3	I	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/expulsar-02222318-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/expulsar-02223479-v	_	Emociones	no me dejo etiquetar de forma corecta e incluye el Cuando	O	_
+
+# sent_id = 46
+# text = Cuando estés de bajón, si te apetece hablar, escríbeme por mi web (es que no quiero hacer público mi mail) Estaría encantada de charlar contigo.\n\n
+1	Cuando	annot3	I	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/expulsar-02222318-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/expulsar-02223479-v	_	Emociones	no me dejo etiquetar de forma corecta e incluye el Cuando	O	_
+2	estés	annot3	O	_	_	_	_	_	_	O	_
+3	de	annot3	O	_	_	_	_	_	_	O	_
+4	bajón	annot3	O	_	_	_	_	_	_	O	_
+5	,	annot3	O	_	_	_	_	_	_	O	_
+6	si	annot3	O	_	_	_	_	_	_	O	_
+7	te	annot3	O	_	_	_	_	_	_	O	_
+8	apetece	annot3	O	_	_	_	_	_	_	O	_
+9	hablar	annot3	O	_	_	_	_	_	_	O	_
+10	,	annot3	O	_	_	_	_	_	_	O	_
+11	escríbeme	annot3	O	_	_	_	_	_	_	O	_
+12	por	annot3	O	_	_	_	_	_	_	O	_
+13	mi	annot3	O	_	_	_	_	_	_	O	_
+14	web	annot3	O	_	_	_	_	_	_	O	_
+15	(	annot3	O	_	_	_	_	_	_	O	_
+16	es	annot3	O	_	_	_	_	_	_	O	_
+17	que	annot3	O	_	_	_	_	_	_	O	_
+18	no	annot3	O	_	_	_	_	_	_	O	_
+19	quiero	annot3	O	_	_	_	_	_	_	O	_
+20	hacer	annot3	O	_	_	_	_	_	_	O	_
+21	público	annot3	O	_	_	_	_	_	_	O	_
+22	mi	annot3	O	_	_	_	_	_	_	O	_
+23	mail	annot3	O	_	_	_	_	_	_	O	_
+24	)	annot3	O	_	_	_	_	_	_	O	_
+25	Estaría	annot3	O	_	_	_	_	_	_	O	_
+26	encantada	annot3	O	_	_	_	_	_	_	O	_
+27	de	annot3	O	_	_	_	_	_	_	O	_
+28	charlar	annot3	O	_	_	_	_	_	_	O	_
+29	contigo	annot3	O	_	_	_	_	_	_	O	_
+30	.	annot3	O	_	_	_	_	_	_	O	_
+31	\n\n	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 47
+# text = Un abrazo\n\n[Autor 18]: Hola, no había visto tu mensaje, es lo que tiene este foro...
+1	Un	annot3	O	_	_	_	_	_	_	O	_
+2	abrazo	annot3	O	_	_	_	_	_	_	O	_
+3	\n\n	annot3	O	_	_	_	_	_	_	O	_
+4	[	annot3	O	_	_	_	_	_	_	O	_
+5	Autor	annot3	O	_	_	_	_	_	_	O	_
+6	18	annot3	O	_	_	_	_	_	_	O	_
+7	]	annot3	O	_	_	_	_	_	_	O	_
+8	:	annot3	O	_	_	_	_	_	_	O	_
+9	Hola	annot3	O	_	_	_	_	_	_	O	_
+10	,	annot3	O	_	_	_	_	_	_	O	_
+11	no	annot3	O	_	_	_	_	_	_	O	_
+12	había	annot3	O	_	_	_	_	_	_	O	_
+13	visto	annot3	O	_	_	_	_	_	_	O	_
+14	tu	annot3	O	_	_	_	_	_	_	O	_
+15	mensaje	annot3	O	_	_	_	_	_	_	O	_
+16	,	annot3	O	_	_	_	_	_	_	O	_
+17	es	annot3	O	_	_	_	_	_	_	O	_
+18	lo	annot3	O	_	_	_	_	_	_	O	_
+19	que	annot3	O	_	_	_	_	_	_	O	_
+20	tiene	annot3	O	_	_	_	_	_	_	O	_
+21	este	annot3	O	_	_	_	_	_	_	O	_
+22	foro	annot3	O	_	_	_	_	_	_	O	_
+23	...	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 48
+# text = De acuerdo seguimos charlando por la web.
+1	De	annot3	O	_	_	_	_	_	_	O	_
+2	acuerdo	annot3	O	_	_	_	_	_	_	O	_
+3	seguimos	annot3	O	_	_	_	_	_	_	O	_
+4	charlando	annot3	O	_	_	_	_	_	_	O	_
+5	por	annot3	O	_	_	_	_	_	_	O	_
+6	la	annot3	O	_	_	_	_	_	_	O	_
+7	web	annot3	O	_	_	_	_	_	_	O	_
+8	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 49
+# text = Un abrazo.\n\n
+1	Un	annot3	O	_	_	_	_	_	_	O	_
+2	abrazo	annot3	O	_	_	_	_	_	_	O	_
+3	.	annot3	O	_	_	_	_	_	_	O	_
+4	\n\n	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 50
+# text = [Autor 18]: Hola, no había visto tu mensaje, es lo que tiene este foro...
+1	[	annot3	O	_	_	_	_	_	_	O	_
+2	Autor	annot3	O	_	_	_	_	_	_	O	_
+3	18	annot3	O	_	_	_	_	_	_	O	_
+4	]	annot3	O	_	_	_	_	_	_	O	_
+5	:	annot3	O	_	_	_	_	_	_	O	_
+6	Hola	annot3	O	_	_	_	_	_	_	O	_
+7	,	annot3	O	_	_	_	_	_	_	O	_
+8	no	annot3	O	_	_	_	_	_	_	O	_
+9	había	annot3	O	_	_	_	_	_	_	O	_
+10	visto	annot3	O	_	_	_	_	_	_	O	_
+11	tu	annot3	O	_	_	_	_	_	_	O	_
+12	mensaje	annot3	O	_	_	_	_	_	_	O	_
+13	,	annot3	O	_	_	_	_	_	_	O	_
+14	es	annot3	O	_	_	_	_	_	_	O	_
+15	lo	annot3	O	_	_	_	_	_	_	O	_
+16	que	annot3	O	_	_	_	_	_	_	O	_
+17	tiene	annot3	O	_	_	_	_	_	_	O	_
+18	este	annot3	O	_	_	_	_	_	_	O	_
+19	foro	annot3	O	_	_	_	_	_	_	O	_
+20	...	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 51
+# text = De acuerdo seguimos charlando por la web.
+1	De	annot3	O	_	_	_	_	_	_	O	_
+2	acuerdo	annot3	O	_	_	_	_	_	_	O	_
+3	seguimos	annot3	O	_	_	_	_	_	_	O	_
+4	charlando	annot3	O	_	_	_	_	_	_	O	_
+5	por	annot3	O	_	_	_	_	_	_	O	_
+6	la	annot3	O	_	_	_	_	_	_	O	_
+7	web	annot3	O	_	_	_	_	_	_	O	_
+8	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 52
+# text = Un abrazo.\n\n
+1	Un	annot3	O	_	_	_	_	_	_	O	_
+2	abrazo	annot3	O	_	_	_	_	_	_	O	_
+3	.	annot3	O	_	_	_	_	_	_	O	_
+4	\n\n	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 53
+# text = [Autor 18]: Hola! Que tal sigue tu niño?
+1	[	annot3	O	_	_	_	_	_	_	O	_
+2	Autor	annot3	O	_	_	_	_	_	_	O	_
+3	18	annot3	O	_	_	_	_	_	_	O	_
+4	]	annot3	O	_	_	_	_	_	_	O	_
+5	:	annot3	O	_	_	_	_	_	_	O	_
+6	Hola	annot3	O	_	_	_	_	_	_	O	_
+7	!	annot3	O	_	_	_	_	_	_	O	_
+8	Que	annot3	O	_	_	_	_	_	_	O	_
+9	tal	annot3	O	_	_	_	_	_	_	O	_
+10	sigue	annot3	O	_	_	_	_	_	_	O	_
+11	tu	annot3	O	_	_	_	_	_	_	O	_
+12	niño	annot3	O	_	_	_	_	_	_	O	_
+13	?	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 54
+# text = Espero que esté muy bien un abrazo.\n\n
+1	Espero	annot3	O	_	_	_	_	_	_	O	_
+2	que	annot3	O	_	_	_	_	_	_	O	_
+3	esté	annot3	O	_	_	_	_	_	_	O	_
+4	muy	annot3	O	_	_	_	_	_	_	O	_
+5	bien	annot3	O	_	_	_	_	_	_	O	_
+6	un	annot3	O	_	_	_	_	_	_	O	_
+7	abrazo	annot3	O	_	_	_	_	_	_	O	_
+8	.	annot3	O	_	_	_	_	_	_	O	_
+9	\n\n	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 55
+# text = [Autor 18]: Hola a todos! Añado actualización a mi historia por si a alguien le sirve.
+1	[	annot3	O	_	_	_	_	_	_	O	_
+2	Autor	annot3	O	_	_	_	_	_	_	O	_
+3	18	annot3	O	_	_	_	_	_	_	O	_
+4	]	annot3	O	_	_	_	_	_	_	O	_
+5	:	annot3	O	_	_	_	_	_	_	O	_
+6	Hola	annot3	O	_	_	_	_	_	_	O	_
+7	a	annot3	O	_	_	_	_	_	_	O	_
+8	todos	annot3	O	_	_	_	_	_	_	O	_
+9	!	annot3	O	_	_	_	_	_	_	O	_
+10	Añado	annot3	O	_	_	_	_	_	_	O	_
+11	actualización	annot3	O	_	_	_	_	_	_	O	_
+12	a	annot3	O	_	_	_	_	_	_	O	_
+13	mi	annot3	O	_	_	_	_	_	_	O	_
+14	historia	annot3	O	_	_	_	_	_	_	O	_
+15	por	annot3	O	_	_	_	_	_	_	O	_
+16	si	annot3	O	_	_	_	_	_	_	O	_
+17	a	annot3	O	_	_	_	_	_	_	O	_
+18	alguien	annot3	O	_	_	_	_	_	_	O	_
+19	le	annot3	O	_	_	_	_	_	_	O	_
+20	sirve	annot3	O	_	_	_	_	_	_	O	_
+21	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 56
+# text = Ya tengo varias metástasis peritoneo y pancreas.
+1	Ya	annot3	O	_	_	_	_	_	_	O	_
+2	tengo	annot3	O	_	_	_	_	_	_	O	_
+3	varias	annot3	O	_	_	_	_	_	_	O	_
+4	metástasis	annot3	O	_	_	_	_	_	_	O	_
+5	peritoneo	annot3	O	_	_	_	_	_	_	O	_
+6	y	annot3	O	_	_	_	_	_	_	O	_
+7	pancreas	annot3	O	_	_	_	_	_	_	O	_
+8	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 57
+# text = Finalmente se decidieron a ponerme en tratamiento, sunitinib, en mi caso, llevo con él diez meses, hasta la fecha ha sido muy duro pero ha ido menguando de tamaño y no ha habido ninguna nueva aparición, cosa que es muy importante.
+1	Finalmente	annot3	O	_	_	_	_	_	_	O	_
+2	se	annot3	O	_	_	_	_	_	_	O	_
+3	decidieron	annot3	O	_	_	_	_	_	_	O	_
+4	a	annot3	O	_	_	_	_	_	_	O	_
+5	ponerme	annot3	O	_	_	_	_	_	_	O	_
+6	en	annot3	O	_	_	_	_	_	_	O	_
+7	tratamiento	annot3	O	_	_	_	_	_	_	O	_
+8	,	annot3	O	_	_	_	_	_	_	O	_
+9	sunitinib	annot3	O	_	_	_	_	_	_	O	_
+10	,	annot3	O	_	_	_	_	_	_	O	_
+11	en	annot3	O	_	_	_	_	_	_	O	_
+12	mi	annot3	O	_	_	_	_	_	_	O	_
+13	caso	annot3	O	_	_	_	_	_	_	O	_
+14	,	annot3	O	_	_	_	_	_	_	O	_
+15	llevo	annot3	O	_	_	_	_	_	_	O	_
+16	con	annot3	O	_	_	_	_	_	_	O	_
+17	él	annot3	O	_	_	_	_	_	_	O	_
+18	diez	annot3	O	_	_	_	_	_	_	O	_
+19	meses	annot3	O	_	_	_	_	_	_	O	_
+20	,	annot3	O	_	_	_	_	_	_	O	_
+21	hasta	annot3	O	_	_	_	_	_	_	O	_
+22	la	annot3	O	_	_	_	_	_	_	O	_
+23	fecha	annot3	O	_	_	_	_	_	_	O	_
+24	ha	annot3	O	_	_	_	_	_	_	O	_
+25	sido	annot3	O	_	_	_	_	_	_	O	_
+26	muy	annot3	O	_	_	_	_	_	_	O	_
+27	duro	annot3	O	_	_	_	_	_	_	O	_
+28	pero	annot3	O	_	_	_	_	_	_	O	_
+29	ha	annot3	O	_	_	_	_	_	_	O	_
+30	ido	annot3	O	_	_	_	_	_	_	O	_
+31	menguando	annot3	O	_	_	_	_	_	_	O	_
+32	de	annot3	O	_	_	_	_	_	_	O	_
+33	tamaño	annot3	O	_	_	_	_	_	_	O	_
+34	y	annot3	O	_	_	_	_	_	_	O	_
+35	no	annot3	O	_	_	_	_	_	_	O	_
+36	ha	annot3	O	_	_	_	_	_	_	O	_
+37	habido	annot3	O	_	_	_	_	_	_	O	_
+38	ninguna	annot3	O	_	_	_	_	_	_	O	_
+39	nueva	annot3	O	_	_	_	_	_	_	O	_
+40	aparición	annot3	O	_	_	_	_	_	_	O	_
+41	,	annot3	O	_	_	_	_	_	_	O	_
+42	cosa	annot3	O	_	_	_	_	_	_	O	_
+43	que	annot3	O	_	_	_	_	_	_	O	_
+44	es	annot3	O	_	_	_	_	_	_	O	_
+45	muy	annot3	O	_	_	_	_	_	_	O	_
+46	importante	annot3	O	_	_	_	_	_	_	O	_
+47	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 58
+# text = En el último TAC veo que hay un ligero crecimiento y estoy a la espera de la oncóloga para que me diga que haremos.
+1	En	annot3	O	_	_	_	_	_	_	O	_
+2	el	annot3	O	_	_	_	_	_	_	O	_
+3	último	annot3	O	_	_	_	_	_	_	O	_
+4	TAC	annot3	O	_	_	_	_	_	_	O	_
+5	veo	annot3	O	_	_	_	_	_	_	O	_
+6	que	annot3	O	_	_	_	_	_	_	O	_
+7	hay	annot3	O	_	_	_	_	_	_	O	_
+8	un	annot3	O	_	_	_	_	_	_	O	_
+9	ligero	annot3	O	_	_	_	_	_	_	O	_
+10	crecimiento	annot3	O	_	_	_	_	_	_	O	_
+11	y	annot3	O	_	_	_	_	_	_	O	_
+12	estoy	annot3	O	_	_	_	_	_	_	O	_
+13	a	annot3	O	_	_	_	_	_	_	O	_
+14	la	annot3	O	_	_	_	_	_	_	O	_
+15	espera	annot3	O	_	_	_	_	_	_	O	_
+16	de	annot3	O	_	_	_	_	_	_	O	_
+17	la	annot3	O	_	_	_	_	_	_	O	_
+18	oncóloga	annot3	O	_	_	_	_	_	_	O	_
+19	para	annot3	O	_	_	_	_	_	_	O	_
+20	que	annot3	O	_	_	_	_	_	_	O	_
+21	me	annot3	O	_	_	_	_	_	_	O	_
+22	diga	annot3	O	_	_	_	_	_	_	O	_
+23	que	annot3	O	_	_	_	_	_	_	O	_
+24	haremos	annot3	O	_	_	_	_	_	_	O	_
+25	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 59
+# text = Espero que si alguien lee esto, vea que metastasis no es igual a muerte inminente, ya que gracias a Dios ya llevo tres años con esto y sigo haciendo vida más o menos normal y trabajando.
+1	Espero	annot3	O	_	_	_	_	_	_	O	_
+2	que	annot3	O	_	_	_	_	_	_	O	_
+3	si	annot3	O	_	_	_	_	_	_	O	_
+4	alguien	annot3	O	_	_	_	_	_	_	O	_
+5	lee	annot3	O	_	_	_	_	_	_	O	_
+6	esto	annot3	O	_	_	_	_	_	_	O	_
+7	,	annot3	O	_	_	_	_	_	_	O	_
+8	vea	annot3	O	_	_	_	_	_	_	O	_
+9	que	annot3	O	_	_	_	_	_	_	O	_
+10	metastasis	annot3	O	_	_	_	_	_	_	O	_
+11	no	annot3	O	_	_	_	_	_	_	O	_
+12	es	annot3	O	_	_	_	_	_	_	O	_
+13	igual	annot3	O	_	_	_	_	_	_	O	_
+14	a	annot3	O	_	_	_	_	_	_	O	_
+15	muerte	annot3	O	_	_	_	_	_	_	O	_
+16	inminente	annot3	O	_	_	_	_	_	_	O	_
+17	,	annot3	O	_	_	_	_	_	_	O	_
+18	ya	annot3	O	_	_	_	_	_	_	O	_
+19	que	annot3	O	_	_	_	_	_	_	O	_
+20	gracias	annot3	O	_	_	_	_	_	_	O	_
+21	a	annot3	O	_	_	_	_	_	_	O	_
+22	Dios	annot3	O	_	_	_	_	_	_	O	_
+23	ya	annot3	O	_	_	_	_	_	_	O	_
+24	llevo	annot3	O	_	_	_	_	_	_	O	_
+25	tres	annot3	O	_	_	_	_	_	_	O	_
+26	años	annot3	O	_	_	_	_	_	_	O	_
+27	con	annot3	O	_	_	_	_	_	_	O	_
+28	esto	annot3	O	_	_	_	_	_	_	O	_
+29	y	annot3	O	_	_	_	_	_	_	O	_
+30	sigo	annot3	O	_	_	_	_	_	_	O	_
+31	haciendo	annot3	O	_	_	_	_	_	_	O	_
+32	vida	annot3	O	_	_	_	_	_	_	O	_
+33	más	annot3	O	_	_	_	_	_	_	O	_
+34	o	annot3	O	_	_	_	_	_	_	O	_
+35	menos	annot3	O	_	_	_	_	_	_	O	_
+36	normal	annot3	O	_	_	_	_	_	_	O	_
+37	y	annot3	O	_	_	_	_	_	_	O	_
+38	trabajando	annot3	O	_	_	_	_	_	_	O	_
+39	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 60
+# text = Cada vez hay mejores tratamientos, hay que aguantar, hasta que la ciencia encuentre lo que todos esperamos.\n\n
+1	Cada	annot3	O	_	_	_	_	_	_	O	_
+2	vez	annot3	O	_	_	_	_	_	_	O	_
+3	hay	annot3	O	_	_	_	_	_	_	O	_
+4	mejores	annot3	O	_	_	_	_	_	_	O	_
+5	tratamientos	annot3	O	_	_	_	_	_	_	O	_
+6	,	annot3	O	_	_	_	_	_	_	O	_
+7	hay	annot3	O	_	_	_	_	_	_	O	_
+8	que	annot3	O	_	_	_	_	_	_	O	_
+9	aguantar	annot3	O	_	_	_	_	_	_	O	_
+10	,	annot3	O	_	_	_	_	_	_	O	_
+11	hasta	annot3	O	_	_	_	_	_	_	O	_
+12	que	annot3	O	_	_	_	_	_	_	O	_
+13	la	annot3	O	_	_	_	_	_	_	O	_
+14	ciencia	annot3	O	_	_	_	_	_	_	O	_
+15	encuentre	annot3	O	_	_	_	_	_	_	O	_
+16	lo	annot3	O	_	_	_	_	_	_	O	_
+17	que	annot3	O	_	_	_	_	_	_	O	_
+18	todos	annot3	O	_	_	_	_	_	_	O	_
+19	esperamos	annot3	O	_	_	_	_	_	_	O	_
+20	.	annot3	O	_	_	_	_	_	_	O	_
+21	\n\n	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 61
+# text = [Autor 20]: Hola xxxx!\n\nmi marido le han detectado en noviembre un cancer renal en estado IV, con metastasis en la pelvis.
+1	[	annot3	O	_	_	_	_	_	_	O	_
+2	Autor	annot3	O	_	_	_	_	_	_	O	_
+3	20	annot3	O	_	_	_	_	_	_	O	_
+4	]	annot3	O	_	_	_	_	_	_	O	_
+5	:	annot3	O	_	_	_	_	_	_	O	_
+6	Hola	annot3	O	_	_	_	_	_	_	O	_
+7	xxxx	annot3	O	_	_	_	_	_	_	O	_
+8	!	annot3	O	_	_	_	_	_	_	O	_
+9	\n\n	annot3	O	_	_	_	_	_	_	O	_
+10	mi	annot3	O	_	_	_	_	_	_	O	_
+11	marido	annot3	O	_	_	_	_	_	_	O	_
+12	le	annot3	O	_	_	_	_	_	_	O	_
+13	han	annot3	O	_	_	_	_	_	_	O	_
+14	detectado	annot3	O	_	_	_	_	_	_	O	_
+15	en	annot3	O	_	_	_	_	_	_	O	_
+16	noviembre	annot3	O	_	_	_	_	_	_	O	_
+17	un	annot3	O	_	_	_	_	_	_	O	_
+18	cancer	annot3	O	_	_	_	_	_	_	O	_
+19	renal	annot3	O	_	_	_	_	_	_	O	_
+20	en	annot3	O	_	_	_	_	_	_	O	_
+21	estado	annot3	O	_	_	_	_	_	_	O	_
+22	IV	annot3	O	_	_	_	_	_	_	O	_
+23	,	annot3	O	_	_	_	_	_	_	O	_
+24	con	annot3	O	_	_	_	_	_	_	O	_
+25	metastasis	annot3	O	_	_	_	_	_	_	O	_
+26	en	annot3	O	_	_	_	_	_	_	O	_
+27	la	annot3	O	_	_	_	_	_	_	O	_
+28	pelvis	annot3	O	_	_	_	_	_	_	O	_
+29	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 62
+# text = No es tu mismo caso, pero leer en gente real que las metastasis no siempre son muerte sin remedio... me reconforta!...
+1	No	annot3	O	_	_	_	_	_	_	O	_
+2	es	annot3	O	_	_	_	_	_	_	O	_
+3	tu	annot3	O	_	_	_	_	_	_	O	_
+4	mismo	annot3	O	_	_	_	_	_	_	O	_
+5	caso	annot3	O	_	_	_	_	_	_	O	_
+6	,	annot3	O	_	_	_	_	_	_	O	_
+7	pero	annot3	O	_	_	_	_	_	_	O	_
+8	leer	annot3	O	_	_	_	_	_	_	O	_
+9	en	annot3	O	_	_	_	_	_	_	O	_
+10	gente	annot3	O	_	_	_	_	_	_	O	_
+11	real	annot3	O	_	_	_	_	_	_	O	_
+12	que	annot3	O	_	_	_	_	_	_	O	_
+13	las	annot3	O	_	_	_	_	_	_	O	_
+14	metastasis	annot3	O	_	_	_	_	_	_	O	_
+15	no	annot3	O	_	_	_	_	_	_	O	_
+16	siempre	annot3	O	_	_	_	_	_	_	O	_
+17	son	annot3	O	_	_	_	_	_	_	O	_
+18	muerte	annot3	O	_	_	_	_	_	_	O	_
+19	sin	annot3	O	_	_	_	_	_	_	O	_
+20	remedio	annot3	O	_	_	_	_	_	_	O	_
+21	...	annot3	O	_	_	_	_	_	_	O	_
+22	me	annot3	O	_	_	_	_	_	_	O	_
+23	reconforta	annot3	O	_	_	_	_	_	_	O	_
+24	!	annot3	O	_	_	_	_	_	_	O	_
+25	...	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 63
+# text = a el le estan dando imnunoterapia, porque efectivamente, la quimio, para el riñon no funciona.\n\n
+1	a	annot3	O	_	_	_	_	_	_	O	_
+2	el	annot3	O	_	_	_	_	_	_	O	_
+3	le	annot3	O	_	_	_	_	_	_	O	_
+4	estan	annot3	O	_	_	_	_	_	_	O	_
+5	dando	annot3	O	_	_	_	_	_	_	O	_
+6	imnunoterapia	annot3	O	_	_	_	_	_	_	O	_
+7	,	annot3	O	_	_	_	_	_	_	O	_
+8	porque	annot3	O	_	_	_	_	_	_	O	_
+9	efectivamente	annot3	O	_	_	_	_	_	_	O	_
+10	,	annot3	O	_	_	_	_	_	_	O	_
+11	la	annot3	O	_	_	_	_	_	_	O	_
+12	quimio	annot3	O	_	_	_	_	_	_	O	_
+13	,	annot3	O	_	_	_	_	_	_	O	_
+14	para	annot3	O	_	_	_	_	_	_	O	_
+15	el	annot3	O	_	_	_	_	_	_	O	_
+16	riñon	annot3	O	_	_	_	_	_	_	O	_
+17	no	annot3	O	_	_	_	_	_	_	O	_
+18	funciona	annot3	O	_	_	_	_	_	_	O	_
+19	.	annot3	O	_	_	_	_	_	_	O	_
+20	\n\n	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 64
+# text = Te deseo todo lo mejor!!!!\n\n
+1	Te	annot3	O	_	_	_	_	_	_	O	_
+2	deseo	annot3	O	_	_	_	_	_	_	O	_
+3	todo	annot3	O	_	_	_	_	_	_	O	_
+4	lo	annot3	O	_	_	_	_	_	_	O	_
+5	mejor	annot3	O	_	_	_	_	_	_	O	_
+6	!	annot3	O	_	_	_	_	_	_	O	_
+7	!	annot3	O	_	_	_	_	_	_	O	_
+8	!	annot3	O	_	_	_	_	_	_	O	_
+9	!	annot3	O	_	_	_	_	_	_	O	_
+10	\n\n	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 65
+# text = [Autor 18]: Hola xxxxx, la inmunoterapia está funcionando muy bien en primera linea de tratamiento, espero que le vaya genial, además normalmente no tiene efectos secundarios, lo que es lo más, pq la quimio tiene lo suyo.
+1	[	annot3	O	_	_	_	_	_	_	O	_
+2	Autor	annot3	O	_	_	_	_	_	_	O	_
+3	18	annot3	O	_	_	_	_	_	_	O	_
+4	]	annot3	O	_	_	_	_	_	_	O	_
+5	:	annot3	O	_	_	_	_	_	_	O	_
+6	Hola	annot3	O	_	_	_	_	_	_	O	_
+7	xxxxx	annot3	O	_	_	_	_	_	_	O	_
+8	,	annot3	O	_	_	_	_	_	_	O	_
+9	la	annot3	O	_	_	_	_	_	_	O	_
+10	inmunoterapia	annot3	O	_	_	_	_	_	_	O	_
+11	está	annot3	O	_	_	_	_	_	_	O	_
+12	funcionando	annot3	O	_	_	_	_	_	_	O	_
+13	muy	annot3	O	_	_	_	_	_	_	O	_
+14	bien	annot3	O	_	_	_	_	_	_	O	_
+15	en	annot3	O	_	_	_	_	_	_	O	_
+16	primera	annot3	O	_	_	_	_	_	_	O	_
+17	linea	annot3	O	_	_	_	_	_	_	O	_
+18	de	annot3	O	_	_	_	_	_	_	O	_
+19	tratamiento	annot3	O	_	_	_	_	_	_	O	_
+20	,	annot3	O	_	_	_	_	_	_	O	_
+21	espero	annot3	O	_	_	_	_	_	_	O	_
+22	que	annot3	O	_	_	_	_	_	_	O	_
+23	le	annot3	O	_	_	_	_	_	_	O	_
+24	vaya	annot3	O	_	_	_	_	_	_	O	_
+25	genial	annot3	O	_	_	_	_	_	_	O	_
+26	,	annot3	O	_	_	_	_	_	_	O	_
+27	además	annot3	O	_	_	_	_	_	_	O	_
+28	normalmente	annot3	O	_	_	_	_	_	_	O	_
+29	no	annot3	O	_	_	_	_	_	_	O	_
+30	tiene	annot3	O	_	_	_	_	_	_	O	_
+31	efectos	annot3	O	_	_	_	_	_	_	O	_
+32	secundarios	annot3	O	_	_	_	_	_	_	O	_
+33	,	annot3	O	_	_	_	_	_	_	O	_
+34	lo	annot3	O	_	_	_	_	_	_	O	_
+35	que	annot3	O	_	_	_	_	_	_	O	_
+36	es	annot3	O	_	_	_	_	_	_	O	_
+37	lo	annot3	O	_	_	_	_	_	_	O	_
+38	más	annot3	O	_	_	_	_	_	_	O	_
+39	,	annot3	O	_	_	_	_	_	_	O	_
+40	pq	annot3	O	_	_	_	_	_	_	O	_
+41	la	annot3	O	_	_	_	_	_	_	O	_
+42	quimio	annot3	O	_	_	_	_	_	_	O	_
+43	tiene	annot3	O	_	_	_	_	_	_	O	_
+44	lo	annot3	O	_	_	_	_	_	_	O	_
+45	suyo	annot3	O	_	_	_	_	_	_	O	_
+46	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 66
+# text = Si te apatece hay una asociación de cancer renal y tenemos un grupo de wahtscon gente que esta en la misma situación que tu marido y yo, así charlamos sobre el tratamiento, sobre los efectos secundarios, sobre como está la investigación de nuestro cancer, etc.
+1	Si	annot3	O	_	_	_	_	_	_	O	_
+2	te	annot3	O	_	_	_	_	_	_	O	_
+3	apatece	annot3	O	_	_	_	_	_	_	O	_
+4	hay	annot3	O	_	_	_	_	_	_	O	_
+5	una	annot3	O	_	_	_	_	_	_	O	_
+6	asociación	annot3	O	_	_	_	_	_	_	O	_
+7	de	annot3	O	_	_	_	_	_	_	O	_
+8	cancer	annot3	O	_	_	_	_	_	_	O	_
+9	renal	annot3	O	_	_	_	_	_	_	O	_
+10	y	annot3	O	_	_	_	_	_	_	O	_
+11	tenemos	annot3	O	_	_	_	_	_	_	O	_
+12	un	annot3	O	_	_	_	_	_	_	O	_
+13	grupo	annot3	O	_	_	_	_	_	_	O	_
+14	de	annot3	O	_	_	_	_	_	_	O	_
+15	wahtscon	annot3	O	_	_	_	_	_	_	O	_
+16	gente	annot3	O	_	_	_	_	_	_	O	_
+17	que	annot3	O	_	_	_	_	_	_	O	_
+18	esta	annot3	O	_	_	_	_	_	_	O	_
+19	en	annot3	O	_	_	_	_	_	_	O	_
+20	la	annot3	O	_	_	_	_	_	_	O	_
+21	misma	annot3	O	_	_	_	_	_	_	O	_
+22	situación	annot3	O	_	_	_	_	_	_	O	_
+23	que	annot3	O	_	_	_	_	_	_	O	_
+24	tu	annot3	O	_	_	_	_	_	_	O	_
+25	marido	annot3	O	_	_	_	_	_	_	O	_
+26	y	annot3	O	_	_	_	_	_	_	O	_
+27	yo	annot3	O	_	_	_	_	_	_	O	_
+28	,	annot3	O	_	_	_	_	_	_	O	_
+29	así	annot3	O	_	_	_	_	_	_	O	_
+30	charlamos	annot3	O	_	_	_	_	_	_	O	_
+31	sobre	annot3	O	_	_	_	_	_	_	O	_
+32	el	annot3	O	_	_	_	_	_	_	O	_
+33	tratamiento	annot3	O	_	_	_	_	_	_	O	_
+34	,	annot3	O	_	_	_	_	_	_	O	_
+35	sobre	annot3	O	_	_	_	_	_	_	O	_
+36	los	annot3	O	_	_	_	_	_	_	O	_
+37	efectos	annot3	O	_	_	_	_	_	_	O	_
+38	secundarios	annot3	O	_	_	_	_	_	_	O	_
+39	,	annot3	O	_	_	_	_	_	_	O	_
+40	sobre	annot3	O	_	_	_	_	_	_	O	_
+41	como	annot3	O	_	_	_	_	_	_	O	_
+42	está	annot3	O	_	_	_	_	_	_	O	_
+43	la	annot3	O	_	_	_	_	_	_	O	_
+44	investigación	annot3	O	_	_	_	_	_	_	O	_
+45	de	annot3	O	_	_	_	_	_	_	O	_
+46	nuestro	annot3	O	_	_	_	_	_	_	O	_
+47	cancer	annot3	O	_	_	_	_	_	_	O	_
+48	,	annot3	O	_	_	_	_	_	_	O	_
+49	etc.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 67
+# text = , solo por si os apetece compartir e informaros.
+1	,	annot3	O	_	_	_	_	_	_	O	_
+2	solo	annot3	O	_	_	_	_	_	_	O	_
+3	por	annot3	O	_	_	_	_	_	_	O	_
+4	si	annot3	O	_	_	_	_	_	_	O	_
+5	os	annot3	O	_	_	_	_	_	_	O	_
+6	apetece	annot3	O	_	_	_	_	_	_	O	_
+7	compartir	annot3	B	_	_	_	_	_	_	O	_
+8	e	annot3	O	_	_	_	_	_	_	O	_
+9	informaros	annot3	O	_	_	_	_	_	_	O	_
+10	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 68
+# text = Si no, pués siempre podemos hablar por aquí.
+1	Si	annot3	O	_	_	_	_	_	_	O	_
+2	no	annot3	O	_	_	_	_	_	_	O	_
+3	,	annot3	O	_	_	_	_	_	_	O	_
+4	pués	annot3	O	_	_	_	_	_	_	O	_
+5	siempre	annot3	O	_	_	_	_	_	_	O	_
+6	podemos	annot3	O	_	_	_	_	_	_	O	_
+7	hablar	annot3	O	_	_	_	_	_	_	O	_
+8	por	annot3	O	_	_	_	_	_	_	O	_
+9	aquí	annot3	O	_	_	_	_	_	_	O	_
+10	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 69
+# text = Un abrazo muy grande, y espero que le vaya muy bien.\n\n
+1	Un	annot3	O	_	_	_	_	_	_	O	_
+2	abrazo	annot3	O	_	_	_	_	_	_	O	_
+3	muy	annot3	O	_	_	_	_	_	_	O	_
+4	grande	annot3	O	_	_	_	_	_	_	O	_
+5	,	annot3	O	_	_	_	_	_	_	O	_
+6	y	annot3	O	_	_	_	_	_	_	O	_
+7	espero	annot3	O	_	_	_	_	_	_	O	_
+8	que	annot3	O	_	_	_	_	_	_	O	_
+9	le	annot3	O	_	_	_	_	_	_	O	_
+10	vaya	annot3	O	_	_	_	_	_	_	O	_
+11	muy	annot3	O	_	_	_	_	_	_	O	_
+12	bien	annot3	O	_	_	_	_	_	_	O	_
+13	.	annot3	O	_	_	_	_	_	_	O	_
+14	\n\n	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 70
+# text = [Autor 23]: Hola xxxx, soy xxxxxx, te mando mi correo electrónico por si quieres hablar del tema %%EMAIL%%\n\nUn abrazo\n\n[Autor 23]: Hola a todos los luchadores que estáis en este grupo! Soy xxxxxx, os cuento un poco mi historia, a mi padre le han detectado carcinomatosis peritoneal metástasis de un tumor de primario de origen gástrico.
+1	[	annot3	O	_	_	_	_	_	_	O	_
+2	Autor	annot3	O	_	_	_	_	_	_	O	_
+3	23	annot3	O	_	_	_	_	_	_	O	_
+4	]	annot3	O	_	_	_	_	_	_	O	_
+5	:	annot3	O	_	_	_	_	_	_	O	_
+6	Hola	annot3	O	_	_	_	_	_	_	O	_
+7	xxxx	annot3	O	_	_	_	_	_	_	O	_
+8	,	annot3	O	_	_	_	_	_	_	O	_
+9	soy	annot3	O	_	_	_	_	_	_	O	_
+10	xxxxxx	annot3	O	_	_	_	_	_	_	O	_
+11	,	annot3	O	_	_	_	_	_	_	O	_
+12	te	annot3	O	_	_	_	_	_	_	O	_
+13	mando	annot3	O	_	_	_	_	_	_	O	_
+14	mi	annot3	O	_	_	_	_	_	_	O	_
+15	correo	annot3	O	_	_	_	_	_	_	O	_
+16	electrónico	annot3	O	_	_	_	_	_	_	O	_
+17	por	annot3	O	_	_	_	_	_	_	O	_
+18	si	annot3	O	_	_	_	_	_	_	O	_
+19	quieres	annot3	O	_	_	_	_	_	_	O	_
+20	hablar	annot3	O	_	_	_	_	_	_	O	_
+21	del	annot3	O	_	_	_	_	_	_	O	_
+22	tema	annot3	O	_	_	_	_	_	_	O	_
+23	%	annot3	O	_	_	_	_	_	_	O	_
+24	%	annot3	O	_	_	_	_	_	_	O	_
+25	EMAIL%%	annot3	O	_	_	_	_	_	_	O	_
+26	\n\n	annot3	O	_	_	_	_	_	_	O	_
+27	Un	annot3	O	_	_	_	_	_	_	O	_
+28	abrazo	annot3	O	_	_	_	_	_	_	O	_
+29	\n\n	annot3	O	_	_	_	_	_	_	O	_
+30	[	annot3	O	_	_	_	_	_	_	O	_
+31	Autor	annot3	O	_	_	_	_	_	_	O	_
+32	23	annot3	O	_	_	_	_	_	_	O	_
+33	]	annot3	O	_	_	_	_	_	_	O	_
+34	:	annot3	O	_	_	_	_	_	_	O	_
+35	Hola	annot3	O	_	_	_	_	_	_	O	_
+36	a	annot3	O	_	_	_	_	_	_	O	_
+37	todos	annot3	O	_	_	_	_	_	_	O	_
+38	los	annot3	O	_	_	_	_	_	_	O	_
+39	luchadores	annot3	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/luchador-09939313-n	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/luchador-09906538-n	_	Personas » Otros	_	O	_
+40	que	annot3	O	_	_	_	_	_	_	O	_
+41	estáis	annot3	O	_	_	_	_	_	_	O	_
+42	en	annot3	O	_	_	_	_	_	_	O	_
+43	este	annot3	O	_	_	_	_	_	_	O	_
+44	grupo	annot3	O	_	_	_	_	_	_	O	_
+45	!	annot3	O	_	_	_	_	_	_	O	_
+46	Soy	annot3	O	_	_	_	_	_	_	O	_
+47	xxxxxx	annot3	O	_	_	_	_	_	_	O	_
+48	,	annot3	O	_	_	_	_	_	_	O	_
+49	os	annot3	O	_	_	_	_	_	_	O	_
+50	cuento	annot3	O	_	_	_	_	_	_	O	_
+51	un	annot3	O	_	_	_	_	_	_	O	_
+52	poco	annot3	O	_	_	_	_	_	_	O	_
+53	mi	annot3	O	_	_	_	_	_	_	O	_
+54	historia	annot3	O	_	_	_	_	_	_	O	_
+55	,	annot3	O	_	_	_	_	_	_	O	_
+56	a	annot3	O	_	_	_	_	_	_	O	_
+57	mi	annot3	O	_	_	_	_	_	_	O	_
+58	padre	annot3	O	_	_	_	_	_	_	O	_
+59	le	annot3	O	_	_	_	_	_	_	O	_
+60	han	annot3	O	_	_	_	_	_	_	O	_
+61	detectado	annot3	O	_	_	_	_	_	_	O	_
+62	carcinomatosis	annot3	O	_	_	_	_	_	_	O	_
+63	peritoneal	annot3	O	_	_	_	_	_	_	O	_
+64	metástasis	annot3	O	_	_	_	_	_	_	O	_
+65	de	annot3	O	_	_	_	_	_	_	O	_
+66	un	annot3	O	_	_	_	_	_	_	O	_
+67	tumor	annot3	O	_	_	_	_	_	_	O	_
+68	de	annot3	O	_	_	_	_	_	_	O	_
+69	primario	annot3	O	_	_	_	_	_	_	O	_
+70	de	annot3	O	_	_	_	_	_	_	O	_
+71	origen	annot3	O	_	_	_	_	_	_	O	_
+72	gástrico	annot3	O	_	_	_	_	_	_	O	_
+73	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 71
+# text = Le operaron hace 6 semanas y ahí fue cuando vieron la metástasis.
+1	Le	annot3	O	_	_	_	_	_	_	O	_
+2	operaron	annot3	O	_	_	_	_	_	_	O	_
+3	hace	annot3	O	_	_	_	_	_	_	O	_
+4	6	annot3	O	_	_	_	_	_	_	O	_
+5	semanas	annot3	O	_	_	_	_	_	_	O	_
+6	y	annot3	O	_	_	_	_	_	_	O	_
+7	ahí	annot3	O	_	_	_	_	_	_	O	_
+8	fue	annot3	O	_	_	_	_	_	_	O	_
+9	cuando	annot3	O	_	_	_	_	_	_	O	_
+10	vieron	annot3	O	_	_	_	_	_	_	O	_
+11	la	annot3	O	_	_	_	_	_	_	O	_
+12	metástasis	annot3	O	_	_	_	_	_	_	O	_
+13	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 72
+# text = Hace dos semanas ha empezado con tratamiento ( folfox) creo que se llama.
+1	Hace	annot3	O	_	_	_	_	_	_	O	_
+2	dos	annot3	O	_	_	_	_	_	_	O	_
+3	semanas	annot3	O	_	_	_	_	_	_	O	_
+4	ha	annot3	O	_	_	_	_	_	_	O	_
+5	empezado	annot3	O	_	_	_	_	_	_	O	_
+6	con	annot3	O	_	_	_	_	_	_	O	_
+7	tratamiento	annot3	O	_	_	_	_	_	_	O	_
+8	(	annot3	O	_	_	_	_	_	_	O	_
+9	folfox	annot3	O	_	_	_	_	_	_	O	_
+10	)	annot3	O	_	_	_	_	_	_	O	_
+11	creo	annot3	O	_	_	_	_	_	_	O	_
+12	que	annot3	O	_	_	_	_	_	_	O	_
+13	se	annot3	O	_	_	_	_	_	_	O	_
+14	llama	annot3	O	_	_	_	_	_	_	O	_
+15	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 73
+# text = No hay mucha información al respuesta ni muchos testimonios.
+1	No	annot3	O	_	_	_	_	_	_	O	_
+2	hay	annot3	O	_	_	_	_	_	_	O	_
+3	mucha	annot3	O	_	_	_	_	_	_	O	_
+4	información	annot3	O	_	_	_	_	_	_	O	_
+5	al	annot3	O	_	_	_	_	_	_	O	_
+6	respuesta	annot3	O	_	_	_	_	_	_	O	_
+7	ni	annot3	O	_	_	_	_	_	_	O	_
+8	muchos	annot3	O	_	_	_	_	_	_	O	_
+9	testimonios	annot3	O	_	_	_	_	_	_	O	_
+10	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 74
+# text = Os dejo mi correo electrónico por si alguien que se encuentre en la misma situación quiere compartir opiniones e informarnos algo porque en mi caso estamos muy perdidos.
+1	Os	annot3	O	_	_	_	_	_	_	O	_
+2	dejo	annot3	O	_	_	_	_	_	_	O	_
+3	mi	annot3	O	_	_	_	_	_	_	O	_
+4	correo	annot3	O	_	_	_	_	_	_	O	_
+5	electrónico	annot3	O	_	_	_	_	_	_	O	_
+6	por	annot3	O	_	_	_	_	_	_	O	_
+7	si	annot3	O	_	_	_	_	_	_	O	_
+8	alguien	annot3	O	_	_	_	_	_	_	O	_
+9	que	annot3	O	_	_	_	_	_	_	O	_
+10	se	annot3	O	_	_	_	_	_	_	O	_
+11	encuentre	annot3	O	_	_	_	_	_	_	O	_
+12	en	annot3	O	_	_	_	_	_	_	O	_
+13	la	annot3	O	_	_	_	_	_	_	O	_
+14	misma	annot3	O	_	_	_	_	_	_	O	_
+15	situación	annot3	O	_	_	_	_	_	_	O	_
+16	quiere	annot3	O	_	_	_	_	_	_	O	_
+17	compartir	annot3	O	_	_	_	_	_	_	O	_
+18	opiniones	annot3	O	_	_	_	_	_	_	O	_
+19	e	annot3	O	_	_	_	_	_	_	O	_
+20	informarnos	annot3	O	_	_	_	_	_	_	O	_
+21	algo	annot3	O	_	_	_	_	_	_	O	_
+22	porque	annot3	O	_	_	_	_	_	_	O	_
+23	en	annot3	O	_	_	_	_	_	_	O	_
+24	mi	annot3	O	_	_	_	_	_	_	O	_
+25	caso	annot3	O	_	_	_	_	_	_	O	_
+26	estamos	annot3	O	_	_	_	_	_	_	O	_
+27	muy	annot3	O	_	_	_	_	_	_	O	_
+28	perdidos	annot3	O	_	_	_	_	_	_	O	_
+29	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 75
+# text = La cosa dicen que no pinta bien pero me niego a aceptar esto.
+1	La	annot3	O	_	_	_	_	_	_	O	_
+2	cosa	annot3	O	_	_	_	_	_	_	O	_
+3	dicen	annot3	O	_	_	_	_	_	_	O	_
+4	que	annot3	O	_	_	_	_	_	_	O	_
+5	no	annot3	O	_	_	_	_	_	_	O	_
+6	pinta	annot3	O	_	_	_	_	_	_	O	_
+7	bien	annot3	O	_	_	_	_	_	_	O	_
+8	pero	annot3	O	_	_	_	_	_	_	O	_
+9	me	annot3	O	_	_	_	_	_	_	O	_
+10	niego	annot3	O	_	_	_	_	_	_	O	_
+11	a	annot3	O	_	_	_	_	_	_	O	_
+12	aceptar	annot3	O	_	_	_	_	_	_	O	_
+13	esto	annot3	O	_	_	_	_	_	_	O	_
+14	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 76
+# text = Creo que tiene que haber personas que hayan podido superar la enfermedad, aunque no tenga cura que la enfermedad se cronifique o algo.
+1	Creo	annot3	O	_	_	_	_	_	_	O	_
+2	que	annot3	O	_	_	_	_	_	_	O	_
+3	tiene	annot3	O	_	_	_	_	_	_	O	_
+4	que	annot3	O	_	_	_	_	_	_	O	_
+5	haber	annot3	O	_	_	_	_	_	_	O	_
+6	personas	annot3	O	_	_	_	_	_	_	O	_
+7	que	annot3	O	_	_	_	_	_	_	O	_
+8	hayan	annot3	O	_	_	_	_	_	_	O	_
+9	podido	annot3	O	_	_	_	_	_	_	O	_
+10	superar	annot3	O	_	_	_	_	_	_	O	_
+11	la	annot3	O	_	_	_	_	_	_	O	_
+12	enfermedad	annot3	O	_	_	_	_	_	_	O	_
+13	,	annot3	O	_	_	_	_	_	_	O	_
+14	aunque	annot3	O	_	_	_	_	_	_	O	_
+15	no	annot3	O	_	_	_	_	_	_	O	_
+16	tenga	annot3	O	_	_	_	_	_	_	O	_
+17	cura	annot3	O	_	_	_	_	_	_	O	_
+18	que	annot3	O	_	_	_	_	_	_	O	_
+19	la	annot3	O	_	_	_	_	_	_	O	_
+20	enfermedad	annot3	O	_	_	_	_	_	_	O	_
+21	se	annot3	O	_	_	_	_	_	_	O	_
+22	cronifique	annot3	O	_	_	_	_	_	_	O	_
+23	o	annot3	O	_	_	_	_	_	_	O	_
+24	algo	annot3	O	_	_	_	_	_	_	O	_
+25	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 77
+# text = Por favor cualquier testimonio o ayuda sería valioso xxxx en estos momentos.
+1	Por	annot3	O	_	_	_	_	_	_	O	_
+2	favor	annot3	O	_	_	_	_	_	_	O	_
+3	cualquier	annot3	O	_	_	_	_	_	_	O	_
+4	testimonio	annot3	O	_	_	_	_	_	_	O	_
+5	o	annot3	O	_	_	_	_	_	_	O	_
+6	ayuda	annot3	O	_	_	_	_	_	_	O	_
+7	sería	annot3	O	_	_	_	_	_	_	O	_
+8	valioso	annot3	O	_	_	_	_	_	_	O	_
+9	xxxx	annot3	O	_	_	_	_	_	_	O	_
+10	en	annot3	O	_	_	_	_	_	_	O	_
+11	estos	annot3	O	_	_	_	_	_	_	O	_
+12	momentos	annot3	O	_	_	_	_	_	_	O	_
+13	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 78
+# text = Un abrazo enorme xxxx, me encantaría tener el placer de contactar contigo.\n\n
+1	Un	annot3	O	_	_	_	_	_	_	O	_
+2	abrazo	annot3	O	_	_	_	_	_	_	O	_
+3	enorme	annot3	O	_	_	_	_	_	_	O	_
+4	xxxx	annot3	O	_	_	_	_	_	_	O	_
+5	,	annot3	O	_	_	_	_	_	_	O	_
+6	me	annot3	O	_	_	_	_	_	_	O	_
+7	encantaría	annot3	O	_	_	_	_	_	_	O	_
+8	tener	annot3	O	_	_	_	_	_	_	O	_
+9	el	annot3	O	_	_	_	_	_	_	O	_
+10	placer	annot3	O	_	_	_	_	_	_	O	_
+11	de	annot3	O	_	_	_	_	_	_	O	_
+12	contactar	annot3	O	_	_	_	_	_	_	O	_
+13	contigo	annot3	O	_	_	_	_	_	_	O	_
+14	.	annot3	O	_	_	_	_	_	_	O	_
+15	\n\n	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 79
+# text = mi correo es este %%EMAIL%%\n\nmin abrazo enorme y mucho ánimo\n\n[Autor 23]: Hola a todos los luchadores que estáis en este grupo!
+1	mi	annot3	O	_	_	_	_	_	_	O	_
+2	correo	annot3	O	_	_	_	_	_	_	O	_
+3	es	annot3	O	_	_	_	_	_	_	O	_
+4	este	annot3	O	_	_	_	_	_	_	O	_
+5	%	annot3	O	_	_	_	_	_	_	O	_
+6	%	annot3	O	_	_	_	_	_	_	O	_
+7	EMAIL%%	annot3	O	_	_	_	_	_	_	O	_
+8	\n\n	annot3	O	_	_	_	_	_	_	O	_
+9	min	annot3	O	_	_	_	_	_	_	O	_
+10	abrazo	annot3	O	_	_	_	_	_	_	O	_
+11	enorme	annot3	O	_	_	_	_	_	_	O	_
+12	y	annot3	O	_	_	_	_	_	_	O	_
+13	mucho	annot3	O	_	_	_	_	_	_	O	_
+14	ánimo	annot3	O	_	_	_	_	_	_	O	_
+15	\n\n	annot3	O	_	_	_	_	_	_	O	_
+16	[	annot3	O	_	_	_	_	_	_	O	_
+17	Autor	annot3	O	_	_	_	_	_	_	O	_
+18	23	annot3	O	_	_	_	_	_	_	O	_
+19	]	annot3	O	_	_	_	_	_	_	O	_
+20	:	annot3	O	_	_	_	_	_	_	O	_
+21	Hola	annot3	O	_	_	_	_	_	_	O	_
+22	a	annot3	O	_	_	_	_	_	_	O	_
+23	todos	annot3	O	_	_	_	_	_	_	O	_
+24	los	annot3	O	_	_	_	_	_	_	O	_
+25	luchadores	annot3	O	_	_	_	_	_	_	O	_
+26	que	annot3	O	_	_	_	_	_	_	O	_
+27	estáis	annot3	O	_	_	_	_	_	_	O	_
+28	en	annot3	O	_	_	_	_	_	_	O	_
+29	este	annot3	O	_	_	_	_	_	_	O	_
+30	grupo	annot3	O	_	_	_	_	_	_	O	_
+31	!	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 80
+# text = Soy xxxxxx, os cuento un poco mi historia, a mi padre le han detectado carcinomatosis peritoneal metástasis de un tumor de primario de origen gástrico.
+1	Soy	annot3	O	_	_	_	_	_	_	O	_
+2	xxxxxx	annot3	O	_	_	_	_	_	_	O	_
+3	,	annot3	O	_	_	_	_	_	_	O	_
+4	os	annot3	O	_	_	_	_	_	_	O	_
+5	cuento	annot3	O	_	_	_	_	_	_	O	_
+6	un	annot3	O	_	_	_	_	_	_	O	_
+7	poco	annot3	O	_	_	_	_	_	_	O	_
+8	mi	annot3	O	_	_	_	_	_	_	O	_
+9	historia	annot3	O	_	_	_	_	_	_	O	_
+10	,	annot3	O	_	_	_	_	_	_	O	_
+11	a	annot3	O	_	_	_	_	_	_	O	_
+12	mi	annot3	O	_	_	_	_	_	_	O	_
+13	padre	annot3	O	_	_	_	_	_	_	O	_
+14	le	annot3	O	_	_	_	_	_	_	O	_
+15	han	annot3	O	_	_	_	_	_	_	O	_
+16	detectado	annot3	O	_	_	_	_	_	_	O	_
+17	carcinomatosis	annot3	O	_	_	_	_	_	_	O	_
+18	peritoneal	annot3	O	_	_	_	_	_	_	O	_
+19	metástasis	annot3	O	_	_	_	_	_	_	O	_
+20	de	annot3	O	_	_	_	_	_	_	O	_
+21	un	annot3	O	_	_	_	_	_	_	O	_
+22	tumor	annot3	O	_	_	_	_	_	_	O	_
+23	de	annot3	O	_	_	_	_	_	_	O	_
+24	primario	annot3	O	_	_	_	_	_	_	O	_
+25	de	annot3	O	_	_	_	_	_	_	O	_
+26	origen	annot3	O	_	_	_	_	_	_	O	_
+27	gástrico	annot3	O	_	_	_	_	_	_	O	_
+28	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 81
+# text = Le operaron hace 6 semanas y ahí fue cuando vieron la metástasis.
+1	Le	annot3	O	_	_	_	_	_	_	O	_
+2	operaron	annot3	O	_	_	_	_	_	_	O	_
+3	hace	annot3	O	_	_	_	_	_	_	O	_
+4	6	annot3	O	_	_	_	_	_	_	O	_
+5	semanas	annot3	O	_	_	_	_	_	_	O	_
+6	y	annot3	O	_	_	_	_	_	_	O	_
+7	ahí	annot3	O	_	_	_	_	_	_	O	_
+8	fue	annot3	O	_	_	_	_	_	_	O	_
+9	cuando	annot3	O	_	_	_	_	_	_	O	_
+10	vieron	annot3	O	_	_	_	_	_	_	O	_
+11	la	annot3	O	_	_	_	_	_	_	O	_
+12	metástasis	annot3	O	_	_	_	_	_	_	O	_
+13	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 82
+# text = Hace dos semanas ha empezado con tratamiento ( folfox) creo que se llama.
+1	Hace	annot3	O	_	_	_	_	_	_	O	_
+2	dos	annot3	O	_	_	_	_	_	_	O	_
+3	semanas	annot3	O	_	_	_	_	_	_	O	_
+4	ha	annot3	O	_	_	_	_	_	_	O	_
+5	empezado	annot3	O	_	_	_	_	_	_	O	_
+6	con	annot3	O	_	_	_	_	_	_	O	_
+7	tratamiento	annot3	O	_	_	_	_	_	_	O	_
+8	(	annot3	O	_	_	_	_	_	_	O	_
+9	folfox	annot3	O	_	_	_	_	_	_	O	_
+10	)	annot3	O	_	_	_	_	_	_	O	_
+11	creo	annot3	O	_	_	_	_	_	_	O	_
+12	que	annot3	O	_	_	_	_	_	_	O	_
+13	se	annot3	O	_	_	_	_	_	_	O	_
+14	llama	annot3	O	_	_	_	_	_	_	O	_
+15	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 83
+# text = No hay mucha información al respuesta ni muchos testimonios.
+1	No	annot3	O	_	_	_	_	_	_	O	_
+2	hay	annot3	O	_	_	_	_	_	_	O	_
+3	mucha	annot3	O	_	_	_	_	_	_	O	_
+4	información	annot3	O	_	_	_	_	_	_	O	_
+5	al	annot3	O	_	_	_	_	_	_	O	_
+6	respuesta	annot3	O	_	_	_	_	_	_	O	_
+7	ni	annot3	O	_	_	_	_	_	_	O	_
+8	muchos	annot3	O	_	_	_	_	_	_	O	_
+9	testimonios	annot3	O	_	_	_	_	_	_	O	_
+10	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 84
+# text = Os dejo mi correo electrónico por si alguien que se encuentre en la misma situación quiere compartir opiniones e informarnos algo porque en mi caso estamos muy perdidos.
+1	Os	annot3	O	_	_	_	_	_	_	O	_
+2	dejo	annot3	O	_	_	_	_	_	_	O	_
+3	mi	annot3	O	_	_	_	_	_	_	O	_
+4	correo	annot3	O	_	_	_	_	_	_	O	_
+5	electrónico	annot3	O	_	_	_	_	_	_	O	_
+6	por	annot3	O	_	_	_	_	_	_	O	_
+7	si	annot3	O	_	_	_	_	_	_	O	_
+8	alguien	annot3	O	_	_	_	_	_	_	O	_
+9	que	annot3	O	_	_	_	_	_	_	O	_
+10	se	annot3	O	_	_	_	_	_	_	O	_
+11	encuentre	annot3	O	_	_	_	_	_	_	O	_
+12	en	annot3	O	_	_	_	_	_	_	O	_
+13	la	annot3	O	_	_	_	_	_	_	O	_
+14	misma	annot3	O	_	_	_	_	_	_	O	_
+15	situación	annot3	O	_	_	_	_	_	_	O	_
+16	quiere	annot3	O	_	_	_	_	_	_	O	_
+17	compartir	annot3	O	_	_	_	_	_	_	O	_
+18	opiniones	annot3	O	_	_	_	_	_	_	O	_
+19	e	annot3	O	_	_	_	_	_	_	O	_
+20	informarnos	annot3	O	_	_	_	_	_	_	O	_
+21	algo	annot3	O	_	_	_	_	_	_	O	_
+22	porque	annot3	O	_	_	_	_	_	_	O	_
+23	en	annot3	O	_	_	_	_	_	_	O	_
+24	mi	annot3	O	_	_	_	_	_	_	O	_
+25	caso	annot3	O	_	_	_	_	_	_	O	_
+26	estamos	annot3	O	_	_	_	_	_	_	O	_
+27	muy	annot3	O	_	_	_	_	_	_	O	_
+28	perdidos	annot3	O	_	_	_	_	_	_	O	_
+29	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 85
+# text = La cosa dicen que no pinta bien pero me niego a aceptar esto.
+1	La	annot3	O	_	_	_	_	_	_	O	_
+2	cosa	annot3	O	_	_	_	_	_	_	O	_
+3	dicen	annot3	O	_	_	_	_	_	_	O	_
+4	que	annot3	O	_	_	_	_	_	_	O	_
+5	no	annot3	O	_	_	_	_	_	_	O	_
+6	pinta	annot3	O	_	_	_	_	_	_	O	_
+7	bien	annot3	O	_	_	_	_	_	_	O	_
+8	pero	annot3	O	_	_	_	_	_	_	O	_
+9	me	annot3	O	_	_	_	_	_	_	O	_
+10	niego	annot3	O	_	_	_	_	_	_	O	_
+11	a	annot3	O	_	_	_	_	_	_	O	_
+12	aceptar	annot3	O	_	_	_	_	_	_	O	_
+13	esto	annot3	O	_	_	_	_	_	_	O	_
+14	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 86
+# text = Creo que tiene que haber personas que hayan podido superar la enfermedad, aunque no tenga cura que la enfermedad se cronifique o algo.
+1	Creo	annot3	O	_	_	_	_	_	_	O	_
+2	que	annot3	O	_	_	_	_	_	_	O	_
+3	tiene	annot3	O	_	_	_	_	_	_	O	_
+4	que	annot3	O	_	_	_	_	_	_	O	_
+5	haber	annot3	O	_	_	_	_	_	_	O	_
+6	personas	annot3	O	_	_	_	_	_	_	O	_
+7	que	annot3	O	_	_	_	_	_	_	O	_
+8	hayan	annot3	O	_	_	_	_	_	_	O	_
+9	podido	annot3	O	_	_	_	_	_	_	O	_
+10	superar	annot3	O	_	_	_	_	_	_	O	_
+11	la	annot3	O	_	_	_	_	_	_	O	_
+12	enfermedad	annot3	O	_	_	_	_	_	_	O	_
+13	,	annot3	O	_	_	_	_	_	_	O	_
+14	aunque	annot3	O	_	_	_	_	_	_	O	_
+15	no	annot3	O	_	_	_	_	_	_	O	_
+16	tenga	annot3	O	_	_	_	_	_	_	O	_
+17	cura	annot3	O	_	_	_	_	_	_	O	_
+18	que	annot3	O	_	_	_	_	_	_	O	_
+19	la	annot3	O	_	_	_	_	_	_	O	_
+20	enfermedad	annot3	O	_	_	_	_	_	_	O	_
+21	se	annot3	O	_	_	_	_	_	_	O	_
+22	cronifique	annot3	O	_	_	_	_	_	_	O	_
+23	o	annot3	O	_	_	_	_	_	_	O	_
+24	algo	annot3	O	_	_	_	_	_	_	O	_
+25	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 87
+# text = Por favor cualquier testimonio o ayuda sería valioso xxxx en estos momentos.
+1	Por	annot3	O	_	_	_	_	_	_	O	_
+2	favor	annot3	O	_	_	_	_	_	_	O	_
+3	cualquier	annot3	O	_	_	_	_	_	_	O	_
+4	testimonio	annot3	O	_	_	_	_	_	_	O	_
+5	o	annot3	O	_	_	_	_	_	_	O	_
+6	ayuda	annot3	O	_	_	_	_	_	_	O	_
+7	sería	annot3	O	_	_	_	_	_	_	O	_
+8	valioso	annot3	O	_	_	_	_	_	_	O	_
+9	xxxx	annot3	O	_	_	_	_	_	_	O	_
+10	en	annot3	O	_	_	_	_	_	_	O	_
+11	estos	annot3	O	_	_	_	_	_	_	O	_
+12	momentos	annot3	O	_	_	_	_	_	_	O	_
+13	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 88
+# text = Un abrazo enorme xxxx, me encantaría tener el placer de contactar contigo.\n\n
+1	Un	annot3	O	_	_	_	_	_	_	O	_
+2	abrazo	annot3	O	_	_	_	_	_	_	O	_
+3	enorme	annot3	O	_	_	_	_	_	_	O	_
+4	xxxx	annot3	O	_	_	_	_	_	_	O	_
+5	,	annot3	O	_	_	_	_	_	_	O	_
+6	me	annot3	O	_	_	_	_	_	_	O	_
+7	encantaría	annot3	O	_	_	_	_	_	_	O	_
+8	tener	annot3	O	_	_	_	_	_	_	O	_
+9	el	annot3	O	_	_	_	_	_	_	O	_
+10	placer	annot3	O	_	_	_	_	_	_	O	_
+11	de	annot3	O	_	_	_	_	_	_	O	_
+12	contactar	annot3	O	_	_	_	_	_	_	O	_
+13	contigo	annot3	O	_	_	_	_	_	_	O	_
+14	.	annot3	O	_	_	_	_	_	_	O	_
+15	\n\n	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 89
+# text = mi correo es este %%EMAIL%%\n\nmin abrazo enorme y mucho ánimo\n\n[Autor 23]: Hola a todos los luchadores que estáis en este grupo!
+1	mi	annot3	O	_	_	_	_	_	_	O	_
+2	correo	annot3	O	_	_	_	_	_	_	O	_
+3	es	annot3	O	_	_	_	_	_	_	O	_
+4	este	annot3	O	_	_	_	_	_	_	O	_
+5	%	annot3	O	_	_	_	_	_	_	O	_
+6	%	annot3	O	_	_	_	_	_	_	O	_
+7	EMAIL%%	annot3	O	_	_	_	_	_	_	O	_
+8	\n\n	annot3	O	_	_	_	_	_	_	O	_
+9	min	annot3	O	_	_	_	_	_	_	O	_
+10	abrazo	annot3	O	_	_	_	_	_	_	O	_
+11	enorme	annot3	O	_	_	_	_	_	_	O	_
+12	y	annot3	O	_	_	_	_	_	_	O	_
+13	mucho	annot3	O	_	_	_	_	_	_	O	_
+14	ánimo	annot3	O	_	_	_	_	_	_	O	_
+15	\n\n	annot3	O	_	_	_	_	_	_	O	_
+16	[	annot3	O	_	_	_	_	_	_	O	_
+17	Autor	annot3	O	_	_	_	_	_	_	O	_
+18	23	annot3	O	_	_	_	_	_	_	O	_
+19	]	annot3	O	_	_	_	_	_	_	O	_
+20	:	annot3	O	_	_	_	_	_	_	O	_
+21	Hola	annot3	O	_	_	_	_	_	_	O	_
+22	a	annot3	O	_	_	_	_	_	_	O	_
+23	todos	annot3	O	_	_	_	_	_	_	O	_
+24	los	annot3	O	_	_	_	_	_	_	O	_
+25	luchadores	annot3	O	_	_	_	_	_	_	O	_
+26	que	annot3	O	_	_	_	_	_	_	O	_
+27	estáis	annot3	O	_	_	_	_	_	_	O	_
+28	en	annot3	O	_	_	_	_	_	_	O	_
+29	este	annot3	O	_	_	_	_	_	_	O	_
+30	grupo	annot3	O	_	_	_	_	_	_	O	_
+31	!	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 90
+# text = Soy xxxxxx, os cuento un poco mi historia, a mi padre le han detectado carcinomatosis peritoneal metástasis de un tumor de primario de origen gástrico.
+1	Soy	annot3	O	_	_	_	_	_	_	O	_
+2	xxxxxx	annot3	O	_	_	_	_	_	_	O	_
+3	,	annot3	O	_	_	_	_	_	_	O	_
+4	os	annot3	O	_	_	_	_	_	_	O	_
+5	cuento	annot3	O	_	_	_	_	_	_	O	_
+6	un	annot3	O	_	_	_	_	_	_	O	_
+7	poco	annot3	O	_	_	_	_	_	_	O	_
+8	mi	annot3	O	_	_	_	_	_	_	O	_
+9	historia	annot3	O	_	_	_	_	_	_	O	_
+10	,	annot3	O	_	_	_	_	_	_	O	_
+11	a	annot3	O	_	_	_	_	_	_	O	_
+12	mi	annot3	O	_	_	_	_	_	_	O	_
+13	padre	annot3	O	_	_	_	_	_	_	O	_
+14	le	annot3	O	_	_	_	_	_	_	O	_
+15	han	annot3	O	_	_	_	_	_	_	O	_
+16	detectado	annot3	O	_	_	_	_	_	_	O	_
+17	carcinomatosis	annot3	O	_	_	_	_	_	_	O	_
+18	peritoneal	annot3	O	_	_	_	_	_	_	O	_
+19	metástasis	annot3	O	_	_	_	_	_	_	O	_
+20	de	annot3	O	_	_	_	_	_	_	O	_
+21	un	annot3	O	_	_	_	_	_	_	O	_
+22	tumor	annot3	O	_	_	_	_	_	_	O	_
+23	de	annot3	O	_	_	_	_	_	_	O	_
+24	primario	annot3	O	_	_	_	_	_	_	O	_
+25	de	annot3	O	_	_	_	_	_	_	O	_
+26	origen	annot3	O	_	_	_	_	_	_	O	_
+27	gástrico	annot3	O	_	_	_	_	_	_	O	_
+28	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 91
+# text = Le operaron hace 6 semanas y ahí fue cuando vieron la metástasis.
+1	Le	annot3	O	_	_	_	_	_	_	O	_
+2	operaron	annot3	O	_	_	_	_	_	_	O	_
+3	hace	annot3	O	_	_	_	_	_	_	O	_
+4	6	annot3	O	_	_	_	_	_	_	O	_
+5	semanas	annot3	O	_	_	_	_	_	_	O	_
+6	y	annot3	O	_	_	_	_	_	_	O	_
+7	ahí	annot3	O	_	_	_	_	_	_	O	_
+8	fue	annot3	O	_	_	_	_	_	_	O	_
+9	cuando	annot3	O	_	_	_	_	_	_	O	_
+10	vieron	annot3	O	_	_	_	_	_	_	O	_
+11	la	annot3	O	_	_	_	_	_	_	O	_
+12	metástasis	annot3	O	_	_	_	_	_	_	O	_
+13	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 92
+# text = Hace dos semanas ha empezado con tratamiento ( folfox) creo que se llama.
+1	Hace	annot3	O	_	_	_	_	_	_	O	_
+2	dos	annot3	O	_	_	_	_	_	_	O	_
+3	semanas	annot3	O	_	_	_	_	_	_	O	_
+4	ha	annot3	O	_	_	_	_	_	_	O	_
+5	empezado	annot3	O	_	_	_	_	_	_	O	_
+6	con	annot3	O	_	_	_	_	_	_	O	_
+7	tratamiento	annot3	O	_	_	_	_	_	_	O	_
+8	(	annot3	O	_	_	_	_	_	_	O	_
+9	folfox	annot3	O	_	_	_	_	_	_	O	_
+10	)	annot3	O	_	_	_	_	_	_	O	_
+11	creo	annot3	O	_	_	_	_	_	_	O	_
+12	que	annot3	O	_	_	_	_	_	_	O	_
+13	se	annot3	O	_	_	_	_	_	_	O	_
+14	llama	annot3	O	_	_	_	_	_	_	O	_
+15	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 93
+# text = No hay mucha información al respuesta ni muchos testimonios.
+1	No	annot3	O	_	_	_	_	_	_	O	_
+2	hay	annot3	O	_	_	_	_	_	_	O	_
+3	mucha	annot3	O	_	_	_	_	_	_	O	_
+4	información	annot3	O	_	_	_	_	_	_	O	_
+5	al	annot3	O	_	_	_	_	_	_	O	_
+6	respuesta	annot3	O	_	_	_	_	_	_	O	_
+7	ni	annot3	O	_	_	_	_	_	_	O	_
+8	muchos	annot3	O	_	_	_	_	_	_	O	_
+9	testimonios	annot3	O	_	_	_	_	_	_	O	_
+10	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 94
+# text = Os dejo mi correo electrónico por si alguien que se encuentre en la misma situación quiere compartir opiniones e informarnos algo porque en mi caso estamos muy perdidos.
+1	Os	annot3	O	_	_	_	_	_	_	O	_
+2	dejo	annot3	O	_	_	_	_	_	_	O	_
+3	mi	annot3	O	_	_	_	_	_	_	O	_
+4	correo	annot3	O	_	_	_	_	_	_	O	_
+5	electrónico	annot3	O	_	_	_	_	_	_	O	_
+6	por	annot3	O	_	_	_	_	_	_	O	_
+7	si	annot3	O	_	_	_	_	_	_	O	_
+8	alguien	annot3	O	_	_	_	_	_	_	O	_
+9	que	annot3	O	_	_	_	_	_	_	O	_
+10	se	annot3	O	_	_	_	_	_	_	O	_
+11	encuentre	annot3	O	_	_	_	_	_	_	O	_
+12	en	annot3	O	_	_	_	_	_	_	O	_
+13	la	annot3	O	_	_	_	_	_	_	O	_
+14	misma	annot3	O	_	_	_	_	_	_	O	_
+15	situación	annot3	O	_	_	_	_	_	_	O	_
+16	quiere	annot3	O	_	_	_	_	_	_	O	_
+17	compartir	annot3	O	_	_	_	_	_	_	O	_
+18	opiniones	annot3	O	_	_	_	_	_	_	O	_
+19	e	annot3	O	_	_	_	_	_	_	O	_
+20	informarnos	annot3	O	_	_	_	_	_	_	O	_
+21	algo	annot3	O	_	_	_	_	_	_	O	_
+22	porque	annot3	O	_	_	_	_	_	_	O	_
+23	en	annot3	O	_	_	_	_	_	_	O	_
+24	mi	annot3	O	_	_	_	_	_	_	O	_
+25	caso	annot3	O	_	_	_	_	_	_	O	_
+26	estamos	annot3	O	_	_	_	_	_	_	O	_
+27	muy	annot3	O	_	_	_	_	_	_	O	_
+28	perdidos	annot3	O	_	_	_	_	_	_	O	_
+29	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 95
+# text = La cosa dicen que no pinta bien pero me niego a aceptar esto.
+1	La	annot3	O	_	_	_	_	_	_	O	_
+2	cosa	annot3	O	_	_	_	_	_	_	O	_
+3	dicen	annot3	O	_	_	_	_	_	_	O	_
+4	que	annot3	O	_	_	_	_	_	_	O	_
+5	no	annot3	O	_	_	_	_	_	_	O	_
+6	pinta	annot3	O	_	_	_	_	_	_	O	_
+7	bien	annot3	O	_	_	_	_	_	_	O	_
+8	pero	annot3	O	_	_	_	_	_	_	O	_
+9	me	annot3	O	_	_	_	_	_	_	O	_
+10	niego	annot3	O	_	_	_	_	_	_	O	_
+11	a	annot3	O	_	_	_	_	_	_	O	_
+12	aceptar	annot3	O	_	_	_	_	_	_	O	_
+13	esto	annot3	O	_	_	_	_	_	_	O	_
+14	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 96
+# text = Creo que tiene que haber personas que hayan podido superar la enfermedad, aunque no tenga cura que la enfermedad se cronifique o algo.
+1	Creo	annot3	O	_	_	_	_	_	_	O	_
+2	que	annot3	O	_	_	_	_	_	_	O	_
+3	tiene	annot3	O	_	_	_	_	_	_	O	_
+4	que	annot3	O	_	_	_	_	_	_	O	_
+5	haber	annot3	O	_	_	_	_	_	_	O	_
+6	personas	annot3	O	_	_	_	_	_	_	O	_
+7	que	annot3	O	_	_	_	_	_	_	O	_
+8	hayan	annot3	O	_	_	_	_	_	_	O	_
+9	podido	annot3	O	_	_	_	_	_	_	O	_
+10	superar	annot3	O	_	_	_	_	_	_	O	_
+11	la	annot3	O	_	_	_	_	_	_	O	_
+12	enfermedad	annot3	O	_	_	_	_	_	_	O	_
+13	,	annot3	O	_	_	_	_	_	_	O	_
+14	aunque	annot3	O	_	_	_	_	_	_	O	_
+15	no	annot3	O	_	_	_	_	_	_	O	_
+16	tenga	annot3	O	_	_	_	_	_	_	O	_
+17	cura	annot3	O	_	_	_	_	_	_	O	_
+18	que	annot3	O	_	_	_	_	_	_	O	_
+19	la	annot3	O	_	_	_	_	_	_	O	_
+20	enfermedad	annot3	O	_	_	_	_	_	_	O	_
+21	se	annot3	O	_	_	_	_	_	_	O	_
+22	cronifique	annot3	O	_	_	_	_	_	_	O	_
+23	o	annot3	O	_	_	_	_	_	_	O	_
+24	algo	annot3	O	_	_	_	_	_	_	O	_
+25	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 97
+# text = Por favor cualquier testimonio o ayuda sería valioso xxxx en estos momentos.
+1	Por	annot3	O	_	_	_	_	_	_	O	_
+2	favor	annot3	O	_	_	_	_	_	_	O	_
+3	cualquier	annot3	O	_	_	_	_	_	_	O	_
+4	testimonio	annot3	O	_	_	_	_	_	_	O	_
+5	o	annot3	O	_	_	_	_	_	_	O	_
+6	ayuda	annot3	O	_	_	_	_	_	_	O	_
+7	sería	annot3	O	_	_	_	_	_	_	O	_
+8	valioso	annot3	O	_	_	_	_	_	_	O	_
+9	xxxx	annot3	O	_	_	_	_	_	_	O	_
+10	en	annot3	O	_	_	_	_	_	_	O	_
+11	estos	annot3	O	_	_	_	_	_	_	O	_
+12	momentos	annot3	O	_	_	_	_	_	_	O	_
+13	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 98
+# text = Un abrazo enorme xxxx, me encantaría tener el placer de contactar contigo.\n\n
+1	Un	annot3	O	_	_	_	_	_	_	O	_
+2	abrazo	annot3	O	_	_	_	_	_	_	O	_
+3	enorme	annot3	O	_	_	_	_	_	_	O	_
+4	xxxx	annot3	O	_	_	_	_	_	_	O	_
+5	,	annot3	O	_	_	_	_	_	_	O	_
+6	me	annot3	O	_	_	_	_	_	_	O	_
+7	encantaría	annot3	O	_	_	_	_	_	_	O	_
+8	tener	annot3	O	_	_	_	_	_	_	O	_
+9	el	annot3	O	_	_	_	_	_	_	O	_
+10	placer	annot3	O	_	_	_	_	_	_	O	_
+11	de	annot3	O	_	_	_	_	_	_	O	_
+12	contactar	annot3	O	_	_	_	_	_	_	O	_
+13	contigo	annot3	O	_	_	_	_	_	_	O	_
+14	.	annot3	O	_	_	_	_	_	_	O	_
+15	\n\n	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 99
+# text = mi correo es este %%EMAIL%%\n\nmin abrazo enorme y mucho ánimo\n\n[Autor 18]: Hola xxxxxx, siento lo de tu padre, pero hoy en día hay muchos tratamientos para cronificar la enfermedad.
+1	mi	annot3	O	_	_	_	_	_	_	O	_
+2	correo	annot3	O	_	_	_	_	_	_	O	_
+3	es	annot3	O	_	_	_	_	_	_	O	_
+4	este	annot3	O	_	_	_	_	_	_	O	_
+5	%	annot3	O	_	_	_	_	_	_	O	_
+6	%	annot3	O	_	_	_	_	_	_	O	_
+7	EMAIL%%	annot3	O	_	_	_	_	_	_	O	_
+8	\n\n	annot3	O	_	_	_	_	_	_	O	_
+9	min	annot3	O	_	_	_	_	_	_	O	_
+10	abrazo	annot3	O	_	_	_	_	_	_	O	_
+11	enorme	annot3	O	_	_	_	_	_	_	O	_
+12	y	annot3	O	_	_	_	_	_	_	O	_
+13	mucho	annot3	O	_	_	_	_	_	_	O	_
+14	ánimo	annot3	O	_	_	_	_	_	_	O	_
+15	\n\n	annot3	O	_	_	_	_	_	_	O	_
+16	[	annot3	O	_	_	_	_	_	_	O	_
+17	Autor	annot3	O	_	_	_	_	_	_	O	_
+18	18	annot3	O	_	_	_	_	_	_	O	_
+19	]	annot3	O	_	_	_	_	_	_	O	_
+20	:	annot3	O	_	_	_	_	_	_	O	_
+21	Hola	annot3	O	_	_	_	_	_	_	O	_
+22	xxxxxx	annot3	O	_	_	_	_	_	_	O	_
+23	,	annot3	O	_	_	_	_	_	_	O	_
+24	siento	annot3	O	_	_	_	_	_	_	O	_
+25	lo	annot3	O	_	_	_	_	_	_	O	_
+26	de	annot3	O	_	_	_	_	_	_	O	_
+27	tu	annot3	O	_	_	_	_	_	_	O	_
+28	padre	annot3	O	_	_	_	_	_	_	O	_
+29	,	annot3	O	_	_	_	_	_	_	O	_
+30	pero	annot3	O	_	_	_	_	_	_	O	_
+31	hoy	annot3	O	_	_	_	_	_	_	O	_
+32	en	annot3	O	_	_	_	_	_	_	O	_
+33	día	annot3	O	_	_	_	_	_	_	O	_
+34	hay	annot3	O	_	_	_	_	_	_	O	_
+35	muchos	annot3	O	_	_	_	_	_	_	O	_
+36	tratamientos	annot3	O	_	_	_	_	_	_	O	_
+37	para	annot3	O	_	_	_	_	_	_	O	_
+38	cronificar	annot3	O	_	_	_	_	_	_	O	_
+39	la	annot3	O	_	_	_	_	_	_	O	_
+40	enfermedad	annot3	O	_	_	_	_	_	_	O	_
+41	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 100
+# text = Ahora te escribiré por privado porque tambien hay una asociación para primarios gástricos, donde hay muchos testimonios de supervivientes, no es mi caso, pero me gusta entrar de vez en cuando porque los tratamientos son similares y los relatos de la gente muy esperanzadores.
+1	Ahora	annot3	O	_	_	_	_	_	_	O	_
+2	te	annot3	O	_	_	_	_	_	_	O	_
+3	escribiré	annot3	O	_	_	_	_	_	_	O	_
+4	por	annot3	O	_	_	_	_	_	_	O	_
+5	privado	annot3	O	_	_	_	_	_	_	O	_
+6	porque	annot3	O	_	_	_	_	_	_	O	_
+7	tambien	annot3	O	_	_	_	_	_	_	O	_
+8	hay	annot3	O	_	_	_	_	_	_	O	_
+9	una	annot3	O	_	_	_	_	_	_	O	_
+10	asociación	annot3	O	_	_	_	_	_	_	O	_
+11	para	annot3	O	_	_	_	_	_	_	O	_
+12	primarios	annot3	O	_	_	_	_	_	_	O	_
+13	gástricos	annot3	O	_	_	_	_	_	_	O	_
+14	,	annot3	O	_	_	_	_	_	_	O	_
+15	donde	annot3	O	_	_	_	_	_	_	O	_
+16	hay	annot3	O	_	_	_	_	_	_	O	_
+17	muchos	annot3	O	_	_	_	_	_	_	O	_
+18	testimonios	annot3	O	_	_	_	_	_	_	O	_
+19	de	annot3	O	_	_	_	_	_	_	O	_
+20	supervivientes	annot3	O	_	_	_	_	_	_	O	_
+21	,	annot3	O	_	_	_	_	_	_	O	_
+22	no	annot3	O	_	_	_	_	_	_	O	_
+23	es	annot3	O	_	_	_	_	_	_	O	_
+24	mi	annot3	O	_	_	_	_	_	_	O	_
+25	caso	annot3	O	_	_	_	_	_	_	O	_
+26	,	annot3	O	_	_	_	_	_	_	O	_
+27	pero	annot3	O	_	_	_	_	_	_	O	_
+28	me	annot3	O	_	_	_	_	_	_	O	_
+29	gusta	annot3	O	_	_	_	_	_	_	O	_
+30	entrar	annot3	O	_	_	_	_	_	_	O	_
+31	de	annot3	O	_	_	_	_	_	_	O	_
+32	vez	annot3	O	_	_	_	_	_	_	O	_
+33	en	annot3	O	_	_	_	_	_	_	O	_
+34	cuando	annot3	O	_	_	_	_	_	_	O	_
+35	porque	annot3	O	_	_	_	_	_	_	O	_
+36	los	annot3	O	_	_	_	_	_	_	O	_
+37	tratamientos	annot3	O	_	_	_	_	_	_	O	_
+38	son	annot3	O	_	_	_	_	_	_	O	_
+39	similares	annot3	O	_	_	_	_	_	_	O	_
+40	y	annot3	O	_	_	_	_	_	_	O	_
+41	los	annot3	O	_	_	_	_	_	_	O	_
+42	relatos	annot3	O	_	_	_	_	_	_	O	_
+43	de	annot3	O	_	_	_	_	_	_	O	_
+44	la	annot3	O	_	_	_	_	_	_	O	_
+45	gente	annot3	O	_	_	_	_	_	_	O	_
+46	muy	annot3	O	_	_	_	_	_	_	O	_
+47	esperanzadores	annot3	O	_	_	_	_	_	_	O	_
+48	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 101
+# text = Me alegro de que te hayas animado a escribir por aquí.
+1	Me	annot3	O	_	_	_	_	_	_	O	_
+2	alegro	annot3	O	_	_	_	_	_	_	O	_
+3	de	annot3	O	_	_	_	_	_	_	O	_
+4	que	annot3	O	_	_	_	_	_	_	O	_
+5	te	annot3	O	_	_	_	_	_	_	O	_
+6	hayas	annot3	O	_	_	_	_	_	_	O	_
+7	animado	annot3	O	_	_	_	_	_	_	O	_
+8	a	annot3	O	_	_	_	_	_	_	O	_
+9	escribir	annot3	O	_	_	_	_	_	_	O	_
+10	por	annot3	O	_	_	_	_	_	_	O	_
+11	aquí	annot3	O	_	_	_	_	_	_	O	_
+12	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 102
+# text = Un abrazo!\n\n
+1	Un	annot3	O	_	_	_	_	_	_	O	_
+2	abrazo	annot3	O	_	_	_	_	_	_	O	_
+3	!	annot3	O	_	_	_	_	_	_	O	_
+4	\n\n	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 103
+# text = [Autor 22]: Hola buenas noches , yo he sido operado de cancer renal hace 3 años, me gustaria saber mas de la asociacion de pacientes de cancer renal\n\nMuchas gracias\n\n\n\nxxxxx xxxxxxx\n\n[Autor 18]: Hola xxxxx, se llama xxxxxx, por si quieres buscar información.
+1	[	annot3	O	_	_	_	_	_	_	O	_
+2	Autor	annot3	O	_	_	_	_	_	_	O	_
+3	22	annot3	O	_	_	_	_	_	_	O	_
+4	]	annot3	O	_	_	_	_	_	_	O	_
+5	:	annot3	O	_	_	_	_	_	_	O	_
+6	Hola	annot3	O	_	_	_	_	_	_	O	_
+7	buenas	annot3	O	_	_	_	_	_	_	O	_
+8	noches	annot3	O	_	_	_	_	_	_	O	_
+9	,	annot3	O	_	_	_	_	_	_	O	_
+10	yo	annot3	O	_	_	_	_	_	_	O	_
+11	he	annot3	O	_	_	_	_	_	_	O	_
+12	sido	annot3	O	_	_	_	_	_	_	O	_
+13	operado	annot3	O	_	_	_	_	_	_	O	_
+14	de	annot3	O	_	_	_	_	_	_	O	_
+15	cancer	annot3	O	_	_	_	_	_	_	O	_
+16	renal	annot3	O	_	_	_	_	_	_	O	_
+17	hace	annot3	O	_	_	_	_	_	_	O	_
+18	3	annot3	O	_	_	_	_	_	_	O	_
+19	años	annot3	O	_	_	_	_	_	_	O	_
+20	,	annot3	O	_	_	_	_	_	_	O	_
+21	me	annot3	O	_	_	_	_	_	_	O	_
+22	gustaria	annot3	O	_	_	_	_	_	_	O	_
+23	saber	annot3	O	_	_	_	_	_	_	O	_
+24	mas	annot3	O	_	_	_	_	_	_	O	_
+25	de	annot3	O	_	_	_	_	_	_	O	_
+26	la	annot3	O	_	_	_	_	_	_	O	_
+27	asociacion	annot3	O	_	_	_	_	_	_	O	_
+28	de	annot3	O	_	_	_	_	_	_	O	_
+29	pacientes	annot3	O	_	_	_	_	_	_	O	_
+30	de	annot3	O	_	_	_	_	_	_	O	_
+31	cancer	annot3	O	_	_	_	_	_	_	O	_
+32	renal	annot3	O	_	_	_	_	_	_	O	_
+33	\n\n	annot3	O	_	_	_	_	_	_	O	_
+34	Muchas	annot3	O	_	_	_	_	_	_	O	_
+35	gracias	annot3	O	_	_	_	_	_	_	O	_
+36	\n\n\n\n	annot3	O	_	_	_	_	_	_	O	_
+37	xxxxx	annot3	O	_	_	_	_	_	_	O	_
+38	xxxxxxx	annot3	O	_	_	_	_	_	_	O	_
+39	\n\n	annot3	O	_	_	_	_	_	_	O	_
+40	[	annot3	O	_	_	_	_	_	_	O	_
+41	Autor	annot3	O	_	_	_	_	_	_	O	_
+42	18	annot3	O	_	_	_	_	_	_	O	_
+43	]	annot3	O	_	_	_	_	_	_	O	_
+44	:	annot3	O	_	_	_	_	_	_	O	_
+45	Hola	annot3	O	_	_	_	_	_	_	O	_
+46	xxxxx	annot3	O	_	_	_	_	_	_	O	_
+47	,	annot3	O	_	_	_	_	_	_	O	_
+48	se	annot3	O	_	_	_	_	_	_	O	_
+49	llama	annot3	O	_	_	_	_	_	_	O	_
+50	xxxxxx	annot3	O	_	_	_	_	_	_	O	_
+51	,	annot3	O	_	_	_	_	_	_	O	_
+52	por	annot3	O	_	_	_	_	_	_	O	_
+53	si	annot3	O	_	_	_	_	_	_	O	_
+54	quieres	annot3	O	_	_	_	_	_	_	O	_
+55	buscar	annot3	O	_	_	_	_	_	_	O	_
+56	información	annot3	O	_	_	_	_	_	_	O	_
+57	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 104
+# text = Si te interesa entrar en el grupo de whats dimelo y te explico como.
+1	Si	annot3	O	_	_	_	_	_	_	O	_
+2	te	annot3	O	_	_	_	_	_	_	O	_
+3	interesa	annot3	O	_	_	_	_	_	_	O	_
+4	entrar	annot3	O	_	_	_	_	_	_	O	_
+5	en	annot3	O	_	_	_	_	_	_	O	_
+6	el	annot3	O	_	_	_	_	_	_	O	_
+7	grupo	annot3	O	_	_	_	_	_	_	O	_
+8	de	annot3	O	_	_	_	_	_	_	O	_
+9	whats	annot3	O	_	_	_	_	_	_	O	_
+10	dimelo	annot3	O	_	_	_	_	_	_	O	_
+11	y	annot3	O	_	_	_	_	_	_	O	_
+12	te	annot3	O	_	_	_	_	_	_	O	_
+13	explico	annot3	O	_	_	_	_	_	_	O	_
+14	como	annot3	O	_	_	_	_	_	_	O	_
+15	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 105
+# text = Un abrazo\n\n[Autor 18]: Hola a tod@s, sigo escribiendo aquí, por si alguien lo lee y le sirve.
+1	Un	annot3	O	_	_	_	_	_	_	O	_
+2	abrazo	annot3	O	_	_	_	_	_	_	O	_
+3	\n\n	annot3	O	_	_	_	_	_	_	O	_
+4	[	annot3	O	_	_	_	_	_	_	O	_
+5	Autor	annot3	O	_	_	_	_	_	_	O	_
+6	18	annot3	O	_	_	_	_	_	_	O	_
+7	]	annot3	O	_	_	_	_	_	_	O	_
+8	:	annot3	O	_	_	_	_	_	_	O	_
+9	Hola	annot3	O	_	_	_	_	_	_	O	_
+10	a	annot3	O	_	_	_	_	_	_	O	_
+11	tod@s	annot3	O	_	_	_	_	_	_	O	_
+12	,	annot3	O	_	_	_	_	_	_	O	_
+13	sigo	annot3	O	_	_	_	_	_	_	O	_
+14	escribiendo	annot3	O	_	_	_	_	_	_	O	_
+15	aquí	annot3	O	_	_	_	_	_	_	O	_
+16	,	annot3	O	_	_	_	_	_	_	O	_
+17	por	annot3	O	_	_	_	_	_	_	O	_
+18	si	annot3	O	_	_	_	_	_	_	O	_
+19	alguien	annot3	O	_	_	_	_	_	_	O	_
+20	lo	annot3	O	_	_	_	_	_	_	O	_
+21	lee	annot3	O	_	_	_	_	_	_	O	_
+22	y	annot3	O	_	_	_	_	_	_	O	_
+23	le	annot3	O	_	_	_	_	_	_	O	_
+24	sirve	annot3	O	_	_	_	_	_	_	O	_
+25	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 106
+# text = Después de una año y un mes con sunitinib, de nuevo he tenido buenos resultados y todos los nódulos de la metástasis han reducido su tamaño.
+1	Después	annot3	O	_	_	_	_	_	_	O	_
+2	de	annot3	O	_	_	_	_	_	_	O	_
+3	una	annot3	O	_	_	_	_	_	_	O	_
+4	año	annot3	O	_	_	_	_	_	_	O	_
+5	y	annot3	O	_	_	_	_	_	_	O	_
+6	un	annot3	O	_	_	_	_	_	_	O	_
+7	mes	annot3	O	_	_	_	_	_	_	O	_
+8	con	annot3	O	_	_	_	_	_	_	O	_
+9	sunitinib	annot3	O	_	_	_	_	_	_	O	_
+10	,	annot3	O	_	_	_	_	_	_	O	_
+11	de	annot3	O	_	_	_	_	_	_	O	_
+12	nuevo	annot3	O	_	_	_	_	_	_	O	_
+13	he	annot3	O	_	_	_	_	_	_	O	_
+14	tenido	annot3	O	_	_	_	_	_	_	O	_
+15	buenos	annot3	O	_	_	_	_	_	_	O	_
+16	resultados	annot3	O	_	_	_	_	_	_	O	_
+17	y	annot3	O	_	_	_	_	_	_	O	_
+18	todos	annot3	O	_	_	_	_	_	_	O	_
+19	los	annot3	O	_	_	_	_	_	_	O	_
+20	nódulos	annot3	O	_	_	_	_	_	_	O	_
+21	de	annot3	O	_	_	_	_	_	_	O	_
+22	la	annot3	O	_	_	_	_	_	_	O	_
+23	metástasis	annot3	O	_	_	_	_	_	_	O	_
+24	han	annot3	O	_	_	_	_	_	_	O	_
+25	reducido	annot3	O	_	_	_	_	_	_	O	_
+26	su	annot3	O	_	_	_	_	_	_	O	_
+27	tamaño	annot3	O	_	_	_	_	_	_	O	_
+28	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 107
+# text = Más que feliz por el resultado y esperando que siga así por mucho tiempo más.
+1	Más	annot3	O	_	_	_	_	_	_	O	_
+2	que	annot3	O	_	_	_	_	_	_	O	_
+3	feliz	annot3	O	_	_	_	_	_	_	O	_
+4	por	annot3	O	_	_	_	_	_	_	O	_
+5	el	annot3	O	_	_	_	_	_	_	O	_
+6	resultado	annot3	O	_	_	_	_	_	_	O	_
+7	y	annot3	O	_	_	_	_	_	_	O	_
+8	esperando	annot3	O	_	_	_	_	_	_	O	_
+9	que	annot3	O	_	_	_	_	_	_	O	_
+10	siga	annot3	O	_	_	_	_	_	_	O	_
+11	así	annot3	O	_	_	_	_	_	_	O	_
+12	por	annot3	O	_	_	_	_	_	_	O	_
+13	mucho	annot3	O	_	_	_	_	_	_	O	_
+14	tiempo	annot3	O	_	_	_	_	_	_	O	_
+15	más	annot3	O	_	_	_	_	_	_	O	_
+16	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 108
+# text = Los efectos del sunitinib cada vez son más llevaderos, sigo trabajando y para celebrar los resultados me marcho de vacaciones a Francia una semana.
+1	Los	annot3	O	_	_	_	_	_	_	O	_
+2	efectos	annot3	O	_	_	_	_	_	_	O	_
+3	del	annot3	O	_	_	_	_	_	_	O	_
+4	sunitinib	annot3	O	_	_	_	_	_	_	O	_
+5	cada	annot3	O	_	_	_	_	_	_	O	_
+6	vez	annot3	O	_	_	_	_	_	_	O	_
+7	son	annot3	O	_	_	_	_	_	_	O	_
+8	más	annot3	O	_	_	_	_	_	_	O	_
+9	llevaderos	annot3	B	_	_	_	_	_	_	O	_
+10	,	annot3	O	_	_	_	_	_	_	O	_
+11	sigo	annot3	O	_	_	_	_	_	_	O	_
+12	trabajando	annot3	O	_	_	_	_	_	_	O	_
+13	y	annot3	O	_	_	_	_	_	_	O	_
+14	para	annot3	O	_	_	_	_	_	_	O	_
+15	celebrar	annot3	O	_	_	_	_	_	_	O	_
+16	los	annot3	O	_	_	_	_	_	_	O	_
+17	resultados	annot3	O	_	_	_	_	_	_	O	_
+18	me	annot3	O	_	_	_	_	_	_	O	_
+19	marcho	annot3	O	_	_	_	_	_	_	O	_
+20	de	annot3	O	_	_	_	_	_	_	O	_
+21	vacaciones	annot3	O	_	_	_	_	_	_	O	_
+22	a	annot3	O	_	_	_	_	_	_	O	_
+23	Francia	annot3	O	_	_	_	_	_	_	O	_
+24	una	annot3	O	_	_	_	_	_	_	O	_
+25	semana	annot3	O	_	_	_	_	_	_	O	_
+26	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 109
+# text = Mucha fuerza y ánimo para los que estais igual que yo, mejor o peor, la esperanza de unos, es la esperanza de todos.
+1	Mucha	annot3	O	_	_	_	_	_	_	O	_
+2	fuerza	annot3	O	_	_	_	_	_	_	O	_
+3	y	annot3	O	_	_	_	_	_	_	O	_
+4	ánimo	annot3	O	_	_	_	_	_	_	O	_
+5	para	annot3	O	_	_	_	_	_	_	O	_
+6	los	annot3	O	_	_	_	_	_	_	O	_
+7	que	annot3	O	_	_	_	_	_	_	O	_
+8	estais	annot3	O	_	_	_	_	_	_	O	_
+9	igual	annot3	O	_	_	_	_	_	_	O	_
+10	que	annot3	O	_	_	_	_	_	_	O	_
+11	yo	annot3	O	_	_	_	_	_	_	O	_
+12	,	annot3	O	_	_	_	_	_	_	O	_
+13	mejor	annot3	O	_	_	_	_	_	_	O	_
+14	o	annot3	O	_	_	_	_	_	_	O	_
+15	peor	annot3	O	_	_	_	_	_	_	O	_
+16	,	annot3	O	_	_	_	_	_	_	O	_
+17	la	annot3	O	_	_	_	_	_	_	O	_
+18	esperanza	annot3	O	_	_	_	_	_	_	O	_
+19	de	annot3	O	_	_	_	_	_	_	O	_
+20	unos	annot3	O	_	_	_	_	_	_	O	_
+21	,	annot3	O	_	_	_	_	_	_	O	_
+22	es	annot3	O	_	_	_	_	_	_	O	_
+23	la	annot3	O	_	_	_	_	_	_	O	_
+24	esperanza	annot3	O	_	_	_	_	_	_	O	_
+25	de	annot3	O	_	_	_	_	_	_	O	_
+26	todos	annot3	O	_	_	_	_	_	_	O	_
+27	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 110
+# text = Un gran abrazo!\n\n
+1	Un	annot3	O	_	_	_	_	_	_	O	_
+2	gran	annot3	O	_	_	_	_	_	_	O	_
+3	abrazo	annot3	O	_	_	_	_	_	_	O	_
+4	!	annot3	O	_	_	_	_	_	_	O	_
+5	\n\n	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 111
+# text = [Autor 21]: Yo te leo xxxx, me haces sentir mejor.
+1	[	annot3	O	_	_	_	_	_	_	O	_
+2	Autor	annot3	O	_	_	_	_	_	_	O	_
+3	21	annot3	O	_	_	_	_	_	_	O	_
+4	]	annot3	O	_	_	_	_	_	_	O	_
+5	:	annot3	O	_	_	_	_	_	_	O	_
+6	Yo	annot3	O	_	_	_	_	_	_	O	_
+7	te	annot3	O	_	_	_	_	_	_	O	_
+8	leo	annot3	O	_	_	_	_	_	_	O	_
+9	xxxx	annot3	O	_	_	_	_	_	_	O	_
+10	,	annot3	O	_	_	_	_	_	_	O	_
+11	me	annot3	O	_	_	_	_	_	_	O	_
+12	haces	annot3	O	_	_	_	_	_	_	O	_
+13	sentir	annot3	O	_	_	_	_	_	_	O	_
+14	mejor	annot3	O	_	_	_	_	_	_	O	_
+15	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 112
+# text = Sinceramente siempre mereconfortan tus palabras.
+1	Sinceramente	annot3	O	_	_	_	_	_	_	O	_
+2	siempre	annot3	O	_	_	_	_	_	_	O	_
+3	mereconfortan	annot3	O	_	_	_	_	_	_	O	_
+4	tus	annot3	O	_	_	_	_	_	_	O	_
+5	palabras	annot3	O	_	_	_	_	_	_	O	_
+6	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 113
+# text = Me alegro muchísimode tus buenos resultados.\n\n
+1	Me	annot3	O	_	_	_	_	_	_	O	_
+2	alegro	annot3	O	_	_	_	_	_	_	O	_
+3	muchísimode	annot3	O	_	_	_	_	_	_	O	_
+4	tus	annot3	O	_	_	_	_	_	_	O	_
+5	buenos	annot3	O	_	_	_	_	_	_	O	_
+6	resultados	annot3	O	_	_	_	_	_	_	O	_
+7	.	annot3	O	_	_	_	_	_	_	O	_
+8	\n\n	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 114
+# text = Disfruta mucho de esas vacaciones.
+1	Disfruta	annot3	O	_	_	_	_	_	_	O	_
+2	mucho	annot3	O	_	_	_	_	_	_	O	_
+3	de	annot3	O	_	_	_	_	_	_	O	_
+4	esas	annot3	O	_	_	_	_	_	_	O	_
+5	vacaciones	annot3	O	_	_	_	_	_	_	O	_
+6	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 115
+# text = Te las mereces.\n\n
+1	Te	annot3	O	_	_	_	_	_	_	O	_
+2	las	annot3	O	_	_	_	_	_	_	O	_
+3	mereces	annot3	O	_	_	_	_	_	_	O	_
+4	.	annot3	O	_	_	_	_	_	_	O	_
+5	\n\n	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 116
+# text = [Autor 20]: Hola xxxx,\n\n\n\nla verdad es que si me gustaria compartir experiencias con gente en la misma situacion.\n\n
+1	[	annot3	O	_	_	_	_	_	_	O	_
+2	Autor	annot3	O	_	_	_	_	_	_	O	_
+3	20	annot3	O	_	_	_	_	_	_	O	_
+4	]	annot3	O	_	_	_	_	_	_	O	_
+5	:	annot3	O	_	_	_	_	_	_	O	_
+6	Hola	annot3	O	_	_	_	_	_	_	O	_
+7	xxxx	annot3	O	_	_	_	_	_	_	O	_
+8	,	annot3	O	_	_	_	_	_	_	O	_
+9	\n\n\n\n	annot3	O	_	_	_	_	_	_	O	_
+10	la	annot3	O	_	_	_	_	_	_	O	_
+11	verdad	annot3	O	_	_	_	_	_	_	O	_
+12	es	annot3	O	_	_	_	_	_	_	O	_
+13	que	annot3	O	_	_	_	_	_	_	O	_
+14	si	annot3	O	_	_	_	_	_	_	O	_
+15	me	annot3	O	_	_	_	_	_	_	O	_
+16	gustaria	annot3	O	_	_	_	_	_	_	O	_
+17	compartir	annot3	B	_	_	_	_	_	_	O	_
+18	experiencias	annot3	O	_	_	_	_	_	_	O	_
+19	con	annot3	O	_	_	_	_	_	_	O	_
+20	gente	annot3	O	_	_	_	_	_	_	O	_
+21	en	annot3	O	_	_	_	_	_	_	O	_
+22	la	annot3	O	_	_	_	_	_	_	O	_
+23	misma	annot3	O	_	_	_	_	_	_	O	_
+24	situacion	annot3	O	_	_	_	_	_	_	O	_
+25	.	annot3	O	_	_	_	_	_	_	O	_
+26	\n\n	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 117
+# text = [Autor 19]: Buenas noches,
+1	[	annot3	O	_	_	_	_	_	_	O	_
+2	Autor	annot3	O	_	_	_	_	_	_	O	_
+3	19	annot3	O	_	_	_	_	_	_	O	_
+4	]	annot3	O	_	_	_	_	_	_	O	_
+5	:	annot3	O	_	_	_	_	_	_	O	_
+6	Buenas	annot3	O	_	_	_	_	_	_	O	_
+7	noches	annot3	O	_	_	_	_	_	_	O	_
+8	,	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 118
+# text = yo hoy recibi la peor noticia , mi madre tiene cancer .
+1	yo	annot3	O	_	_	_	_	_	_	O	_
+2	hoy	annot3	O	_	_	_	_	_	_	O	_
+3	recibi	annot3	O	_	_	_	_	_	_	O	_
+4	la	annot3	O	_	_	_	_	_	_	O	_
+5	peor	annot3	O	_	_	_	_	_	_	O	_
+6	noticia	annot3	O	_	_	_	_	_	_	O	_
+7	,	annot3	O	_	_	_	_	_	_	O	_
+8	mi	annot3	O	_	_	_	_	_	_	O	_
+9	madre	annot3	O	_	_	_	_	_	_	O	_
+10	tiene	annot3	O	_	_	_	_	_	_	O	_
+11	cancer	annot3	O	_	_	_	_	_	_	O	_
+12	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 119
+# text = No puedo entenderlo me encantaría compartir consultas con ustedes.
+1	No	annot3	O	_	_	_	_	_	_	O	_
+2	puedo	annot3	O	_	_	_	_	_	_	O	_
+3	entenderlo	annot3	O	_	_	_	_	_	_	O	_
+4	me	annot3	O	_	_	_	_	_	_	O	_
+5	encantaría	annot3	O	_	_	_	_	_	_	O	_
+6	compartir	annot3	B	_	_	_	_	_	_	O	_
+7	consultas	annot3	O	_	_	_	_	_	_	O	_
+8	con	annot3	O	_	_	_	_	_	_	O	_
+9	ustedes	annot3	O	_	_	_	_	_	_	O	_
+10	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 120
+# text = Aliviarme un poco.
+1	Aliviarme	annot3	O	_	_	_	_	_	_	O	_
+2	un	annot3	O	_	_	_	_	_	_	O	_
+3	poco	annot3	O	_	_	_	_	_	_	O	_
+4	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 121
+# text = Gracias\n\n[Autor 18]
+1	Gracias	annot3	O	_	_	_	_	_	_	O	_
+2	\n\n	annot3	O	_	_	_	_	_	_	O	_
+3	[	annot3	O	_	_	_	_	_	_	O	_
+4	Autor	annot3	O	_	_	_	_	_	_	O	_
+5	18	annot3	O	_	_	_	_	_	_	O	_
+6	]	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 122
+# text = : Gracias xxxx, ya estoy de vuelta, la verdad es que me ha ido muy bien desconectar.
+1	:	annot3	O	_	_	_	_	_	_	O	_
+2	Gracias	annot3	O	_	_	_	_	_	_	O	_
+3	xxxx	annot3	O	_	_	_	_	_	_	O	_
+4	,	annot3	O	_	_	_	_	_	_	O	_
+5	ya	annot3	O	_	_	_	_	_	_	O	_
+6	estoy	annot3	O	_	_	_	_	_	_	O	_
+7	de	annot3	O	_	_	_	_	_	_	O	_
+8	vuelta	annot3	O	_	_	_	_	_	_	O	_
+9	,	annot3	O	_	_	_	_	_	_	O	_
+10	la	annot3	O	_	_	_	_	_	_	O	_
+11	verdad	annot3	O	_	_	_	_	_	_	O	_
+12	es	annot3	O	_	_	_	_	_	_	O	_
+13	que	annot3	O	_	_	_	_	_	_	O	_
+14	me	annot3	O	_	_	_	_	_	_	O	_
+15	ha	annot3	O	_	_	_	_	_	_	O	_
+16	ido	annot3	O	_	_	_	_	_	_	O	_
+17	muy	annot3	O	_	_	_	_	_	_	O	_
+18	bien	annot3	O	_	_	_	_	_	_	O	_
+19	desconectar	annot3	O	_	_	_	_	_	_	O	_
+20	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 123
+# text = Un abrazo y gracias por tus palabras.\n\n
+1	Un	annot3	O	_	_	_	_	_	_	O	_
+2	abrazo	annot3	O	_	_	_	_	_	_	O	_
+3	y	annot3	O	_	_	_	_	_	_	O	_
+4	gracias	annot3	O	_	_	_	_	_	_	O	_
+5	por	annot3	O	_	_	_	_	_	_	O	_
+6	tus	annot3	O	_	_	_	_	_	_	O	_
+7	palabras	annot3	O	_	_	_	_	_	_	O	_
+8	.	annot3	O	_	_	_	_	_	_	O	_
+9	\n\n	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 124
+# text = [Autor 18]: Hola xxxxx, ya dejé mi correo por aquí por si te apetece hablar, la verdad es que es difícil poder lidiar con esta situación y ayuda hablar con gente que pasa lo mismo.
+1	[	annot3	O	_	_	_	_	_	_	O	_
+2	Autor	annot3	O	_	_	_	_	_	_	O	_
+3	18	annot3	O	_	_	_	_	_	_	O	_
+4	]	annot3	O	_	_	_	_	_	_	O	_
+5	:	annot3	O	_	_	_	_	_	_	O	_
+6	Hola	annot3	O	_	_	_	_	_	_	O	_
+7	xxxxx	annot3	O	_	_	_	_	_	_	O	_
+8	,	annot3	O	_	_	_	_	_	_	O	_
+9	ya	annot3	O	_	_	_	_	_	_	O	_
+10	dejé	annot3	O	_	_	_	_	_	_	O	_
+11	mi	annot3	O	_	_	_	_	_	_	O	_
+12	correo	annot3	O	_	_	_	_	_	_	O	_
+13	por	annot3	O	_	_	_	_	_	_	O	_
+14	aquí	annot3	O	_	_	_	_	_	_	O	_
+15	por	annot3	O	_	_	_	_	_	_	O	_
+16	si	annot3	O	_	_	_	_	_	_	O	_
+17	te	annot3	O	_	_	_	_	_	_	O	_
+18	apetece	annot3	O	_	_	_	_	_	_	O	_
+19	hablar	annot3	O	_	_	_	_	_	_	O	_
+20	,	annot3	O	_	_	_	_	_	_	O	_
+21	la	annot3	O	_	_	_	_	_	_	O	_
+22	verdad	annot3	O	_	_	_	_	_	_	O	_
+23	es	annot3	O	_	_	_	_	_	_	O	_
+24	que	annot3	O	_	_	_	_	_	_	O	_
+25	es	annot3	O	_	_	_	_	_	_	O	_
+26	difícil	annot3	O	_	_	_	_	_	_	O	_
+27	poder	annot3	O	_	_	_	_	_	_	O	_
+28	lidiar	annot3	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/lidiar-01090335-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/lidiar-01090335-v	_	Emociones	_	O	_
+29	con	annot3	O	_	_	_	_	_	_	O	_
+30	esta	annot3	O	_	_	_	_	_	_	O	_
+31	situación	annot3	O	_	_	_	_	_	_	O	_
+32	y	annot3	O	_	_	_	_	_	_	O	_
+33	ayuda	annot3	O	_	_	_	_	_	_	O	_
+34	hablar	annot3	O	_	_	_	_	_	_	O	_
+35	con	annot3	O	_	_	_	_	_	_	O	_
+36	gente	annot3	O	_	_	_	_	_	_	O	_
+37	que	annot3	O	_	_	_	_	_	_	O	_
+38	pasa	annot3	O	_	_	_	_	_	_	O	_
+39	lo	annot3	O	_	_	_	_	_	_	O	_
+40	mismo	annot3	O	_	_	_	_	_	_	O	_
+41	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 125
+# text = Un abrazo.
+1	Un	annot3	O	_	_	_	_	_	_	O	_
+2	abrazo	annot3	O	_	_	_	_	_	_	O	_
+3	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 126
+# text = %%EMAIL%%\n\n\n\n[Autor 18]: Hola xxxxxxx, no te preocupes, hoy en día hay muchos tratamientos, ya nos explicarás si te apetece como va tu madre, un abrazo muy grande.
+1	%	annot3	O	_	_	_	_	_	_	O	_
+2	%	annot3	O	_	_	_	_	_	_	O	_
+3	EMAIL%%	annot3	O	_	_	_	_	_	_	O	_
+4	\n\n\n\n	annot3	O	_	_	_	_	_	_	O	_
+5	[	annot3	O	_	_	_	_	_	_	O	_
+6	Autor	annot3	O	_	_	_	_	_	_	O	_
+7	18	annot3	O	_	_	_	_	_	_	O	_
+8	]	annot3	O	_	_	_	_	_	_	O	_
+9	:	annot3	O	_	_	_	_	_	_	O	_
+10	Hola	annot3	O	_	_	_	_	_	_	O	_
+11	xxxxxxx	annot3	O	_	_	_	_	_	_	O	_
+12	,	annot3	O	_	_	_	_	_	_	O	_
+13	no	annot3	O	_	_	_	_	_	_	O	_
+14	te	annot3	O	_	_	_	_	_	_	O	_
+15	preocupes	annot3	O	_	_	_	_	_	_	O	_
+16	,	annot3	O	_	_	_	_	_	_	O	_
+17	hoy	annot3	O	_	_	_	_	_	_	O	_
+18	en	annot3	O	_	_	_	_	_	_	O	_
+19	día	annot3	O	_	_	_	_	_	_	O	_
+20	hay	annot3	O	_	_	_	_	_	_	O	_
+21	muchos	annot3	O	_	_	_	_	_	_	O	_
+22	tratamientos	annot3	O	_	_	_	_	_	_	O	_
+23	,	annot3	O	_	_	_	_	_	_	O	_
+24	ya	annot3	O	_	_	_	_	_	_	O	_
+25	nos	annot3	O	_	_	_	_	_	_	O	_
+26	explicarás	annot3	O	_	_	_	_	_	_	O	_
+27	si	annot3	O	_	_	_	_	_	_	O	_
+28	te	annot3	O	_	_	_	_	_	_	O	_
+29	apetece	annot3	O	_	_	_	_	_	_	O	_
+30	como	annot3	O	_	_	_	_	_	_	O	_
+31	va	annot3	O	_	_	_	_	_	_	O	_
+32	tu	annot3	O	_	_	_	_	_	_	O	_
+33	madre	annot3	O	_	_	_	_	_	_	O	_
+34	,	annot3	O	_	_	_	_	_	_	O	_
+35	un	annot3	O	_	_	_	_	_	_	O	_
+36	abrazo	annot3	O	_	_	_	_	_	_	O	_
+37	muy	annot3	O	_	_	_	_	_	_	O	_
+38	grande	annot3	O	_	_	_	_	_	_	O	_
+39	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 127
+# text = Estos días me pondré a leer todos los temas nuevas, a ver si en alguno explicabas algo más de tu historia.
+1	Estos	annot3	O	_	_	_	_	_	_	O	_
+2	días	annot3	O	_	_	_	_	_	_	O	_
+3	me	annot3	O	_	_	_	_	_	_	O	_
+4	pondré	annot3	O	_	_	_	_	_	_	O	_
+5	a	annot3	O	_	_	_	_	_	_	O	_
+6	leer	annot3	O	_	_	_	_	_	_	O	_
+7	todos	annot3	O	_	_	_	_	_	_	O	_
+8	los	annot3	O	_	_	_	_	_	_	O	_
+9	temas	annot3	O	_	_	_	_	_	_	O	_
+10	nuevas	annot3	O	_	_	_	_	_	_	O	_
+11	,	annot3	O	_	_	_	_	_	_	O	_
+12	a	annot3	O	_	_	_	_	_	_	O	_
+13	ver	annot3	O	_	_	_	_	_	_	O	_
+14	si	annot3	O	_	_	_	_	_	_	O	_
+15	en	annot3	O	_	_	_	_	_	_	O	_
+16	alguno	annot3	O	_	_	_	_	_	_	O	_
+17	explicabas	annot3	O	_	_	_	_	_	_	O	_
+18	algo	annot3	O	_	_	_	_	_	_	O	_
+19	más	annot3	O	_	_	_	_	_	_	O	_
+20	de	annot3	O	_	_	_	_	_	_	O	_
+21	tu	annot3	O	_	_	_	_	_	_	O	_
+22	historia	annot3	O	_	_	_	_	_	_	O	_
+23	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 128
+# text = Animo!\n\n[Autor 18]: Hola a todos y a todas y felices fiestas! Pongo una actualización ya que mi primer correo es de hace mucho.
+1	Animo	annot3	O	_	_	_	_	_	_	O	_
+2	!	annot3	O	_	_	_	_	_	_	O	_
+3	\n\n	annot3	O	_	_	_	_	_	_	O	_
+4	[	annot3	O	_	_	_	_	_	_	O	_
+5	Autor	annot3	O	_	_	_	_	_	_	O	_
+6	18	annot3	O	_	_	_	_	_	_	O	_
+7	]	annot3	O	_	_	_	_	_	_	O	_
+8	:	annot3	O	_	_	_	_	_	_	O	_
+9	Hola	annot3	O	_	_	_	_	_	_	O	_
+10	a	annot3	O	_	_	_	_	_	_	O	_
+11	todos	annot3	O	_	_	_	_	_	_	O	_
+12	y	annot3	O	_	_	_	_	_	_	O	_
+13	a	annot3	O	_	_	_	_	_	_	O	_
+14	todas	annot3	O	_	_	_	_	_	_	O	_
+15	y	annot3	O	_	_	_	_	_	_	O	_
+16	felices	annot3	O	_	_	_	_	_	_	O	_
+17	fiestas	annot3	O	_	_	_	_	_	_	O	_
+18	!	annot3	O	_	_	_	_	_	_	O	_
+19	Pongo	annot3	O	_	_	_	_	_	_	O	_
+20	una	annot3	O	_	_	_	_	_	_	O	_
+21	actualización	annot3	O	_	_	_	_	_	_	O	_
+22	ya	annot3	O	_	_	_	_	_	_	O	_
+23	que	annot3	O	_	_	_	_	_	_	O	_
+24	mi	annot3	O	_	_	_	_	_	_	O	_
+25	primer	annot3	O	_	_	_	_	_	_	O	_
+26	correo	annot3	O	_	_	_	_	_	_	O	_
+27	es	annot3	O	_	_	_	_	_	_	O	_
+28	de	annot3	O	_	_	_	_	_	_	O	_
+29	hace	annot3	O	_	_	_	_	_	_	O	_
+30	mucho	annot3	O	_	_	_	_	_	_	O	_
+31	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 129
+# text = el sunitinib después de seis años me ha dejado de funcionar, y ante un avance importante de las lesiones de mi metástasis me pasan por protocolo a segunda linea de tratamiento.
+1	el	annot3	O	_	_	_	_	_	_	O	_
+2	sunitinib	annot3	O	_	_	_	_	_	_	O	_
+3	después	annot3	O	_	_	_	_	_	_	O	_
+4	de	annot3	O	_	_	_	_	_	_	O	_
+5	seis	annot3	O	_	_	_	_	_	_	O	_
+6	años	annot3	O	_	_	_	_	_	_	O	_
+7	me	annot3	O	_	_	_	_	_	_	O	_
+8	ha	annot3	O	_	_	_	_	_	_	O	_
+9	dejado	annot3	O	_	_	_	_	_	_	O	_
+10	de	annot3	O	_	_	_	_	_	_	O	_
+11	funcionar	annot3	O	_	_	_	_	_	_	O	_
+12	,	annot3	O	_	_	_	_	_	_	O	_
+13	y	annot3	O	_	_	_	_	_	_	O	_
+14	ante	annot3	O	_	_	_	_	_	_	O	_
+15	un	annot3	O	_	_	_	_	_	_	O	_
+16	avance	annot3	O	_	_	_	_	_	_	O	_
+17	importante	annot3	O	_	_	_	_	_	_	O	_
+18	de	annot3	O	_	_	_	_	_	_	O	_
+19	las	annot3	O	_	_	_	_	_	_	O	_
+20	lesiones	annot3	O	_	_	_	_	_	_	O	_
+21	de	annot3	O	_	_	_	_	_	_	O	_
+22	mi	annot3	O	_	_	_	_	_	_	O	_
+23	metástasis	annot3	O	_	_	_	_	_	_	O	_
+24	me	annot3	O	_	_	_	_	_	_	O	_
+25	pasan	annot3	O	_	_	_	_	_	_	O	_
+26	por	annot3	O	_	_	_	_	_	_	O	_
+27	protocolo	annot3	O	_	_	_	_	_	_	O	_
+28	a	annot3	O	_	_	_	_	_	_	O	_
+29	segunda	annot3	O	_	_	_	_	_	_	O	_
+30	linea	annot3	O	_	_	_	_	_	_	O	_
+31	de	annot3	O	_	_	_	_	_	_	O	_
+32	tratamiento	annot3	O	_	_	_	_	_	_	O	_
+33	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 130
+# text = El día 8 de enero empezaré con inmunoterápia.
+1	El	annot3	O	_	_	_	_	_	_	O	_
+2	día	annot3	O	_	_	_	_	_	_	O	_
+3	8	annot3	O	_	_	_	_	_	_	O	_
+4	de	annot3	O	_	_	_	_	_	_	O	_
+5	enero	annot3	O	_	_	_	_	_	_	O	_
+6	empezaré	annot3	O	_	_	_	_	_	_	O	_
+7	con	annot3	O	_	_	_	_	_	_	O	_
+8	inmunoterápia	annot3	O	_	_	_	_	_	_	O	_
+9	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 131
+# text = Ya explicaré por aquí que tal me va.
+1	Ya	annot3	O	_	_	_	_	_	_	O	_
+2	explicaré	annot3	O	_	_	_	_	_	_	O	_
+3	por	annot3	O	_	_	_	_	_	_	O	_
+4	aquí	annot3	O	_	_	_	_	_	_	O	_
+5	que	annot3	O	_	_	_	_	_	_	O	_
+6	tal	annot3	O	_	_	_	_	_	_	O	_
+7	me	annot3	O	_	_	_	_	_	_	O	_
+8	va	annot3	O	_	_	_	_	_	_	O	_
+9	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 132
+# text = Se que estos mensajes ayudan a muchos, así que por eso me gusta compartirlo.
+1	Se	annot3	O	_	_	_	_	_	_	O	_
+2	que	annot3	O	_	_	_	_	_	_	O	_
+3	estos	annot3	O	_	_	_	_	_	_	O	_
+4	mensajes	annot3	O	_	_	_	_	_	_	O	_
+5	ayudan	annot3	O	_	_	_	_	_	_	O	_
+6	a	annot3	O	_	_	_	_	_	_	O	_
+7	muchos	annot3	O	_	_	_	_	_	_	O	_
+8	,	annot3	O	_	_	_	_	_	_	O	_
+9	así	annot3	O	_	_	_	_	_	_	O	_
+10	que	annot3	O	_	_	_	_	_	_	O	_
+11	por	annot3	O	_	_	_	_	_	_	O	_
+12	eso	annot3	O	_	_	_	_	_	_	O	_
+13	me	annot3	O	_	_	_	_	_	_	O	_
+14	gusta	annot3	O	_	_	_	_	_	_	O	_
+15	compartirlo	annot3	O	_	_	_	_	_	_	O	_
+16	.	annot3	O	_	_	_	_	_	_	O	_
+
+# sent_id = 133
+# text = Un abrazo.
+1	Un	annot3	O	_	_	_	_	_	_	O	_
+2	abrazo	annot3	O	_	_	_	_	_	_	O	_
+3	.	annot3	O	_	_	_	_	_	_	O	_

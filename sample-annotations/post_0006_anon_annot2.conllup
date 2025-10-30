@@ -1,0 +1,126 @@
+ID FORM AECC:ANNOTATOR AECC:METAPHOR AECC:BM AECC:BM_RAE AECC:CM AECC:CM_RAE AECC:TGT_DOMAIN AECC:META_NOTE AECC:MWE AECC:MWE_NOTE
+# sent_id = 1
+# text = Tema: Túmor en el pulmón (Málaga)\n
+1	Tema	annot2	O	_	_	_	_	_	_	O	_
+2	:	annot2	O	_	_	_	_	_	_	O	_
+3	Túmor	annot2	O	_	_	_	_	_	_	O	_
+4	en	annot2	O	_	_	_	_	_	_	O	_
+5	el	annot2	O	_	_	_	_	_	_	O	_
+6	pulmón	annot2	O	_	_	_	_	_	_	O	_
+7	(	annot2	O	_	_	_	_	_	_	O	_
+8	Málaga	annot2	O	_	_	_	_	_	_	O	_
+9	)	annot2	O	_	_	_	_	_	_	O	_
+10	\n	annot2	O	_	_	_	_	_	_	O	_
+
+# sent_id = 2
+# text = Autor 6: \n
+1	Autor	annot2	O	_	_	_	_	_	_	O	_
+2	6	annot2	O	_	_	_	_	_	_	O	_
+3	:	annot2	O	_	_	_	_	_	_	O	_
+4	\n	annot2	O	_	_	_	_	_	_	O	_
+
+# sent_id = 3
+# text = Hola a todos.
+1	Hola	annot2	O	_	_	_	_	_	_	O	_
+2	a	annot2	O	_	_	_	_	_	_	O	_
+3	todos	annot2	O	_	_	_	_	_	_	O	_
+4	.	annot2	O	_	_	_	_	_	_	O	_
+
+# sent_id = 4
+# text = Mi hermano con 30 años acaba de ser diagnosticado con un tumor en el pulmón.
+1	Mi	annot2	O	_	_	_	_	_	_	O	_
+2	hermano	annot2	O	_	_	_	_	_	_	O	_
+3	con	annot2	O	_	_	_	_	_	_	O	_
+4	30	annot2	O	_	_	_	_	_	_	O	_
+5	años	annot2	O	_	_	_	_	_	_	O	_
+6	acaba	annot2	O	_	_	_	_	_	_	O	_
+7	de	annot2	O	_	_	_	_	_	_	O	_
+8	ser	annot2	O	_	_	_	_	_	_	O	_
+9	diagnosticado	annot2	O	_	_	_	_	_	_	O	_
+10	con	annot2	O	_	_	_	_	_	_	O	_
+11	un	annot2	O	_	_	_	_	_	_	O	_
+12	tumor	annot2	O	_	_	_	_	_	_	O	_
+13	en	annot2	O	_	_	_	_	_	_	O	_
+14	el	annot2	O	_	_	_	_	_	_	O	_
+15	pulmón	annot2	O	_	_	_	_	_	_	O	_
+16	.	annot2	O	_	_	_	_	_	_	O	_
+
+# sent_id = 5
+# text = Tienen sospecha de que sea maligno y estamos esperando cita con Cirugía torácica en Carlos de Haya.
+1	Tienen	annot2	O	_	_	_	_	_	_	O	_
+2	sospecha	annot2	O	_	_	_	_	_	_	O	_
+3	de	annot2	O	_	_	_	_	_	_	O	_
+4	que	annot2	O	_	_	_	_	_	_	O	_
+5	sea	annot2	O	_	_	_	_	_	_	O	_
+6	maligno	annot2	O	_	_	_	_	_	_	O	_
+7	y	annot2	O	_	_	_	_	_	_	O	_
+8	estamos	annot2	O	_	_	_	_	_	_	O	_
+9	esperando	annot2	O	_	_	_	_	_	_	O	_
+10	cita	annot2	O	_	_	_	_	_	_	O	_
+11	con	annot2	O	_	_	_	_	_	_	O	_
+12	Cirugía	annot2	O	_	_	_	_	_	_	O	_
+13	torácica	annot2	O	_	_	_	_	_	_	O	_
+14	en	annot2	O	_	_	_	_	_	_	O	_
+15	Carlos	annot2	O	_	_	_	_	_	_	O	_
+16	de	annot2	O	_	_	_	_	_	_	O	_
+17	Haya	annot2	O	_	_	_	_	_	_	O	_
+18	.	annot2	O	_	_	_	_	_	_	O	_
+
+# sent_id = 6
+# text = Estamos todos asustados y acudí aquí por si hay testimonios de operaciones parecidas y opiniones de cómo les fue con dicha intervención.
+1	Estamos	annot2	O	_	_	_	_	_	_	O	_
+2	todos	annot2	O	_	_	_	_	_	_	O	_
+3	asustados	annot2	O	_	_	_	_	_	_	O	_
+4	y	annot2	O	_	_	_	_	_	_	O	_
+5	acudí	annot2	B	_	dicho de una persona: ir al sitio adonde le conviene o es llamada.	_	valerse de algo para algún fin.	Personas involucradas|Otros » Hablar sobre el cáncer	_	O	_
+6	aquí	annot2	B	_	en este lugar	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/portal+de+Internet-06359657-n	_	Otros » Hablar sobre el cáncer	_	O	_
+7	por	annot2	O	_	_	_	_	_	_	O	_
+8	si	annot2	O	_	_	_	_	_	_	O	_
+9	hay	annot2	O	_	_	_	_	_	_	O	_
+10	testimonios	annot2	O	_	_	_	_	_	_	O	_
+11	de	annot2	O	_	_	_	_	_	_	O	_
+12	operaciones	annot2	O	_	_	_	_	_	_	O	_
+13	parecidas	annot2	O	_	_	_	_	_	_	O	_
+14	y	annot2	O	_	_	_	_	_	_	O	_
+15	opiniones	annot2	O	_	_	_	_	_	_	O	_
+16	de	annot2	O	_	_	_	_	_	_	O	_
+17	cómo	annot2	O	_	_	_	_	_	_	O	_
+18	les	annot2	O	_	_	_	_	_	_	O	_
+19	fue	annot2	O	_	_	_	_	_	_	O	_
+20	con	annot2	O	_	_	_	_	_	_	O	_
+21	dicha	annot2	O	_	_	_	_	_	_	O	_
+22	intervención	annot2	O	_	_	_	_	_	_	O	_
+23	.	annot2	O	_	_	_	_	_	_	O	_
+
+# sent_id = 7
+# text = Estoy leyendo mucho sobre la cirugía uniportal que es menos invasiva y no sé si la practican en la pública.
+1	Estoy	annot2	O	_	_	_	_	_	_	O	_
+2	leyendo	annot2	O	_	_	_	_	_	_	O	_
+3	mucho	annot2	O	_	_	_	_	_	_	O	_
+4	sobre	annot2	O	_	_	_	_	_	_	O	_
+5	la	annot2	O	_	_	_	_	_	_	O	_
+6	cirugía	annot2	O	_	_	_	_	_	_	O	_
+7	uniportal	annot2	O	_	_	_	_	_	_	O	_
+8	que	annot2	O	_	_	_	_	_	_	O	_
+9	es	annot2	O	_	_	_	_	_	_	O	_
+10	menos	annot2	O	_	_	_	_	_	_	O	_
+11	invasiva	annot2	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/invadir-01126360-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/da%C3%B1ino-01160031-a	_	Tratamiento » Cirugía	_	O	_
+12	y	annot2	O	_	_	_	_	_	_	O	_
+13	no	annot2	O	_	_	_	_	_	_	O	_
+14	sé	annot2	O	_	_	_	_	_	_	O	_
+15	si	annot2	O	_	_	_	_	_	_	O	_
+16	la	annot2	O	_	_	_	_	_	_	O	_
+17	practican	annot2	B	_	_	_	_	_	duda	O	_
+18	en	annot2	O	_	_	_	_	_	_	O	_
+19	la	annot2	O	_	_	_	_	_	_	O	_
+20	pública	annot2	O	_	_	_	_	_	_	O	_
+21	.	annot2	O	_	_	_	_	_	_	O	_
+
+# sent_id = 8
+# text = Ánimo a todos y salud.
+1	Ánimo	annot2	O	_	_	_	_	_	_	O	_
+2	a	annot2	O	_	_	_	_	_	_	O	_
+3	todos	annot2	O	_	_	_	_	_	_	O	_
+4	y	annot2	O	_	_	_	_	_	_	O	_
+5	salud	annot2	O	_	_	_	_	_	_	O	_
+6	.	annot2	O	_	_	_	_	_	_	O	_

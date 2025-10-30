@@ -1,0 +1,126 @@
+ID FORM AECC:ANNOTATOR AECC:METAPHOR AECC:BM AECC:BM_RAE AECC:CM AECC:CM_RAE AECC:TGT_DOMAIN AECC:META_NOTE AECC:MWE AECC:MWE_NOTE
+# sent_id = 1
+# text = Tema: Túmor en el pulmón (Málaga)\n
+1	Tema	annot1	O	_	_	_	_	_	_	O	_
+2	:	annot1	O	_	_	_	_	_	_	O	_
+3	Túmor	annot1	O	_	_	_	_	_	_	O	_
+4	en	annot1	O	_	_	_	_	_	_	O	_
+5	el	annot1	O	_	_	_	_	_	_	O	_
+6	pulmón	annot1	O	_	_	_	_	_	_	O	_
+7	(	annot1	O	_	_	_	_	_	_	O	_
+8	Málaga	annot1	O	_	_	_	_	_	_	O	_
+9	)	annot1	O	_	_	_	_	_	_	O	_
+10	\n	annot1	O	_	_	_	_	_	_	O	_
+
+# sent_id = 2
+# text = Autor 6: \n
+1	Autor	annot1	O	_	_	_	_	_	_	O	_
+2	6	annot1	O	_	_	_	_	_	_	O	_
+3	:	annot1	O	_	_	_	_	_	_	O	_
+4	\n	annot1	O	_	_	_	_	_	_	O	_
+
+# sent_id = 3
+# text = Hola a todos.
+1	Hola	annot1	O	_	_	_	_	_	_	O	_
+2	a	annot1	O	_	_	_	_	_	_	O	_
+3	todos	annot1	O	_	_	_	_	_	_	O	_
+4	.	annot1	O	_	_	_	_	_	_	O	_
+
+# sent_id = 4
+# text = Mi hermano con 30 años acaba de ser diagnosticado con un tumor en el pulmón.
+1	Mi	annot1	O	_	_	_	_	_	_	O	_
+2	hermano	annot1	O	_	_	_	_	_	_	O	_
+3	con	annot1	O	_	_	_	_	_	_	O	_
+4	30	annot1	O	_	_	_	_	_	_	O	_
+5	años	annot1	O	_	_	_	_	_	_	O	_
+6	acaba	annot1	O	_	_	_	_	_	_	O	_
+7	de	annot1	O	_	_	_	_	_	_	O	_
+8	ser	annot1	O	_	_	_	_	_	_	O	_
+9	diagnosticado	annot1	O	_	_	_	_	_	_	O	_
+10	con	annot1	O	_	_	_	_	_	_	O	_
+11	un	annot1	O	_	_	_	_	_	_	O	_
+12	tumor	annot1	O	_	_	_	_	_	_	O	_
+13	en	annot1	O	_	_	_	_	_	_	O	_
+14	el	annot1	O	_	_	_	_	_	_	O	_
+15	pulmón	annot1	O	_	_	_	_	_	_	O	_
+16	.	annot1	O	_	_	_	_	_	_	O	_
+
+# sent_id = 5
+# text = Tienen sospecha de que sea maligno y estamos esperando cita con Cirugía torácica en Carlos de Haya.
+1	Tienen	annot1	O	_	_	_	_	_	_	O	_
+2	sospecha	annot1	O	_	_	_	_	_	_	O	_
+3	de	annot1	O	_	_	_	_	_	_	O	_
+4	que	annot1	O	_	_	_	_	_	_	O	_
+5	sea	annot1	O	_	_	_	_	_	_	O	_
+6	maligno	annot1	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/maligno-00224515-a	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/maligno-02594714-a	_	Cancer » Cáncer como entidad	_	O	_
+7	y	annot1	O	_	_	_	_	_	_	O	_
+8	estamos	annot1	O	_	_	_	_	_	_	O	_
+9	esperando	annot1	O	_	_	_	_	_	_	O	_
+10	cita	annot1	O	_	_	_	_	_	_	O	_
+11	con	annot1	O	_	_	_	_	_	_	O	_
+12	Cirugía	annot1	O	_	_	_	_	_	_	O	_
+13	torácica	annot1	O	_	_	_	_	_	_	O	_
+14	en	annot1	O	_	_	_	_	_	_	O	_
+15	Carlos	annot1	O	_	_	_	_	_	_	O	_
+16	de	annot1	O	_	_	_	_	_	_	O	_
+17	Haya	annot1	O	_	_	_	_	_	_	O	_
+18	.	annot1	O	_	_	_	_	_	_	O	_
+
+# sent_id = 6
+# text = Estamos todos asustados y acudí aquí por si hay testimonios de operaciones parecidas y opiniones de cómo les fue con dicha intervención.
+1	Estamos	annot1	O	_	_	_	_	_	_	O	_
+2	todos	annot1	O	_	_	_	_	_	_	O	_
+3	asustados	annot1	O	_	_	_	_	_	_	O	_
+4	y	annot1	O	_	_	_	_	_	_	O	_
+5	acudí	annot1	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/acudir-01835496-v	_	_	_	Emociones » Esperanza y control de expectativas	dudas: 1) no sé si se considera metáfora de cáncer; 2) no sé si sería tanto acudir solamente o acudir aquí, ya que está convirtiendo en un lugar físico al foro de la AECC	O	_
+6	aquí	annot1	O	_	_	_	_	_	_	O	_
+7	por	annot1	O	_	_	_	_	_	_	O	_
+8	si	annot1	O	_	_	_	_	_	_	O	_
+9	hay	annot1	O	_	_	_	_	_	_	O	_
+10	testimonios	annot1	O	_	_	_	_	_	_	O	_
+11	de	annot1	O	_	_	_	_	_	_	O	_
+12	operaciones	annot1	O	_	_	_	_	_	_	O	_
+13	parecidas	annot1	O	_	_	_	_	_	_	O	_
+14	y	annot1	O	_	_	_	_	_	_	O	_
+15	opiniones	annot1	O	_	_	_	_	_	_	O	_
+16	de	annot1	O	_	_	_	_	_	_	O	_
+17	cómo	annot1	O	_	_	_	_	_	_	O	_
+18	les	annot1	O	_	_	_	_	_	_	O	_
+19	fue	annot1	O	_	_	_	_	_	_	O	_
+20	con	annot1	O	_	_	_	_	_	_	O	_
+21	dicha	annot1	O	_	_	_	_	_	_	O	_
+22	intervención	annot1	O	_	_	_	_	_	_	O	_
+23	.	annot1	O	_	_	_	_	_	_	O	_
+
+# sent_id = 7
+# text = Estoy leyendo mucho sobre la cirugía uniportal que es menos invasiva y no sé si la practican en la pública.
+1	Estoy	annot1	O	_	_	_	_	_	_	O	_
+2	leyendo	annot1	O	_	_	_	_	_	_	O	_
+3	mucho	annot1	O	_	_	_	_	_	_	O	_
+4	sobre	annot1	O	_	_	_	_	_	_	O	_
+5	la	annot1	O	_	_	_	_	_	_	O	_
+6	cirugía	annot1	O	_	_	_	_	_	_	O	_
+7	uniportal	annot1	O	_	_	_	_	_	_	O	_
+8	que	annot1	O	_	_	_	_	_	_	O	_
+9	es	annot1	O	_	_	_	_	_	_	O	_
+10	menos	annot1	O	_	_	_	_	_	_	O	_
+11	invasiva	annot1	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/invadir-01126360-v	_	_	invasivo, a: adj. med. dicho de un procedimiento diagnóstico o terapéutico: que obliga a penetrar en el cuerpo mediante una incisión en la piel o a introducir en él un instrumento o material extraño al organismo. (rae))	Tratamiento » Cirugía	_	O	_
+12	y	annot1	O	_	_	_	_	_	_	O	_
+13	no	annot1	O	_	_	_	_	_	_	O	_
+14	sé	annot1	O	_	_	_	_	_	_	O	_
+15	si	annot1	O	_	_	_	_	_	_	O	_
+16	la	annot1	O	_	_	_	_	_	_	O	_
+17	practican	annot1	O	_	_	_	_	_	_	O	_
+18	en	annot1	O	_	_	_	_	_	_	O	_
+19	la	annot1	O	_	_	_	_	_	_	O	_
+20	pública	annot1	O	_	_	_	_	_	_	O	_
+21	.	annot1	O	_	_	_	_	_	_	O	_
+
+# sent_id = 8
+# text = Ánimo a todos y salud.
+1	Ánimo	annot1	O	_	_	_	_	_	_	O	_
+2	a	annot1	O	_	_	_	_	_	_	O	_
+3	todos	annot1	O	_	_	_	_	_	_	O	_
+4	y	annot1	O	_	_	_	_	_	_	O	_
+5	salud	annot1	O	_	_	_	_	_	_	O	_
+6	.	annot1	O	_	_	_	_	_	_	O	_

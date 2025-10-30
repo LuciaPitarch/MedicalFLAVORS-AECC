@@ -1,0 +1,527 @@
+ID FORM AECC:ANNOTATOR AECC:METAPHOR AECC:BM AECC:BM_RAE AECC:CM AECC:CM_RAE AECC:TGT_DOMAIN AECC:META_NOTE AECC:MWE AECC:MWE_NOTE
+# sent_id = 1
+# text = Tema: Superación cáncer cerebral\n
+1	Tema	annot4	O	_	_	_	_	_	_	O	_
+2	:	annot4	O	_	_	_	_	_	_	O	_
+3	Superación	annot4	B	_	_	_	_	_	_	O	_
+4	cáncer	annot4	O	_	_	_	_	_	_	O	_
+5	cerebral	annot4	O	_	_	_	_	_	_	O	_
+6	\n	annot4	O	_	_	_	_	_	_	O	_
+
+# sent_id = 2
+# text = Autor 167: \n
+1	Autor	annot4	O	_	_	_	_	_	_	O	_
+2	167	annot4	O	_	_	_	_	_	_	O	_
+3	:	annot4	O	_	_	_	_	_	_	O	_
+4	\n	annot4	O	_	_	_	_	_	_	O	_
+
+# sent_id = 3
+# text = Buenas tardes a todas las personas que leen estas líneas porque han sido diagnosticados de cáncer cerebral, y a todos los familiares que lo sufren.
+1	Buenas	annot4	O	_	_	_	_	_	_	O	_
+2	tardes	annot4	O	_	_	_	_	_	_	O	_
+3	a	annot4	O	_	_	_	_	_	_	O	_
+4	todas	annot4	O	_	_	_	_	_	_	O	_
+5	las	annot4	O	_	_	_	_	_	_	O	_
+6	personas	annot4	O	_	_	_	_	_	_	O	_
+7	que	annot4	O	_	_	_	_	_	_	O	_
+8	leen	annot4	O	_	_	_	_	_	_	O	_
+9	estas	annot4	O	_	_	_	_	_	_	O	_
+10	líneas	annot4	O	_	_	_	_	_	_	O	_
+11	porque	annot4	O	_	_	_	_	_	_	O	_
+12	han	annot4	O	_	_	_	_	_	_	O	_
+13	sido	annot4	O	_	_	_	_	_	_	O	_
+14	diagnosticados	annot4	O	_	_	_	_	_	_	O	_
+15	de	annot4	O	_	_	_	_	_	_	O	_
+16	cáncer	annot4	O	_	_	_	_	_	_	O	_
+17	cerebral	annot4	O	_	_	_	_	_	_	O	_
+18	,	annot4	O	_	_	_	_	_	_	O	_
+19	y	annot4	O	_	_	_	_	_	_	O	_
+20	a	annot4	O	_	_	_	_	_	_	O	_
+21	todos	annot4	O	_	_	_	_	_	_	O	_
+22	los	annot4	O	_	_	_	_	_	_	O	_
+23	familiares	annot4	O	_	_	_	_	_	_	O	_
+24	que	annot4	O	_	_	_	_	_	_	O	_
+25	lo	annot4	O	_	_	_	_	_	_	O	_
+26	sufren	annot4	B	_	_	_	_	_	_	O	_
+27	.	annot4	O	_	_	_	_	_	_	O	_
+
+# sent_id = 4
+# text = Este es un testimonio de apoyo y esperanza para todos vosotros, en esos momentos de sufrimiento, desesperanza y angustia en la que nuestras vidas se apagan y no vemos salida.
+1	Este	annot4	O	_	_	_	_	_	_	O	_
+2	es	annot4	O	_	_	_	_	_	_	O	_
+3	un	annot4	O	_	_	_	_	_	_	O	_
+4	testimonio	annot4	O	_	_	_	_	_	_	O	_
+5	de	annot4	O	_	_	_	_	_	_	O	_
+6	apoyo	annot4	O	_	_	_	_	_	_	O	_
+7	y	annot4	O	_	_	_	_	_	_	O	_
+8	esperanza	annot4	O	_	_	_	_	_	_	O	_
+9	para	annot4	O	_	_	_	_	_	_	O	_
+10	todos	annot4	O	_	_	_	_	_	_	O	_
+11	vosotros	annot4	O	_	_	_	_	_	_	O	_
+12	,	annot4	O	_	_	_	_	_	_	O	_
+13	en	annot4	O	_	_	_	_	_	_	O	_
+14	esos	annot4	O	_	_	_	_	_	_	O	_
+15	momentos	annot4	O	_	_	_	_	_	_	O	_
+16	de	annot4	O	_	_	_	_	_	_	O	_
+17	sufrimiento	annot4	O	_	_	_	_	_	_	O	_
+18	,	annot4	O	_	_	_	_	_	_	O	_
+19	desesperanza	annot4	O	_	_	_	_	_	_	O	_
+20	y	annot4	O	_	_	_	_	_	_	O	_
+21	angustia	annot4	O	_	_	_	_	_	_	O	_
+22	en	annot4	O	_	_	_	_	_	_	O	_
+23	la	annot4	O	_	_	_	_	_	_	O	_
+24	que	annot4	O	_	_	_	_	_	_	O	_
+25	nuestras	annot4	O	_	_	_	_	_	_	O	_
+26	vidas	annot4	O	_	_	_	_	_	_	O	_
+27	se	annot4	B	_	_	_	_	_	_	O	_
+28	apagan	annot4	I	_	_	_	_	_	_	O	_
+29	y	annot4	O	_	_	_	_	_	_	O	_
+30	no	annot4	O	_	_	_	_	_	_	O	_
+31	vemos	annot4	B	_	_	_	_	_	_	O	_
+32	salida	annot4	I	_	_	_	_	_	_	O	_
+33	.	annot4	O	_	_	_	_	_	_	O	_
+
+# sent_id = 5
+# text = Mi hermano fue ingresado en julio del año pasado por dolores de cabeza, y diagnosticado de astrocitoma anaplásico grado 2/3.
+1	Mi	annot4	O	_	_	_	_	_	_	O	_
+2	hermano	annot4	O	_	_	_	_	_	_	O	_
+3	fue	annot4	O	_	_	_	_	_	_	O	_
+4	ingresado	annot4	O	_	_	_	_	_	_	O	_
+5	en	annot4	O	_	_	_	_	_	_	O	_
+6	julio	annot4	O	_	_	_	_	_	_	O	_
+7	del	annot4	O	_	_	_	_	_	_	O	_
+8	año	annot4	O	_	_	_	_	_	_	O	_
+9	pasado	annot4	O	_	_	_	_	_	_	O	_
+10	por	annot4	O	_	_	_	_	_	_	O	_
+11	dolores	annot4	O	_	_	_	_	_	_	O	_
+12	de	annot4	O	_	_	_	_	_	_	O	_
+13	cabeza	annot4	O	_	_	_	_	_	_	O	_
+14	,	annot4	O	_	_	_	_	_	_	O	_
+15	y	annot4	O	_	_	_	_	_	_	O	_
+16	diagnosticado	annot4	O	_	_	_	_	_	_	O	_
+17	de	annot4	O	_	_	_	_	_	_	O	_
+18	astrocitoma	annot4	O	_	_	_	_	_	_	O	_
+19	anaplásico	annot4	O	_	_	_	_	_	_	O	_
+20	grado	annot4	O	_	_	_	_	_	_	O	_
+21	2/3	annot4	O	_	_	_	_	_	_	O	_
+22	.	annot4	O	_	_	_	_	_	_	O	_
+
+# sent_id = 6
+# text = Tenía varios tumores en diferentes puntos.
+1	Tenía	annot4	O	_	_	_	_	_	_	O	_
+2	varios	annot4	O	_	_	_	_	_	_	O	_
+3	tumores	annot4	O	_	_	_	_	_	_	O	_
+4	en	annot4	O	_	_	_	_	_	_	O	_
+5	diferentes	annot4	O	_	_	_	_	_	_	O	_
+6	puntos	annot4	B	_	_	_	_	_	_	O	_
+7	.	annot4	O	_	_	_	_	_	_	O	_
+
+# sent_id = 7
+# text = No se puede explicar el impacto familiar, el dolor, la desesperación, la incertidumbre...no hay palabras.
+1	No	annot4	O	_	_	_	_	_	_	O	_
+2	se	annot4	O	_	_	_	_	_	_	O	_
+3	puede	annot4	O	_	_	_	_	_	_	O	_
+4	explicar	annot4	O	_	_	_	_	_	_	O	_
+5	el	annot4	O	_	_	_	_	_	_	O	_
+6	impacto	annot4	B	_	_	_	_	_	_	O	_
+7	familiar	annot4	O	_	_	_	_	_	_	O	_
+8	,	annot4	O	_	_	_	_	_	_	O	_
+9	el	annot4	O	_	_	_	_	_	_	O	_
+10	dolor	annot4	O	_	_	_	_	_	_	O	_
+11	,	annot4	O	_	_	_	_	_	_	O	_
+12	la	annot4	O	_	_	_	_	_	_	O	_
+13	desesperación	annot4	O	_	_	_	_	_	_	O	_
+14	,	annot4	O	_	_	_	_	_	_	O	_
+15	la	annot4	O	_	_	_	_	_	_	O	_
+16	incertidumbre	annot4	O	_	_	_	_	_	_	O	_
+17	...	annot4	O	_	_	_	_	_	_	O	_
+18	no	annot4	O	_	_	_	_	_	_	O	_
+19	hay	annot4	O	_	_	_	_	_	_	O	_
+20	palabras	annot4	O	_	_	_	_	_	_	O	_
+21	.	annot4	O	_	_	_	_	_	_	O	_
+
+# sent_id = 8
+# text = Después de dos operaciones, radioterapia y quimioterapia, ayer le dieron el resultado del TAC, un año después del diagnóstico.
+1	Después	annot4	O	_	_	_	_	_	_	O	_
+2	de	annot4	O	_	_	_	_	_	_	O	_
+3	dos	annot4	O	_	_	_	_	_	_	O	_
+4	operaciones	annot4	O	_	_	_	_	_	_	O	_
+5	,	annot4	O	_	_	_	_	_	_	O	_
+6	radioterapia	annot4	O	_	_	_	_	_	_	O	_
+7	y	annot4	O	_	_	_	_	_	_	O	_
+8	quimioterapia	annot4	O	_	_	_	_	_	_	O	_
+9	,	annot4	O	_	_	_	_	_	_	O	_
+10	ayer	annot4	O	_	_	_	_	_	_	O	_
+11	le	annot4	O	_	_	_	_	_	_	O	_
+12	dieron	annot4	O	_	_	_	_	_	_	O	_
+13	el	annot4	O	_	_	_	_	_	_	O	_
+14	resultado	annot4	O	_	_	_	_	_	_	O	_
+15	del	annot4	O	_	_	_	_	_	_	O	_
+16	TAC	annot4	O	_	_	_	_	_	_	O	_
+17	,	annot4	O	_	_	_	_	_	_	O	_
+18	un	annot4	O	_	_	_	_	_	_	O	_
+19	año	annot4	O	_	_	_	_	_	_	O	_
+20	después	annot4	O	_	_	_	_	_	_	O	_
+21	del	annot4	O	_	_	_	_	_	_	O	_
+22	diagnóstico	annot4	O	_	_	_	_	_	_	O	_
+23	.	annot4	O	_	_	_	_	_	_	O	_
+
+# sent_id = 9
+# text = Hemos vuelto todos a nacer!!!!!
+1	Hemos	annot4	O	_	_	_	_	_	_	O	_
+2	vuelto	annot4	O	_	_	_	_	_	_	O	_
+3	todos	annot4	O	_	_	_	_	_	_	O	_
+4	a	annot4	O	_	_	_	_	_	_	O	_
+5	nacer	annot4	B	_	_	_	_	_	_	O	_
+6	!	annot4	O	_	_	_	_	_	_	O	_
+7	!	annot4	O	_	_	_	_	_	_	O	_
+8	!	annot4	O	_	_	_	_	_	_	O	_
+9	!	annot4	O	_	_	_	_	_	_	O	_
+10	!	annot4	O	_	_	_	_	_	_	O	_
+
+# sent_id = 10
+# text = Aún no damos crédito, y el médico tampoco.
+1	Aún	annot4	O	_	_	_	_	_	_	O	_
+2	no	annot4	O	_	_	_	_	_	_	O	_
+3	damos	annot4	O	_	_	_	_	_	_	O	_
+4	crédito	annot4	O	_	_	_	_	_	_	O	_
+5	,	annot4	O	_	_	_	_	_	_	O	_
+6	y	annot4	O	_	_	_	_	_	_	O	_
+7	el	annot4	O	_	_	_	_	_	_	O	_
+8	médico	annot4	O	_	_	_	_	_	_	O	_
+9	tampoco	annot4	O	_	_	_	_	_	_	O	_
+10	.	annot4	O	_	_	_	_	_	_	O	_
+
+# sent_id = 11
+# text = Los tumores han desaparecido, no existen!!!
+1	Los	annot4	O	_	_	_	_	_	_	O	_
+2	tumores	annot4	O	_	_	_	_	_	_	O	_
+3	han	annot4	O	_	_	_	_	_	_	O	_
+4	desaparecido	annot4	O	_	_	_	_	_	_	O	_
+5	,	annot4	O	_	_	_	_	_	_	O	_
+6	no	annot4	O	_	_	_	_	_	_	O	_
+7	existen	annot4	O	_	_	_	_	_	_	O	_
+8	!	annot4	O	_	_	_	_	_	_	O	_
+9	!	annot4	O	_	_	_	_	_	_	O	_
+10	!	annot4	O	_	_	_	_	_	_	O	_
+
+# sent_id = 12
+# text = Ha quedado sólo un punto, insignificante, que según las palabras del médico "no tiene importancia", está inactivo.
+1	Ha	annot4	O	_	_	_	_	_	_	O	_
+2	quedado	annot4	O	_	_	_	_	_	_	O	_
+3	sólo	annot4	O	_	_	_	_	_	_	O	_
+4	un	annot4	O	_	_	_	_	_	_	O	_
+5	punto	annot4	B	_	_	_	_	_	_	O	_
+6	,	annot4	O	_	_	_	_	_	_	O	_
+7	insignificante	annot4	B	_	_	_	_	_	_	O	_
+8	,	annot4	O	_	_	_	_	_	_	O	_
+9	que	annot4	O	_	_	_	_	_	_	O	_
+10	según	annot4	O	_	_	_	_	_	_	O	_
+11	las	annot4	O	_	_	_	_	_	_	O	_
+12	palabras	annot4	B	_	_	_	_	_	_	O	_
+13	del	annot4	O	_	_	_	_	_	_	O	_
+14	médico	annot4	O	_	_	_	_	_	_	O	_
+15	"	annot4	O	_	_	_	_	_	_	O	_
+16	no	annot4	O	_	_	_	_	_	_	O	_
+17	tiene	annot4	O	_	_	_	_	_	_	O	_
+18	importancia	annot4	O	_	_	_	_	_	_	O	_
+19	"	annot4	O	_	_	_	_	_	_	O	_
+20	,	annot4	O	_	_	_	_	_	_	O	_
+21	está	annot4	O	_	_	_	_	_	_	O	_
+22	inactivo	annot4	B	_	_	_	_	_	_	O	_
+23	.	annot4	O	_	_	_	_	_	_	O	_
+
+# sent_id = 13
+# text = No hay signos de alteración de ningún tipo en pruebas de contraste, está limpiooo todo!!
+1	No	annot4	O	_	_	_	_	_	_	O	_
+2	hay	annot4	O	_	_	_	_	_	_	O	_
+3	signos	annot4	O	_	_	_	_	_	_	O	_
+4	de	annot4	O	_	_	_	_	_	_	O	_
+5	alteración	annot4	O	_	_	_	_	_	_	O	_
+6	de	annot4	O	_	_	_	_	_	_	O	_
+7	ningún	annot4	O	_	_	_	_	_	_	O	_
+8	tipo	annot4	O	_	_	_	_	_	_	O	_
+9	en	annot4	O	_	_	_	_	_	_	O	_
+10	pruebas	annot4	O	_	_	_	_	_	_	O	_
+11	de	annot4	O	_	_	_	_	_	_	O	_
+12	contraste	annot4	O	_	_	_	_	_	_	O	_
+13	,	annot4	O	_	_	_	_	_	_	O	_
+14	está	annot4	O	_	_	_	_	_	_	O	_
+15	limpiooo	annot4	B	_	_	_	_	_	_	O	_
+16	todo	annot4	O	_	_	_	_	_	_	O	_
+17	!	annot4	O	_	_	_	_	_	_	O	_
+18	!	annot4	O	_	_	_	_	_	_	O	_
+
+# sent_id = 14
+# text = A partir de ahora controles cada tres meses y a vivir.
+1	A	annot4	O	_	_	_	_	_	_	O	_
+2	partir	annot4	O	_	_	_	_	_	_	O	_
+3	de	annot4	O	_	_	_	_	_	_	O	_
+4	ahora	annot4	O	_	_	_	_	_	_	O	_
+5	controles	annot4	O	_	_	_	_	_	_	O	_
+6	cada	annot4	O	_	_	_	_	_	_	O	_
+7	tres	annot4	O	_	_	_	_	_	_	O	_
+8	meses	annot4	O	_	_	_	_	_	_	O	_
+9	y	annot4	O	_	_	_	_	_	_	O	_
+10	a	annot4	B	_	_	_	_	_	_	O	_
+11	vivir	annot4	I	_	_	_	_	_	_	O	_
+12	.	annot4	O	_	_	_	_	_	_	O	_
+
+# sent_id = 15
+# text = Decirles que estos casos también existen, aunque parezca imposible.
+1	Decirles	annot4	O	_	_	_	_	_	_	O	_
+2	que	annot4	O	_	_	_	_	_	_	O	_
+3	estos	annot4	O	_	_	_	_	_	_	O	_
+4	casos	annot4	O	_	_	_	_	_	_	O	_
+5	también	annot4	O	_	_	_	_	_	_	O	_
+6	existen	annot4	O	_	_	_	_	_	_	O	_
+7	,	annot4	O	_	_	_	_	_	_	O	_
+8	aunque	annot4	O	_	_	_	_	_	_	O	_
+9	parezca	annot4	O	_	_	_	_	_	_	O	_
+10	imposible	annot4	O	_	_	_	_	_	_	O	_
+11	.	annot4	O	_	_	_	_	_	_	O	_
+
+# sent_id = 16
+# text = Somos los primeros sorprendidos, y queríamos transmitirles mucha fuerza y apoyo, y siempre CREER en la medicina y la sanación, ya que es posible.
+1	Somos	annot4	O	_	_	_	_	_	_	O	_
+2	los	annot4	O	_	_	_	_	_	_	O	_
+3	primeros	annot4	O	_	_	_	_	_	_	O	_
+4	sorprendidos	annot4	O	_	_	_	_	_	_	O	_
+5	,	annot4	O	_	_	_	_	_	_	O	_
+6	y	annot4	O	_	_	_	_	_	_	O	_
+7	queríamos	annot4	O	_	_	_	_	_	_	O	_
+8	transmitirles	annot4	O	_	_	_	_	_	_	O	_
+9	mucha	annot4	O	_	_	_	_	_	_	O	_
+10	fuerza	annot4	B	_	_	_	_	_	_	O	_
+11	y	annot4	O	_	_	_	_	_	_	O	_
+12	apoyo	annot4	B	_	_	_	_	_	_	O	_
+13	,	annot4	O	_	_	_	_	_	_	O	_
+14	y	annot4	O	_	_	_	_	_	_	O	_
+15	siempre	annot4	O	_	_	_	_	_	_	O	_
+16	CREER	annot4	B	_	_	_	_	_	_	O	_
+17	en	annot4	O	_	_	_	_	_	_	O	_
+18	la	annot4	O	_	_	_	_	_	_	O	_
+19	medicina	annot4	O	_	_	_	_	_	_	O	_
+20	y	annot4	O	_	_	_	_	_	_	O	_
+21	la	annot4	O	_	_	_	_	_	_	O	_
+22	sanación	annot4	O	_	_	_	_	_	_	O	_
+23	,	annot4	O	_	_	_	_	_	_	O	_
+24	ya	annot4	O	_	_	_	_	_	_	O	_
+25	que	annot4	O	_	_	_	_	_	_	O	_
+26	es	annot4	O	_	_	_	_	_	_	O	_
+27	posible	annot4	O	_	_	_	_	_	_	O	_
+28	.	annot4	O	_	_	_	_	_	_	O	_
+
+# sent_id = 17
+# text = Un gran abrazo a tod@s\n\nComentarios:\n\n[Autor 169]: Aun siendo una gran noticia,
+1	Un	annot4	O	_	_	_	_	_	_	O	_
+2	gran	annot4	O	_	_	_	_	_	_	O	_
+3	abrazo	annot4	O	_	_	_	_	_	_	O	_
+4	a	annot4	O	_	_	_	_	_	_	O	_
+5	tod@s	annot4	O	_	_	_	_	_	_	O	_
+6	\n\n	annot4	O	_	_	_	_	_	_	O	_
+7	Comentarios	annot4	O	_	_	_	_	_	_	O	_
+8	:	annot4	O	_	_	_	_	_	_	O	_
+9	\n\n	annot4	O	_	_	_	_	_	_	O	_
+10	[	annot4	O	_	_	_	_	_	_	O	_
+11	Autor	annot4	O	_	_	_	_	_	_	O	_
+12	169	annot4	O	_	_	_	_	_	_	O	_
+13	]	annot4	O	_	_	_	_	_	_	O	_
+14	:	annot4	O	_	_	_	_	_	_	O	_
+15	Aun	annot4	O	_	_	_	_	_	_	O	_
+16	siendo	annot4	O	_	_	_	_	_	_	O	_
+17	una	annot4	O	_	_	_	_	_	_	O	_
+18	gran	annot4	O	_	_	_	_	_	_	O	_
+19	noticia	annot4	O	_	_	_	_	_	_	O	_
+20	,	annot4	O	_	_	_	_	_	_	O	_
+
+# sent_id = 18
+# text = yo esperaria para lanzar las campanas al vuelo, el cancer aparece cuando menos se espera y lo fastidia todo.....\n\n
+1	yo	annot4	O	_	_	_	_	_	_	O	_
+2	esperaria	annot4	O	_	_	_	_	_	_	O	_
+3	para	annot4	O	_	_	_	_	_	_	O	_
+4	lanzar	annot4	O	_	_	_	_	_	_	O	_
+5	las	annot4	O	_	_	_	_	_	_	O	_
+6	campanas	annot4	O	_	_	_	_	_	_	O	_
+7	al	annot4	O	_	_	_	_	_	_	O	_
+8	vuelo	annot4	O	_	_	_	_	_	_	O	_
+9	,	annot4	O	_	_	_	_	_	_	O	_
+10	el	annot4	O	_	_	_	_	_	_	O	_
+11	cancer	annot4	O	_	_	_	_	_	_	O	_
+12	aparece	annot4	B	_	_	_	_	_	_	O	_
+13	cuando	annot4	O	_	_	_	_	_	_	O	_
+14	menos	annot4	O	_	_	_	_	_	_	O	_
+15	se	annot4	O	_	_	_	_	_	_	O	_
+16	espera	annot4	O	_	_	_	_	_	_	O	_
+17	y	annot4	O	_	_	_	_	_	_	O	_
+18	lo	annot4	O	_	_	_	_	_	_	O	_
+19	fastidia	annot4	B	_	_	_	_	_	_	O	_
+20	todo	annot4	O	_	_	_	_	_	_	O	_
+21	.....	annot4	O	_	_	_	_	_	_	O	_
+22	\n\n	annot4	O	_	_	_	_	_	_	O	_
+
+# sent_id = 19
+# text = [Autor 26]: Hola, Xxxxx\n\nNos alegra saber que habéis tenido buenas noticias.
+1	[	annot4	O	_	_	_	_	_	_	O	_
+2	Autor	annot4	O	_	_	_	_	_	_	O	_
+3	26	annot4	O	_	_	_	_	_	_	O	_
+4	]	annot4	O	_	_	_	_	_	_	O	_
+5	:	annot4	O	_	_	_	_	_	_	O	_
+6	Hola	annot4	O	_	_	_	_	_	_	O	_
+7	,	annot4	O	_	_	_	_	_	_	O	_
+8	Xxxxx	annot4	O	_	_	_	_	_	_	O	_
+9	\n\n	annot4	O	_	_	_	_	_	_	O	_
+10	Nos	annot4	O	_	_	_	_	_	_	O	_
+11	alegra	annot4	O	_	_	_	_	_	_	O	_
+12	saber	annot4	O	_	_	_	_	_	_	O	_
+13	que	annot4	O	_	_	_	_	_	_	O	_
+14	habéis	annot4	O	_	_	_	_	_	_	O	_
+15	tenido	annot4	O	_	_	_	_	_	_	O	_
+16	buenas	annot4	O	_	_	_	_	_	_	O	_
+17	noticias	annot4	O	_	_	_	_	_	_	O	_
+18	.	annot4	O	_	_	_	_	_	_	O	_
+
+# sent_id = 20
+# text = No obstante, tendréis que seguir en contacto con los médicos y, probablemente, llevar a cabo un seguimiento.
+1	No	annot4	O	_	_	_	_	_	_	O	_
+2	obstante	annot4	O	_	_	_	_	_	_	O	_
+3	,	annot4	O	_	_	_	_	_	_	O	_
+4	tendréis	annot4	O	_	_	_	_	_	_	O	_
+5	que	annot4	O	_	_	_	_	_	_	O	_
+6	seguir	annot4	O	_	_	_	_	_	_	O	_
+7	en	annot4	O	_	_	_	_	_	_	O	_
+8	contacto	annot4	O	_	_	_	_	_	_	O	_
+9	con	annot4	O	_	_	_	_	_	_	O	_
+10	los	annot4	O	_	_	_	_	_	_	O	_
+11	médicos	annot4	O	_	_	_	_	_	_	O	_
+12	y	annot4	O	_	_	_	_	_	_	O	_
+13	,	annot4	O	_	_	_	_	_	_	O	_
+14	probablemente	annot4	O	_	_	_	_	_	_	O	_
+15	,	annot4	O	_	_	_	_	_	_	O	_
+16	llevar	annot4	O	_	_	_	_	_	_	O	_
+17	a	annot4	O	_	_	_	_	_	_	O	_
+18	cabo	annot4	O	_	_	_	_	_	_	O	_
+19	un	annot4	O	_	_	_	_	_	_	O	_
+20	seguimiento	annot4	B	_	_	_	_	_	_	O	_
+21	.	annot4	O	_	_	_	_	_	_	O	_
+
+# sent_id = 21
+# text = Si necesitáis ayuda, información u orientación, no dudéis en contactar con nosotros a través del servicio de atención gratuito infocáncer: 000 000 000 24h/7 días\n\nUn abrazo\n\n[Autor 168]: Buenas, Cómo está tu hermano?
+1	Si	annot4	O	_	_	_	_	_	_	O	_
+2	necesitáis	annot4	O	_	_	_	_	_	_	O	_
+3	ayuda	annot4	O	_	_	_	_	_	_	O	_
+4	,	annot4	O	_	_	_	_	_	_	O	_
+5	información	annot4	O	_	_	_	_	_	_	O	_
+6	u	annot4	O	_	_	_	_	_	_	O	_
+7	orientación	annot4	O	_	_	_	_	_	_	O	_
+8	,	annot4	O	_	_	_	_	_	_	O	_
+9	no	annot4	O	_	_	_	_	_	_	O	_
+10	dudéis	annot4	O	_	_	_	_	_	_	O	_
+11	en	annot4	O	_	_	_	_	_	_	O	_
+12	contactar	annot4	O	_	_	_	_	_	_	O	_
+13	con	annot4	O	_	_	_	_	_	_	O	_
+14	nosotros	annot4	O	_	_	_	_	_	_	O	_
+15	a	annot4	O	_	_	_	_	_	_	O	_
+16	través	annot4	O	_	_	_	_	_	_	O	_
+17	del	annot4	O	_	_	_	_	_	_	O	_
+18	servicio	annot4	O	_	_	_	_	_	_	O	_
+19	de	annot4	O	_	_	_	_	_	_	O	_
+20	atención	annot4	O	_	_	_	_	_	_	O	_
+21	gratuito	annot4	O	_	_	_	_	_	_	O	_
+22	infocáncer	annot4	O	_	_	_	_	_	_	O	_
+23	:	annot4	O	_	_	_	_	_	_	O	_
+24	000	annot4	O	_	_	_	_	_	_	O	_
+25	000	annot4	O	_	_	_	_	_	_	O	_
+26	000	annot4	O	_	_	_	_	_	_	O	_
+27	24h/7	annot4	O	_	_	_	_	_	_	O	_
+28	días	annot4	O	_	_	_	_	_	_	O	_
+29	\n\n	annot4	O	_	_	_	_	_	_	O	_
+30	Un	annot4	O	_	_	_	_	_	_	O	_
+31	abrazo	annot4	O	_	_	_	_	_	_	O	_
+32	\n\n	annot4	O	_	_	_	_	_	_	O	_
+33	[	annot4	O	_	_	_	_	_	_	O	_
+34	Autor	annot4	O	_	_	_	_	_	_	O	_
+35	168	annot4	O	_	_	_	_	_	_	O	_
+36	]	annot4	O	_	_	_	_	_	_	O	_
+37	:	annot4	O	_	_	_	_	_	_	O	_
+38	Buenas	annot4	O	_	_	_	_	_	_	O	_
+39	,	annot4	O	_	_	_	_	_	_	O	_
+40	Cómo	annot4	O	_	_	_	_	_	_	O	_
+41	está	annot4	O	_	_	_	_	_	_	O	_
+42	tu	annot4	O	_	_	_	_	_	_	O	_
+43	hermano	annot4	O	_	_	_	_	_	_	O	_
+44	?	annot4	O	_	_	_	_	_	_	O	_
+
+# sent_id = 22
+# text = Sigue bien?
+1	Sigue	annot4	O	_	_	_	_	_	_	O	_
+2	bien	annot4	O	_	_	_	_	_	_	O	_
+3	?	annot4	O	_	_	_	_	_	_	O	_
+
+# sent_id = 23
+# text = Espero que vaya todo bien.
+1	Espero	annot4	O	_	_	_	_	_	_	O	_
+2	que	annot4	O	_	_	_	_	_	_	O	_
+3	vaya	annot4	O	_	_	_	_	_	_	O	_
+4	todo	annot4	O	_	_	_	_	_	_	O	_
+5	bien	annot4	O	_	_	_	_	_	_	O	_
+6	.	annot4	O	_	_	_	_	_	_	O	_
+
+# sent_id = 24
+# text = A mi cuñado le han detectado un Astrocitoma grado 3, estamos desolados y con mucha incertidumbre.
+1	A	annot4	O	_	_	_	_	_	_	O	_
+2	mi	annot4	O	_	_	_	_	_	_	O	_
+3	cuñado	annot4	O	_	_	_	_	_	_	O	_
+4	le	annot4	O	_	_	_	_	_	_	O	_
+5	han	annot4	O	_	_	_	_	_	_	O	_
+6	detectado	annot4	O	_	_	_	_	_	_	O	_
+7	un	annot4	O	_	_	_	_	_	_	O	_
+8	Astrocitoma	annot4	O	_	_	_	_	_	_	O	_
+9	grado	annot4	O	_	_	_	_	_	_	O	_
+10	3	annot4	O	_	_	_	_	_	_	O	_
+11	,	annot4	O	_	_	_	_	_	_	O	_
+12	estamos	annot4	O	_	_	_	_	_	_	O	_
+13	desolados	annot4	B	_	_	_	_	_	_	O	_
+14	y	annot4	O	_	_	_	_	_	_	O	_
+15	con	annot4	O	_	_	_	_	_	_	O	_
+16	mucha	annot4	O	_	_	_	_	_	_	O	_
+17	incertidumbre	annot4	O	_	_	_	_	_	_	O	_
+18	.	annot4	O	_	_	_	_	_	_	O	_
+
+# sent_id = 25
+# text = Estamos buscando información sobre pacientes que estén pasando por lo mismo, para saber cómo están, qué tratamientos les están poniendo, qué les está funcionando.\n\n
+1	Estamos	annot4	O	_	_	_	_	_	_	O	_
+2	buscando	annot4	O	_	_	_	_	_	_	O	_
+3	información	annot4	O	_	_	_	_	_	_	O	_
+4	sobre	annot4	O	_	_	_	_	_	_	O	_
+5	pacientes	annot4	O	_	_	_	_	_	_	O	_
+6	que	annot4	O	_	_	_	_	_	_	O	_
+7	estén	annot4	O	_	_	_	_	_	_	O	_
+8	pasando	annot4	O	_	_	_	_	_	_	O	_
+9	por	annot4	O	_	_	_	_	_	_	O	_
+10	lo	annot4	O	_	_	_	_	_	_	O	_
+11	mismo	annot4	O	_	_	_	_	_	_	O	_
+12	,	annot4	O	_	_	_	_	_	_	O	_
+13	para	annot4	O	_	_	_	_	_	_	O	_
+14	saber	annot4	O	_	_	_	_	_	_	O	_
+15	cómo	annot4	O	_	_	_	_	_	_	O	_
+16	están	annot4	O	_	_	_	_	_	_	O	_
+17	,	annot4	O	_	_	_	_	_	_	O	_
+18	qué	annot4	O	_	_	_	_	_	_	O	_
+19	tratamientos	annot4	O	_	_	_	_	_	_	O	_
+20	les	annot4	O	_	_	_	_	_	_	O	_
+21	están	annot4	O	_	_	_	_	_	_	O	_
+22	poniendo	annot4	O	_	_	_	_	_	_	O	_
+23	,	annot4	O	_	_	_	_	_	_	O	_
+24	qué	annot4	O	_	_	_	_	_	_	O	_
+25	les	annot4	O	_	_	_	_	_	_	O	_
+26	está	annot4	O	_	_	_	_	_	_	O	_
+27	funcionando	annot4	O	_	_	_	_	_	_	O	_
+28	.	annot4	O	_	_	_	_	_	_	O	_
+29	\n\n	annot4	O	_	_	_	_	_	_	O	_
+
+# sent_id = 26
+# text = Gracias de antemano
+1	Gracias	annot4	O	_	_	_	_	_	_	O	_
+2	de	annot4	O	_	_	_	_	_	_	O	_
+3	antemano	annot4	O	_	_	_	_	_	_	O	_

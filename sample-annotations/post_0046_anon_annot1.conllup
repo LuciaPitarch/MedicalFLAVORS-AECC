@@ -1,0 +1,527 @@
+ID FORM AECC:ANNOTATOR AECC:METAPHOR AECC:BM AECC:BM_RAE AECC:CM AECC:CM_RAE AECC:TGT_DOMAIN AECC:META_NOTE AECC:MWE AECC:MWE_NOTE
+# sent_id = 1
+# text = Tema: Superación cáncer cerebral\n
+1	Tema	annot1	O	_	_	_	_	_	_	O	_
+2	:	annot1	O	_	_	_	_	_	_	O	_
+3	Superación	annot1	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/superar-01108627-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/superar-00268011-v	_	Estar enfermo con cáncer » Curarse y recuperarse	_	O	_
+4	cáncer	annot1	O	_	_	_	_	_	_	O	_
+5	cerebral	annot1	O	_	_	_	_	_	_	O	_
+6	\n	annot1	O	_	_	_	_	_	_	O	_
+
+# sent_id = 2
+# text = Autor 167: \n
+1	Autor	annot1	O	_	_	_	_	_	_	O	_
+2	167	annot1	O	_	_	_	_	_	_	O	_
+3	:	annot1	O	_	_	_	_	_	_	O	_
+4	\n	annot1	O	_	_	_	_	_	_	O	_
+
+# sent_id = 3
+# text = Buenas tardes a todas las personas que leen estas líneas porque han sido diagnosticados de cáncer cerebral, y a todos los familiares que lo sufren.
+1	Buenas	annot1	O	_	_	_	_	_	_	O	_
+2	tardes	annot1	O	_	_	_	_	_	_	O	_
+3	a	annot1	O	_	_	_	_	_	_	O	_
+4	todas	annot1	O	_	_	_	_	_	_	O	_
+5	las	annot1	O	_	_	_	_	_	_	O	_
+6	personas	annot1	O	_	_	_	_	_	_	O	_
+7	que	annot1	O	_	_	_	_	_	_	O	_
+8	leen	annot1	O	_	_	_	_	_	_	O	_
+9	estas	annot1	O	_	_	_	_	_	_	O	_
+10	líneas	annot1	O	_	_	_	_	_	_	O	_
+11	porque	annot1	O	_	_	_	_	_	_	O	_
+12	han	annot1	O	_	_	_	_	_	_	O	_
+13	sido	annot1	O	_	_	_	_	_	_	O	_
+14	diagnosticados	annot1	O	_	_	_	_	_	_	O	_
+15	de	annot1	O	_	_	_	_	_	_	O	_
+16	cáncer	annot1	O	_	_	_	_	_	_	O	_
+17	cerebral	annot1	O	_	_	_	_	_	_	O	_
+18	,	annot1	O	_	_	_	_	_	_	O	_
+19	y	annot1	O	_	_	_	_	_	_	O	_
+20	a	annot1	O	_	_	_	_	_	_	O	_
+21	todos	annot1	O	_	_	_	_	_	_	O	_
+22	los	annot1	O	_	_	_	_	_	_	O	_
+23	familiares	annot1	O	_	_	_	_	_	_	O	_
+24	que	annot1	O	_	_	_	_	_	_	O	_
+25	lo	annot1	O	_	_	_	_	_	_	O	_
+26	sufren	annot1	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/sufrir-00065639-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/sufrir-01794668-v	_	Personas » Familia, pareja, hijos	_	O	_
+27	.	annot1	O	_	_	_	_	_	_	O	_
+
+# sent_id = 4
+# text = Este es un testimonio de apoyo y esperanza para todos vosotros, en esos momentos de sufrimiento, desesperanza y angustia en la que nuestras vidas se apagan y no vemos salida.
+1	Este	annot1	O	_	_	_	_	_	_	O	_
+2	es	annot1	O	_	_	_	_	_	_	O	_
+3	un	annot1	O	_	_	_	_	_	_	O	_
+4	testimonio	annot1	O	_	_	_	_	_	_	O	_
+5	de	annot1	O	_	_	_	_	_	_	O	_
+6	apoyo	annot1	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/apoyo-04359589-n	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/apoyo-05693919-n	_	Emociones » Esperanza y control de expectativas	_	O	_
+7	y	annot1	O	_	_	_	_	_	_	O	_
+8	esperanza	annot1	O	_	_	_	_	_	_	O	_
+9	para	annot1	O	_	_	_	_	_	_	O	_
+10	todos	annot1	O	_	_	_	_	_	_	O	_
+11	vosotros	annot1	O	_	_	_	_	_	_	O	_
+12	,	annot1	O	_	_	_	_	_	_	O	_
+13	en	annot1	O	_	_	_	_	_	_	O	_
+14	esos	annot1	O	_	_	_	_	_	_	O	_
+15	momentos	annot1	O	_	_	_	_	_	_	O	_
+16	de	annot1	O	_	_	_	_	_	_	O	_
+17	sufrimiento	annot1	O	_	_	_	_	_	_	O	_
+18	,	annot1	O	_	_	_	_	_	_	O	_
+19	desesperanza	annot1	O	_	_	_	_	_	_	O	_
+20	y	annot1	O	_	_	_	_	_	_	O	_
+21	angustia	annot1	O	_	_	_	_	_	_	O	_
+22	en	annot1	O	_	_	_	_	_	_	O	_
+23	la	annot1	O	_	_	_	_	_	_	O	_
+24	que	annot1	O	_	_	_	_	_	_	O	_
+25	nuestras	annot1	O	_	_	_	_	_	_	O	_
+26	vidas	annot1	O	_	_	_	_	_	_	O	_
+27	se	annot1	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/apagarse-02761897-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/apagarse-00224651-v	_	Estar enfermo con cáncer » Muerte	_	O	_
+28	apagan	annot1	I	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/apagarse-02761897-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/apagarse-00224651-v	_	Estar enfermo con cáncer » Muerte	_	O	_
+29	y	annot1	O	_	_	_	_	_	_	O	_
+30	no	annot1	O	_	_	_	_	_	_	O	_
+31	vemos	annot1	O	_	_	_	_	_	_	O	_
+32	salida	annot1	O	_	_	_	_	_	_	O	_
+33	.	annot1	O	_	_	_	_	_	_	O	_
+
+# sent_id = 5
+# text = Mi hermano fue ingresado en julio del año pasado por dolores de cabeza, y diagnosticado de astrocitoma anaplásico grado 2/3.
+1	Mi	annot1	O	_	_	_	_	_	_	O	_
+2	hermano	annot1	O	_	_	_	_	_	_	O	_
+3	fue	annot1	O	_	_	_	_	_	_	O	_
+4	ingresado	annot1	O	_	_	_	_	_	_	O	_
+5	en	annot1	O	_	_	_	_	_	_	O	_
+6	julio	annot1	O	_	_	_	_	_	_	O	_
+7	del	annot1	O	_	_	_	_	_	_	O	_
+8	año	annot1	O	_	_	_	_	_	_	O	_
+9	pasado	annot1	O	_	_	_	_	_	_	O	_
+10	por	annot1	O	_	_	_	_	_	_	O	_
+11	dolores	annot1	O	_	_	_	_	_	_	O	_
+12	de	annot1	O	_	_	_	_	_	_	O	_
+13	cabeza	annot1	O	_	_	_	_	_	_	O	_
+14	,	annot1	O	_	_	_	_	_	_	O	_
+15	y	annot1	O	_	_	_	_	_	_	O	_
+16	diagnosticado	annot1	O	_	_	_	_	_	_	O	_
+17	de	annot1	O	_	_	_	_	_	_	O	_
+18	astrocitoma	annot1	O	_	_	_	_	_	_	O	_
+19	anaplásico	annot1	O	_	_	_	_	_	_	O	_
+20	grado	annot1	O	_	_	_	_	_	_	O	_
+21	2/3	annot1	O	_	_	_	_	_	_	O	_
+22	.	annot1	O	_	_	_	_	_	_	O	_
+
+# sent_id = 6
+# text = Tenía varios tumores en diferentes puntos.
+1	Tenía	annot1	O	_	_	_	_	_	_	O	_
+2	varios	annot1	O	_	_	_	_	_	_	O	_
+3	tumores	annot1	O	_	_	_	_	_	_	O	_
+4	en	annot1	O	_	_	_	_	_	_	O	_
+5	diferentes	annot1	O	_	_	_	_	_	_	O	_
+6	puntos	annot1	O	_	_	_	_	_	_	O	_
+7	.	annot1	O	_	_	_	_	_	_	O	_
+
+# sent_id = 7
+# text = No se puede explicar el impacto familiar, el dolor, la desesperación, la incertidumbre...no hay palabras.
+1	No	annot1	O	_	_	_	_	_	_	O	_
+2	se	annot1	O	_	_	_	_	_	_	O	_
+3	puede	annot1	O	_	_	_	_	_	_	O	_
+4	explicar	annot1	O	_	_	_	_	_	_	O	_
+5	el	annot1	O	_	_	_	_	_	_	O	_
+6	impacto	annot1	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/impacto-01173038-n	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/impacto-11414411-n	_	Estar enfermo con cáncer » Cambios vitales derivados del cáncer	_	O	_
+7	familiar	annot1	O	_	_	_	_	_	_	O	_
+8	,	annot1	O	_	_	_	_	_	_	O	_
+9	el	annot1	O	_	_	_	_	_	_	O	_
+10	dolor	annot1	O	_	_	_	_	_	_	O	_
+11	,	annot1	O	_	_	_	_	_	_	O	_
+12	la	annot1	O	_	_	_	_	_	_	O	_
+13	desesperación	annot1	O	_	_	_	_	_	_	O	_
+14	,	annot1	O	_	_	_	_	_	_	O	_
+15	la	annot1	O	_	_	_	_	_	_	O	_
+16	incertidumbre	annot1	O	_	_	_	_	_	_	O	_
+17	...	annot1	O	_	_	_	_	_	_	O	_
+18	no	annot1	O	_	_	_	_	_	_	O	_
+19	hay	annot1	O	_	_	_	_	_	_	O	_
+20	palabras	annot1	O	_	_	_	_	_	_	O	_
+21	.	annot1	O	_	_	_	_	_	_	O	_
+
+# sent_id = 8
+# text = Después de dos operaciones, radioterapia y quimioterapia, ayer le dieron el resultado del TAC, un año después del diagnóstico.
+1	Después	annot1	O	_	_	_	_	_	_	O	_
+2	de	annot1	O	_	_	_	_	_	_	O	_
+3	dos	annot1	O	_	_	_	_	_	_	O	_
+4	operaciones	annot1	O	_	_	_	_	_	_	O	_
+5	,	annot1	O	_	_	_	_	_	_	O	_
+6	radioterapia	annot1	O	_	_	_	_	_	_	O	_
+7	y	annot1	O	_	_	_	_	_	_	O	_
+8	quimioterapia	annot1	O	_	_	_	_	_	_	O	_
+9	,	annot1	O	_	_	_	_	_	_	O	_
+10	ayer	annot1	O	_	_	_	_	_	_	O	_
+11	le	annot1	O	_	_	_	_	_	_	O	_
+12	dieron	annot1	O	_	_	_	_	_	_	O	_
+13	el	annot1	O	_	_	_	_	_	_	O	_
+14	resultado	annot1	O	_	_	_	_	_	_	O	_
+15	del	annot1	O	_	_	_	_	_	_	O	_
+16	TAC	annot1	O	_	_	_	_	_	_	O	_
+17	,	annot1	O	_	_	_	_	_	_	O	_
+18	un	annot1	O	_	_	_	_	_	_	O	_
+19	año	annot1	O	_	_	_	_	_	_	O	_
+20	después	annot1	O	_	_	_	_	_	_	O	_
+21	del	annot1	O	_	_	_	_	_	_	O	_
+22	diagnóstico	annot1	O	_	_	_	_	_	_	O	_
+23	.	annot1	O	_	_	_	_	_	_	O	_
+
+# sent_id = 9
+# text = Hemos vuelto todos a nacer!!!!!
+1	Hemos	annot1	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/nacer-00361208-v	_	_	volver a nacer: loc. verb. coloq. librarse de un peligro de muerte. (rae)	Estar enfermo con cáncer » Curarse y recuperarse	_	O	_
+2	vuelto	annot1	I	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/nacer-00361208-v	_	_	volver a nacer: loc. verb. coloq. librarse de un peligro de muerte. (rae)	Estar enfermo con cáncer » Curarse y recuperarse	_	O	_
+3	todos	annot1	I	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/nacer-00361208-v	_	_	volver a nacer: loc. verb. coloq. librarse de un peligro de muerte. (rae)	Estar enfermo con cáncer » Curarse y recuperarse	_	O	_
+4	a	annot1	I	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/nacer-00361208-v	_	_	volver a nacer: loc. verb. coloq. librarse de un peligro de muerte. (rae)	Estar enfermo con cáncer » Curarse y recuperarse	_	O	_
+5	nacer	annot1	I	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/nacer-00361208-v	_	_	volver a nacer: loc. verb. coloq. librarse de un peligro de muerte. (rae)	Estar enfermo con cáncer » Curarse y recuperarse	_	O	_
+6	!	annot1	O	_	_	_	_	_	_	O	_
+7	!	annot1	O	_	_	_	_	_	_	O	_
+8	!	annot1	O	_	_	_	_	_	_	O	_
+9	!	annot1	O	_	_	_	_	_	_	O	_
+10	!	annot1	O	_	_	_	_	_	_	O	_
+
+# sent_id = 10
+# text = Aún no damos crédito, y el médico tampoco.
+1	Aún	annot1	O	_	_	_	_	_	_	O	_
+2	no	annot1	O	_	_	_	_	_	_	O	_
+3	damos	annot1	O	_	_	_	_	_	_	O	_
+4	crédito	annot1	O	_	_	_	_	_	_	O	_
+5	,	annot1	O	_	_	_	_	_	_	O	_
+6	y	annot1	O	_	_	_	_	_	_	O	_
+7	el	annot1	O	_	_	_	_	_	_	O	_
+8	médico	annot1	O	_	_	_	_	_	_	O	_
+9	tampoco	annot1	O	_	_	_	_	_	_	O	_
+10	.	annot1	O	_	_	_	_	_	_	O	_
+
+# sent_id = 11
+# text = Los tumores han desaparecido, no existen!!!
+1	Los	annot1	O	_	_	_	_	_	_	O	_
+2	tumores	annot1	O	_	_	_	_	_	_	O	_
+3	han	annot1	O	_	_	_	_	_	_	O	_
+4	desaparecido	annot1	O	_	_	_	_	_	_	O	_
+5	,	annot1	O	_	_	_	_	_	_	O	_
+6	no	annot1	O	_	_	_	_	_	_	O	_
+7	existen	annot1	O	_	_	_	_	_	_	O	_
+8	!	annot1	O	_	_	_	_	_	_	O	_
+9	!	annot1	O	_	_	_	_	_	_	O	_
+10	!	annot1	O	_	_	_	_	_	_	O	_
+
+# sent_id = 12
+# text = Ha quedado sólo un punto, insignificante, que según las palabras del médico "no tiene importancia", está inactivo.
+1	Ha	annot1	O	_	_	_	_	_	_	O	_
+2	quedado	annot1	O	_	_	_	_	_	_	O	_
+3	sólo	annot1	O	_	_	_	_	_	_	O	_
+4	un	annot1	O	_	_	_	_	_	_	O	_
+5	punto	annot1	O	_	_	_	_	_	_	O	_
+6	,	annot1	O	_	_	_	_	_	_	O	_
+7	insignificante	annot1	O	_	_	_	_	_	_	O	_
+8	,	annot1	O	_	_	_	_	_	_	O	_
+9	que	annot1	O	_	_	_	_	_	_	O	_
+10	según	annot1	O	_	_	_	_	_	_	O	_
+11	las	annot1	O	_	_	_	_	_	_	O	_
+12	palabras	annot1	O	_	_	_	_	_	_	O	_
+13	del	annot1	O	_	_	_	_	_	_	O	_
+14	médico	annot1	O	_	_	_	_	_	_	O	_
+15	"	annot1	O	_	_	_	_	_	_	O	_
+16	no	annot1	O	_	_	_	_	_	_	O	_
+17	tiene	annot1	O	_	_	_	_	_	_	O	_
+18	importancia	annot1	O	_	_	_	_	_	_	O	_
+19	"	annot1	O	_	_	_	_	_	_	O	_
+20	,	annot1	O	_	_	_	_	_	_	O	_
+21	está	annot1	O	_	_	_	_	_	_	O	_
+22	inactivo	annot1	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/inactivo-00033574-a	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/inactivo-00041051-a	_	Cancer » Tecnicismo cáncer	_	O	_
+23	.	annot1	O	_	_	_	_	_	_	O	_
+
+# sent_id = 13
+# text = No hay signos de alteración de ningún tipo en pruebas de contraste, está limpiooo todo!!
+1	No	annot1	O	_	_	_	_	_	_	O	_
+2	hay	annot1	O	_	_	_	_	_	_	O	_
+3	signos	annot1	O	_	_	_	_	_	_	O	_
+4	de	annot1	O	_	_	_	_	_	_	O	_
+5	alteración	annot1	O	_	_	_	_	_	_	O	_
+6	de	annot1	O	_	_	_	_	_	_	O	_
+7	ningún	annot1	O	_	_	_	_	_	_	O	_
+8	tipo	annot1	O	_	_	_	_	_	_	O	_
+9	en	annot1	O	_	_	_	_	_	_	O	_
+10	pruebas	annot1	O	_	_	_	_	_	_	O	_
+11	de	annot1	O	_	_	_	_	_	_	O	_
+12	contraste	annot1	O	_	_	_	_	_	_	O	_
+13	,	annot1	O	_	_	_	_	_	_	O	_
+14	está	annot1	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/limpio-00417413-a	_	_	adj. libre, exento de cosa que dañe o inficione. (rae)	Estar enfermo con cáncer » Curarse y recuperarse	Dudas para encontrar definición para el contextual meaning	O	_
+15	limpiooo	annot1	I	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/limpio-00417413-a	_	_	adj. libre, exento de cosa que dañe o inficione. (rae)	Estar enfermo con cáncer » Curarse y recuperarse	Dudas para encontrar definición para el contextual meaning	O	_
+16	todo	annot1	O	_	_	_	_	_	_	O	_
+17	!	annot1	O	_	_	_	_	_	_	O	_
+18	!	annot1	O	_	_	_	_	_	_	O	_
+
+# sent_id = 14
+# text = A partir de ahora controles cada tres meses y a vivir.
+1	A	annot1	O	_	_	_	_	_	_	O	_
+2	partir	annot1	O	_	_	_	_	_	_	O	_
+3	de	annot1	O	_	_	_	_	_	_	O	_
+4	ahora	annot1	O	_	_	_	_	_	_	O	_
+5	controles	annot1	O	_	_	_	_	_	_	O	_
+6	cada	annot1	O	_	_	_	_	_	_	O	_
+7	tres	annot1	O	_	_	_	_	_	_	O	_
+8	meses	annot1	O	_	_	_	_	_	_	O	_
+9	y	annot1	O	_	_	_	_	_	_	O	_
+10	a	annot1	O	_	_	_	_	_	_	O	_
+11	vivir	annot1	O	_	_	_	_	_	_	O	_
+12	.	annot1	O	_	_	_	_	_	_	O	_
+
+# sent_id = 15
+# text = Decirles que estos casos también existen, aunque parezca imposible.
+1	Decirles	annot1	O	_	_	_	_	_	_	O	_
+2	que	annot1	O	_	_	_	_	_	_	O	_
+3	estos	annot1	O	_	_	_	_	_	_	O	_
+4	casos	annot1	O	_	_	_	_	_	_	O	_
+5	también	annot1	O	_	_	_	_	_	_	O	_
+6	existen	annot1	O	_	_	_	_	_	_	O	_
+7	,	annot1	O	_	_	_	_	_	_	O	_
+8	aunque	annot1	O	_	_	_	_	_	_	O	_
+9	parezca	annot1	O	_	_	_	_	_	_	O	_
+10	imposible	annot1	O	_	_	_	_	_	_	O	_
+11	.	annot1	O	_	_	_	_	_	_	O	_
+
+# sent_id = 16
+# text = Somos los primeros sorprendidos, y queríamos transmitirles mucha fuerza y apoyo, y siempre CREER en la medicina y la sanación, ya que es posible.
+1	Somos	annot1	O	_	_	_	_	_	_	O	_
+2	los	annot1	O	_	_	_	_	_	_	O	_
+3	primeros	annot1	O	_	_	_	_	_	_	O	_
+4	sorprendidos	annot1	O	_	_	_	_	_	_	O	_
+5	,	annot1	O	_	_	_	_	_	_	O	_
+6	y	annot1	O	_	_	_	_	_	_	O	_
+7	queríamos	annot1	O	_	_	_	_	_	_	O	_
+8	transmitirles	annot1	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/transmitir-00743082-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/transmitir-00740577-v	_	Emociones » Optimismo	_	O	_
+9	mucha	annot1	O	_	_	_	_	_	_	O	_
+10	fuerza	annot1	O	_	_	_	_	_	_	O	_
+11	y	annot1	O	_	_	_	_	_	_	O	_
+12	apoyo	annot1	O	_	_	_	_	_	_	O	_
+13	,	annot1	O	_	_	_	_	_	_	O	_
+14	y	annot1	O	_	_	_	_	_	_	O	_
+15	siempre	annot1	O	_	_	_	_	_	_	O	_
+16	CREER	annot1	O	_	_	_	_	_	_	O	_
+17	en	annot1	O	_	_	_	_	_	_	O	_
+18	la	annot1	O	_	_	_	_	_	_	O	_
+19	medicina	annot1	O	_	_	_	_	_	_	O	_
+20	y	annot1	O	_	_	_	_	_	_	O	_
+21	la	annot1	O	_	_	_	_	_	_	O	_
+22	sanación	annot1	O	_	_	_	_	_	_	O	_
+23	,	annot1	O	_	_	_	_	_	_	O	_
+24	ya	annot1	O	_	_	_	_	_	_	O	_
+25	que	annot1	O	_	_	_	_	_	_	O	_
+26	es	annot1	O	_	_	_	_	_	_	O	_
+27	posible	annot1	O	_	_	_	_	_	_	O	_
+28	.	annot1	O	_	_	_	_	_	_	O	_
+
+# sent_id = 17
+# text = Un gran abrazo a tod@s\n\nComentarios:\n\n[Autor 169]: Aun siendo una gran noticia,
+1	Un	annot1	O	_	_	_	_	_	_	O	_
+2	gran	annot1	O	_	_	_	_	_	_	O	_
+3	abrazo	annot1	O	_	_	_	_	_	_	O	_
+4	a	annot1	O	_	_	_	_	_	_	O	_
+5	tod@s	annot1	O	_	_	_	_	_	_	O	_
+6	\n\n	annot1	O	_	_	_	_	_	_	O	_
+7	Comentarios	annot1	O	_	_	_	_	_	_	O	_
+8	:	annot1	O	_	_	_	_	_	_	O	_
+9	\n\n	annot1	O	_	_	_	_	_	_	O	_
+10	[	annot1	O	_	_	_	_	_	_	O	_
+11	Autor	annot1	O	_	_	_	_	_	_	O	_
+12	169	annot1	O	_	_	_	_	_	_	O	_
+13	]	annot1	O	_	_	_	_	_	_	O	_
+14	:	annot1	O	_	_	_	_	_	_	O	_
+15	Aun	annot1	O	_	_	_	_	_	_	O	_
+16	siendo	annot1	O	_	_	_	_	_	_	O	_
+17	una	annot1	O	_	_	_	_	_	_	O	_
+18	gran	annot1	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/noticia-06269130-n	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/buenas+noticias-06643120-n	_	Emociones » Optimismo|Diagnóstico » Recibir informacion	_	O	_
+19	noticia	annot1	I	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/noticia-06269130-n	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/buenas+noticias-06643120-n	_	Emociones » Optimismo|Diagnóstico » Recibir informacion	_	O	_
+20	,	annot1	I	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/noticia-06269130-n	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/buenas+noticias-06643120-n	_	Emociones » Optimismo|Diagnóstico » Recibir informacion	_	O	_
+
+# sent_id = 18
+# text = yo esperaria para lanzar las campanas al vuelo, el cancer aparece cuando menos se espera y lo fastidia todo.....\n\n
+1	yo	annot1	O	_	_	_	_	_	_	O	_
+2	esperaria	annot1	O	_	_	_	_	_	_	O	_
+3	para	annot1	O	_	_	_	_	_	_	O	_
+4	lanzar	annot1	O	_	_	_	_	_	_	O	_
+5	las	annot1	O	_	_	_	_	_	_	O	_
+6	campanas	annot1	O	_	_	_	_	_	_	O	_
+7	al	annot1	O	_	_	_	_	_	_	O	_
+8	vuelo	annot1	O	_	_	_	_	_	_	O	_
+9	,	annot1	O	_	_	_	_	_	_	O	_
+10	el	annot1	O	_	_	_	_	_	_	O	_
+11	cancer	annot1	O	_	_	_	_	_	_	O	_
+12	aparece	annot1	O	_	_	_	_	_	_	O	_
+13	cuando	annot1	O	_	_	_	_	_	_	O	_
+14	menos	annot1	O	_	_	_	_	_	_	O	_
+15	se	annot1	O	_	_	_	_	_	_	O	_
+16	espera	annot1	O	_	_	_	_	_	_	O	_
+17	y	annot1	O	_	_	_	_	_	_	O	_
+18	lo	annot1	O	_	_	_	_	_	_	O	_
+19	fastidia	annot1	O	_	_	_	_	_	_	O	_
+20	todo	annot1	O	_	_	_	_	_	_	O	_
+21	.....	annot1	O	_	_	_	_	_	_	O	_
+22	\n\n	annot1	O	_	_	_	_	_	_	O	_
+
+# sent_id = 19
+# text = [Autor 26]: Hola, Xxxxx\n\nNos alegra saber que habéis tenido buenas noticias.
+1	[	annot1	O	_	_	_	_	_	_	O	_
+2	Autor	annot1	O	_	_	_	_	_	_	O	_
+3	26	annot1	O	_	_	_	_	_	_	O	_
+4	]	annot1	O	_	_	_	_	_	_	O	_
+5	:	annot1	O	_	_	_	_	_	_	O	_
+6	Hola	annot1	O	_	_	_	_	_	_	O	_
+7	,	annot1	O	_	_	_	_	_	_	O	_
+8	Xxxxx	annot1	O	_	_	_	_	_	_	O	_
+9	\n\n	annot1	O	_	_	_	_	_	_	O	_
+10	Nos	annot1	O	_	_	_	_	_	_	O	_
+11	alegra	annot1	O	_	_	_	_	_	_	O	_
+12	saber	annot1	O	_	_	_	_	_	_	O	_
+13	que	annot1	O	_	_	_	_	_	_	O	_
+14	habéis	annot1	O	_	_	_	_	_	_	O	_
+15	tenido	annot1	O	_	_	_	_	_	_	O	_
+16	buenas	annot1	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/noticias-06619850-n	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/buenas+noticias-06643120-n	_	Emociones » Optimismo|Diagnóstico » Recibir informacion	_	O	_
+17	noticias	annot1	I	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/noticias-06619850-n	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/buenas+noticias-06643120-n	_	Emociones » Optimismo|Diagnóstico » Recibir informacion	_	O	_
+18	.	annot1	O	_	_	_	_	_	_	O	_
+
+# sent_id = 20
+# text = No obstante, tendréis que seguir en contacto con los médicos y, probablemente, llevar a cabo un seguimiento.
+1	No	annot1	O	_	_	_	_	_	_	O	_
+2	obstante	annot1	O	_	_	_	_	_	_	O	_
+3	,	annot1	O	_	_	_	_	_	_	O	_
+4	tendréis	annot1	O	_	_	_	_	_	_	O	_
+5	que	annot1	O	_	_	_	_	_	_	O	_
+6	seguir	annot1	O	_	_	_	_	_	_	O	_
+7	en	annot1	O	_	_	_	_	_	_	O	_
+8	contacto	annot1	O	_	_	_	_	_	_	O	_
+9	con	annot1	O	_	_	_	_	_	_	O	_
+10	los	annot1	O	_	_	_	_	_	_	O	_
+11	médicos	annot1	O	_	_	_	_	_	_	O	_
+12	y	annot1	O	_	_	_	_	_	_	O	_
+13	,	annot1	O	_	_	_	_	_	_	O	_
+14	probablemente	annot1	O	_	_	_	_	_	_	O	_
+15	,	annot1	O	_	_	_	_	_	_	O	_
+16	llevar	annot1	O	_	_	_	_	_	_	O	_
+17	a	annot1	O	_	_	_	_	_	_	O	_
+18	cabo	annot1	O	_	_	_	_	_	_	O	_
+19	un	annot1	O	_	_	_	_	_	_	O	_
+20	seguimiento	annot1	O	_	_	_	_	_	_	O	_
+21	.	annot1	O	_	_	_	_	_	_	O	_
+
+# sent_id = 21
+# text = Si necesitáis ayuda, información u orientación, no dudéis en contactar con nosotros a través del servicio de atención gratuito infocáncer: 000 000 000 24h/7 días\n\nUn abrazo\n\n[Autor 168]: Buenas, Cómo está tu hermano?
+1	Si	annot1	O	_	_	_	_	_	_	O	_
+2	necesitáis	annot1	O	_	_	_	_	_	_	O	_
+3	ayuda	annot1	O	_	_	_	_	_	_	O	_
+4	,	annot1	O	_	_	_	_	_	_	O	_
+5	información	annot1	O	_	_	_	_	_	_	O	_
+6	u	annot1	O	_	_	_	_	_	_	O	_
+7	orientación	annot1	O	_	_	_	_	_	_	O	_
+8	,	annot1	O	_	_	_	_	_	_	O	_
+9	no	annot1	O	_	_	_	_	_	_	O	_
+10	dudéis	annot1	O	_	_	_	_	_	_	O	_
+11	en	annot1	O	_	_	_	_	_	_	O	_
+12	contactar	annot1	O	_	_	_	_	_	_	O	_
+13	con	annot1	O	_	_	_	_	_	_	O	_
+14	nosotros	annot1	O	_	_	_	_	_	_	O	_
+15	a	annot1	O	_	_	_	_	_	_	O	_
+16	través	annot1	O	_	_	_	_	_	_	O	_
+17	del	annot1	O	_	_	_	_	_	_	O	_
+18	servicio	annot1	O	_	_	_	_	_	_	O	_
+19	de	annot1	O	_	_	_	_	_	_	O	_
+20	atención	annot1	O	_	_	_	_	_	_	O	_
+21	gratuito	annot1	O	_	_	_	_	_	_	O	_
+22	infocáncer	annot1	O	_	_	_	_	_	_	O	_
+23	:	annot1	O	_	_	_	_	_	_	O	_
+24	000	annot1	O	_	_	_	_	_	_	O	_
+25	000	annot1	O	_	_	_	_	_	_	O	_
+26	000	annot1	O	_	_	_	_	_	_	O	_
+27	24h/7	annot1	O	_	_	_	_	_	_	O	_
+28	días	annot1	O	_	_	_	_	_	_	O	_
+29	\n\n	annot1	O	_	_	_	_	_	_	O	_
+30	Un	annot1	O	_	_	_	_	_	_	O	_
+31	abrazo	annot1	O	_	_	_	_	_	_	O	_
+32	\n\n	annot1	O	_	_	_	_	_	_	O	_
+33	[	annot1	O	_	_	_	_	_	_	O	_
+34	Autor	annot1	O	_	_	_	_	_	_	O	_
+35	168	annot1	O	_	_	_	_	_	_	O	_
+36	]	annot1	O	_	_	_	_	_	_	O	_
+37	:	annot1	O	_	_	_	_	_	_	O	_
+38	Buenas	annot1	O	_	_	_	_	_	_	O	_
+39	,	annot1	O	_	_	_	_	_	_	O	_
+40	Cómo	annot1	O	_	_	_	_	_	_	O	_
+41	está	annot1	O	_	_	_	_	_	_	O	_
+42	tu	annot1	O	_	_	_	_	_	_	O	_
+43	hermano	annot1	O	_	_	_	_	_	_	O	_
+44	?	annot1	O	_	_	_	_	_	_	O	_
+
+# sent_id = 22
+# text = Sigue bien?
+1	Sigue	annot1	O	_	_	_	_	_	_	O	_
+2	bien	annot1	O	_	_	_	_	_	_	O	_
+3	?	annot1	O	_	_	_	_	_	_	O	_
+
+# sent_id = 23
+# text = Espero que vaya todo bien.
+1	Espero	annot1	O	_	_	_	_	_	_	O	_
+2	que	annot1	O	_	_	_	_	_	_	O	_
+3	vaya	annot1	O	_	_	_	_	_	_	O	_
+4	todo	annot1	O	_	_	_	_	_	_	O	_
+5	bien	annot1	O	_	_	_	_	_	_	O	_
+6	.	annot1	O	_	_	_	_	_	_	O	_
+
+# sent_id = 24
+# text = A mi cuñado le han detectado un Astrocitoma grado 3, estamos desolados y con mucha incertidumbre.
+1	A	annot1	O	_	_	_	_	_	_	O	_
+2	mi	annot1	O	_	_	_	_	_	_	O	_
+3	cuñado	annot1	O	_	_	_	_	_	_	O	_
+4	le	annot1	O	_	_	_	_	_	_	O	_
+5	han	annot1	O	_	_	_	_	_	_	O	_
+6	detectado	annot1	O	_	_	_	_	_	_	O	_
+7	un	annot1	O	_	_	_	_	_	_	O	_
+8	Astrocitoma	annot1	O	_	_	_	_	_	_	O	_
+9	grado	annot1	O	_	_	_	_	_	_	O	_
+10	3	annot1	O	_	_	_	_	_	_	O	_
+11	,	annot1	O	_	_	_	_	_	_	O	_
+12	estamos	annot1	O	_	_	_	_	_	_	O	_
+13	desolados	annot1	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/desolado-01242750-a	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/desolador-01126841-a	_	Emociones » Miedo|Emociones » Soledad	_	O	_
+14	y	annot1	O	_	_	_	_	_	_	O	_
+15	con	annot1	O	_	_	_	_	_	_	O	_
+16	mucha	annot1	O	_	_	_	_	_	_	O	_
+17	incertidumbre	annot1	O	_	_	_	_	_	_	O	_
+18	.	annot1	O	_	_	_	_	_	_	O	_
+
+# sent_id = 25
+# text = Estamos buscando información sobre pacientes que estén pasando por lo mismo, para saber cómo están, qué tratamientos les están poniendo, qué les está funcionando.\n\n
+1	Estamos	annot1	O	_	_	_	_	_	_	O	_
+2	buscando	annot1	O	_	_	_	_	_	_	O	_
+3	información	annot1	O	_	_	_	_	_	_	O	_
+4	sobre	annot1	O	_	_	_	_	_	_	O	_
+5	pacientes	annot1	O	_	_	_	_	_	_	O	_
+6	que	annot1	O	_	_	_	_	_	_	O	_
+7	estén	annot1	O	_	_	_	_	_	_	O	_
+8	pasando	annot1	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/pasar-01212230-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/pasar+por-02053190-v	_	Cancer » Cáncer como entidad	_	O	_
+9	por	annot1	I	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/pasar-01212230-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/pasar+por-02053190-v	_	Cancer » Cáncer como entidad	_	O	_
+10	lo	annot1	O	_	_	_	_	_	_	O	_
+11	mismo	annot1	O	_	_	_	_	_	_	O	_
+12	,	annot1	O	_	_	_	_	_	_	O	_
+13	para	annot1	O	_	_	_	_	_	_	O	_
+14	saber	annot1	O	_	_	_	_	_	_	O	_
+15	cómo	annot1	O	_	_	_	_	_	_	O	_
+16	están	annot1	O	_	_	_	_	_	_	O	_
+17	,	annot1	O	_	_	_	_	_	_	O	_
+18	qué	annot1	O	_	_	_	_	_	_	O	_
+19	tratamientos	annot1	O	_	_	_	_	_	_	O	_
+20	les	annot1	O	_	_	_	_	_	_	O	_
+21	están	annot1	O	_	_	_	_	_	_	O	_
+22	poniendo	annot1	O	_	_	_	_	_	_	O	_
+23	,	annot1	O	_	_	_	_	_	_	O	_
+24	qué	annot1	O	_	_	_	_	_	_	O	_
+25	les	annot1	O	_	_	_	_	_	_	O	_
+26	está	annot1	O	_	_	_	_	_	_	O	_
+27	funcionando	annot1	B	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/funcionar-01525666-v	_	https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/funcionar-02525447-v	_	Tratamiento	_	O	_
+28	.	annot1	O	_	_	_	_	_	_	O	_
+29	\n\n	annot1	O	_	_	_	_	_	_	O	_
+
+# sent_id = 26
+# text = Gracias de antemano
+1	Gracias	annot1	O	_	_	_	_	_	_	O	_
+2	de	annot1	O	_	_	_	_	_	_	O	_
+3	antemano	annot1	O	_	_	_	_	_	_	O	_
