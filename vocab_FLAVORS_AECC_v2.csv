@@ -1,0 +1,808 @@
+text,lemma,type,pos,BM,domain
+reconstruccion,reconstruccion,uniword,PROPN,None,None
+reconstruir,reconstruir,uniword,VERB,None,None
+parnafernalia,parnafernalia,uniword,PROPN,None,None
+fuerte';fuerte;fuertes,fuerte,uniword,ADJ,None,None
+reinjertar,reinjertar,uniword,VERB,None,None
+luzcan,lucir,uniword,VERB,None,None
+ni nada,ni,multiword,CCONJ,None,None
+compartirlo,compartir él,uniword,VERB,None,None
+extirpar;extirparon,extirpar,uniword,VERB,None,None
+implante,implante,uniword,NOUN,None,None
+cedido,cedido,uniword,ADJ,None,None
+punto;puntos,punto,uniword,NOUN,None,None
+luchar!;luchando;luchando.;luchando!;luchamos;luchar,luchar,uniword,VERB,None,None
+pasó a mejor vida;pasar por;paso;pasó por;pasé;pasará;pasado;pasar;pase;pasé por;pasando por;pasando;pasó;pasa,pasar,uniword,VERB,None,None
+intervenirme,intervenir yo,uniword,VERB,None,None
+orienten;orientar,orientar,uniword,VERB,None,None
+valorando;valorar,valorar,uniword,VERB,None,None
+sospechábamos,sospechár,uniword,VERB,None,None
+cerrar.,cerrar,uniword,VERB,None,None
+intervenir;intervinieron,intervenir,uniword,VERB,None,None
+superado,superado,uniword,ADJ,None,None
+pasos;paso por,paso,multiword,NOUN,None,None
+al paso de los meses,al,multiword,ADP,None,None
+implantes;implantes.,implant,uniword,ADJ,None,None
+luchado,luchado,uniword,ADJ,None,None
+se enfrenta;se rinda.;se fue;lo que me enfrentaba;lo que pasó;se cosume;se vino bastante abajo;le mando;lo comparto;se reproduce;ella;se quita;le salvé;se mojan;se ocupen;se han adueñado;se apagan;se ve truncada;se hubiera ido;le ha dado la cara,él,multiword,PRON,None,None
+llevar;lleva;llevaban;llevo;lleven;llevamos;llevaba;llevaron;llevando,llevar,uniword,VERB,None,None
+retomar,retomar,uniword,VERB,None,None
+progresando,progresar,uniword,VERB,None,None
+llevarà,llevarà,uniword,NOUN,None,None
+arranque,arranque,uniword,NOUN,None,None
+compartía;compartir;compartimos;compartir.,compartir,uniword,VERB,None,None
+guiando,guiar,uniword,VERB,None,None
+tenga;tenido;tener;tuvieron;tienes;tenemos;tenía;tuvo;tendrá;tuviese;teniendo;tuve;tengo;tienen;tengan;tiene,tener,uniword,VERB,None,None
+limpios;limpia;limpio,limpio,uniword,ADJ,None,None
+suspendieron,suspender,uniword,VERB,None,None
+delicado,delicado,uniword,ADJ,None,None
+duros;dura batalla.;duro.;dura;duras;duro,duro,uniword,ADJ,None,None
+nos estamos enfrentando;me encuentro;me apoyo;me practicaron;me invaden;nos tienes;me saturo;me uno;nos derrumbamos.;me meto,yo,multiword,PRON,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/apoyo-04360501-n']),u.c.StringArray(elements=['personas>>apoyo'])
+apoyo,apoyo,uniword,NOUN,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/apoyo-04360501-n']),u.c.StringArray(elements=['personas>>apoyo'])
+han subido;ha seguido;había hecho;haya estancado;ha llenado;he  superado;ha avanzado;ha pasado por;hayan juntado;habían vuelto;han descubierto;ha superado;hemos vuelto todos a nacer;han apoyado;hayan pasado por;haya;ha ido;ha muerto;he pasado;ha pasado,haber,multiword,AUX,None,None
+quedar;quedan;queda;quedado,quedar,uniword,VERB,None,None
+tocado;tocada,tocado,uniword,ADJ,None,None
+vi;ves;ver;ven;viendo;vemos,ver,uniword,VERB,None,None
+encontrar;encontraba;encontraron;encuentras;encuentre;encontré;encuentra;encontrado;encontró;encontramos;encuentro,encontrar,uniword,VERB,None,None
+superar.;superando;superar,superar,uniword,VERB,None,None
+pierdo.y,pierdo.y,uniword,NOUN,None,None
+estaba pasando;estar;estáis en;estoy en;estáis luchando;está yendo;estaba;está limpiooo,estar,uniword,AUX,None,None
+dejan;dejado;dejaron;dejo;dejé;dejar;dejaba,dejar,uniword,VERB,None,None
+entienden,entender,uniword,VERB,None,None
+subió;subí;subieron;subir,subir,uniword,VERB,None,None
+camino;camino.,camino,uniword,NOUN,None,None
+corazón,corazón,uniword,NOUN,None,None
+posición,posición,uniword,NOUN,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/agresivo-01244846-a']),u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+avanza.;avanzar;avanza;avanzaba,avanzar,uniword,VERB,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/agresivo-01244846-a']),u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+principio,principio,uniword,ADJ,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/agresivo-01244846-a']),u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+situación.;situaciones;situación;situación así;situaciones y,situación,uniword,NOUN,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/agresivo-01244846-a']),u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+firme,firme,uniword,ADJ,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/agresivo-01244846-a']),u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+noticia;noticias,noticia,uniword,NOUN,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/agresivo-01244846-a']),u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+atrapadas,atrapado,uniword,ADJ,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/agresivo-01244846-a']),u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+venir;vino,venir,uniword,VERB,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/agresivo-01244846-a']),u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+lidiar,lidiar,uniword,VERB,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/agresivo-01244846-a']),u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+retorcerse de dolor.,retorcer él,multiword,VERB,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/agresivo-01244846-a']),u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+contundente,contundente,uniword,ADJ,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/agresivo-01244846-a']),u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+"recaídas;recaídas,;recaída",recaída,uniword,NOUN,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/agresivo-01244846-a']),u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+bucle,bucle,uniword,NOUN,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/agresivo-01244846-a']),u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+peros,pero,uniword,ADJ,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/agresivo-01244846-a']),u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+por la que seguro pasan;por montones,por,multiword,ADP,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/agresivo-01244846-a']),u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+agresivos;agresivo;agresiva,agresivo,uniword,ADJ,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/agresivo-01244846-a']),u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+bulto,bulto,uniword,NOUN,"u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/bulto-05104421-n', 'https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/bulto-08008017-n'])",None
+resistencia;resistencias,resistencia,uniword,NOUN,None,None
+captación,captación,uniword,NOUN,None,None
+mandaronotra,mandaronotra,uniword,PROPN,None,None
+progresion,progresion,uniword,PROPN,None,None
+eliminaron;eliminar;eliminado,eliminar,uniword,VERB,None,None
+desaparecido,desaparecido,uniword,ADJ,None,None
+hilo,hilo,uniword,NOUN,None,None
+volvio;vuelve;volvió;volví;vuelto;volvemos,volver,uniword,VERB,None,None
+afectación,afectación,uniword,NOUN,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+droga.;droga,droga,uniword,NOUN,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+estable.;estables.;estables;estables .;estable,estable,uniword,ADJ,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+estabilizaron;estabilizan;estabilizar,estabilizar,uniword,VERB,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+digeriendo,digerir,uniword,VERB,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+mutación,mutación,uniword,NOUN,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+cuadro,cuadro,uniword,NOUN,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+avance;avances,avance,uniword,NOUN,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+empieza;empezando,empezar,uniword,VERB,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+demos;dieron;daban;di;da;dando;dar;dan;das;dio;dado,dar,uniword,VERB,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+actúa,actuar,uniword,VERB,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+aparecerán;aparecido;aparece,aparecer,uniword,VERB,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+fuerza;fuerzas,fuerza,uniword,NOUN,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+sumar.llevo,sumar.llevo,uniword,NOUN,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+respuesta,respuesta,uniword,NOUN,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+controlada;controlado,controlado,uniword,ADJ,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+desaparecer;desapareciendo;desaparece;desaparecieron;desaparecía;desapareció,desaparecer,uniword,VERB,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+desgracia,desgracia,uniword,NOUN,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+respondi,respondi,uniword,VERB,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+resulta,resultar,uniword,VERB,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+vacaciones,vacación,uniword,NOUN,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+desaparición,desaparición,uniword,NOUN,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+"[autor 318];[autor 88]: viendo tus testimonios me encantaría poder a hablar contigo ya que estoy en una situación parecida con mi padre y quiero saber un poco más sobre esto, gracias de antemano;[autor 97]: hola, ¿al final como acabaste?;[autor 108;[autor 8]: buenos días,
+
+a mi marido le detectaron un linfoma no hodgking en mediastino tipo b primario, agresivo, células grandes en abril 2024 con 40 años.",[,multiword,NOUN,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+plantean,plantear,uniword,VERB,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+"sigo,;sigue y sigue, pero hay que seguir, seguir...;sigo;seguirá;sigue;seguía;seguiré;sigan;siguieron;seguir;seguimos",seguir,uniword,VERB,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+respondemos;responde,responder,uniword,VERB,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+continuación,continuación,uniword,NOUN,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+va;fuimos;ido;van;iba;vayas;ir,ir,uniword,VERB,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+incontables,incontabl,uniword,ADJ,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+salir;sale;saliera;salido;salga;salieron;salió;salía;saliese,salir,uniword,VERB,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+masa,masa,uniword,NOUN,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+dure;durar,durar,uniword,VERB,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+avanzado.;avanzado;avanzada,avanzado,uniword,ADJ,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+suerte,suerte,uniword,NOUN,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+maligna;malignas;maligno;malignos,maligno,uniword,ADJ,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/maligno-00225099-a']),u.c.StringArray(elements=['Cancer » Otros'])
+perfecto,perfecto,uniword,ADJ,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/maligno-00225099-a']),u.c.StringArray(elements=['Cancer » Otros'])
+enviar;enviaron,enviar,uniword,VERB,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/maligno-00225099-a']),u.c.StringArray(elements=['Cancer » Otros'])
+achacaba,achacar,uniword,VERB,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/venirse+abajo-01972570-v']),None
+pequeña;pequeñas,pequeño,uniword,ADJ,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/venirse+abajo-01972570-v']),None
+cogió;coge,coger,uniword,VERB,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/venirse+abajo-01972570-v']),None
+alarmar,alarmar,uniword,VERB,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/venirse+abajo-01972570-v']),None
+orientarais,orientarais,uniword,PROPN,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/venirse+abajo-01972570-v']),None
+ocultaban;oculta,ocultar,uniword,VERB,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/venirse+abajo-01972570-v']),None
+cepa,cepa,uniword,VERB,None,None
+aclarar,aclarar,uniword,VERB,None,None
+luchas;lucha,lucha,uniword,NOUN,None,None
+consumir;consume,consumir,uniword,VERB,None,None
+recibir;recibes;recibiendo;recibido,recibir,uniword,VERB,None,None
+graves;grave,grave,uniword,ADJ,None,None
+ayuda,ayuda,uniword,PROPN,None,None
+molestar,molestar,uniword,VERB,None,None
+molestias,molestia,uniword,NOUN,None,None
+pesadilla,pesadilla,uniword,NOUN,None,None
+pasado por,pasado,multiword,ADJ,None,None
+verte,verte,uniword,VERB,None,None
+afrontándolo,afrontando él,uniword,VERB,None,None
+afronté;afrontando;afrontar,afrontar,uniword,VERB,None,None
+devuelva,devolver,uniword,VERB,None,None
+enferma,enferma,uniword,NOUN,None,None
+enchufan,enchufan,uniword,NOUN,None,None
+enciende;enciende una alarma,encender,uniword,VERB,None,None
+fe,fe,uniword,NOUN,None,None
+arreando;arrean,arrear,uniword,VERB,None,None
+tranquilizan,tranquilizar,uniword,VERB,None,None
+enfrentando;enfrentar;enfrenta,enfrentar,uniword,VERB,None,None
+malo,malo,uniword,ADJ,None,None
+sustillo,sustillo,uniword,ADJ,None,None
+vivo;vivir;vivir.;vivido,vivir,uniword,VERB,None,None
+hermanos,hermano,uniword,NOUN,None,None
+tema,tema,uniword,NOUN,None,None
+interior,interior,uniword,PROPN,None,None
+mundo,mundo,uniword,NOUN,None,None
+dirigieron,dirigir,uniword,VERB,None,None
+rastreo,rastreo,uniword,NOUN,None,None
+mucha fuerza y animo;muy humano,mucho,multiword,ADV,None,None
+cubriendo;cubrir,cubrir,uniword,VERB,None,None
+humano,humano,uniword,ADJ,None,None
+preocupación,preocupación,uniword,NOUN,None,None
+remedio,remedio,uniword,NOUN,None,None
+rebelas,rebe él,uniword,VERB,None,None
+movia,movia,uniword,VERB,None,None
+preocuparse,preocupar él,uniword,VERB,None,None
+anuncio,anuncio,uniword,NOUN,None,None
+llegué;llegamos;llegó;llegado,llegar,uniword,VERB,None,None
+familia,familia,uniword,NOUN,None,None
+nada,nada,uniword,PRON,None,None
+sitio,sitio,uniword,NOUN,None,None
+convive;convivir,convivir,uniword,VERB,None,None
+amanecí,amanecer,uniword,VERB,None,None
+asaltar,asaltar,uniword,VERB,None,None
+asustada,asustado,uniword,ADJ,None,None
+ida,ida,uniword,NOUN,None,None
+despedìa,despedìa,uniword,ADJ,None,None
+fase,fase,uniword,NOUN,None,None
+albergas,albergas,uniword,VERB,None,None
+trégua,tréguar,uniword,VERB,None,None
+trabajándo,trabajándo,uniword,VERB,None,None
+dificil,dificil,uniword,ADJ,None,None
+ahorrar,ahorrar,uniword,VERB,None,None
+renuncio,renuncio,uniword,PROPN,None,None
+visitar,visitar,uniword,VERB,None,None
+animo;animar,animar,uniword,VERB,None,None
+llevaderos;llevadero,llevadero,uniword,VERB,None,None
+entereza,entereza,uniword,NOUN,None,None
+rescate,rescate,uniword,NOUN,None,None
+saturo,saturo,uniword,ADJ,None,None
+comprometido;comprometidos,comprometido,uniword,ADJ,None,None
+panorama,panorama,uniword,NOUN,None,None
+muñeco gusiluz,muñeco,multiword,NOUN,None,None
+bloques,bloque,uniword,NOUN,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/remitir-01031256-v']),u.c.StringArray(elements=['Estar enfermo con cáncer » Curarse y recuperarse'])
+remision,remision,uniword,NOUN,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/remitir-01031256-v']),u.c.StringArray(elements=['Estar enfermo con cáncer » Curarse y recuperarse'])
+dolor,dolor,uniword,NOUN,"u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/destrozar-00292672-v', 'https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/destrozar-00333758-v'])",u.c.StringArray(elements=['Emociones » Molestia (física o mental)'])
+destrozada;destrozado,destrozado,uniword,ADJ,"u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/destrozar-00292672-v', 'https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/destrozar-00333758-v'])",u.c.StringArray(elements=['Emociones » Molestia (física o mental)'])
+irme,ir yo,uniword,VERB,"u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/destrozar-00292672-v', 'https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/destrozar-00333758-v'])",u.c.StringArray(elements=['Emociones » Molestia (física o mental)'])
+conpartir,conpartir,uniword,VERB,"u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/destrozar-00292672-v', 'https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/destrozar-00333758-v'])",u.c.StringArray(elements=['Emociones » Molestia (física o mental)'])
+situacion,situacion,uniword,PROPN,None,None
+flojo,flojo,uniword,ADJ,None,None
+acabar;acaba,acabar,uniword,VERB,None,None
+parado,parado,uniword,ADJ,None,None
+proceso,proceso,uniword,NOUN,None,None
+"alta,;alta;alto",alto,uniword,ADJ,None,None
+presente,presente,uniword,ADJ,None,None
+abrasivo,abrasivo,uniword,ADJ,None,None
+mantenimiento,mantenimiento,uniword,NOUN,None,None
+buscar;buscando;busca,buscar,uniword,VERB,None,None
+"""un puño;""dormido"";""dura""","""",multiword,PUNCT,None,None
+vicho,vicho,uniword,ADJ,None,None
+extremo,extremo,uniword,NOUN,None,None
+focalizado,focalizar,uniword,VERB,None,None
+animarle,animar él,uniword,VERB,None,None
+salida,salido,uniword,ADJ,None,None
+forma;formas,forma,uniword,NOUN,None,None
+concretos;concreta,concreto,uniword,ADJ,None,None
+disipado.;disipado,disipado,uniword,ADJ,None,None
+perdí;perder;perdido;pierdas;perdió,perder,uniword,VERB,None,None
+completas,completo,uniword,ADJ,None,None
+subida,subida,uniword,NOUN,None,None
+directos;directas;directa,directo,uniword,ADJ,None,None
+desahogarte.,desahogarte,uniword,NOUN,None,None
+entrado,entrado,uniword,ADJ,None,None
+disminuye,disminuir,uniword,VERB,None,None
+costaba;cuesta,costar,uniword,VERB,None,None
+soporte,soporte,uniword,NOUN,None,None
+dirigidos;dirigido;dirigidas;dirigida,dirigido,uniword,ADJ,None,None
+funcionará;funcionan;funciona;funcionar;funcionaron;funcionando;funcione,funcionar,uniword,VERB,None,None
+aportemos;aportar,aportar,uniword,VERB,None,None
+disipara,disipar,uniword,VERB,None,None
+saber,saber,uniword,VERB,None,None
+ayudado;ayudar,ayudar,uniword,VERB,None,None
+apoyando;apoya;apoyemos.;apoyado,apoyar,uniword,VERB,None,None
+ataques,ataque,uniword,NOUN,None,None
+demoledor,demoledor,uniword,ADJ,None,None
+soportable,soportable,uniword,ADJ,None,None
+trabajo;trabajamos;trabajar;trabajando,trabajar,uniword,VERB,None,None
+ventanas,ventana,uniword,NOUN,None,None
+impide,impedir,uniword,VERB,None,None
+ampliando,ampliar,uniword,VERB,None,None
+desarrollo,desarrollo,uniword,NOUN,None,None
+red,red,uniword,NOUN,None,None
+presto,presto,uniword,VERB,None,None
+control;controles,control,uniword,NOUN,None,None
+facilitarme,facilitarmar,uniword,VERB,None,None
+facilitar,facilitar,uniword,VERB,None,None
+cosas;cosa,cosa,uniword,NOUN,None,None
+suave,suave,uniword,ADJ,None,None
+señal,señal,uniword,NOUN,None,None
+alivia;aliviar,aliviar,uniword,VERB,None,None
+consigas,consigar,uniword,VERB,None,None
+dormirlo,dormir él,uniword,VERB,None,None
+entrada,entrada,uniword,NOUN,None,None
+sobrellevarlos.;sobrellevarlos,sobrellevar él,uniword,VERB,None,None
+"dormido"";dormido",dormido,uniword,ADJ,None,None
+animéis,animéis,uniword,VERB,None,None
+energía,energía,uniword,NOUN,None,None
+identifico,identificar,uniword,VERB,None,None
+bajado;baja;bajar,bajar,uniword,VERB,None,None
+desahogarme,desahogar yo,uniword,VERB,None,None
+decaido,decaido,uniword,ADJ,None,None
+desfallezcas,desfallezcar,uniword,VERB,None,None
+enfrentarte,enfrentartar,uniword,VERB,None,None
+recuperarte,recuperarte,uniword,VERB,None,None
+darles;darle,dar él,uniword,VERB,None,None
+combatir,combatir,uniword,VERB,None,None
+derivaa,derivaa,uniword,VERB,None,None
+meterlo,meter él,uniword,VERB,None,None
+foco;focos,foco,uniword,NOUN,None,None
+referencias,referencia,uniword,NOUN,None,None
+cuadra,cuadra,uniword,NOUN,None,None
+pasándolos,pasando él,uniword,VERB,None,None
+inmersa,inmerso,uniword,ADJ,None,None
+recalcarel,recalcarel,uniword,PROPN,None,None
+desarrollar,desarrollar,uniword,VERB,None,None
+controlar,controlar,uniword,VERB,None,None
+entrar;entra,entrar,uniword,VERB,None,None
+descartó;descartan;descartar;descartamos,descartar,uniword,VERB,None,None
+empleada,empleado,uniword,ADJ,None,None
+rematar,rematar,uniword,VERB,None,None
+impacto,impacto,uniword,NOUN,None,None
+obtener,obtener,uniword,VERB,None,None
+aferramos,aferrar,uniword,VERB,None,None
+dejarte,dejarte,uniword,VERB,None,None
+formado,formado,uniword,ADJ,None,None
+diseminado,diseminado,uniword,ADJ,None,None
+prolongarle,prolongar él,uniword,VERB,None,None
+evaden,evadir,uniword,VERB,None,None
+alargue,alargue,uniword,VERB,None,None
+hábitos,hábito,uniword,NOUN,None,None
+acumular,acumular,uniword,VERB,None,None
+un puño,uno,multiword,DET,None,None
+recuperado,recuperado,uniword,ADJ,None,None
+chilla,chillar,uniword,VERB,None,None
+gestionar,gestionar,uniword,VERB,None,None
+resto,resto,uniword,NOUN,None,None
+peligroso,peligroso,uniword,ADJ,None,None
+juzgo,juzgo,uniword,NOUN,None,None
+aislamiento,aislamiento,uniword,NOUN,None,None
+hace;hacer;haciendo;hice;hizo,hacer,uniword,VERB,None,None
+confió,confiar,uniword,VERB,None,None
+descubrieron;descubren,descubrir,uniword,VERB,None,None
+extensos,extenso,uniword,ADJ,None,None
+dependen,depender,uniword,VERB,None,None
+mantener;mantiene,mantener,uniword,VERB,None,None
+levantarlo,levantar él,uniword,VERB,None,None
+éste sitio,este,multiword,DET,None,None
+perdidos;perdida,perdido,uniword,ADJ,None,None
+encontraran,encontrarar,uniword,VERB,None,None
+resista,resista,uniword,ADJ,None,None
+eliminación,eliminación,uniword,NOUN,None,None
+desahogarte,desahogar tú,uniword,VERB,None,None
+tenidoy,tenidoy,uniword,ADJ,None,None
+tengas,tengas,uniword,VERB,None,None
+dejaré,dejaré,uniword,VERB,None,None
+dierais,dierais,uniword,VERB,None,None
+bajo;bajos,bajo,uniword,ADP,None,None
+depresión,depresión,uniword,NOUN,None,None
+bloqueada,bloqueado,uniword,ADJ,None,None
+canales,canal,uniword,NOUN,None,None
+crecimiento,crecimiento,uniword,NOUN,None,None
+formamos,formar,uniword,VERB,None,None
+enorme,enorme,uniword,ADJ,None,None
+establecieran,establecer,uniword,VERB,None,None
+unión,unión,uniword,PROPN,None,None
+parara,parar,uniword,VERB,None,None
+es;fuera;ser fuertes;fue,ser,multiword,AUX,None,None
+afluencia,afluencia,uniword,NOUN,None,None
+pierda,pierda,uniword,VERB,None,None
+existe,existir,uniword,VERB,None,None
+defendiera,defender,uniword,VERB,None,None
+insípida,insípido,uniword,ADJ,None,None
+"propagando;propagó,",propagar,uniword,VERB,None,None
+soporta;soportar;soportó;soporto,soportar,uniword,VERB,None,None
+extendido,extendido,uniword,ADJ,None,None
+creciendo,crecer,uniword,VERB,None,None
+subido,subido,uniword,ADJ,None,None
+recuperar,recuperar,uniword,VERB,None,None
+reproduce;reproducirá,reproducir,uniword,VERB,None,None
+episodios,episodio,uniword,NOUN,None,None
+marchaba,marchar,uniword,VERB,None,None
+lucho,lucho,uniword,VERB,None,None
+ofrecerles,ofrecer él,uniword,VERB,None,None
+cuenta,contar,uniword,VERB,None,None
+luz,luz,uniword,NOUN,None,None
+mandar;mandaron;mando,mandar,uniword,VERB,None,None
+sufrir;sufren;sufrió,sufrir,uniword,VERB,None,None
+capaz,capaz,uniword,ADJ,None,None
+dejarme,dejar yo,uniword,VERB,None,None
+puede;puedan;pueda;podrá,poder,uniword,AUX,None,None
+aborde,abordar,uniword,VERB,None,None
+matar,matar,uniword,VERB,None,None
+limitados,limitado,uniword,NOUN,None,None
+materia,materia,uniword,NOUN,None,None
+sitiwnw,sitiwnw,uniword,ADJ,None,None
+presenta,presentar,uniword,VERB,None,None
+convencerse,convencer él,uniword,VERB,None,None
+aceptar,aceptar,uniword,VERB,None,None
+vaya,vaya,uniword,VERB,None,None
+tenia,tenia,uniword,VERB,None,None
+flojea,flojear,uniword,VERB,None,None
+apoyarte,apoyartir,uniword,VERB,None,None
+darte,darte,uniword,VERB,None,None
+aligerar,aligerar,uniword,VERB,None,None
+vencer.;vence;venceremos;venció,vencer,uniword,VERB,None,None
+funciono,funciono,uniword,VERB,None,None
+pararlo,parar él,uniword,VERB,None,None
+regalo,regalo,uniword,PROPN,None,None
+apoyarme;apoyarnos,apoyar yo,uniword,VERB,None,None
+larga;largos,largo,uniword,ADJ,None,None
+daros,daros,uniword,VERB,None,None
+batalla,batalla,uniword,NOUN,None,None
+desanime,desanime,uniword,ADV,None,None
+resistente,resistente,uniword,ADJ,None,None
+bloqueamos,bloquear,uniword,VERB,None,None
+destroza,destrozar,uniword,VERB,None,None
+enmarcan,enmarcar,uniword,VERB,None,None
+faltaba,faltar,uniword,VERB,None,None
+visibilidad,visibilidad,uniword,NOUN,None,None
+servido,servido,uniword,ADJ,None,None
+pronunciada,pronunciado,uniword,ADJ,None,None
+tomar,tomar,uniword,VERB,None,None
+sondesarrolladas,sondesarrollada,uniword,ADJ,None,None
+luchadores;luchadores y luchadoras;luchador,luchador,uniword,ADJ,None,None
+bendición,bendición,uniword,NOUN,None,None
+propagado,propagado,uniword,ADJ,None,None
+aguante,aguante,uniword,ADJ,None,None
+entre,entre,uniword,ADP,None,None
+odisea,odisea,uniword,NOUN,None,None
+encargado,encargado,uniword,ADJ,None,None
+desechar;desecha,desechar,uniword,VERB,None,None
+claro,claro,uniword,ADJ,None,None
+injusta,injusta,uniword,ADJ,None,None
+evitareliminar,evitareliminar,uniword,VERB,None,None
+signos,signo,uniword,NOUN,None,None
+seguidos;seguido,seguido,uniword,ADJ,None,None
+conectas,conectar,uniword,VERB,None,None
+toque,toque,uniword,NOUN,None,None
+estoydescubriendo,estoydescubreir,uniword,VERB,None,None
+factor,factor,uniword,NOUN,None,None
+enrollo,enrollo,uniword,NOUN,None,None
+retirar,retirar,uniword,VERB,None,None
+aya pasado por,aya,multiword,PROPN,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/llevar-01432601-v']),u.c.StringArray(elements=['Estar enfermo con cáncer » Dolor'])
+avence,avence,uniword,VERB,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/llevar-01432601-v']),u.c.StringArray(elements=['Estar enfermo con cáncer » Dolor'])
+bolita,bolita,uniword,NOUN,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/llevar-01432601-v']),u.c.StringArray(elements=['Estar enfermo con cáncer » Dolor'])
+miedo,miedo,uniword,NOUN,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/llevar-01432601-v']),u.c.StringArray(elements=['Estar enfermo con cáncer » Dolor'])
+mande,mandir,uniword,VERB,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/llevar-01432601-v']),u.c.StringArray(elements=['Estar enfermo con cáncer » Dolor'])
+recayó;recaer,recaer,uniword,VERB,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/llevar-01432601-v']),u.c.StringArray(elements=['Estar enfermo con cáncer » Dolor'])
+tontería,tontería,uniword,NOUN,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/llevar-01432601-v']),u.c.StringArray(elements=['Estar enfermo con cáncer » Dolor'])
+aguantar;aguantando,aguantar,uniword,VERB,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/llevar-01432601-v']),u.c.StringArray(elements=['Estar enfermo con cáncer » Dolor'])
+irían,irir,uniword,VERB,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/llevar-01432601-v']),u.c.StringArray(elements=['Estar enfermo con cáncer » Dolor'])
+"solución,",solución,uniword,NOUN,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/llevar-01432601-v']),u.c.StringArray(elements=['Estar enfermo con cáncer » Dolor'])
+irradia,irradiar,uniword,VERB,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/llevar-01432601-v']),u.c.StringArray(elements=['Estar enfermo con cáncer » Dolor'])
+fortaleza,fortaleza,uniword,NOUN,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/protagonista-10172793-n']),"u.c.StringArray(elements=['Personas » Familia, pareja, hijos'])"
+vndran,vndrar,uniword,VERB,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/protagonista-10172793-n']),"u.c.StringArray(elements=['Personas » Familia, pareja, hijos'])"
+tu caso esta lleno d luz y esperanza!,tu,multiword,DET,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/protagonista-10172793-n']),"u.c.StringArray(elements=['Personas » Familia, pareja, hijos'])"
+aquí;aquí estamos,aquí,uniword,ADV,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/protagonista-10172793-n']),"u.c.StringArray(elements=['Personas » Familia, pareja, hijos'])"
+ayudarlo,ayudar él,uniword,VERB,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/protagonista-10172793-n']),"u.c.StringArray(elements=['Personas » Familia, pareja, hijos'])"
+adelants,adelants,uniword,VERB,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/protagonista-10172793-n']),"u.c.StringArray(elements=['Personas » Familia, pareja, hijos'])"
+delirio,delirio,uniword,ADJ,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/protagonista-10172793-n']),"u.c.StringArray(elements=['Personas » Familia, pareja, hijos'])"
+ca.,ca,uniword,INTJ,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/protagonista-10172793-n']),"u.c.StringArray(elements=['Personas » Familia, pareja, hijos'])"
+desahogo,desahogo,uniword,NOUN,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/protagonista-10172793-n']),"u.c.StringArray(elements=['Personas » Familia, pareja, hijos'])"
+pa'lante.,pa'lante,uniword,ADV,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/protagonista-10172793-n']),"u.c.StringArray(elements=['Personas » Familia, pareja, hijos'])"
+llena;lleno,lleno,uniword,ADJ,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/protagonista-10172793-n']),"u.c.StringArray(elements=['Personas » Familia, pareja, hijos'])"
+ánimo,ánimo,uniword,NOUN,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/protagonista-10172793-n']),"u.c.StringArray(elements=['Personas » Familia, pareja, hijos'])"
+protagonista,protagonista,uniword,NOUN,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/protagonista-10172793-n']),"u.c.StringArray(elements=['Personas » Familia, pareja, hijos'])"
+negro,negro,uniword,ADJ,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/protagonista-10172793-n']),"u.c.StringArray(elements=['Personas » Familia, pareja, hijos'])"
+dcaer,dcaer,uniword,VERB,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/protagonista-10172793-n']),"u.c.StringArray(elements=['Personas » Familia, pareja, hijos'])"
+profunda,profundo,uniword,ADJ,None,u.c.StringArray(elements=['personas>>apoyo'])
+aferrarnos,aferrar yo,uniword,VERB,None,u.c.StringArray(elements=['personas>>apoyo'])
+descubrimiento,descubrimiento,uniword,PROPN,None,u.c.StringArray(elements=['personas>>apoyo'])
+desgarrador,desgarrador,uniword,ADJ,None,u.c.StringArray(elements=['personas>>apoyo'])
+superación,superación,uniword,NOUN,None,u.c.StringArray(elements=['personas>>apoyo'])
+fruto,fruto,uniword,NOUN,None,u.c.StringArray(elements=['personas>>apoyo'])
+miraras,mirarar,uniword,VERB,None,None
+fallar,fallar,uniword,VERB,None,None
+vengó,vengar,uniword,VERB,None,None
+unen;unirá;une,unir,uniword,VERB,None,None
+tropecemos,tropezar,uniword,VERB,None,None
+sueños,sueño,uniword,NOUN,None,None
+recayo,recayo,uniword,PROPN,None,None
+vida,vida,uniword,NOUN,None,None
+peso,peso,uniword,NOUN,None,None
+déjate,déjatar,uniword,VERB,None,None
+nueva,nuevo,uniword,ADJ,None,None
+pilló,pillar,uniword,VERB,None,None
+sacan;sacando;sacar,sacar,uniword,VERB,None,None
+union,union,uniword,PROPN,None,None
+arrebatando,arrebatar,uniword,VERB,None,None
+hombro,hombro,uniword,NOUN,None,None
+afrontado,afrontado,uniword,ADJ,None,None
+positivos;positiva,positivo,uniword,ADJ,None,None
+fríos,frío,uniword,NOUN,None,None
+choque,choque,uniword,NOUN,None,None
+golpear,golpear,uniword,VERB,None,None
+arrazo,arrazo,uniword,PROPN,None,None
+prueba,prueba,uniword,NOUN,None,None
+quitar;quitando,quitar,uniword,VERB,None,None
+suene,sonar,uniword,VERB,None,None
+enemigo,enemigo,uniword,ADJ,None,None
+integrantes,integrante,uniword,ADJ,None,None
+monstruo,monstruo,uniword,NOUN,None,None
+compartomi,compartomi,uniword,ADJ,None,None
+arrojaron;arrojó,arrojar,uniword,VERB,None,None
+lotería,lotería,uniword,NOUN,None,None
+hundida,hundido,uniword,ADJ,None,None
+raíz,raíz,uniword,NOUN,None,None
+riendas,rienda,uniword,NOUN,None,None
+a por,a,multiword,ADP,None,None
+amargados,amargado,uniword,ADJ,None,None
+frene,frene,uniword,VERB,None,None
+metidos,metido,uniword,ADJ,None,None
+cruzarnos,cruzar yo,uniword,VERB,None,None
+asimilar,asimilar,uniword,VERB,None,None
+mejorarlo,mejorar él,uniword,VERB,None,None
+pondrían;poniendo;puesto,poner,uniword,VERB,None,None
+soltar;soltaron,soltar,uniword,VERB,None,None
+prepara,preparar,uniword,VERB,None,None
+parariamos.ante,parariamos.ante,uniword,ADV,None,None
+desgarra,desgarra,uniword,VERB,None,None
+sorteo,sorteo,uniword,NOUN,None,None
+rotos;roto,roto,uniword,ADJ,None,None
+respondido,respondido,uniword,ADJ,None,None
+ataca,atacar,uniword,VERB,None,None
+despejan,despejar,uniword,VERB,None,None
+devastada;devastado,devastado,uniword,ADJ,None,None
+leches,leches,uniword,NOUN,None,None
+traer,traer,uniword,VERB,None,None
+trago,trago,uniword,NOUN,None,None
+total,total,uniword,ADJ,None,None
+ganas,gana,uniword,NOUN,None,None
+librando,librar,uniword,VERB,None,None
+página,página,uniword,NOUN,None,None
+sostén,sostén,uniword,PROPN,None,None
+benigno,benigno,uniword,ADJ,None,None
+descansando;descansar,descansar,uniword,VERB,None,None
+morimos;moría,morir,uniword,VERB,None,None
+fuente,fuente,uniword,NOUN,None,None
+pelear,pelear,uniword,VERB,None,None
+insasiados,insasiado,uniword,ADJ,None,None
+acapara,acaparar,uniword,VERB,None,None
+bruscas,brusca,uniword,ADJ,None,None
+rendirse,rendir él,uniword,VERB,None,None
+apoyamos,apoyamos,uniword,VERB,None,None
+descalabros,descalabro,uniword,NOUN,None,None
+unida,unido,uniword,ADJ,None,None
+abrumador,abrumador,uniword,ADJ,None,None
+perdi,perdar,uniword,VERB,None,None
+soportarlo,soportar él,uniword,VERB,None,None
+suavice,suavice,uniword,PROPN,None,None
+idioma,idioma,uniword,NOUN,None,None
+opresión,opresión,uniword,NOUN,None,None
+declive,declive,uniword,NOUN,None,None
+puñeteras,puñetera,uniword,ADJ,None,None
+atravesando,atravesar,uniword,VERB,None,None
+lejanos,lejano,uniword,ADJ,None,None
+burbuja,burbuja,uniword,NOUN,None,None
+tormenta,tormenta,uniword,NOUN,None,None
+oscuros;oscuro,oscuro,uniword,ADJ,None,None
+brutal,brutal,uniword,ADJ,None,None
+impactante,impactante,uniword,ADJ,None,None
+oleada,oleada,uniword,NOUN,None,None
+desorientada,desorientado,uniword,ADJ,None,None
+conexión,conexión,uniword,NOUN,None,None
+pérdidas;pérdida,pérdida,uniword,NOUN,None,None
+progresado,progresado,uniword,ADJ,None,None
+abrumada,abrumado,uniword,ADJ,None,None
+vacío,vacío,uniword,ADJ,None,None
+amor,amor,uniword,PROPN,None,None
+insoportables,insoportable,uniword,ADJ,None,None
+sobrellevar,sobrellevar,uniword,VERB,None,None
+apagando;apagan,apagar,uniword,VERB,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/proceso-00029677-n']),u.c.StringArray(elements=['Emociones » Otros'])
+débil,débil,uniword,ADJ,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/proceso-00029677-n']),u.c.StringArray(elements=['Emociones » Otros'])
+palabras,palabra,uniword,NOUN,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/proceso-00029677-n']),u.c.StringArray(elements=['Emociones » Otros'])
+quefuésemosfuertes,quefuésemosfuert,uniword,ADJ,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/proceso-00029677-n']),u.c.StringArray(elements=['Emociones » Otros'])
+final,final,uniword,ADJ,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/proceso-00029677-n']),u.c.StringArray(elements=['Emociones » Otros'])
+toca;tocar,tocar,uniword,VERB,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/proceso-00029677-n']),u.c.StringArray(elements=['Emociones » Otros'])
+seguridad,seguridad,uniword,NOUN,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/proceso-00029677-n']),u.c.StringArray(elements=['Emociones » Otros'])
+no es la misma persona,no,multiword,ADV,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/proceso-00029677-n']),u.c.StringArray(elements=['Emociones » Otros'])
+notablemente,notablemente,uniword,ADV,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/proceso-00029677-n']),u.c.StringArray(elements=['Emociones » Otros'])
+extraño,extraño,uniword,ADJ,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/proceso-00029677-n']),u.c.StringArray(elements=['Emociones » Otros'])
+hinchado,hinchado,uniword,ADJ,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/proceso-00029677-n']),u.c.StringArray(elements=['Emociones » Otros'])
+fin,fin,uniword,NOUN,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/proceso-00029677-n']),u.c.StringArray(elements=['Emociones » Otros'])
+veias,veias,uniword,VERB,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/proceso-00029677-n']),u.c.StringArray(elements=['Emociones » Otros'])
+calvario,calvario,uniword,NOUN,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/proceso-00029677-n']),u.c.StringArray(elements=['Emociones » Otros'])
+mejorase,mejorar,uniword,VERB,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/proceso-00029677-n']),u.c.StringArray(elements=['Emociones » Otros'])
+difícil,difícil,uniword,ADJ,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/proceso-00029677-n']),u.c.StringArray(elements=['Emociones » Otros'])
+terror,terror,uniword,NOUN,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/proceso-00029677-n']),u.c.StringArray(elements=['Emociones » Otros'])
+últimos,último,uniword,ADJ,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/proceso-00029677-n']),u.c.StringArray(elements=['Emociones » Otros'])
+evoluciòn,evoluciòn,uniword,PROPN,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/durar-02410175-v']),u.c.StringArray(elements=['Estar enfermo con cáncer » Muerte'])
+sobreviviente,sobreviviente,uniword,NOUN,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/durar-02410175-v']),u.c.StringArray(elements=['Estar enfermo con cáncer » Muerte'])
+cola,cola,uniword,PROPN,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/durar-02410175-v']),u.c.StringArray(elements=['Estar enfermo con cáncer » Muerte'])
+adaptado,adaptado,uniword,ADJ,None,None
+sufrido,sufrido,uniword,ADJ,None,None
+gustos,gusto,uniword,NOUN,None,None
+incertidumbre,incertidumbre,uniword,NOUN,None,None
+montaña rusa,montaña,multiword,NOUN,None,None
+tensión,tensión,uniword,NOUN,None,None
+estamontaña rusa,estamontaña,multiword,NOUN,None,None
+acompañarte,acompañarte,uniword,VERB,None,None
+saliómuy,saliómuy,uniword,ADJ,None,None
+remamos,remar,uniword,VERB,None,None
+abandonar,abandonar,uniword,VERB,None,None
+dejarlo,dejar él,uniword,VERB,None,None
+muerta,muerto,uniword,ADJ,None,None
+cambiar,cambiar,uniword,VERB,None,None
+aprendizaje,aprendizaje,uniword,NOUN,None,None
+golpe,golpe,uniword,NOUN,None,None
+dentro,dentro,uniword,ADV,None,None
+os ha pasado;os necesito,tú,multiword,PRON,None,None
+revuelta,revuelta,uniword,NOUN,None,None
+barajar;barajando,barajar,uniword,VERB,None,None
+estocada,estocada,uniword,NOUN,None,None
+llevé,llevé,uniword,VERB,None,None
+luchadoras;luchadora,luchadora,uniword,NOUN,None,None
+quimio.llevo,quimio.llevo,uniword,ADJ,None,None
+juntos,junto,uniword,ADJ,None,None
+arcadas,arcada,uniword,ADJ,None,None
+frio,frio,uniword,ADJ,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/fr%C3%ADo-05015463-n']),u.c.StringArray(elements=['Emociones » Soledad'])
+incierto,incierto,uniword,ADJ,None,None
+acompañándola,acompañándolo,uniword,ADJ,None,None
+devastador,devastador,uniword,ADJ,None,None
+apoyarla,apoyar él,uniword,VERB,None,None
+aliados,aliado,uniword,NOUN,None,None
+salio,salio,uniword,ADJ,None,None
+armarte,armarte,uniword,VERB,None,None
+detener,detener,uniword,VERB,None,None
+detenerlo,detener él,uniword,VERB,None,None
+fe.te,fe.te,uniword,PROPN,None,None
+sumaba;suma,sumar,uniword,VERB,None,None
+coraje,coraje,uniword,PROPN,None,None
+sometieron,someter,uniword,VERB,None,None
+sobrevivirá,sobrevivir,uniword,VERB,None,None
+mazazo,mazazo,uniword,NOUN,None,None
+evacuar,evacuar,uniword,VERB,None,None
+debilidad,debilidad,uniword,NOUN,"u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/encontrar-01313923-v', 'https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/encontrar-02285629-v'])","u.c.StringArray(elements=['Diagnóstico » Prognosis', 'Diagnóstico » Recibir informacion'])"
+verse,ver él,uniword,VERB,"u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/encontrar-01313923-v', 'https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/encontrar-02285629-v'])","u.c.StringArray(elements=['Diagnóstico » Prognosis', 'Diagnóstico » Recibir informacion'])"
+sirviera;sirve de,servir,uniword,VERB,"u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/encontrar-01313923-v', 'https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/encontrar-02285629-v'])","u.c.StringArray(elements=['Diagnóstico » Prognosis', 'Diagnóstico » Recibir informacion'])"
+estado o estén,estado,multiword,NOUN,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/agresivo-01244846-a']),u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+hundido,hundir,uniword,VERB,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/agresivo-01244846-a']),u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+extirparlo,extirpar él,uniword,VERB,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+real,real,uniword,ADJ,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+desconectar,desconectar,uniword,VERB,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+enfocado,enfocado,uniword,ADJ,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+tortura,tortura,uniword,NOUN,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+ligero,ligero,uniword,ADJ,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+natural,natural,uniword,ADJ,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+animado;animada,animado,uniword,ADJ,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+evoluciona,evolucionar,uniword,VERB,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+valioso,valiosir,uniword,VERB,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+aparición,aparición,uniword,NOUN,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+verás,verás,uniword,VERB,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+aliviarme,aliviar yo,uniword,VERB,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+expúlsalo.cuando,expúlsalo.cuar,uniword,VERB,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+miembros,miembro,uniword,NOUN,None,u.c.StringArray(elements=['Cancer » Tecnicismo cáncer'])
+declinar,declinar,uniword,VERB,None,None
+aligera,aligero,uniword,ADJ,None,None
+cubran,cubran,uniword,VERB,None,None
+librarse,librar él,uniword,VERB,None,None
+apuntar,apuntar,uniword,VERB,None,None
+tornándose,tornar él,uniword,VERB,None,None
+carga,carga,uniword,NOUN,None,None
+viable,viable,uniword,ADJ,None,u.c.StringArray(elements=['Diagnóstico » Toma de decisiones'])
+evitarlo,evitar él,uniword,VERB,None,u.c.StringArray(elements=['Diagnóstico » Toma de decisiones'])
+turbios,turbio,uniword,ADJ,None,None
+acompañarle,acompañar él,uniword,VERB,None,None
+atormentan,atormentar,uniword,VERB,None,None
+abriendo,abrir,uniword,VERB,None,None
+apagándose,apagar él,uniword,VERB,None,None
+problema;problema.,problema,uniword,NOUN,None,None
+claroscuros,claroscuro,uniword,ADJ,None,None
+caída,caída,uniword,NOUN,None,None
+espacio;espacios,espacio,uniword,NOUN,None,None
+segura,seguro,uniword,ADJ,None,None
+reto,reto,uniword,NOUN,None,None
+fan,fan,uniword,NOUN,None,None
+ansiedad,ansiedad,uniword,NOUN,None,None
+radioactiva,radioactiva,uniword,NOUN,None,None
+sospechosas,sospechosa,uniword,NOUN,None,None
+inmenso,inmenso,uniword,ADJ,None,None
+traducido,traducido,uniword,ADJ,None,None
+intervención,intervención,uniword,NOUN,None,None
+hallazgo;hallazgos.,hallazgo,uniword,NOUN,None,None
+estancado,estancado,uniword,ADJ,None,None
+radical,radical,uniword,ADJ,None,None
+practican;practicaron,practicar,uniword,VERB,None,None
+reaccionaron;reaccionar;reacciona,reaccionar,uniword,VERB,None,None
+envío,envío,uniword,NOUN,None,None
+grande,grande,uniword,ADJ,None,None
+rebosan,rebosar,uniword,VERB,None,None
+precio,precio,uniword,NOUN,None,None
+recuperación,recuperación,uniword,NOUN,None,None
+facilitarle,facilitar él,uniword,VERB,None,None
+agredir,agredir,uniword,VERB,None,None
+girando,girar,uniword,VERB,None,None
+rastro;rastros,rastro,uniword,NOUN,None,None
+paralizó,paralizar,uniword,VERB,None,None
+vertiginoso,vertiginoso,uniword,ADJ,None,None
+para,para,uniword,ADP,None,None
+redujo,reducir,uniword,VERB,None,None
+malígnas,malígna,uniword,ADJ,None,None
+tensa,tenso,uniword,ADJ,None,None
+elevado,elevado,uniword,ADJ,None,None
+durísimo;durísima,durísimo,uniword,ADJ,None,None
+constante,constante,uniword,ADJ,None,None
+tremendamente,tremendamente,uniword,ADV,None,None
+maravillosas,maravilloso,uniword,ADJ,None,None
+remisión,remisión,uniword,NOUN,None,None
+controlarlo,controlar él,uniword,VERB,None,None
+libre,libre,uniword,ADJ,None,None
+imaginar,imaginar,uniword,VERB,None,None
+focalizados,focalizado,uniword,ADJ,None,None
+estudios,estudio,uniword,NOUN,None,None
+mantengáis,mantengáis,uniword,VERB,None,None
+horribles,horrible,uniword,ADJ,None,None
+superacion,superacion,uniword,NOUN,None,None
+centrada,centrado,uniword,ADJ,None,None
+sañían,sañir,uniword,VERB,None,None
+extirpado;extirpados,extirpado,uniword,ADJ,None,None
+debilitado,debilitado,uniword,ADJ,None,None
+derivan;deriva,derivar,uniword,VERB,None,None
+junta,junta,uniword,PROPN,None,None
+temores,temor,uniword,NOUN,None,None
+como,como,uniword,SCONJ,None,None
+falle,fallir,uniword,VERB,None,None
+existencia,existencia,uniword,NOUN,None,None
+tolerarse,tolerar él,uniword,VERB,None,None
+puerto de montaña,puerto,multiword,NOUN,None,None
+influir,influir,uniword,VERB,None,None
+mojarse,mojar él,uniword,VERB,None,None
+aclare,aclare,uniword,VERB,None,None
+evolución,evolución,uniword,NOUN,None,None
+amargando,amargar,uniword,VERB,None,None
+extendía;extendió,extender,uniword,VERB,None,None
+sacrificio,sacrificio,uniword,NOUN,None,None
+maravilla,maravilla,uniword,NOUN,None,None
+gravedad,gravedad,uniword,NOUN,None,None
+sustituida,sustituido,uniword,ADJ,None,None
+condición,condición,uniword,NOUN,None,None
+escapar,escapar,uniword,VERB,None,None
+adapté,adapter,uniword,VERB,None,None
+remitiendo,remitir,uniword,VERB,None,None
+francamente,francamente,uniword,ADV,None,None
+tolerados,tolerado,uniword,ADJ,None,None
+residuales,residual,uniword,ADJ,None,None
+derrumbamos,derrumbamos,uniword,VERB,None,None
+humanidad,humanidad,uniword,NOUN,None,None
+invasiva,invasivo,uniword,ADJ,None,None
+amoldan,amoldar,uniword,VERB,None,None
+moverse,mover él,uniword,VERB,None,None
+acudí,acudí,uniword,VERB,None,"u.c.StringArray(elements=['Personas involucradas', 'Otros » Hablar sobre el cáncer'])"
+bicho,bicho,uniword,PROPN,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/vida-00006269-n']),u.c.StringArray(elements=['Estar enfermo con cáncer » Cambios vitales derivados del cáncer'])
+cruza,cruzar,uniword,VERB,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/vida-00006269-n']),u.c.StringArray(elements=['Estar enfermo con cáncer » Cambios vitales derivados del cáncer'])
+removía,remover,uniword,VERB,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/vida-00006269-n']),u.c.StringArray(elements=['Estar enfermo con cáncer » Cambios vitales derivados del cáncer'])
+derrumbo,derrumbo,uniword,NOUN,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/vida-00006269-n']),u.c.StringArray(elements=['Estar enfermo con cáncer » Cambios vitales derivados del cáncer'])
+souvenirs,souvenir,uniword,NOUN,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/vida-00006269-n']),u.c.StringArray(elements=['Estar enfermo con cáncer » Cambios vitales derivados del cáncer'])
+resonando,resonar,uniword,VERB,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/vida-00006269-n']),u.c.StringArray(elements=['Estar enfermo con cáncer » Cambios vitales derivados del cáncer'])
+apoderó,apoderar,uniword,VERB,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/vida-00006269-n']),u.c.StringArray(elements=['Estar enfermo con cáncer » Cambios vitales derivados del cáncer'])
+círculo,círculo,uniword,NOUN,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/vida-00006269-n']),u.c.StringArray(elements=['Estar enfermo con cáncer » Cambios vitales derivados del cáncer'])
+el bicho;el tema,el,multiword,DET,None,u.c.StringArray(elements=['Tratamiento'])
+susto,susto,uniword,NOUN,None,u.c.StringArray(elements=['Tratamiento'])
+elimine,eliminir,uniword,VERB,None,u.c.StringArray(elements=['Tratamiento'])
+región,región,uniword,NOUN,None,u.c.StringArray(elements=['Tratamiento'])
+exponer,exponer,uniword,VERB,None,u.c.StringArray(elements=['Tratamiento'])
+acabaste,acabastir,uniword,VERB,None,u.c.StringArray(elements=['Tratamiento'])
+márgenes,margen,uniword,NOUN,None,u.c.StringArray(elements=['Tratamiento'])
+inundan,inundar,uniword,VERB,None,None
+lenta,lento,uniword,ADJ,None,None
+hecho,hecho,uniword,ADJ,None,u.c.StringArray(elements=['Cancer » Cáncer como entidad'])
+seguia,seguia,uniword,VERB,None,u.c.StringArray(elements=['Cancer » Cáncer como entidad'])
+casa,casa,uniword,PROPN,None,u.c.StringArray(elements=['Cancer » Cáncer como entidad'])
+"autor 139]: hola, me gustaría saber como sigue tu madre y y si lo tenía muy extendido, a mi padre lo están tratando con quimio+inmuno y le falta un ciclo para terminar y después le dejarán la inmuno de mantenimiento
+
+[autor 139]: hola, me gustaría saber como sigue tu madre y y si lo tenía muy extendido, a mi padre lo están tratando con quimio+inmuno y le falta un ciclo para terminar y después le dejarán la inmuno de mantenimiento",autor,multiword,NOUN,None,u.c.StringArray(elements=['Cancer » Cáncer como entidad'])
+marta,marta,uniword,PROPN,None,u.c.StringArray(elements=['Cancer » Cáncer como entidad'])
+culpa,culpar,uniword,VERB,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/dar-01629000-v']),None
+tube,tube,uniword,PROPN,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/dar-01629000-v']),None
+progresión,progresión,uniword,NOUN,None,None
+rondaba,rondar,uniword,VERB,None,None
+basadas,basado,uniword,ADJ,None,None
+remontar,remontar,uniword,VERB,None,None
+pica,pico,uniword,ADJ,None,None
+borde,borde,uniword,NOUN,None,None
+suspenderlo,suspender él,uniword,VERB,None,None
+tiemblo,tiemblo,uniword,VERB,None,None
+tan duro,tanto,multiword,ADV,None,None
+reactivado,reactivar,uniword,VERB,None,None
+reconstrucción,reconstrucción,uniword,NOUN,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/reconstrucci%C3%B3n-00270186-n']),u.c.StringArray(elements=['Tratamiento » Cirugía'])
+adaptar,adaptar,uniword,VERB,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/reconstrucci%C3%B3n-00270186-n']),u.c.StringArray(elements=['Tratamiento » Cirugía'])
+reconstruido,reconstruido,uniword,ADJ,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/reconstrucci%C3%B3n-00270186-n']),u.c.StringArray(elements=['Tratamiento » Cirugía'])
+rezar,rezar,uniword,VERB,None,None
+transmitirles,transmitir él,uniword,VERB,None,None
+fastidia,fastidiar,uniword,VERB,None,None
+limpiooo,limpiooo ,uniword,VERB,None,None
+orientación,orientación,uniword,NOUN,None,None
+desolados,desolado,uniword,ADJ,None,None
+buenas noticias,buena,multiword,ADJ,None,None
+"gran noticia,",gran,multiword,ADJ,None,None
+inactivo,inactivo,uniword,ADJ,None,None
+orientarte,orientarte,uniword,VERB,None,None
+encajando,encajar,uniword,VERB,None,None
+rompiendo,romper,uniword,VERB,None,None
+salvé,salvé,uniword,VERB,None,None
+resistiría;resistir,resistir,uniword,VERB,None,None
+someterme,someter yo,uniword,VERB,None,None
+actividad,actividad,uniword,NOUN,None,None
+compáñera de vida,compáñero,multiword,ADJ,None,None
+cargo,cargo,uniword,NOUN,None,None
+desalentadoras,desalentadora,uniword,ADJ,None,None
+pierdo,pierdo,uniword,VERB,None,None
+logro,lograr,uniword,VERB,None,None
+bajones,bajón,uniword,NOUN,None,None
+candidata,candidata,uniword,NOUN,None,None
+durisimo,durisimo,uniword,ADV,None,None
+olvido,olvido,uniword,NOUN,None,None
+regresó,regresar,uniword,VERB,None,None
+alimentaban,alimentar,uniword,VERB,None,None
+campeona,campeona,uniword,NOUN,None,None
+aplicaron,aplicar,uniword,VERB,None,None
+compartirme,compartirmar,uniword,VERB,None,None
+tomarme,tomarme,uniword,VERB,None,None
+intercambiar,intercambiar,uniword,VERB,None,None
+angelito,angelito,uniword,NOUN,None,None
+luchanco,luchanco,uniword,VERB,None,None
+fallo,fallo,uniword,NOUN,None,None
+activarse,activar él,uniword,VERB,None,None
+jodido,jodido,uniword,ADJ,None,None
+ensayo,ensayo,uniword,PROPN,None,None
+abatida,abatido,uniword,ADJ,None,None
+mal,mal,uniword,ADV,None,None
+infierno,infierno,uniword,PROPN,None,None
+vaciaron,vaciar,uniword,VERB,None,None
+limpiar,limpiar,uniword,VERB,None,None
+toleró;toleraba,tolerar,uniword,VERB,None,None
+desfallezcais,desfallezcais,uniword,ADJ,None,None
+escucharme,escucharme,uniword,VERB,None,None
+deshacerme,deshacer yo,uniword,VERB,None,None
+valiente,valiente,uniword,PROPN,None,None
+mierda,mierda,uniword,PROPN,None,None
+superarla,superar él,uniword,VERB,None,None
+desgaste,desgaste,uniword,NOUN,None,None
+experiencia,experiencia,uniword,NOUN,None,None
+milagro,milagro,uniword,NOUN,None,None
+desenlace,desenlace,uniword,NOUN,None,None
+ofertan,ofertar,uniword,VERB,None,None
+estáis,estáis,uniword,AUX,None,None
+decantado,decantado,uniword,ADJ,None,None
+encontrarla,encontrar él,uniword,VERB,None,None
+castigada,castigado,uniword,ADJ,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/recuperar-02205887-v']),u.c.StringArray(elements=['Estar enfermo con cáncer » Cambios vitales derivados del cáncer'])
+relegada,relegado,uniword,ADJ,u.c.StringArray(elements=['https://github.com/4dpicture/Medical-FLAVORS/data/wordnet/recuperar-02205887-v']),u.c.StringArray(elements=['Estar enfermo con cáncer » Cambios vitales derivados del cáncer'])
